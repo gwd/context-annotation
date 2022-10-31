@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../../Display_Files/styles/context.css"?>
+<?xml-stylesheet href="context.css"?>
 <OpenText xmlns:cblte="http://www.cblte.org"
           xmlns:fn="http://www.w3.org/2005/xpath-functions"
           xmlns:xs="http://www.w3.org/2001/XMLSchema">
@@ -37,7 +37,7 @@
    <text id="1Thess">
       <c unit="turn">
          <c unit="seg" title="Introduction and Thanksgiving">
-            <c id="N1904.1Thess.1.1.1-15" unit="move">
+            <c unit="move" id="N1904.1Thess.1.1.1-15">
                <e id="N1904.1Thess.1.1.1" clearId="n52001001001" usfm="1TH 1:1!1">Παῦλος</e>
                <e id="N1904.1Thess.1.1.2" clearId="n52001001002" usfm="1TH 1:1!2">καὶ</e>
                <e id="N1904.1Thess.1.1.3" clearId="n52001001003" usfm="1TH 1:1!3">Σιλουανὸς</e>
@@ -57,7 +57,7 @@
                   usfm="1TH 1:1!15"
                   after="·">Χριστῷ</e>
             </c>
-            <c id="N1904.1Thess.1.1.16-19" unit="move">
+            <c unit="move" id="N1904.1Thess.1.1.16-19">
                <e id="N1904.1Thess.1.1.16" clearId="n52001001016" usfm="1TH 1:1!16">χάρις</e>
                <e id="N1904.1Thess.1.1.17" clearId="n52001001017" usfm="1TH 1:1!17">ὑμῖν</e>
                <e id="N1904.1Thess.1.1.18" clearId="n52001001018" usfm="1TH 1:1!18">καὶ</e>
@@ -68,7 +68,7 @@
             </c>
          </c>
          <c unit="seg" title="A Recommendation of the Congregation's Attitude">
-            <c id="N1904.1Thess.1.2.1-5.30" unit="move">
+            <c unit="move" id="N1904.1Thess.1.2.1-5.30">
                <e id="N1904.1Thess.1.2.1" clearId="n52001002001" usfm="1TH 1:2!1">Εὐχαριστοῦμεν</e>
                <e id="N1904.1Thess.1.2.2" clearId="n52001002002" usfm="1TH 1:2!2">τῷ</e>
                <e id="N1904.1Thess.1.2.3" clearId="n52001002003" usfm="1TH 1:2!3">Θεῷ</e>
@@ -177,7 +177,7 @@
                   usfm="1TH 1:5!30"
                   after=".">ὑμᾶς</e>
             </c>
-            <c id="N1904.1Thess.1.6.1-7.14" unit="move">
+            <c unit="move" id="N1904.1Thess.1.6.1-7.14">
                <e id="N1904.1Thess.1.6.1" clearId="n52001006001" usfm="1TH 1:6!1">καὶ</e>
                <e id="N1904.1Thess.1.6.2" clearId="n52001006002" usfm="1TH 1:6!2">ὑμεῖς</e>
                <e id="N1904.1Thess.1.6.3" clearId="n52001006003" usfm="1TH 1:6!3">μιμηταὶ</e>
@@ -220,7 +220,7 @@
                   usfm="1TH 1:7!14"
                   after=".">Ἀχαΐᾳ</e>
             </c>
-            <c id="N1904.1Thess.1.8.1-15" unit="move">
+            <c unit="move" id="N1904.1Thess.1.8.1-15">
                <e id="N1904.1Thess.1.8.1" clearId="n52001008001" usfm="1TH 1:8!1">ἀφ’</e>
                <e id="N1904.1Thess.1.8.2" clearId="n52001008002" usfm="1TH 1:8!2">ὑμῶν</e>
                <e id="N1904.1Thess.1.8.3" clearId="n52001008003" usfm="1TH 1:8!3">γὰρ</e>
@@ -240,7 +240,7 @@
                   usfm="1TH 1:8!15"
                   after=",">Ἀχαΐᾳ</e>
             </c>
-            <c id="N1904.1Thess.1.8.16-34" unit="move">
+            <c unit="move" id="N1904.1Thess.1.8.16-34">
                <e id="N1904.1Thess.1.8.16" clearId="n52001008016" usfm="1TH 1:8!16">ἀλλ’</e>
                <e id="N1904.1Thess.1.8.17" clearId="n52001008017" usfm="1TH 1:8!17">ἐν</e>
                <e id="N1904.1Thess.1.8.18" clearId="n52001008018" usfm="1TH 1:8!18">παντὶ</e>
@@ -267,7 +267,7 @@
                   usfm="1TH 1:8!34"
                   after="·">τι</e>
             </c>
-            <c id="N1904.1Thess.1.9.1-10.22" unit="move">
+            <c unit="move" id="N1904.1Thess.1.9.1-10.22">
                <e id="N1904.1Thess.1.9.1" clearId="n52001009001" usfm="1TH 1:9!1">αὐτοὶ</e>
                <e id="N1904.1Thess.1.9.2" clearId="n52001009002" usfm="1TH 1:9!2">γὰρ</e>
                <e id="N1904.1Thess.1.9.3" clearId="n52001009003" usfm="1TH 1:9!3">περὶ</e>
@@ -332,7 +332,7 @@
             </c>
          </c>
          <c unit="seg" title="Paul's Manner of Working in Thessalonica">
-            <c id="N1904.1Thess.2.1.1-2.23" unit="move">
+            <c unit="move" id="N1904.1Thess.2.1.1-2.23">
                <e id="N1904.1Thess.2.1.1" clearId="n52002001001" usfm="1TH 2:1!1">Αὐτοὶ</e>
                <e id="N1904.1Thess.2.1.2" clearId="n52002001002" usfm="1TH 2:1!2">γὰρ</e>
                <e id="N1904.1Thess.2.1.3"
@@ -386,7 +386,7 @@
                   usfm="1TH 2:2!23"
                   after=".">ἀγῶνι</e>
             </c>
-            <c id="N1904.1Thess.2.3.1-13" unit="move">
+            <c unit="move" id="N1904.1Thess.2.3.1-13">
                <e id="N1904.1Thess.2.3.1" clearId="n52002003001" usfm="1TH 2:3!1">ἡ</e>
                <e id="N1904.1Thess.2.3.2" clearId="n52002003002" usfm="1TH 2:3!2">γὰρ</e>
                <e id="N1904.1Thess.2.3.3" clearId="n52002003003" usfm="1TH 2:3!3">παράκλησις</e>
@@ -404,7 +404,7 @@
                   usfm="1TH 2:3!13"
                   after=",">δόλῳ</e>
             </c>
-            <c id="N1904.1Thess.2.4.1-22" unit="move">
+            <c unit="move" id="N1904.1Thess.2.4.1-22">
                <e id="N1904.1Thess.2.4.1" clearId="n52002004001" usfm="1TH 2:4!1">ἀλλὰ</e>
                <e id="N1904.1Thess.2.4.2" clearId="n52002004002" usfm="1TH 2:4!2">καθὼς</e>
                <e id="N1904.1Thess.2.4.3" clearId="n52002004003" usfm="1TH 2:4!3">δεδοκιμάσμεθα</e>
@@ -437,7 +437,7 @@
                   usfm="1TH 2:4!22"
                   after=".">ἡμῶν</e>
             </c>
-            <c id="N1904.1Thess.2.5.1-7.7" unit="move">
+            <c unit="move" id="N1904.1Thess.2.5.1-7.7">
                <e id="N1904.1Thess.2.5.1" clearId="n52002005001" usfm="1TH 2:5!1">οὔτε</e>
                <e id="N1904.1Thess.2.5.2" clearId="n52002005002" usfm="1TH 2:5!2">γάρ</e>
                <e id="N1904.1Thess.2.5.3" clearId="n52002005003" usfm="1TH 2:5!3">ποτε</e>
@@ -493,7 +493,7 @@
                   usfm="1TH 2:7!7"
                   after="·">ἀπόστολοι</e>
             </c>
-            <c id="N1904.1Thess.2.7.8-13" unit="move">
+            <c unit="move" id="N1904.1Thess.2.7.8-13">
                <e id="N1904.1Thess.2.7.8" clearId="n52002007008" usfm="1TH 2:7!8">ἀλλὰ</e>
                <e id="N1904.1Thess.2.7.9" clearId="n52002007009" usfm="1TH 2:7!9">ἐγενήθημεν</e>
                <e id="N1904.1Thess.2.7.10" clearId="n52002007010" usfm="1TH 2:7!10">ἤπιοι</e>
@@ -504,7 +504,7 @@
                   usfm="1TH 2:7!13"
                   after=",">ὑμῶν</e>
             </c>
-            <c id="N1904.1Thess.2.7.14-8.21" unit="move">
+            <c unit="move" id="N1904.1Thess.2.7.14-8.21">
                <e id="N1904.1Thess.2.7.14" clearId="n52002007014" usfm="1TH 2:7!14">ὡς</e>
                <e id="N1904.1Thess.2.7.15" clearId="n52002007015" usfm="1TH 2:7!15">ἐὰν</e>
                <e id="N1904.1Thess.2.7.16" clearId="n52002007016" usfm="1TH 2:7!16">τροφὸς</e>
@@ -543,7 +543,7 @@
                   usfm="1TH 2:8!21"
                   after=".">ἐγενήθητε</e>
             </c>
-            <c id="N1904.1Thess.2.9.1-9" unit="move">
+            <c unit="move" id="N1904.1Thess.2.9.1-9">
                <e id="N1904.1Thess.2.9.1" clearId="n52002009001" usfm="1TH 2:9!1">μνημονεύετε</e>
                <e id="N1904.1Thess.2.9.2"
                   clearId="n52002009002"
@@ -563,7 +563,7 @@
                   usfm="1TH 2:9!9"
                   after="·">μόχθον</e>
             </c>
-            <c id="N1904.1Thess.2.9.10-26" unit="move">
+            <c unit="move" id="N1904.1Thess.2.9.10-26">
                <e id="N1904.1Thess.2.9.10" clearId="n52002009010" usfm="1TH 2:9!10">νυκτὸς</e>
                <e id="N1904.1Thess.2.9.11" clearId="n52002009011" usfm="1TH 2:9!11">καὶ</e>
                <e id="N1904.1Thess.2.9.12" clearId="n52002009012" usfm="1TH 2:9!12">ἡμέρας</e>
@@ -585,7 +585,7 @@
                   usfm="1TH 2:9!26"
                   after=".">Θεοῦ</e>
             </c>
-            <c id="N1904.1Thess.2.10.1-12.22" unit="move">
+            <c unit="move" id="N1904.1Thess.2.10.1-12.22">
                <e id="N1904.1Thess.2.10.1" clearId="n52002010001" usfm="1TH 2:10!1">ὑμεῖς</e>
                <e id="N1904.1Thess.2.10.2" clearId="n52002010002" usfm="1TH 2:10!2">μάρτυρες</e>
                <e id="N1904.1Thess.2.10.3" clearId="n52002010003" usfm="1TH 2:10!3">καὶ</e>
@@ -646,7 +646,7 @@
          </c>
          <c unit="seg"
             title="The Manner in Which the Thessalonians Received the Gospel">
-            <c id="N1904.1Thess.2.13.1-34" unit="move">
+            <c unit="move" id="N1904.1Thess.2.13.1-34">
                <e id="N1904.1Thess.2.13.1" clearId="n52002013001" usfm="1TH 2:13!1">Καὶ</e>
                <e id="N1904.1Thess.2.13.2" clearId="n52002013002" usfm="1TH 2:13!2">διὰ</e>
                <e id="N1904.1Thess.2.13.3" clearId="n52002013003" usfm="1TH 2:13!3">τοῦτο</e>
@@ -691,7 +691,7 @@
                   usfm="1TH 2:13!34"
                   after=".">πιστεύουσιν</e>
             </c>
-            <c id="N1904.1Thess.2.14.1-16.14" unit="move">
+            <c unit="move" id="N1904.1Thess.2.14.1-16.14">
                <e id="N1904.1Thess.2.14.1" clearId="n52002014001" usfm="1TH 2:14!1">ὑμεῖς</e>
                <e id="N1904.1Thess.2.14.2" clearId="n52002014002" usfm="1TH 2:14!2">γὰρ</e>
                <e id="N1904.1Thess.2.14.3" clearId="n52002014003" usfm="1TH 2:14!3">μιμηταὶ</e>
@@ -790,7 +790,7 @@
                   usfm="1TH 2:16!14"
                   after=".">πάντοτε</e>
             </c>
-            <c id="N1904.1Thess.2.16.15-22" unit="move">
+            <c unit="move" id="N1904.1Thess.2.16.15-22">
                <e id="N1904.1Thess.2.16.15" clearId="n52002016015" usfm="1TH 2:16!15">ἔφθασεν</e>
                <e id="N1904.1Thess.2.16.16" clearId="n52002016016" usfm="1TH 2:16!16">δὲ</e>
                <e id="N1904.1Thess.2.16.17" clearId="n52002016017" usfm="1TH 2:16!17">ἐπ’</e>
@@ -803,7 +803,7 @@
                   usfm="1TH 2:16!22"
                   after=".">τέλος</e>
             </c>
-            <c id="N1904.1Thess.2.17.1-21" unit="move">
+            <c unit="move" id="N1904.1Thess.2.17.1-21">
                <e id="N1904.1Thess.2.17.1" clearId="n52002017001" usfm="1TH 2:17!1">Ἠμεῖς</e>
                <e id="N1904.1Thess.2.17.2"
                   clearId="n52002017002"
@@ -838,7 +838,7 @@
                   usfm="1TH 2:17!21"
                   after=".">ἐπιθυμίᾳ</e>
             </c>
-            <c id="N1904.1Thess.2.18.1-17" unit="move">
+            <c unit="move" id="N1904.1Thess.2.18.1-17">
                <e id="N1904.1Thess.2.18.1" clearId="n52002018001" usfm="1TH 2:18!1">διότι</e>
                <e id="N1904.1Thess.2.18.2" clearId="n52002018002" usfm="1TH 2:18!2">ἠθελήσαμεν</e>
                <e id="N1904.1Thess.2.18.3" clearId="n52002018003" usfm="1TH 2:18!3">ἐλθεῖν</e>
@@ -866,7 +866,7 @@
                   usfm="1TH 2:18!17"
                   after=".">Σατανᾶς</e>
             </c>
-            <c id="N1904.1Thess.2.19.1-9" unit="move">
+            <c unit="move" id="N1904.1Thess.2.19.1-9">
                <e id="N1904.1Thess.2.19.1" clearId="n52002019001" usfm="1TH 2:19!1">τίς</e>
                <e id="N1904.1Thess.2.19.2" clearId="n52002019002" usfm="1TH 2:19!2">γὰρ</e>
                <e id="N1904.1Thess.2.19.3" clearId="n52002019003" usfm="1TH 2:19!3">ἡμῶν</e>
@@ -880,7 +880,7 @@
                   usfm="1TH 2:19!9"
                   after="—">καυχήσεως</e>
             </c>
-            <c id="N1904.1Thess.2.19.10-22" unit="move">
+            <c unit="move" id="N1904.1Thess.2.19.10-22">
                <e id="N1904.1Thess.2.19.10" clearId="n52002019010" usfm="1TH 2:19!10">ἢ</e>
                <e id="N1904.1Thess.2.19.11" clearId="n52002019011" usfm="1TH 2:19!11">οὐχὶ</e>
                <e id="N1904.1Thess.2.19.12" clearId="n52002019012" usfm="1TH 2:19!12">καὶ</e>
@@ -901,7 +901,7 @@
                   usfm="1TH 2:19!22"
                   after=";">παρουσίᾳ</e>
             </c>
-            <c id="N1904.1Thess.2.20.1-9" unit="move">
+            <c unit="move" id="N1904.1Thess.2.20.1-9">
                <e id="N1904.1Thess.2.20.1" clearId="n52002020001" usfm="1TH 2:20!1">ὑμεῖς</e>
                <e id="N1904.1Thess.2.20.2" clearId="n52002020002" usfm="1TH 2:20!2">γάρ</e>
                <e id="N1904.1Thess.2.20.3" clearId="n52002020003" usfm="1TH 2:20!3">ἐστε</e>
@@ -917,7 +917,7 @@
             </c>
          </c>
          <c unit="seg" title="Various Proofs of Paul's Love for the Thessalonians">
-            <c id="N1904.1Thess.3.1.1-3.7" unit="move">
+            <c unit="move" id="N1904.1Thess.3.1.1-3.7">
                <e id="N1904.1Thess.3.1.1" clearId="n52003001001" usfm="1TH 3:1!1">Διὸ</e>
                <e id="N1904.1Thess.3.1.2" clearId="n52003001002" usfm="1TH 3:1!2">μηκέτι</e>
                <e id="N1904.1Thess.3.1.3" clearId="n52003001003" usfm="1TH 3:1!3">στέγοντες</e>
@@ -971,7 +971,7 @@
                   usfm="1TH 3:3!7"
                   after=".">ταύταις</e>
             </c>
-            <c id="N1904.1Thess.3.3.8-14" unit="move">
+            <c unit="move" id="N1904.1Thess.3.3.8-14">
                <e id="N1904.1Thess.3.3.8" clearId="n52003003008" usfm="1TH 3:3!8">αὐτοὶ</e>
                <e id="N1904.1Thess.3.3.9" clearId="n52003003009" usfm="1TH 3:3!9">γὰρ</e>
                <e id="N1904.1Thess.3.3.10" clearId="n52003003010" usfm="1TH 3:3!10">οἴδατε</e>
@@ -983,7 +983,7 @@
                   usfm="1TH 3:3!14"
                   after="·">κείμεθα</e>
             </c>
-            <c id="N1904.1Thess.3.4.1-16" unit="move">
+            <c unit="move" id="N1904.1Thess.3.4.1-16">
                <e id="N1904.1Thess.3.4.1" clearId="n52003004001" usfm="1TH 3:4!1">καὶ</e>
                <e id="N1904.1Thess.3.4.2" clearId="n52003004002" usfm="1TH 3:4!2">γὰρ</e>
                <e id="N1904.1Thess.3.4.3" clearId="n52003004003" usfm="1TH 3:4!3">ὅτε</e>
@@ -1010,7 +1010,7 @@
                   usfm="1TH 3:4!16"
                   after=".">οἴδατε</e>
             </c>
-            <c id="N1904.1Thess.3.5.1-25" unit="move">
+            <c unit="move" id="N1904.1Thess.3.5.1-25">
                <e id="N1904.1Thess.3.5.1" clearId="n52003005001" usfm="1TH 3:5!1">διὰ</e>
                <e id="N1904.1Thess.3.5.2" clearId="n52003005002" usfm="1TH 3:5!2">τοῦτο</e>
                <e id="N1904.1Thess.3.5.3" clearId="n52003005003" usfm="1TH 3:5!3">κἀγὼ</e>
@@ -1043,7 +1043,7 @@
                   usfm="1TH 3:5!25"
                   after=".">ἡμῶν</e>
             </c>
-            <c id="N1904.1Thess.3.6.1-8.8" unit="move">
+            <c unit="move" id="N1904.1Thess.3.6.1-8.8">
                <e id="N1904.1Thess.3.6.1" clearId="n52003006001" usfm="1TH 3:6!1">Ἄρτι</e>
                <e id="N1904.1Thess.3.6.2" clearId="n52003006002" usfm="1TH 3:6!2">δὲ</e>
                <e id="N1904.1Thess.3.6.3" clearId="n52003006003" usfm="1TH 3:6!3">ἐλθόντος</e>
@@ -1122,7 +1122,7 @@
                   usfm="1TH 3:8!8"
                   after=".">Κυρίῳ</e>
             </c>
-            <c id="N1904.1Thess.3.9.1-10.18" unit="move">
+            <c unit="move" id="N1904.1Thess.3.9.1-10.18">
                <e id="N1904.1Thess.3.9.1" clearId="n52003009001" usfm="1TH 3:9!1">τίνα</e>
                <e id="N1904.1Thess.3.9.2" clearId="n52003009002" usfm="1TH 3:9!2">γὰρ</e>
                <e id="N1904.1Thess.3.9.3" clearId="n52003009003" usfm="1TH 3:9!3">εὐχαριστίαν</e>
@@ -1169,7 +1169,7 @@
                   usfm="1TH 3:10!18"
                   after=";">ὑμῶν</e>
             </c>
-            <c id="N1904.1Thess.3.11.1-18" unit="move">
+            <c unit="move" id="N1904.1Thess.3.11.1-18">
                <e id="N1904.1Thess.3.11.1" clearId="n52003011001" usfm="1TH 3:11!1">Αὐτὸς</e>
                <e id="N1904.1Thess.3.11.2" clearId="n52003011002" usfm="1TH 3:11!2">δὲ</e>
                <e id="N1904.1Thess.3.11.3" clearId="n52003011003" usfm="1TH 3:11!3">ὁ</e>
@@ -1192,7 +1192,7 @@
                   usfm="1TH 3:11!18"
                   after="·">ὑμᾶς</e>
             </c>
-            <c id="N1904.1Thess.3.12.1-13.27" unit="move">
+            <c unit="move" id="N1904.1Thess.3.12.1-13.27">
                <e id="N1904.1Thess.3.12.1" clearId="n52003012001" usfm="1TH 3:12!1">ὑμᾶς</e>
                <e id="N1904.1Thess.3.12.2" clearId="n52003012002" usfm="1TH 3:12!2">δὲ</e>
                <e id="N1904.1Thess.3.12.3" clearId="n52003012003" usfm="1TH 3:12!3">ὁ</e>
@@ -1251,7 +1251,7 @@
             </c>
          </c>
          <c unit="seg" title="Warning Regarding Various Sins">
-            <c id="N1904.1Thess.4.1.1-29" unit="move">
+            <c unit="move" id="N1904.1Thess.4.1.1-29">
                <e id="N1904.1Thess.4.1.1" clearId="n52004001001" usfm="1TH 4:1!1">Λοιπὸν</e>
                <e id="N1904.1Thess.4.1.2"
                   clearId="n52004001002"
@@ -1300,7 +1300,7 @@
                   usfm="1TH 4:1!29"
                   after=".">μᾶλλον</e>
             </c>
-            <c id="N1904.1Thess.4.2.1-10" unit="move">
+            <c unit="move" id="N1904.1Thess.4.2.1-10">
                <e id="N1904.1Thess.4.2.1" clearId="n52004002001" usfm="1TH 4:2!1">οἴδατε</e>
                <e id="N1904.1Thess.4.2.2" clearId="n52004002002" usfm="1TH 4:2!2">γὰρ</e>
                <e id="N1904.1Thess.4.2.3" clearId="n52004002003" usfm="1TH 4:2!3">τίνας</e>
@@ -1315,7 +1315,7 @@
                   usfm="1TH 4:2!10"
                   after=".">Ἰησοῦ</e>
             </c>
-            <c id="N1904.1Thess.4.3.1-6.23" unit="move">
+            <c unit="move" id="N1904.1Thess.4.3.1-6.23">
                <e id="N1904.1Thess.4.3.1" clearId="n52004003001" usfm="1TH 4:3!1">Τοῦτο</e>
                <e id="N1904.1Thess.4.3.2" clearId="n52004003002" usfm="1TH 4:3!2">γάρ</e>
                <e id="N1904.1Thess.4.3.3" clearId="n52004003003" usfm="1TH 4:3!3">ἐστιν</e>
@@ -1402,7 +1402,7 @@
                   usfm="1TH 4:6!23"
                   after=".">διεμαρτυράμεθα</e>
             </c>
-            <c id="N1904.1Thess.4.7.1-8" unit="move">
+            <c unit="move" id="N1904.1Thess.4.7.1-8">
                <e id="N1904.1Thess.4.7.1" clearId="n52004007001" usfm="1TH 4:7!1">οὐ</e>
                <e id="N1904.1Thess.4.7.2" clearId="n52004007002" usfm="1TH 4:7!2">γὰρ</e>
                <e id="N1904.1Thess.4.7.3" clearId="n52004007003" usfm="1TH 4:7!3">ἐκάλεσεν</e>
@@ -1412,7 +1412,7 @@
                <e id="N1904.1Thess.4.7.7" clearId="n52004007007" usfm="1TH 4:7!7">ἐπὶ</e>
                <e id="N1904.1Thess.4.7.8" clearId="n52004007008" usfm="1TH 4:7!8">ἀκαθαρσίᾳ</e>
             </c>
-            <c id="N1904.1Thess.4.7.9-11" unit="move">
+            <c unit="move" id="N1904.1Thess.4.7.9-11">
                <e id="N1904.1Thess.4.7.9" clearId="n52004007009" usfm="1TH 4:7!9">ἀλλ’</e>
                <e id="N1904.1Thess.4.7.10" clearId="n52004007010" usfm="1TH 4:7!10">ἐν</e>
                <e id="N1904.1Thess.4.7.11"
@@ -1420,7 +1420,7 @@
                   usfm="1TH 4:7!11"
                   after=".">ἁγιασμῷ</e>
             </c>
-            <c id="N1904.1Thess.4.8.1-19" unit="move">
+            <c unit="move" id="N1904.1Thess.4.8.1-19">
                <e id="N1904.1Thess.4.8.1" clearId="n52004008001" usfm="1TH 4:8!1">τοιγαροῦν</e>
                <e id="N1904.1Thess.4.8.2" clearId="n52004008002" usfm="1TH 4:8!2">ὁ</e>
                <e id="N1904.1Thess.4.8.3" clearId="n52004008003" usfm="1TH 4:8!3">ἀθετῶν</e>
@@ -1444,7 +1444,7 @@
                   usfm="1TH 4:8!19"
                   after=".">ὑμᾶς</e>
             </c>
-            <c id="N1904.1Thess.4.9.1-9" unit="move">
+            <c unit="move" id="N1904.1Thess.4.9.1-9">
                <e id="N1904.1Thess.4.9.1" clearId="n52004009001" usfm="1TH 4:9!1">Περὶ</e>
                <e id="N1904.1Thess.4.9.2" clearId="n52004009002" usfm="1TH 4:9!2">δὲ</e>
                <e id="N1904.1Thess.4.9.3" clearId="n52004009003" usfm="1TH 4:9!3">τῆς</e>
@@ -1458,7 +1458,7 @@
                   usfm="1TH 4:9!9"
                   after="·">ὑμῖν</e>
             </c>
-            <c id="N1904.1Thess.4.9.10-18" unit="move">
+            <c unit="move" id="N1904.1Thess.4.9.10-18">
                <e id="N1904.1Thess.4.9.10" clearId="n52004009010" usfm="1TH 4:9!10">αὐτοὶ</e>
                <e id="N1904.1Thess.4.9.11" clearId="n52004009011" usfm="1TH 4:9!11">γὰρ</e>
                <e id="N1904.1Thess.4.9.12" clearId="n52004009012" usfm="1TH 4:9!12">ὑμεῖς</e>
@@ -1472,7 +1472,7 @@
                   usfm="1TH 4:9!18"
                   after="·">ἀλλήλους</e>
             </c>
-            <c id="N1904.1Thess.4.10.1-12" unit="move">
+            <c unit="move" id="N1904.1Thess.4.10.1-12">
                <e id="N1904.1Thess.4.10.1" clearId="n52004010001" usfm="1TH 4:10!1">καὶ</e>
                <e id="N1904.1Thess.4.10.2" clearId="n52004010002" usfm="1TH 4:10!2">γὰρ</e>
                <e id="N1904.1Thess.4.10.3" clearId="n52004010003" usfm="1TH 4:10!3">ποιεῖτε</e>
@@ -1489,7 +1489,7 @@
                   usfm="1TH 4:10!12"
                   after=".">Μακεδονίᾳ</e>
             </c>
-            <c id="N1904.1Thess.4.10.13-12.10" unit="move">
+            <c unit="move" id="N1904.1Thess.4.10.13-12.10">
                <e id="N1904.1Thess.4.10.13" clearId="n52004010013" usfm="1TH 4:10!13">Παρακαλοῦμεν</e>
                <e id="N1904.1Thess.4.10.14" clearId="n52004010014" usfm="1TH 4:10!14">δὲ</e>
                <e id="N1904.1Thess.4.10.15"
@@ -1542,7 +1542,7 @@
             </c>
          </c>
          <c unit="seg" title="Information about the Resurrection of the Dead">
-            <c id="N1904.1Thess.4.13.1-20" unit="move">
+            <c unit="move" id="N1904.1Thess.4.13.1-20">
                <e id="N1904.1Thess.4.13.1" clearId="n52004013001" usfm="1TH 4:13!1">Οὐ</e>
                <e id="N1904.1Thess.4.13.2" clearId="n52004013002" usfm="1TH 4:13!2">θέλομεν</e>
                <e id="N1904.1Thess.4.13.3" clearId="n52004013003" usfm="1TH 4:13!3">δὲ</e>
@@ -1576,7 +1576,7 @@
                   usfm="1TH 4:13!20"
                   after=".">ἐλπίδα</e>
             </c>
-            <c id="N1904.1Thess.4.14.1-20" unit="move">
+            <c unit="move" id="N1904.1Thess.4.14.1-20">
                <e id="N1904.1Thess.4.14.1" clearId="n52004014001" usfm="1TH 4:14!1">εἰ</e>
                <e id="N1904.1Thess.4.14.2" clearId="n52004014002" usfm="1TH 4:14!2">γὰρ</e>
                <e id="N1904.1Thess.4.14.3" clearId="n52004014003" usfm="1TH 4:14!3">πιστεύομεν</e>
@@ -1604,7 +1604,7 @@
                   usfm="1TH 4:14!20"
                   after=".">αὐτῷ</e>
             </c>
-            <c id="N1904.1Thess.4.15.1-17.18" unit="move">
+            <c unit="move" id="N1904.1Thess.4.15.1-17.18">
                <e id="N1904.1Thess.4.15.1" clearId="n52004015001" usfm="1TH 4:15!1">Τοῦτο</e>
                <e id="N1904.1Thess.4.15.2" clearId="n52004015002" usfm="1TH 4:15!2">γὰρ</e>
                <e id="N1904.1Thess.4.15.3" clearId="n52004015003" usfm="1TH 4:15!3">ὑμῖν</e>
@@ -1691,7 +1691,7 @@
                   usfm="1TH 4:17!18"
                   after="·">ἀέρα</e>
             </c>
-            <c id="N1904.1Thess.4.17.19-24" unit="move">
+            <c unit="move" id="N1904.1Thess.4.17.19-24">
                <e id="N1904.1Thess.4.17.19" clearId="n52004017019" usfm="1TH 4:17!19">καὶ</e>
                <e id="N1904.1Thess.4.17.20" clearId="n52004017020" usfm="1TH 4:17!20">οὕτως</e>
                <e id="N1904.1Thess.4.17.21" clearId="n52004017021" usfm="1TH 4:17!21">πάντοτε</e>
@@ -1702,7 +1702,7 @@
                   usfm="1TH 4:17!24"
                   after=".">ἐσόμεθα</e>
             </c>
-            <c id="N1904.1Thess.4.18.1-7" unit="move">
+            <c unit="move" id="N1904.1Thess.4.18.1-7">
                <e id="N1904.1Thess.4.18.1" clearId="n52004018001" usfm="1TH 4:18!1">Ὥστε</e>
                <e id="N1904.1Thess.4.18.2" clearId="n52004018002" usfm="1TH 4:18!2">παρακαλεῖτε</e>
                <e id="N1904.1Thess.4.18.3" clearId="n52004018003" usfm="1TH 4:18!3">ἀλλήλους</e>
@@ -1717,7 +1717,7 @@
          </c>
          <c unit="seg"
             title="Christian Watchfulness with Reference to the Last Day">
-            <c id="N1904.1Thess.5.1.1-2.13" unit="move">
+            <c unit="move" id="N1904.1Thess.5.1.1-2.13">
                <e id="N1904.1Thess.5.1.1" clearId="n52005001001" usfm="1TH 5:1!1">Περὶ</e>
                <e id="N1904.1Thess.5.1.2" clearId="n52005001002" usfm="1TH 5:1!2">δὲ</e>
                <e id="N1904.1Thess.5.1.3" clearId="n52005001003" usfm="1TH 5:1!3">τῶν</e>
@@ -1757,11 +1757,11 @@
                   usfm="1TH 5:2!13"
                   after=".">ἔρχεται</e>
             </c>
-            <c id="N1904.1Thess.5.3.1-21" unit="move">
+            <c unit="move" id="N1904.1Thess.5.3.1-21">
                <e id="N1904.1Thess.5.3.1" clearId="n52005003001" usfm="1TH 5:3!1">ὅταν</e>
                <e id="N1904.1Thess.5.3.2" clearId="n52005003002" usfm="1TH 5:3!2">λέγωσιν</e>
                <c unit="turn">
-                  <c id="N1904.1Thess.5.3.3-5" unit="move">
+                  <c unit="move" id="N1904.1Thess.5.3.3-5">
                      <e id="N1904.1Thess.5.3.3" clearId="n52005003003" usfm="1TH 5:3!3">Εἰρήνη</e>
                      <e id="N1904.1Thess.5.3.4" clearId="n52005003004" usfm="1TH 5:3!4">καὶ</e>
                      <e id="N1904.1Thess.5.3.5"
@@ -1793,7 +1793,7 @@
                   usfm="1TH 5:3!21"
                   after=".">ἐκφύγωσιν</e>
             </c>
-            <c id="N1904.1Thess.5.4.1-5.9" unit="move">
+            <c unit="move" id="N1904.1Thess.5.4.1-5.9">
                <e id="N1904.1Thess.5.4.1" clearId="n52005004001" usfm="1TH 5:4!1">ὑμεῖς</e>
                <e id="N1904.1Thess.5.4.2"
                   clearId="n52005004002"
@@ -1833,7 +1833,7 @@
                   usfm="1TH 5:5!9"
                   after=".">ἡμέρας</e>
             </c>
-            <c id="N1904.1Thess.5.5.10-14" unit="move">
+            <c unit="move" id="N1904.1Thess.5.5.10-14">
                <e id="N1904.1Thess.5.5.10" clearId="n52005005010" usfm="1TH 5:5!10">Οὐκ</e>
                <e id="N1904.1Thess.5.5.11" clearId="n52005005011" usfm="1TH 5:5!11">ἐσμὲν</e>
                <e id="N1904.1Thess.5.5.12" clearId="n52005005012" usfm="1TH 5:5!12">νυκτὸς</e>
@@ -1843,7 +1843,7 @@
                   usfm="1TH 5:5!14"
                   after="·">σκότους</e>
             </c>
-            <c id="N1904.1Thess.5.6.1-11" unit="move">
+            <c unit="move" id="N1904.1Thess.5.6.1-11">
                <e id="N1904.1Thess.5.6.1" clearId="n52005006001" usfm="1TH 5:6!1">ἄρα</e>
                <e id="N1904.1Thess.5.6.2" clearId="n52005006002" usfm="1TH 5:6!2">οὖν</e>
                <e id="N1904.1Thess.5.6.3" clearId="n52005006003" usfm="1TH 5:6!3">μὴ</e>
@@ -1862,7 +1862,7 @@
                   usfm="1TH 5:6!11"
                   after=".">νήφωμεν</e>
             </c>
-            <c id="N1904.1Thess.5.7.1-5" unit="move">
+            <c unit="move" id="N1904.1Thess.5.7.1-5">
                <e id="N1904.1Thess.5.7.1" clearId="n52005007001" usfm="1TH 5:7!1">οἱ</e>
                <e id="N1904.1Thess.5.7.2" clearId="n52005007002" usfm="1TH 5:7!2">γὰρ</e>
                <e id="N1904.1Thess.5.7.3" clearId="n52005007003" usfm="1TH 5:7!3">καθεύδοντες</e>
@@ -1872,7 +1872,7 @@
                   usfm="1TH 5:7!5"
                   after=",">καθεύδουσιν</e>
             </c>
-            <c id="N1904.1Thess.5.7.6-10" unit="move">
+            <c unit="move" id="N1904.1Thess.5.7.6-10">
                <e id="N1904.1Thess.5.7.6" clearId="n52005007006" usfm="1TH 5:7!6">καὶ</e>
                <e id="N1904.1Thess.5.7.7" clearId="n52005007007" usfm="1TH 5:7!7">οἱ</e>
                <e id="N1904.1Thess.5.7.8" clearId="n52005007008" usfm="1TH 5:7!8">μεθυσκόμενοι</e>
@@ -1882,7 +1882,7 @@
                   usfm="1TH 5:7!10"
                   after="·">μεθύουσιν</e>
             </c>
-            <c id="N1904.1Thess.5.8.1-10.13" unit="move">
+            <c unit="move" id="N1904.1Thess.5.8.1-10.13">
                <e id="N1904.1Thess.5.8.1" clearId="n52005008001" usfm="1TH 5:8!1">ἡμεῖς</e>
                <e id="N1904.1Thess.5.8.2" clearId="n52005008002" usfm="1TH 5:8!2">δὲ</e>
                <e id="N1904.1Thess.5.8.3" clearId="n52005008003" usfm="1TH 5:8!3">ἡμέρας</e>
@@ -1944,7 +1944,7 @@
                   usfm="1TH 5:10!13"
                   after=".">ζήσωμεν</e>
             </c>
-            <c id="N1904.1Thess.5.11.1-11" unit="move">
+            <c unit="move" id="N1904.1Thess.5.11.1-11">
                <e id="N1904.1Thess.5.11.1" clearId="n52005011001" usfm="1TH 5:11!1">Διὸ</e>
                <e id="N1904.1Thess.5.11.2" clearId="n52005011002" usfm="1TH 5:11!2">παρακαλεῖτε</e>
                <e id="N1904.1Thess.5.11.3" clearId="n52005011003" usfm="1TH 5:11!3">ἀλλήλους</e>
@@ -1965,7 +1965,7 @@
             </c>
          </c>
          <c unit="seg" title="Concluding Admonitions and Greeting">
-            <c id="N1904.1Thess.5.12.1-13.10" unit="move">
+            <c unit="move" id="N1904.1Thess.5.12.1-13.10">
                <e id="N1904.1Thess.5.12.1" clearId="n52005012001" usfm="1TH 5:12!1">Ἐρωτῶμεν</e>
                <e id="N1904.1Thess.5.12.2" clearId="n52005012002" usfm="1TH 5:12!2">δὲ</e>
                <e id="N1904.1Thess.5.12.3"
@@ -2006,7 +2006,7 @@
                   usfm="1TH 5:13!10"
                   after=".">αὐτῶν</e>
             </c>
-            <c id="N1904.1Thess.5.13.11-13" unit="move">
+            <c unit="move" id="N1904.1Thess.5.13.11-13">
                <e id="N1904.1Thess.5.13.11" clearId="n52005013011" usfm="1TH 5:13!11">εἰρηνεύετε</e>
                <e id="N1904.1Thess.5.13.12" clearId="n52005013012" usfm="1TH 5:13!12">ἐν</e>
                <e id="N1904.1Thess.5.13.13"
@@ -2014,7 +2014,7 @@
                   usfm="1TH 5:13!13"
                   after=".">ἑαυτοῖς</e>
             </c>
-            <c id="N1904.1Thess.5.14.1-16" unit="move">
+            <c unit="move" id="N1904.1Thess.5.14.1-16">
                <e id="N1904.1Thess.5.14.1" clearId="n52005014001" usfm="1TH 5:14!1">Παρακαλοῦμεν</e>
                <e id="N1904.1Thess.5.14.2" clearId="n52005014002" usfm="1TH 5:14!2">δὲ</e>
                <e id="N1904.1Thess.5.14.3"
@@ -2050,7 +2050,7 @@
                   usfm="1TH 5:14!16"
                   after=".">πάντας</e>
             </c>
-            <c id="N1904.1Thess.5.15.1-18" unit="move">
+            <c unit="move" id="N1904.1Thess.5.15.1-18">
                <e id="N1904.1Thess.5.15.1" clearId="n52005015001" usfm="1TH 5:15!1">ὁρᾶτε</e>
                <e id="N1904.1Thess.5.15.2" clearId="n52005015002" usfm="1TH 5:15!2">μή</e>
                <e id="N1904.1Thess.5.15.3" clearId="n52005015003" usfm="1TH 5:15!3">τις</e>
@@ -2076,7 +2076,7 @@
                   usfm="1TH 5:15!18"
                   after=".">πάντας</e>
             </c>
-            <c id="N1904.1Thess.5.16.1-18.3" unit="move">
+            <c unit="move" id="N1904.1Thess.5.16.1-18.3">
                <e id="N1904.1Thess.5.16.1" clearId="n52005016001" usfm="1TH 5:16!1">Πάντοτε</e>
                <e id="N1904.1Thess.5.16.2"
                   clearId="n52005016002"
@@ -2094,7 +2094,7 @@
                   usfm="1TH 5:18!3"
                   after="·">εὐχαριστεῖτε</e>
             </c>
-            <c id="N1904.1Thess.5.18.4-12" unit="move">
+            <c unit="move" id="N1904.1Thess.5.18.4-12">
                <e id="N1904.1Thess.5.18.4" clearId="n52005018004" usfm="1TH 5:18!4">τοῦτο</e>
                <e id="N1904.1Thess.5.18.5" clearId="n52005018005" usfm="1TH 5:18!5">γὰρ</e>
                <e id="N1904.1Thess.5.18.6" clearId="n52005018006" usfm="1TH 5:18!6">θέλημα</e>
@@ -2108,7 +2108,7 @@
                   usfm="1TH 5:18!12"
                   after=".">ὑμᾶς</e>
             </c>
-            <c id="N1904.1Thess.5.19.1-20.3" unit="move">
+            <c unit="move" id="N1904.1Thess.5.19.1-20.3">
                <e id="N1904.1Thess.5.19.1" clearId="n52005019001" usfm="1TH 5:19!1">τὸ</e>
                <e id="N1904.1Thess.5.19.2" clearId="n52005019002" usfm="1TH 5:19!2">Πνεῦμα</e>
                <e id="N1904.1Thess.5.19.3" clearId="n52005019003" usfm="1TH 5:19!3">μὴ</e>
@@ -2123,7 +2123,7 @@
                   usfm="1TH 5:20!3"
                   after="·">ἐξουθενεῖτε</e>
             </c>
-            <c id="N1904.1Thess.5.21.1-3" unit="move">
+            <c unit="move" id="N1904.1Thess.5.21.1-3">
                <e id="N1904.1Thess.5.21.1" clearId="n52005021001" usfm="1TH 5:21!1">πάντα</e>
                <e id="N1904.1Thess.5.21.2" clearId="n52005021002" usfm="1TH 5:21!2">δὲ</e>
                <e id="N1904.1Thess.5.21.3"
@@ -2131,7 +2131,7 @@
                   usfm="1TH 5:21!3"
                   after=",">δοκιμάζετε</e>
             </c>
-            <c id="N1904.1Thess.5.21.4-6" unit="move">
+            <c unit="move" id="N1904.1Thess.5.21.4-6">
                <e id="N1904.1Thess.5.21.4" clearId="n52005021004" usfm="1TH 5:21!4">τὸ</e>
                <e id="N1904.1Thess.5.21.5" clearId="n52005021005" usfm="1TH 5:21!5">καλὸν</e>
                <e id="N1904.1Thess.5.21.6"
@@ -2139,7 +2139,7 @@
                   usfm="1TH 5:21!6"
                   after="·">κατέχετε</e>
             </c>
-            <c id="N1904.1Thess.5.22.1-5" unit="move">
+            <c unit="move" id="N1904.1Thess.5.22.1-5">
                <e id="N1904.1Thess.5.22.1" clearId="n52005022001" usfm="1TH 5:22!1">ἀπὸ</e>
                <e id="N1904.1Thess.5.22.2" clearId="n52005022002" usfm="1TH 5:22!2">παντὸς</e>
                <e id="N1904.1Thess.5.22.3" clearId="n52005022003" usfm="1TH 5:22!3">εἴδους</e>
@@ -2149,7 +2149,7 @@
                   usfm="1TH 5:22!5"
                   after=".">ἀπέχεσθε</e>
             </c>
-            <c id="N1904.1Thess.5.23.1-9" unit="move">
+            <c unit="move" id="N1904.1Thess.5.23.1-9">
                <e id="N1904.1Thess.5.23.1" clearId="n52005023001" usfm="1TH 5:23!1">Αὐτὸς</e>
                <e id="N1904.1Thess.5.23.2" clearId="n52005023002" usfm="1TH 5:23!2">δὲ</e>
                <e id="N1904.1Thess.5.23.3" clearId="n52005023003" usfm="1TH 5:23!3">ὁ</e>
@@ -2163,7 +2163,7 @@
                   usfm="1TH 5:23!9"
                   after=",">ὁλοτελεῖς</e>
             </c>
-            <c id="N1904.1Thess.5.23.10-30" unit="move">
+            <c unit="move" id="N1904.1Thess.5.23.10-30">
                <e id="N1904.1Thess.5.23.10" clearId="n52005023010" usfm="1TH 5:23!10">καὶ</e>
                <e id="N1904.1Thess.5.23.11" clearId="n52005023011" usfm="1TH 5:23!11">ὁλόκληρον</e>
                <e id="N1904.1Thess.5.23.12" clearId="n52005023012" usfm="1TH 5:23!12">ὑμῶν</e>
@@ -2189,7 +2189,7 @@
                   usfm="1TH 5:23!30"
                   after=".">τηρηθείη</e>
             </c>
-            <c id="N1904.1Thess.5.24.1-7" unit="move">
+            <c unit="move" id="N1904.1Thess.5.24.1-7">
                <e id="N1904.1Thess.5.24.1" clearId="n52005024001" usfm="1TH 5:24!1">πιστὸς</e>
                <e id="N1904.1Thess.5.24.2" clearId="n52005024002" usfm="1TH 5:24!2">ὁ</e>
                <e id="N1904.1Thess.5.24.3" clearId="n52005024003" usfm="1TH 5:24!3">καλῶν</e>
@@ -2204,7 +2204,7 @@
                   usfm="1TH 5:24!7"
                   after=".">ποιήσει</e>
             </c>
-            <c id="N1904.1Thess.5.25.1-4" unit="move">
+            <c unit="move" id="N1904.1Thess.5.25.1-4">
                <e id="N1904.1Thess.5.25.1"
                   clearId="n52005025001"
                   usfm="1TH 5:25!1"
@@ -2216,7 +2216,7 @@
                   usfm="1TH 5:25!4"
                   after=".">ἡμῶν</e>
             </c>
-            <c id="N1904.1Thess.5.26.1-7" unit="move">
+            <c unit="move" id="N1904.1Thess.5.26.1-7">
                <e id="N1904.1Thess.5.26.1" clearId="n52005026001" usfm="1TH 5:26!1">Ἀσπάσασθε</e>
                <e id="N1904.1Thess.5.26.2" clearId="n52005026002" usfm="1TH 5:26!2">τοὺς</e>
                <e id="N1904.1Thess.5.26.3" clearId="n52005026003" usfm="1TH 5:26!3">ἀδελφοὺς</e>
@@ -2228,7 +2228,7 @@
                   usfm="1TH 5:26!7"
                   after=".">ἁγίῳ</e>
             </c>
-            <c id="N1904.1Thess.5.27.1-10" unit="move">
+            <c unit="move" id="N1904.1Thess.5.27.1-10">
                <e id="N1904.1Thess.5.27.1" clearId="n52005027001" usfm="1TH 5:27!1">Ἐνορκίζω</e>
                <e id="N1904.1Thess.5.27.2" clearId="n52005027002" usfm="1TH 5:27!2">ὑμᾶς</e>
                <e id="N1904.1Thess.5.27.3" clearId="n52005027003" usfm="1TH 5:27!3">τὸν</e>
@@ -2243,7 +2243,7 @@
                   usfm="1TH 5:27!10"
                   after=".">ἀδελφοῖς</e>
             </c>
-            <c id="N1904.1Thess.5.28.1-9" unit="move">
+            <c unit="move" id="N1904.1Thess.5.28.1-9">
                <e id="N1904.1Thess.5.28.1" clearId="n52005028001" usfm="1TH 5:28!1">Ἠ</e>
                <e id="N1904.1Thess.5.28.2" clearId="n52005028002" usfm="1TH 5:28!2">χάρις</e>
                <e id="N1904.1Thess.5.28.3" clearId="n52005028003" usfm="1TH 5:28!3">τοῦ</e>

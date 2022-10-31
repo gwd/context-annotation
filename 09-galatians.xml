@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../../Display_Files/styles/context.css"?>
+<?xml-stylesheet href="context.css"?>
 <OpenText xmlns:cblte="http://www.cblte.org"
           xmlns:fn="http://www.w3.org/2005/xpath-functions"
           xmlns:xs="http://www.w3.org/2001/XMLSchema">
@@ -37,7 +37,7 @@
    <text id="Gal">
       <c unit="turn">
          <c unit="seg" title="Introductory Greeting and Doxology">
-            <c id="N1904.Gal.1.1.1-2.10" unit="move">
+            <c unit="move" id="N1904.Gal.1.1.1-2.10">
                <e id="N1904.Gal.1.1.1" clearId="n48001001001" usfm="GAL 1:1!1">Παῦλος</e>
                <e id="N1904.Gal.1.1.2"
                   clearId="n48001001002"
@@ -81,7 +81,7 @@
                   usfm="GAL 1:2!10"
                   after="·">Γαλατίας</e>
             </c>
-            <c id="N1904.Gal.1.3.1-5.9" unit="move">
+            <c unit="move" id="N1904.Gal.1.3.1-5.9">
                <e id="N1904.Gal.1.3.1" clearId="n48001003001" usfm="GAL 1:3!1">χάρις</e>
                <e id="N1904.Gal.1.3.2" clearId="n48001003002" usfm="GAL 1:3!2">ὑμῖν</e>
                <e id="N1904.Gal.1.3.3" clearId="n48001003003" usfm="GAL 1:3!3">καὶ</e>
@@ -145,7 +145,7 @@
             </c>
          </c>
          <c unit="seg" title="Paul's Reason for Writing the Epistle">
-            <c id="N1904.Gal.1.6.1-7.18" unit="move">
+            <c unit="move" id="N1904.Gal.1.6.1-7.18">
                <e id="N1904.Gal.1.6.1" clearId="n48001006001" usfm="GAL 1:6!1">Θαυμάζω</e>
                <e id="N1904.Gal.1.6.2" clearId="n48001006002" usfm="GAL 1:6!2">ὅτι</e>
                <e id="N1904.Gal.1.6.3" clearId="n48001006003" usfm="GAL 1:6!3">οὕτως</e>
@@ -189,7 +189,7 @@
                   usfm="GAL 1:7!18"
                   after=".">Χριστοῦ</e>
             </c>
-            <c id="N1904.Gal.1.8.1-9.15" unit="move">
+            <c unit="move" id="N1904.Gal.1.8.1-9.15">
                <e id="N1904.Gal.1.8.1" clearId="n48001008001" usfm="GAL 1:8!1">ἀλλὰ</e>
                <e id="N1904.Gal.1.8.2" clearId="n48001008002" usfm="GAL 1:8!2">καὶ</e>
                <e id="N1904.Gal.1.8.3" clearId="n48001008003" usfm="GAL 1:8!3">ἐὰν</e>
@@ -240,7 +240,7 @@
                   usfm="GAL 1:9!15"
                   after=".">ἔστω</e>
             </c>
-            <c id="N1904.Gal.1.10.1-7" unit="move">
+            <c unit="move" id="N1904.Gal.1.10.1-7">
                <e id="N1904.Gal.1.10.1" clearId="n48001010001" usfm="GAL 1:10!1">Ἄρτι</e>
                <e id="N1904.Gal.1.10.2" clearId="n48001010002" usfm="GAL 1:10!2">γὰρ</e>
                <e id="N1904.Gal.1.10.3" clearId="n48001010003" usfm="GAL 1:10!3">ἀνθρώπους</e>
@@ -252,7 +252,7 @@
                   usfm="GAL 1:10!7"
                   after=";">Θεόν</e>
             </c>
-            <c id="N1904.Gal.1.10.8-11" unit="move">
+            <c unit="move" id="N1904.Gal.1.10.8-11">
                <e id="N1904.Gal.1.10.8" clearId="n48001010008" usfm="GAL 1:10!8">ἢ</e>
                <e id="N1904.Gal.1.10.9" clearId="n48001010009" usfm="GAL 1:10!9">ζητῶ</e>
                <e id="N1904.Gal.1.10.10" clearId="n48001010010" usfm="GAL 1:10!10">ἀνθρώποις</e>
@@ -261,7 +261,7 @@
                   usfm="GAL 1:10!11"
                   after=";">ἀρέσκειν</e>
             </c>
-            <c id="N1904.Gal.1.10.12-20" unit="move">
+            <c unit="move" id="N1904.Gal.1.10.12-20">
                <e id="N1904.Gal.1.10.12" clearId="n48001010012" usfm="GAL 1:10!12">εἰ</e>
                <e id="N1904.Gal.1.10.13" clearId="n48001010013" usfm="GAL 1:10!13">ἔτι</e>
                <e id="N1904.Gal.1.10.14" clearId="n48001010014" usfm="GAL 1:10!14">ἀνθρώποις</e>
@@ -280,7 +280,7 @@
             </c>
          </c>
          <c unit="seg" title="Paul Called by God">
-            <c id="N1904.Gal.1.11.1-15" unit="move">
+            <c unit="move" id="N1904.Gal.1.11.1-15">
                <e id="N1904.Gal.1.11.1" clearId="n48001011001" usfm="GAL 1:11!1">γνωρίζω</e>
                <e id="N1904.Gal.1.11.2" clearId="n48001011002" usfm="GAL 1:11!2">γὰρ</e>
                <e id="N1904.Gal.1.11.3"
@@ -306,7 +306,7 @@
                   usfm="GAL 1:11!15"
                   after="·">ἄνθρωπον</e>
             </c>
-            <c id="N1904.Gal.1.12.1-9" unit="move">
+            <c unit="move" id="N1904.Gal.1.12.1-9">
                <e id="N1904.Gal.1.12.1" clearId="n48001012001" usfm="GAL 1:12!1">οὐδὲ</e>
                <e id="N1904.Gal.1.12.2" clearId="n48001012002" usfm="GAL 1:12!2">γὰρ</e>
                <e id="N1904.Gal.1.12.3" clearId="n48001012003" usfm="GAL 1:12!3">ἐγὼ</e>
@@ -320,7 +320,7 @@
                   usfm="GAL 1:12!9"
                   after=",">ἐδιδάχθην</e>
             </c>
-            <c id="N1904.Gal.1.12.10-14" unit="move">
+            <c unit="move" id="N1904.Gal.1.12.10-14">
                <e id="N1904.Gal.1.12.10" clearId="n48001012010" usfm="GAL 1:12!10">ἀλλὰ</e>
                <e id="N1904.Gal.1.12.11" clearId="n48001012011" usfm="GAL 1:12!11">δι’</e>
                <e id="N1904.Gal.1.12.12" clearId="n48001012012" usfm="GAL 1:12!12">ἀποκαλύψεως</e>
@@ -330,7 +330,7 @@
                   usfm="GAL 1:12!14"
                   after=".">Χριστοῦ</e>
             </c>
-            <c id="N1904.Gal.1.13.1-14.19" unit="move">
+            <c unit="move" id="N1904.Gal.1.13.1-14.19">
                <e id="N1904.Gal.1.13.1" clearId="n48001013001" usfm="GAL 1:13!1">Ἠκούσατε</e>
                <e id="N1904.Gal.1.13.2" clearId="n48001013002" usfm="GAL 1:13!2">γὰρ</e>
                <e id="N1904.Gal.1.13.3" clearId="n48001013003" usfm="GAL 1:13!3">τὴν</e>
@@ -383,7 +383,7 @@
                   usfm="GAL 1:14!19"
                   after=".">παραδόσεων</e>
             </c>
-            <c id="N1904.Gal.1.15.1-17.18" unit="move">
+            <c unit="move" id="N1904.Gal.1.15.1-17.18">
                <e id="N1904.Gal.1.15.1" clearId="n48001015001" usfm="GAL 1:15!1">Ὅτε</e>
                <e id="N1904.Gal.1.15.2" clearId="n48001015002" usfm="GAL 1:15!2">δὲ</e>
                <e id="N1904.Gal.1.15.3" clearId="n48001015003" usfm="GAL 1:15!3">εὐδόκησεν</e>
@@ -455,7 +455,7 @@
                   usfm="GAL 1:17!18"
                   after=".">Δαμασκόν</e>
             </c>
-            <c id="N1904.Gal.1.18.1-15" unit="move">
+            <c unit="move" id="N1904.Gal.1.18.1-15">
                <e id="N1904.Gal.1.18.1" clearId="n48001018001" usfm="GAL 1:18!1">Ἔπειτα</e>
                <e id="N1904.Gal.1.18.2" clearId="n48001018002" usfm="GAL 1:18!2">μετὰ</e>
                <e id="N1904.Gal.1.18.3" clearId="n48001018003" usfm="GAL 1:18!3">τρία</e>
@@ -478,7 +478,7 @@
                   usfm="GAL 1:18!15"
                   after="·">δεκαπέντε</e>
             </c>
-            <c id="N1904.Gal.1.19.1-13" unit="move">
+            <c unit="move" id="N1904.Gal.1.19.1-13">
                <e id="N1904.Gal.1.19.1" clearId="n48001019001" usfm="GAL 1:19!1">ἕτερον</e>
                <e id="N1904.Gal.1.19.2" clearId="n48001019002" usfm="GAL 1:19!2">δὲ</e>
                <e id="N1904.Gal.1.19.3" clearId="n48001019003" usfm="GAL 1:19!3">τῶν</e>
@@ -499,7 +499,7 @@
                   usfm="GAL 1:19!13"
                   after=".">Κυρίου</e>
             </c>
-            <c id="N1904.Gal.1.20.1-11" unit="move">
+            <c unit="move" id="N1904.Gal.1.20.1-11">
                <e id="N1904.Gal.1.20.1" clearId="n48001020001" usfm="GAL 1:20!1">ἃ</e>
                <e id="N1904.Gal.1.20.2" clearId="n48001020002" usfm="GAL 1:20!2">δὲ</e>
                <e id="N1904.Gal.1.20.3" clearId="n48001020003" usfm="GAL 1:20!3">γράφω</e>
@@ -518,7 +518,7 @@
                   usfm="GAL 1:20!11"
                   after=".">ψεύδομαι</e>
             </c>
-            <c id="N1904.Gal.1.21.1-10" unit="move">
+            <c unit="move" id="N1904.Gal.1.21.1-10">
                <e id="N1904.Gal.1.21.1" clearId="n48001021001" usfm="GAL 1:21!1">ἔπειτα</e>
                <e id="N1904.Gal.1.21.2" clearId="n48001021002" usfm="GAL 1:21!2">ἦλθον</e>
                <e id="N1904.Gal.1.21.3" clearId="n48001021003" usfm="GAL 1:21!3">εἰς</e>
@@ -533,7 +533,7 @@
                   usfm="GAL 1:21!10"
                   after=".">Κιλικίας</e>
             </c>
-            <c id="N1904.Gal.1.22.1-12" unit="move">
+            <c unit="move" id="N1904.Gal.1.22.1-12">
                <e id="N1904.Gal.1.22.1" clearId="n48001022001" usfm="GAL 1:22!1">ἤμην</e>
                <e id="N1904.Gal.1.22.2" clearId="n48001022002" usfm="GAL 1:22!2">δὲ</e>
                <e id="N1904.Gal.1.22.3" clearId="n48001022003" usfm="GAL 1:22!3">ἀγνοούμενος</e>
@@ -550,14 +550,14 @@
                   usfm="GAL 1:22!12"
                   after=".">Χριστῷ</e>
             </c>
-            <c id="N1904.Gal.1.23.1-16" unit="move">
+            <c unit="move" id="N1904.Gal.1.23.1-16">
                <e id="N1904.Gal.1.23.1" clearId="n48001023001" usfm="GAL 1:23!1">μόνον</e>
                <e id="N1904.Gal.1.23.2" clearId="n48001023002" usfm="GAL 1:23!2">δὲ</e>
                <e id="N1904.Gal.1.23.3" clearId="n48001023003" usfm="GAL 1:23!3">ἀκούοντες</e>
                <e id="N1904.Gal.1.23.4" clearId="n48001023004" usfm="GAL 1:23!4">ἦσαν</e>
                <e id="N1904.Gal.1.23.5" clearId="n48001023005" usfm="GAL 1:23!5">ὅτι</e>
                <c unit="turn">
-                  <c id="N1904.Gal.1.23.6-16" unit="move">
+                  <c unit="move" id="N1904.Gal.1.23.6-16">
                      <e id="N1904.Gal.1.23.6" clearId="n48001023006" usfm="GAL 1:23!6">Ὁ</e>
                      <e id="N1904.Gal.1.23.7" clearId="n48001023007" usfm="GAL 1:23!7">διώκων</e>
                      <e id="N1904.Gal.1.23.8" clearId="n48001023008" usfm="GAL 1:23!8">ἡμᾶς</e>
@@ -575,7 +575,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Gal.1.24.1-6" unit="move">
+            <c unit="move" id="N1904.Gal.1.24.1-6">
                <e id="N1904.Gal.1.24.1" clearId="n48001024001" usfm="GAL 1:24!1">καὶ</e>
                <e id="N1904.Gal.1.24.2" clearId="n48001024002" usfm="GAL 1:24!2">ἐδόξαζον</e>
                <e id="N1904.Gal.1.24.3" clearId="n48001024003" usfm="GAL 1:24!3">ἐν</e>
@@ -588,7 +588,7 @@
             </c>
          </c>
          <c unit="seg" title="Further Confirmation of Paul's Apostleship">
-            <c id="N1904.Gal.2.1.1-13" unit="move">
+            <c unit="move" id="N1904.Gal.2.1.1-13">
                <e id="N1904.Gal.2.1.1" clearId="n48002001001" usfm="GAL 2:1!1">Ἔπειτα</e>
                <e id="N1904.Gal.2.1.2" clearId="n48002001002" usfm="GAL 2:1!2">διὰ</e>
                <e id="N1904.Gal.2.1.3" clearId="n48002001003" usfm="GAL 2:1!3">δεκατεσσάρων</e>
@@ -606,7 +606,7 @@
                   usfm="GAL 2:1!13"
                   after="·">Τίτον</e>
             </c>
-            <c id="N1904.Gal.2.2.1-4" unit="move">
+            <c unit="move" id="N1904.Gal.2.2.1-4">
                <e id="N1904.Gal.2.2.1" clearId="n48002002001" usfm="GAL 2:2!1">ἀνέβην</e>
                <e id="N1904.Gal.2.2.2" clearId="n48002002002" usfm="GAL 2:2!2">δὲ</e>
                <e id="N1904.Gal.2.2.3" clearId="n48002002003" usfm="GAL 2:2!3">κατὰ</e>
@@ -615,7 +615,7 @@
                   usfm="GAL 2:2!4"
                   after="·">ἀποκάλυψιν</e>
             </c>
-            <c id="N1904.Gal.2.2.5-14" unit="move">
+            <c unit="move" id="N1904.Gal.2.2.5-14">
                <e id="N1904.Gal.2.2.5" clearId="n48002002005" usfm="GAL 2:2!5">καὶ</e>
                <e id="N1904.Gal.2.2.6" clearId="n48002002006" usfm="GAL 2:2!6">ἀνεθέμην</e>
                <e id="N1904.Gal.2.2.7" clearId="n48002002007" usfm="GAL 2:2!7">αὐτοῖς</e>
@@ -630,7 +630,7 @@
                   usfm="GAL 2:2!14"
                   after=",">ἔθνεσιν</e>
             </c>
-            <c id="N1904.Gal.2.2.15-26" unit="move">
+            <c unit="move" id="N1904.Gal.2.2.15-26">
                <e id="N1904.Gal.2.2.15" clearId="n48002002015" usfm="GAL 2:2!15">κατ’</e>
                <e id="N1904.Gal.2.2.16" clearId="n48002002016" usfm="GAL 2:2!16">ἰδίαν</e>
                <e id="N1904.Gal.2.2.17" clearId="n48002002017" usfm="GAL 2:2!17">δὲ</e>
@@ -650,7 +650,7 @@
                   usfm="GAL 2:2!26"
                   after=".">ἔδραμον</e>
             </c>
-            <c id="N1904.Gal.2.3.1-10" unit="move">
+            <c unit="move" id="N1904.Gal.2.3.1-10">
                <e id="N1904.Gal.2.3.1" clearId="n48002003001" usfm="GAL 2:3!1">ἀλλ’</e>
                <e id="N1904.Gal.2.3.2" clearId="n48002003002" usfm="GAL 2:3!2">οὐδὲ</e>
                <e id="N1904.Gal.2.3.3" clearId="n48002003003" usfm="GAL 2:3!3">Τίτος</e>
@@ -671,7 +671,7 @@
                   usfm="GAL 2:3!10"
                   after="·">περιτμηθῆναι</e>
             </c>
-            <c id="N1904.Gal.2.4.1-5.15" unit="move">
+            <c unit="move" id="N1904.Gal.2.4.1-5.15">
                <e id="N1904.Gal.2.4.1" clearId="n48002004001" usfm="GAL 2:4!1">διὰ</e>
                <e id="N1904.Gal.2.4.2" clearId="n48002004002" usfm="GAL 2:4!2">δὲ</e>
                <e id="N1904.Gal.2.4.3" clearId="n48002004003" usfm="GAL 2:4!3">τοὺς</e>
@@ -722,7 +722,7 @@
                   usfm="GAL 2:5!15"
                   after=".">ὑμᾶς</e>
             </c>
-            <c id="N1904.Gal.2.6.1-6" unit="move">
+            <c unit="move" id="N1904.Gal.2.6.1-6">
                <e id="N1904.Gal.2.6.1" clearId="n48002006001" usfm="GAL 2:6!1">ἀπὸ</e>
                <e id="N1904.Gal.2.6.2" clearId="n48002006002" usfm="GAL 2:6!2">δὲ</e>
                <e id="N1904.Gal.2.6.3" clearId="n48002006003" usfm="GAL 2:6!3">τῶν</e>
@@ -733,7 +733,7 @@
                   usfm="GAL 2:6!6"
                   after=",">τι</e>
             </c>
-            <c id="N1904.Gal.2.6.7-12" unit="move">
+            <c unit="move" id="N1904.Gal.2.6.7-12">
                <e id="N1904.Gal.2.6.7"
                   clearId="n48002006007"
                   usfm="GAL 2:6!7"
@@ -747,7 +747,7 @@
                   usfm="GAL 2:6!12"
                   after="·">διαφέρει</e>
             </c>
-            <c id="N1904.Gal.2.6.13-18" unit="move">
+            <c unit="move" id="N1904.Gal.2.6.13-18">
                <e id="N1904.Gal.2.6.13" clearId="n48002006013" usfm="GAL 2:6!13">πρόσωπον</e>
                <e id="N1904.Gal.2.6.14" clearId="n48002006014" usfm="GAL 2:6!14">ὁ</e>
                <e id="N1904.Gal.2.6.15" clearId="n48002006015" usfm="GAL 2:6!15">Θεὸς</e>
@@ -758,7 +758,7 @@
                   usfm="GAL 2:6!18"
                   after="—">λαμβάνει</e>
             </c>
-            <c id="N1904.Gal.2.6.19-24" unit="move">
+            <c unit="move" id="N1904.Gal.2.6.19-24">
                <e id="N1904.Gal.2.6.19" clearId="n48002006019" usfm="GAL 2:6!19">ἐμοὶ</e>
                <e id="N1904.Gal.2.6.20" clearId="n48002006020" usfm="GAL 2:6!20">γὰρ</e>
                <e id="N1904.Gal.2.6.21" clearId="n48002006021" usfm="GAL 2:6!21">οἱ</e>
@@ -769,7 +769,7 @@
                   usfm="GAL 2:6!24"
                   after=",">προσανέθεντο</e>
             </c>
-            <c id="N1904.Gal.2.7.1-9.32" unit="move">
+            <c unit="move" id="N1904.Gal.2.7.1-9.32">
                <e id="N1904.Gal.2.7.1" clearId="n48002007001" usfm="GAL 2:7!1">ἀλλὰ</e>
                <e id="N1904.Gal.2.7.2" clearId="n48002007002" usfm="GAL 2:7!2">τοὐναντίον</e>
                <e id="N1904.Gal.2.7.3" clearId="n48002007003" usfm="GAL 2:7!3">ἰδόντες</e>
@@ -854,7 +854,7 @@
                   usfm="GAL 2:9!32"
                   after="·">περιτομήν</e>
             </c>
-            <c id="N1904.Gal.2.10.1-11" unit="move">
+            <c unit="move" id="N1904.Gal.2.10.1-11">
                <e id="N1904.Gal.2.10.1" clearId="n48002010001" usfm="GAL 2:10!1">μόνον</e>
                <e id="N1904.Gal.2.10.2" clearId="n48002010002" usfm="GAL 2:10!2">τῶν</e>
                <e id="N1904.Gal.2.10.3" clearId="n48002010003" usfm="GAL 2:10!3">πτωχῶν</e>
@@ -876,7 +876,7 @@
          </c>
          <c unit="seg"
             title="Paul's Reproof of Peter, and the Lessons Drawn Therefrom">
-            <c id="N1904.Gal.2.11.1-13" unit="move">
+            <c unit="move" id="N1904.Gal.2.11.1-13">
                <e id="N1904.Gal.2.11.1" clearId="n48002011001" usfm="GAL 2:11!1">Ὅτε</e>
                <e id="N1904.Gal.2.11.2" clearId="n48002011002" usfm="GAL 2:11!2">δὲ</e>
                <e id="N1904.Gal.2.11.3" clearId="n48002011003" usfm="GAL 2:11!3">ἦλθεν</e>
@@ -900,7 +900,7 @@
                   usfm="GAL 2:11!13"
                   after=".">ἦν</e>
             </c>
-            <c id="N1904.Gal.2.12.1-11" unit="move">
+            <c unit="move" id="N1904.Gal.2.12.1-11">
                <e id="N1904.Gal.2.12.1" clearId="n48002012001" usfm="GAL 2:12!1">πρὸ</e>
                <e id="N1904.Gal.2.12.2" clearId="n48002012002" usfm="GAL 2:12!2">τοῦ</e>
                <e id="N1904.Gal.2.12.3" clearId="n48002012003" usfm="GAL 2:12!3">γὰρ</e>
@@ -916,7 +916,7 @@
                   usfm="GAL 2:12!11"
                   after="·">συνήσθιεν</e>
             </c>
-            <c id="N1904.Gal.2.12.12-22" unit="move">
+            <c unit="move" id="N1904.Gal.2.12.12-22">
                <e id="N1904.Gal.2.12.12" clearId="n48002012012" usfm="GAL 2:12!12">ὅτε</e>
                <e id="N1904.Gal.2.12.13" clearId="n48002012013" usfm="GAL 2:12!13">δὲ</e>
                <e id="N1904.Gal.2.12.14"
@@ -938,7 +938,7 @@
                   usfm="GAL 2:12!22"
                   after=".">περιτομῆς</e>
             </c>
-            <c id="N1904.Gal.2.13.1-14" unit="move">
+            <c unit="move" id="N1904.Gal.2.13.1-14">
                <e id="N1904.Gal.2.13.1" clearId="n48002013001" usfm="GAL 2:13!1">καὶ</e>
                <e id="N1904.Gal.2.13.2" clearId="n48002013002" usfm="GAL 2:13!2">συνυπεκρίθησαν</e>
                <e id="N1904.Gal.2.13.3" clearId="n48002013003" usfm="GAL 2:13!3">αὐτῷ</e>
@@ -960,7 +960,7 @@
                   usfm="GAL 2:13!14"
                   after=".">ὑποκρίσει</e>
             </c>
-            <c id="N1904.Gal.2.14.1-21.15" unit="move">
+            <c unit="move" id="N1904.Gal.2.14.1-21.15">
                <e id="N1904.Gal.2.14.1" clearId="n48002014001" usfm="GAL 2:14!1">ἀλλ’</e>
                <e id="N1904.Gal.2.14.2" clearId="n48002014002" usfm="GAL 2:14!2">ὅτε</e>
                <e id="N1904.Gal.2.14.3" clearId="n48002014003" usfm="GAL 2:14!3">εἶδον</e>
@@ -981,7 +981,7 @@
                <e id="N1904.Gal.2.14.15" clearId="n48002014015" usfm="GAL 2:14!15">ἔμπροσθεν</e>
                <e id="N1904.Gal.2.14.16" clearId="n48002014016" usfm="GAL 2:14!16">πάντων</e>
                <c unit="turn">
-                  <c id="N1904.Gal.2.14.17-30" unit="move">
+                  <c unit="move" id="N1904.Gal.2.14.17-30">
                      <e id="N1904.Gal.2.14.17" clearId="n48002014017" usfm="GAL 2:14!17">Εἰ</e>
                      <e id="N1904.Gal.2.14.18" clearId="n48002014018" usfm="GAL 2:14!18">σὺ</e>
                      <e id="N1904.Gal.2.14.19" clearId="n48002014019" usfm="GAL 2:14!19">Ἰουδαῖος</e>
@@ -1003,7 +1003,7 @@
                         usfm="GAL 2:14!30"
                         after=";">ἰουδαΐζειν</e>
                   </c>
-                  <c id="N1904.Gal.2.15.1-16.39" unit="move">
+                  <c unit="move" id="N1904.Gal.2.15.1-16.39">
                      <e id="N1904.Gal.2.15.1" clearId="n48002015001" usfm="GAL 2:15!1">Ἠμεῖς</e>
                      <e id="N1904.Gal.2.15.2" clearId="n48002015002" usfm="GAL 2:15!2">φύσει</e>
                      <e id="N1904.Gal.2.15.3" clearId="n48002015003" usfm="GAL 2:15!3">Ἰουδαῖοι</e>
@@ -1067,7 +1067,7 @@
                         usfm="GAL 2:16!39"
                         after=".">σάρξ</e>
                   </c>
-                  <c id="N1904.Gal.2.17.1-14" unit="move">
+                  <c unit="move" id="N1904.Gal.2.17.1-14">
                      <e id="N1904.Gal.2.17.1" clearId="n48002017001" usfm="GAL 2:17!1">εἰ</e>
                      <e id="N1904.Gal.2.17.2" clearId="n48002017002" usfm="GAL 2:17!2">δὲ</e>
                      <e id="N1904.Gal.2.17.3" clearId="n48002017003" usfm="GAL 2:17!3">ζητοῦντες</e>
@@ -1089,14 +1089,14 @@
                         usfm="GAL 2:17!14"
                         after=";">διάκονος</e>
                   </c>
-                  <c id="N1904.Gal.2.17.15-16" unit="move">
+                  <c unit="move" id="N1904.Gal.2.17.15-16">
                      <e id="N1904.Gal.2.17.15" clearId="n48002017015" usfm="GAL 2:17!15">μὴ</e>
                      <e id="N1904.Gal.2.17.16"
                         clearId="n48002017016"
                         usfm="GAL 2:17!16"
                         after=".">γένοιτο</e>
                   </c>
-                  <c id="N1904.Gal.2.18.1-10" unit="move">
+                  <c unit="move" id="N1904.Gal.2.18.1-10">
                      <e id="N1904.Gal.2.18.1" clearId="n48002018001" usfm="GAL 2:18!1">εἰ</e>
                      <e id="N1904.Gal.2.18.2" clearId="n48002018002" usfm="GAL 2:18!2">γὰρ</e>
                      <e id="N1904.Gal.2.18.3" clearId="n48002018003" usfm="GAL 2:18!3">ἃ</e>
@@ -1114,7 +1114,7 @@
                         usfm="GAL 2:18!10"
                         after=".">συνιστάνω</e>
                   </c>
-                  <c id="N1904.Gal.2.19.1-9" unit="move">
+                  <c unit="move" id="N1904.Gal.2.19.1-9">
                      <e id="N1904.Gal.2.19.1" clearId="n48002019001" usfm="GAL 2:19!1">ἐγὼ</e>
                      <e id="N1904.Gal.2.19.2" clearId="n48002019002" usfm="GAL 2:19!2">γὰρ</e>
                      <e id="N1904.Gal.2.19.3" clearId="n48002019003" usfm="GAL 2:19!3">διὰ</e>
@@ -1128,14 +1128,14 @@
                         usfm="GAL 2:19!9"
                         after="·">ζήσω</e>
                   </c>
-                  <c id="N1904.Gal.2.19.10-11" unit="move">
+                  <c unit="move" id="N1904.Gal.2.19.10-11">
                      <e id="N1904.Gal.2.19.10" clearId="n48002019010" usfm="GAL 2:19!10">Χριστῷ</e>
                      <e id="N1904.Gal.2.19.11"
                         clearId="n48002019011"
                         usfm="GAL 2:19!11"
                         after="·">συνεσταύρωμαι</e>
                   </c>
-                  <c id="N1904.Gal.2.20.1-4" unit="move">
+                  <c unit="move" id="N1904.Gal.2.20.1-4">
                      <e id="N1904.Gal.2.20.1" clearId="n48002020001" usfm="GAL 2:20!1">ζῶ</e>
                      <e id="N1904.Gal.2.20.2" clearId="n48002020002" usfm="GAL 2:20!2">δὲ</e>
                      <e id="N1904.Gal.2.20.3" clearId="n48002020003" usfm="GAL 2:20!3">οὐκέτι</e>
@@ -1144,7 +1144,7 @@
                         usfm="GAL 2:20!4"
                         after=",">ἐγώ</e>
                   </c>
-                  <c id="N1904.Gal.2.20.5-9" unit="move">
+                  <c unit="move" id="N1904.Gal.2.20.5-9">
                      <e id="N1904.Gal.2.20.5" clearId="n48002020005" usfm="GAL 2:20!5">ζῇ</e>
                      <e id="N1904.Gal.2.20.6" clearId="n48002020006" usfm="GAL 2:20!6">δὲ</e>
                      <e id="N1904.Gal.2.20.7" clearId="n48002020007" usfm="GAL 2:20!7">ἐν</e>
@@ -1154,7 +1154,7 @@
                         usfm="GAL 2:20!9"
                         after="·">Χριστός</e>
                   </c>
-                  <c id="N1904.Gal.2.20.10-31" unit="move">
+                  <c unit="move" id="N1904.Gal.2.20.10-31">
                      <e id="N1904.Gal.2.20.10" clearId="n48002020010" usfm="GAL 2:20!10">ὃ</e>
                      <e id="N1904.Gal.2.20.11" clearId="n48002020011" usfm="GAL 2:20!11">δὲ</e>
                      <e id="N1904.Gal.2.20.12" clearId="n48002020012" usfm="GAL 2:20!12">νῦν</e>
@@ -1184,7 +1184,7 @@
                         usfm="GAL 2:20!31"
                         after=".">ἐμοῦ</e>
                   </c>
-                  <c id="N1904.Gal.2.21.1-6" unit="move">
+                  <c unit="move" id="N1904.Gal.2.21.1-6">
                      <e id="N1904.Gal.2.21.1" clearId="n48002021001" usfm="GAL 2:21!1">Οὐκ</e>
                      <e id="N1904.Gal.2.21.2" clearId="n48002021002" usfm="GAL 2:21!2">ἀθετῶ</e>
                      <e id="N1904.Gal.2.21.3" clearId="n48002021003" usfm="GAL 2:21!3">τὴν</e>
@@ -1195,7 +1195,7 @@
                         usfm="GAL 2:21!6"
                         after="·">Θεοῦ</e>
                   </c>
-                  <c id="N1904.Gal.2.21.7-15" unit="move">
+                  <c unit="move" id="N1904.Gal.2.21.7-15">
                      <e id="N1904.Gal.2.21.7" clearId="n48002021007" usfm="GAL 2:21!7">εἰ</e>
                      <e id="N1904.Gal.2.21.8" clearId="n48002021008" usfm="GAL 2:21!8">γὰρ</e>
                      <e id="N1904.Gal.2.21.9" clearId="n48002021009" usfm="GAL 2:21!9">διὰ</e>
@@ -1216,7 +1216,7 @@
             </c>
          </c>
          <c unit="seg" title="Salvation Is Not of Works, but by Faith">
-            <c id="N1904.Gal.3.1.1-13" unit="move">
+            <c unit="move" id="N1904.Gal.3.1.1-13">
                <e id="N1904.Gal.3.1.1" clearId="n48003001001" usfm="GAL 3:1!1">Ὦ</e>
                <e id="N1904.Gal.3.1.2" clearId="n48003001002" usfm="GAL 3:1!2">ἀνόητοι</e>
                <e id="N1904.Gal.3.1.3"
@@ -1240,7 +1240,7 @@
                   usfm="GAL 3:1!13"
                   after=";">ἐσταυρωμένος</e>
             </c>
-            <c id="N1904.Gal.3.2.1-16" unit="move">
+            <c unit="move" id="N1904.Gal.3.2.1-16">
                <e id="N1904.Gal.3.2.1" clearId="n48003002001" usfm="GAL 3:2!1">τοῦτο</e>
                <e id="N1904.Gal.3.2.2" clearId="n48003002002" usfm="GAL 3:2!2">μόνον</e>
                <e id="N1904.Gal.3.2.3" clearId="n48003002003" usfm="GAL 3:2!3">θέλω</e>
@@ -1264,7 +1264,7 @@
                   usfm="GAL 3:2!16"
                   after=";">πίστεως</e>
             </c>
-            <c id="N1904.Gal.3.3.1-3" unit="move">
+            <c unit="move" id="N1904.Gal.3.3.1-3">
                <e id="N1904.Gal.3.3.1" clearId="n48003003001" usfm="GAL 3:3!1">οὕτως</e>
                <e id="N1904.Gal.3.3.2" clearId="n48003003002" usfm="GAL 3:3!2">ἀνόητοί</e>
                <e id="N1904.Gal.3.3.3"
@@ -1272,7 +1272,7 @@
                   usfm="GAL 3:3!3"
                   after=";">ἐστε</e>
             </c>
-            <c id="N1904.Gal.3.3.4-8" unit="move">
+            <c unit="move" id="N1904.Gal.3.3.4-8">
                <e id="N1904.Gal.3.3.4" clearId="n48003003004" usfm="GAL 3:3!4">ἐναρξάμενοι</e>
                <e id="N1904.Gal.3.3.5" clearId="n48003003005" usfm="GAL 3:3!5">Πνεύματι</e>
                <e id="N1904.Gal.3.3.6" clearId="n48003003006" usfm="GAL 3:3!6">νῦν</e>
@@ -1282,7 +1282,7 @@
                   usfm="GAL 3:3!8"
                   after=";">ἐπιτελεῖσθε</e>
             </c>
-            <c id="N1904.Gal.3.4.1-7" unit="move">
+            <c unit="move" id="N1904.Gal.3.4.1-7">
                <e id="N1904.Gal.3.4.1" clearId="n48003004001" usfm="GAL 3:4!1">τοσαῦτα</e>
                <e id="N1904.Gal.3.4.2" clearId="n48003004002" usfm="GAL 3:4!2">ἐπάθετε</e>
                <e id="N1904.Gal.3.4.3"
@@ -1297,7 +1297,7 @@
                   usfm="GAL 3:4!7"
                   after=".">εἰκῇ</e>
             </c>
-            <c id="N1904.Gal.3.5.1-6.10" unit="move">
+            <c unit="move" id="N1904.Gal.3.5.1-6.10">
                <e id="N1904.Gal.3.5.1" clearId="n48003005001" usfm="GAL 3:5!1">ὁ</e>
                <e id="N1904.Gal.3.5.2" clearId="n48003005002" usfm="GAL 3:5!2">οὖν</e>
                <e id="N1904.Gal.3.5.3" clearId="n48003005003" usfm="GAL 3:5!3">ἐπιχορηγῶν</e>
@@ -1339,7 +1339,7 @@
                   usfm="GAL 3:6!10"
                   after=".">δικαιοσύνην</e>
             </c>
-            <c id="N1904.Gal.3.7.1-10" unit="move">
+            <c unit="move" id="N1904.Gal.3.7.1-10">
                <e id="N1904.Gal.3.7.1" clearId="n48003007001" usfm="GAL 3:7!1">Γινώσκετε</e>
                <e id="N1904.Gal.3.7.2" clearId="n48003007002" usfm="GAL 3:7!2">ἄρα</e>
                <e id="N1904.Gal.3.7.3" clearId="n48003007003" usfm="GAL 3:7!3">ὅτι</e>
@@ -1357,7 +1357,7 @@
                   usfm="GAL 3:7!10"
                   after=".">Ἀβραάμ</e>
             </c>
-            <c id="N1904.Gal.3.8.1-22" unit="move">
+            <c unit="move" id="N1904.Gal.3.8.1-22">
                <e id="N1904.Gal.3.8.1" clearId="n48003008001" usfm="GAL 3:8!1">προϊδοῦσα</e>
                <e id="N1904.Gal.3.8.2" clearId="n48003008002" usfm="GAL 3:8!2">δὲ</e>
                <e id="N1904.Gal.3.8.3" clearId="n48003008003" usfm="GAL 3:8!3">ἡ</e>
@@ -1378,7 +1378,7 @@
                <e id="N1904.Gal.3.8.15" clearId="n48003008015" usfm="GAL 3:8!15">Ἀβραὰμ</e>
                <e id="N1904.Gal.3.8.16" clearId="n48003008016" usfm="GAL 3:8!16">ὅτι</e>
                <c unit="turn">
-                  <c id="N1904.Gal.3.8.17-22" unit="move">
+                  <c unit="move" id="N1904.Gal.3.8.17-22">
                      <e id="N1904.Gal.3.8.17" clearId="n48003008017" usfm="GAL 3:8!17">Ἐνευλογηθήσονται</e>
                      <e id="N1904.Gal.3.8.18" clearId="n48003008018" usfm="GAL 3:8!18">ἐν</e>
                      <e id="N1904.Gal.3.8.19" clearId="n48003008019" usfm="GAL 3:8!19">σοὶ</e>
@@ -1391,7 +1391,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Gal.3.9.1-9" unit="move">
+            <c unit="move" id="N1904.Gal.3.9.1-9">
                <e id="N1904.Gal.3.9.1" clearId="n48003009001" usfm="GAL 3:9!1">ὥστε</e>
                <e id="N1904.Gal.3.9.2" clearId="n48003009002" usfm="GAL 3:9!2">οἱ</e>
                <e id="N1904.Gal.3.9.3" clearId="n48003009003" usfm="GAL 3:9!3">ἐκ</e>
@@ -1405,7 +1405,7 @@
                   usfm="GAL 3:9!9"
                   after=".">Ἀβραάμ</e>
             </c>
-            <c id="N1904.Gal.3.10.1-9" unit="move">
+            <c unit="move" id="N1904.Gal.3.10.1-9">
                <e id="N1904.Gal.3.10.1" clearId="n48003010001" usfm="GAL 3:10!1">Ὅσοι</e>
                <e id="N1904.Gal.3.10.2" clearId="n48003010002" usfm="GAL 3:10!2">γὰρ</e>
                <e id="N1904.Gal.3.10.3" clearId="n48003010003" usfm="GAL 3:10!3">ἐξ</e>
@@ -1422,12 +1422,12 @@
                   usfm="GAL 3:10!9"
                   after=",">εἰσίν</e>
             </c>
-            <c id="N1904.Gal.3.10.10-28" unit="move">
+            <c unit="move" id="N1904.Gal.3.10.10-28">
                <e id="N1904.Gal.3.10.10" clearId="n48003010010" usfm="GAL 3:10!10">γέγραπται</e>
                <e id="N1904.Gal.3.10.11" clearId="n48003010011" usfm="GAL 3:10!11">γὰρ</e>
                <e id="N1904.Gal.3.10.12" clearId="n48003010012" usfm="GAL 3:10!12">ὅτι</e>
                <c unit="turn">
-                  <c id="N1904.Gal.3.10.13-28" unit="move">
+                  <c unit="move" id="N1904.Gal.3.10.13-28">
                      <e id="N1904.Gal.3.10.13" clearId="n48003010013" usfm="GAL 3:10!13">Ἐπικατάρατος</e>
                      <e id="N1904.Gal.3.10.14" clearId="n48003010014" usfm="GAL 3:10!14">πᾶς</e>
                      <e id="N1904.Gal.3.10.15" clearId="n48003010015" usfm="GAL 3:10!15">ὃς</e>
@@ -1450,7 +1450,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Gal.3.11.1-16" unit="move">
+            <c unit="move" id="N1904.Gal.3.11.1-16">
                <e id="N1904.Gal.3.11.1" clearId="n48003011001" usfm="GAL 3:11!1">ὅτι</e>
                <e id="N1904.Gal.3.11.2" clearId="n48003011002" usfm="GAL 3:11!2">δὲ</e>
                <e id="N1904.Gal.3.11.3" clearId="n48003011003" usfm="GAL 3:11!3">ἐν</e>
@@ -1474,7 +1474,7 @@
                   usfm="GAL 3:11!16"
                   after="·">ζήσεται</e>
             </c>
-            <c id="N1904.Gal.3.12.1-7" unit="move">
+            <c unit="move" id="N1904.Gal.3.12.1-7">
                <e id="N1904.Gal.3.12.1" clearId="n48003012001" usfm="GAL 3:12!1">ὁ</e>
                <e id="N1904.Gal.3.12.2" clearId="n48003012002" usfm="GAL 3:12!2">δὲ</e>
                <e id="N1904.Gal.3.12.3" clearId="n48003012003" usfm="GAL 3:12!3">νόμος</e>
@@ -1486,7 +1486,7 @@
                   usfm="GAL 3:12!7"
                   after=",">πίστεως</e>
             </c>
-            <c id="N1904.Gal.3.12.8-14" unit="move">
+            <c unit="move" id="N1904.Gal.3.12.8-14">
                <e id="N1904.Gal.3.12.8" clearId="n48003012008" usfm="GAL 3:12!8">ἀλλ’</e>
                <e id="N1904.Gal.3.12.9" clearId="n48003012009" usfm="GAL 3:12!9">Ὁ</e>
                <e id="N1904.Gal.3.12.10" clearId="n48003012010" usfm="GAL 3:12!10">ποιήσας</e>
@@ -1498,7 +1498,7 @@
                   usfm="GAL 3:12!14"
                   after=".">αὐτοῖς</e>
             </c>
-            <c id="N1904.Gal.3.13.1-14.21" unit="move">
+            <c unit="move" id="N1904.Gal.3.13.1-14.21">
                <e id="N1904.Gal.3.13.1" clearId="n48003013001" usfm="GAL 3:13!1">Χριστὸς</e>
                <e id="N1904.Gal.3.13.2" clearId="n48003013002" usfm="GAL 3:13!2">ἡμᾶς</e>
                <e id="N1904.Gal.3.13.3" clearId="n48003013003" usfm="GAL 3:13!3">ἐξηγόρασεν</e>
@@ -1517,7 +1517,7 @@
                <e id="N1904.Gal.3.13.13" clearId="n48003013013" usfm="GAL 3:13!13">ὅτι</e>
                <e id="N1904.Gal.3.13.14" clearId="n48003013014" usfm="GAL 3:13!14">γέγραπται</e>
                <c unit="turn">
-                  <c id="N1904.Gal.3.13.15-20" unit="move">
+                  <c unit="move" id="N1904.Gal.3.13.15-20">
                      <e id="N1904.Gal.3.13.15" clearId="n48003013015" usfm="GAL 3:13!15">Ἐπικατάρατος</e>
                      <e id="N1904.Gal.3.13.16" clearId="n48003013016" usfm="GAL 3:13!16">πᾶς</e>
                      <e id="N1904.Gal.3.13.17" clearId="n48003013017" usfm="GAL 3:13!17">ὁ</e>
@@ -1557,7 +1557,7 @@
                   usfm="GAL 3:14!21"
                   after=".">πίστεως</e>
             </c>
-            <c id="N1904.Gal.3.15.1-4" unit="move">
+            <c unit="move" id="N1904.Gal.3.15.1-4">
                <e id="N1904.Gal.3.15.1"
                   clearId="n48003015001"
                   usfm="GAL 3:15!1"
@@ -1569,7 +1569,7 @@
                   usfm="GAL 3:15!4"
                   after=".">λέγω</e>
             </c>
-            <c id="N1904.Gal.3.15.5-12" unit="move">
+            <c unit="move" id="N1904.Gal.3.15.5-12">
                <e id="N1904.Gal.3.15.5" clearId="n48003015005" usfm="GAL 3:15!5">ὅμως</e>
                <e id="N1904.Gal.3.15.6" clearId="n48003015006" usfm="GAL 3:15!6">ἀνθρώπου</e>
                <e id="N1904.Gal.3.15.7" clearId="n48003015007" usfm="GAL 3:15!7">κεκυρωμένην</e>
@@ -1582,7 +1582,7 @@
                   usfm="GAL 3:15!12"
                   after=".">ἐπιδιατάσσεται</e>
             </c>
-            <c id="N1904.Gal.3.16.1-10" unit="move">
+            <c unit="move" id="N1904.Gal.3.16.1-10">
                <e id="N1904.Gal.3.16.1" clearId="n48003016001" usfm="GAL 3:16!1">τῷ</e>
                <e id="N1904.Gal.3.16.2" clearId="n48003016002" usfm="GAL 3:16!2">δὲ</e>
                <e id="N1904.Gal.3.16.3" clearId="n48003016003" usfm="GAL 3:16!3">Ἀβραὰμ</e>
@@ -1597,11 +1597,11 @@
                   usfm="GAL 3:16!10"
                   after=".">αὐτοῦ</e>
             </c>
-            <c id="N1904.Gal.3.16.11-29" unit="move">
+            <c unit="move" id="N1904.Gal.3.16.11-29">
                <e id="N1904.Gal.3.16.11" clearId="n48003016011" usfm="GAL 3:16!11">οὐ</e>
                <e id="N1904.Gal.3.16.12" clearId="n48003016012" usfm="GAL 3:16!12">λέγει</e>
                <c unit="turn">
-                  <c id="N1904.Gal.3.16.13-15" unit="move">
+                  <c unit="move" id="N1904.Gal.3.16.13-15">
                      <e id="N1904.Gal.3.16.13" clearId="n48003016013" usfm="GAL 3:16!13">Καὶ</e>
                      <e id="N1904.Gal.3.16.14" clearId="n48003016014" usfm="GAL 3:16!14">τοῖς</e>
                      <e id="N1904.Gal.3.16.15"
@@ -1634,7 +1634,7 @@
                   usfm="GAL 3:16!29"
                   after=".">Χριστός</e>
             </c>
-            <c id="N1904.Gal.3.17.1-23" unit="move">
+            <c unit="move" id="N1904.Gal.3.17.1-23">
                <e id="N1904.Gal.3.17.1" clearId="n48003017001" usfm="GAL 3:17!1">τοῦτο</e>
                <e id="N1904.Gal.3.17.2" clearId="n48003017002" usfm="GAL 3:17!2">δὲ</e>
                <e id="N1904.Gal.3.17.3"
@@ -1642,7 +1642,7 @@
                   usfm="GAL 3:17!3"
                   after="·">λέγω</e>
                <c unit="turn">
-                  <c id="N1904.Gal.3.17.4-23" unit="move">
+                  <c unit="move" id="N1904.Gal.3.17.4-23">
                      <e id="N1904.Gal.3.17.4" clearId="n48003017004" usfm="GAL 3:17!4">διαθήκην</e>
                      <e id="N1904.Gal.3.17.5" clearId="n48003017005" usfm="GAL 3:17!5">προκεκυρωμένην</e>
                      <e id="N1904.Gal.3.17.6" clearId="n48003017006" usfm="GAL 3:17!6">ὑπὸ</e>
@@ -1672,7 +1672,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Gal.3.18.1-9" unit="move">
+            <c unit="move" id="N1904.Gal.3.18.1-9">
                <e id="N1904.Gal.3.18.1" clearId="n48003018001" usfm="GAL 3:18!1">εἰ</e>
                <e id="N1904.Gal.3.18.2" clearId="n48003018002" usfm="GAL 3:18!2">γὰρ</e>
                <e id="N1904.Gal.3.18.3" clearId="n48003018003" usfm="GAL 3:18!3">ἐκ</e>
@@ -1689,7 +1689,7 @@
                   usfm="GAL 3:18!9"
                   after="·">ἐπαγγελίας</e>
             </c>
-            <c id="N1904.Gal.3.18.10-17" unit="move">
+            <c unit="move" id="N1904.Gal.3.18.10-17">
                <e id="N1904.Gal.3.18.10" clearId="n48003018010" usfm="GAL 3:18!10">τῷ</e>
                <e id="N1904.Gal.3.18.11" clearId="n48003018011" usfm="GAL 3:18!11">δὲ</e>
                <e id="N1904.Gal.3.18.12" clearId="n48003018012" usfm="GAL 3:18!12">Ἀβραὰμ</e>
@@ -1705,7 +1705,7 @@
          </c>
          <c unit="seg"
             title="Proofs for the Liberty of a Christian from the Nature and Meaning of the Law">
-            <c id="N1904.Gal.3.19.1-4" unit="move">
+            <c unit="move" id="N1904.Gal.3.19.1-4">
                <e id="N1904.Gal.3.19.1" clearId="n48003019001" usfm="GAL 3:19!1">Τί</e>
                <e id="N1904.Gal.3.19.2" clearId="n48003019002" usfm="GAL 3:19!2">οὖν</e>
                <e id="N1904.Gal.3.19.3" clearId="n48003019003" usfm="GAL 3:19!3">ὁ</e>
@@ -1714,7 +1714,7 @@
                   usfm="GAL 3:19!4"
                   after=";">νόμος</e>
             </c>
-            <c id="N1904.Gal.3.19.5-21" unit="move">
+            <c unit="move" id="N1904.Gal.3.19.5-21">
                <e id="N1904.Gal.3.19.5" clearId="n48003019005" usfm="GAL 3:19!5">τῶν</e>
                <e id="N1904.Gal.3.19.6" clearId="n48003019006" usfm="GAL 3:19!6">παραβάσεων</e>
                <e id="N1904.Gal.3.19.7" clearId="n48003019007" usfm="GAL 3:19!7">χάριν</e>
@@ -1742,7 +1742,7 @@
                   usfm="GAL 3:19!21"
                   after=".">μεσίτου</e>
             </c>
-            <c id="N1904.Gal.3.20.1-6" unit="move">
+            <c unit="move" id="N1904.Gal.3.20.1-6">
                <e id="N1904.Gal.3.20.1" clearId="n48003020001" usfm="GAL 3:20!1">ὁ</e>
                <e id="N1904.Gal.3.20.2" clearId="n48003020002" usfm="GAL 3:20!2">δὲ</e>
                <e id="N1904.Gal.3.20.3" clearId="n48003020003" usfm="GAL 3:20!3">μεσίτης</e>
@@ -1753,7 +1753,7 @@
                   usfm="GAL 3:20!6"
                   after=",">ἔστιν</e>
             </c>
-            <c id="N1904.Gal.3.20.7-11" unit="move">
+            <c unit="move" id="N1904.Gal.3.20.7-11">
                <e id="N1904.Gal.3.20.7" clearId="n48003020007" usfm="GAL 3:20!7">ὁ</e>
                <e id="N1904.Gal.3.20.8" clearId="n48003020008" usfm="GAL 3:20!8">δὲ</e>
                <e id="N1904.Gal.3.20.9" clearId="n48003020009" usfm="GAL 3:20!9">Θεὸς</e>
@@ -1763,7 +1763,7 @@
                   usfm="GAL 3:20!11"
                   after=".">ἐστιν</e>
             </c>
-            <c id="N1904.Gal.3.21.1-8" unit="move">
+            <c unit="move" id="N1904.Gal.3.21.1-8">
                <e id="N1904.Gal.3.21.1" clearId="n48003021001" usfm="GAL 3:21!1">ὁ</e>
                <e id="N1904.Gal.3.21.2" clearId="n48003021002" usfm="GAL 3:21!2">οὖν</e>
                <e id="N1904.Gal.3.21.3" clearId="n48003021003" usfm="GAL 3:21!3">νόμος</e>
@@ -1776,14 +1776,14 @@
                   usfm="GAL 3:21!8"
                   after=";">Θεοῦ</e>
             </c>
-            <c id="N1904.Gal.3.21.9-10" unit="move">
+            <c unit="move" id="N1904.Gal.3.21.9-10">
                <e id="N1904.Gal.3.21.9" clearId="n48003021009" usfm="GAL 3:21!9">μὴ</e>
                <e id="N1904.Gal.3.21.10"
                   clearId="n48003021010"
                   usfm="GAL 3:21!10"
                   after=".">γένοιτο</e>
             </c>
-            <c id="N1904.Gal.3.21.11-24" unit="move">
+            <c unit="move" id="N1904.Gal.3.21.11-24">
                <e id="N1904.Gal.3.21.11" clearId="n48003021011" usfm="GAL 3:21!11">εἰ</e>
                <e id="N1904.Gal.3.21.12" clearId="n48003021012" usfm="GAL 3:21!12">γὰρ</e>
                <e id="N1904.Gal.3.21.13" clearId="n48003021013" usfm="GAL 3:21!13">ἐδόθη</e>
@@ -1805,7 +1805,7 @@
                   usfm="GAL 3:21!24"
                   after="·">δικαιοσύνη</e>
             </c>
-            <c id="N1904.Gal.3.22.1-18" unit="move">
+            <c unit="move" id="N1904.Gal.3.22.1-18">
                <e id="N1904.Gal.3.22.1" clearId="n48003022001" usfm="GAL 3:22!1">ἀλλὰ</e>
                <e id="N1904.Gal.3.22.2" clearId="n48003022002" usfm="GAL 3:22!2">συνέκλεισεν</e>
                <e id="N1904.Gal.3.22.3" clearId="n48003022003" usfm="GAL 3:22!3">ἡ</e>
@@ -1828,7 +1828,7 @@
                   usfm="GAL 3:22!18"
                   after=".">πιστεύουσιν</e>
             </c>
-            <c id="N1904.Gal.3.23.1-15" unit="move">
+            <c unit="move" id="N1904.Gal.3.23.1-15">
                <e id="N1904.Gal.3.23.1" clearId="n48003023001" usfm="GAL 3:23!1">Πρὸ</e>
                <e id="N1904.Gal.3.23.2" clearId="n48003023002" usfm="GAL 3:23!2">τοῦ</e>
                <e id="N1904.Gal.3.23.3" clearId="n48003023003" usfm="GAL 3:23!3">δὲ</e>
@@ -1848,7 +1848,7 @@
                   usfm="GAL 3:23!15"
                   after=".">ἀποκαλυφθῆναι</e>
             </c>
-            <c id="N1904.Gal.3.24.1-12" unit="move">
+            <c unit="move" id="N1904.Gal.3.24.1-12">
                <e id="N1904.Gal.3.24.1" clearId="n48003024001" usfm="GAL 3:24!1">ὥστε</e>
                <e id="N1904.Gal.3.24.2" clearId="n48003024002" usfm="GAL 3:24!2">ὁ</e>
                <e id="N1904.Gal.3.24.3" clearId="n48003024003" usfm="GAL 3:24!3">νόμος</e>
@@ -1868,7 +1868,7 @@
                   usfm="GAL 3:24!12"
                   after="·">δικαιωθῶμεν</e>
             </c>
-            <c id="N1904.Gal.3.25.1-8" unit="move">
+            <c unit="move" id="N1904.Gal.3.25.1-8">
                <e id="N1904.Gal.3.25.1" clearId="n48003025001" usfm="GAL 3:25!1">ἐλθούσης</e>
                <e id="N1904.Gal.3.25.2" clearId="n48003025002" usfm="GAL 3:25!2">δὲ</e>
                <e id="N1904.Gal.3.25.3" clearId="n48003025003" usfm="GAL 3:25!3">τῆς</e>
@@ -1881,7 +1881,7 @@
                   usfm="GAL 3:25!8"
                   after=".">ἐσμεν</e>
             </c>
-            <c id="N1904.Gal.3.26.1-11" unit="move">
+            <c unit="move" id="N1904.Gal.3.26.1-11">
                <e id="N1904.Gal.3.26.1" clearId="n48003026001" usfm="GAL 3:26!1">Πάντες</e>
                <e id="N1904.Gal.3.26.2" clearId="n48003026002" usfm="GAL 3:26!2">γὰρ</e>
                <e id="N1904.Gal.3.26.3" clearId="n48003026003" usfm="GAL 3:26!3">υἱοὶ</e>
@@ -1897,7 +1897,7 @@
                   usfm="GAL 3:26!11"
                   after="·">Ἰησοῦ</e>
             </c>
-            <c id="N1904.Gal.3.27.1-7" unit="move">
+            <c unit="move" id="N1904.Gal.3.27.1-7">
                <e id="N1904.Gal.3.27.1" clearId="n48003027001" usfm="GAL 3:27!1">ὅσοι</e>
                <e id="N1904.Gal.3.27.2" clearId="n48003027002" usfm="GAL 3:27!2">γὰρ</e>
                <e id="N1904.Gal.3.27.3" clearId="n48003027003" usfm="GAL 3:27!3">εἰς</e>
@@ -1912,7 +1912,7 @@
                   usfm="GAL 3:27!7"
                   after=".">ἐνεδύσασθε</e>
             </c>
-            <c id="N1904.Gal.3.28.1-15" unit="move">
+            <c unit="move" id="N1904.Gal.3.28.1-15">
                <e id="N1904.Gal.3.28.1" clearId="n48003028001" usfm="GAL 3:28!1">οὐκ</e>
                <e id="N1904.Gal.3.28.2" clearId="n48003028002" usfm="GAL 3:28!2">ἔνι</e>
                <e id="N1904.Gal.3.28.3" clearId="n48003028003" usfm="GAL 3:28!3">Ἰουδαῖος</e>
@@ -1938,7 +1938,7 @@
                   usfm="GAL 3:28!15"
                   after="·">θῆλυ</e>
             </c>
-            <c id="N1904.Gal.3.28.16-23" unit="move">
+            <c unit="move" id="N1904.Gal.3.28.16-23">
                <e id="N1904.Gal.3.28.16" clearId="n48003028016" usfm="GAL 3:28!16">πάντες</e>
                <e id="N1904.Gal.3.28.17" clearId="n48003028017" usfm="GAL 3:28!17">γὰρ</e>
                <e id="N1904.Gal.3.28.18" clearId="n48003028018" usfm="GAL 3:28!18">ὑμεῖς</e>
@@ -1951,7 +1951,7 @@
                   usfm="GAL 3:28!23"
                   after=".">Ἰησοῦ</e>
             </c>
-            <c id="N1904.Gal.3.29.1-12" unit="move">
+            <c unit="move" id="N1904.Gal.3.29.1-12">
                <e id="N1904.Gal.3.29.1" clearId="n48003029001" usfm="GAL 3:29!1">εἰ</e>
                <e id="N1904.Gal.3.29.2" clearId="n48003029002" usfm="GAL 3:29!2">δὲ</e>
                <e id="N1904.Gal.3.29.3" clearId="n48003029003" usfm="GAL 3:29!3">ὑμεῖς</e>
@@ -1977,14 +1977,14 @@
          </c>
          <c unit="seg"
             title="The Sonship of the Believers Opposed to the Bondage of the Law">
-            <c id="N1904.Gal.4.1.1-2.11" unit="move">
+            <c unit="move" id="N1904.Gal.4.1.1-2.11">
                <e id="N1904.Gal.4.1.1" clearId="n48004001001" usfm="GAL 4:1!1">Λέγω</e>
                <e id="N1904.Gal.4.1.2"
                   clearId="n48004001002"
                   usfm="GAL 4:1!2"
                   after=",">δέ</e>
                <c unit="turn">
-                  <c id="N1904.Gal.4.1.3-2.11" unit="move">
+                  <c unit="move" id="N1904.Gal.4.1.3-2.11">
                      <e id="N1904.Gal.4.1.3" clearId="n48004001003" usfm="GAL 4:1!3">ἐφ’</e>
                      <e id="N1904.Gal.4.1.4" clearId="n48004001004" usfm="GAL 4:1!4">ὅσον</e>
                      <e id="N1904.Gal.4.1.5" clearId="n48004001005" usfm="GAL 4:1!5">χρόνον</e>
@@ -2021,7 +2021,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Gal.4.3.1-13" unit="move">
+            <c unit="move" id="N1904.Gal.4.3.1-13">
                <e id="N1904.Gal.4.3.1" clearId="n48004003001" usfm="GAL 4:3!1">οὕτως</e>
                <e id="N1904.Gal.4.3.2" clearId="n48004003002" usfm="GAL 4:3!2">καὶ</e>
                <e id="N1904.Gal.4.3.3"
@@ -2045,7 +2045,7 @@
                   usfm="GAL 4:3!13"
                   after="·">δεδουλωμένοι</e>
             </c>
-            <c id="N1904.Gal.4.4.1-5.9" unit="move">
+            <c unit="move" id="N1904.Gal.4.4.1-5.9">
                <e id="N1904.Gal.4.4.1" clearId="n48004004001" usfm="GAL 4:4!1">ὅτε</e>
                <e id="N1904.Gal.4.4.2" clearId="n48004004002" usfm="GAL 4:4!2">δὲ</e>
                <e id="N1904.Gal.4.4.3" clearId="n48004004003" usfm="GAL 4:4!3">ἦλθεν</e>
@@ -2093,7 +2093,7 @@
                   usfm="GAL 4:5!9"
                   after=".">ἀπολάβωμεν</e>
             </c>
-            <c id="N1904.Gal.4.6.1-20" unit="move">
+            <c unit="move" id="N1904.Gal.4.6.1-20">
                <e id="N1904.Gal.4.6.1" clearId="n48004006001" usfm="GAL 4:6!1">Ὅτι</e>
                <e id="N1904.Gal.4.6.2" clearId="n48004006002" usfm="GAL 4:6!2">δέ</e>
                <e id="N1904.Gal.4.6.3" clearId="n48004006003" usfm="GAL 4:6!3">ἐστε</e>
@@ -2118,7 +2118,7 @@
                   after=",">ἡμῶν</e>
                <e id="N1904.Gal.4.6.17" clearId="n48004006017" usfm="GAL 4:6!17">κρᾶζον</e>
                <c unit="turn">
-                  <c id="N1904.Gal.4.6.18-20" unit="move">
+                  <c unit="move" id="N1904.Gal.4.6.18-20">
                      <e id="N1904.Gal.4.6.18" clearId="n48004006018" usfm="GAL 4:6!18">Ἀββᾶ</e>
                      <e id="N1904.Gal.4.6.19" clearId="n48004006019" usfm="GAL 4:6!19">ὁ</e>
                      <e id="N1904.Gal.4.6.20"
@@ -2128,7 +2128,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Gal.4.7.1-6" unit="move">
+            <c unit="move" id="N1904.Gal.4.7.1-6">
                <e id="N1904.Gal.4.7.1" clearId="n48004007001" usfm="GAL 4:7!1">ὥστε</e>
                <e id="N1904.Gal.4.7.2" clearId="n48004007002" usfm="GAL 4:7!2">οὐκέτι</e>
                <e id="N1904.Gal.4.7.3" clearId="n48004007003" usfm="GAL 4:7!3">εἶ</e>
@@ -2139,7 +2139,7 @@
                   usfm="GAL 4:7!6"
                   after="·">υἱός</e>
             </c>
-            <c id="N1904.Gal.4.7.7-13" unit="move">
+            <c unit="move" id="N1904.Gal.4.7.7-13">
                <e id="N1904.Gal.4.7.7" clearId="n48004007007" usfm="GAL 4:7!7">εἰ</e>
                <e id="N1904.Gal.4.7.8" clearId="n48004007008" usfm="GAL 4:7!8">δὲ</e>
                <e id="N1904.Gal.4.7.9"
@@ -2154,7 +2154,7 @@
                   usfm="GAL 4:7!13"
                   after=".">Θεοῦ</e>
             </c>
-            <c id="N1904.Gal.4.8.1-12" unit="move">
+            <c unit="move" id="N1904.Gal.4.8.1-12">
                <e id="N1904.Gal.4.8.1" clearId="n48004008001" usfm="GAL 4:8!1">Ἀλλὰ</e>
                <e id="N1904.Gal.4.8.2" clearId="n48004008002" usfm="GAL 4:8!2">τότε</e>
                <e id="N1904.Gal.4.8.3" clearId="n48004008003" usfm="GAL 4:8!3">μὲν</e>
@@ -2171,7 +2171,7 @@
                   usfm="GAL 4:8!12"
                   after="·">θεοῖς</e>
             </c>
-            <c id="N1904.Gal.4.9.1-23" unit="move">
+            <c unit="move" id="N1904.Gal.4.9.1-23">
                <e id="N1904.Gal.4.9.1" clearId="n48004009001" usfm="GAL 4:9!1">νῦν</e>
                <e id="N1904.Gal.4.9.2" clearId="n48004009002" usfm="GAL 4:9!2">δὲ</e>
                <e id="N1904.Gal.4.9.3" clearId="n48004009003" usfm="GAL 4:9!3">γνόντες</e>
@@ -2208,7 +2208,7 @@
                   usfm="GAL 4:9!23"
                   after=";">θέλετε</e>
             </c>
-            <c id="N1904.Gal.4.10.1-8" unit="move">
+            <c unit="move" id="N1904.Gal.4.10.1-8">
                <e id="N1904.Gal.4.10.1" clearId="n48004010001" usfm="GAL 4:10!1">ἡμέρας</e>
                <e id="N1904.Gal.4.10.2" clearId="n48004010002" usfm="GAL 4:10!2">παρατηρεῖσθε</e>
                <e id="N1904.Gal.4.10.3" clearId="n48004010003" usfm="GAL 4:10!3">καὶ</e>
@@ -2221,7 +2221,7 @@
                   usfm="GAL 4:10!8"
                   after=".">ἐνιαυτούς</e>
             </c>
-            <c id="N1904.Gal.4.11.1-8" unit="move">
+            <c unit="move" id="N1904.Gal.4.11.1-8">
                <e id="N1904.Gal.4.11.1" clearId="n48004011001" usfm="GAL 4:11!1">φοβοῦμαι</e>
                <e id="N1904.Gal.4.11.2" clearId="n48004011002" usfm="GAL 4:11!2">ὑμᾶς</e>
                <e id="N1904.Gal.4.11.3" clearId="n48004011003" usfm="GAL 4:11!3">μή</e>
@@ -2234,7 +2234,7 @@
                   usfm="GAL 4:11!8"
                   after=".">ὑμᾶς</e>
             </c>
-            <c id="N1904.Gal.4.12.1-7" unit="move">
+            <c unit="move" id="N1904.Gal.4.12.1-7">
                <e id="N1904.Gal.4.12.1" clearId="n48004012001" usfm="GAL 4:12!1">Γίνεσθε</e>
                <e id="N1904.Gal.4.12.2" clearId="n48004012002" usfm="GAL 4:12!2">ὡς</e>
                <e id="N1904.Gal.4.12.3"
@@ -2249,7 +2249,7 @@
                   usfm="GAL 4:12!7"
                   after=",">ὑμεῖς</e>
             </c>
-            <c id="N1904.Gal.4.12.8-10" unit="move">
+            <c unit="move" id="N1904.Gal.4.12.8-10">
                <e id="N1904.Gal.4.12.8"
                   clearId="n48004012008"
                   usfm="GAL 4:12!8"
@@ -2260,7 +2260,7 @@
                   usfm="GAL 4:12!10"
                   after=".">ὑμῶν</e>
             </c>
-            <c id="N1904.Gal.4.12.11-13" unit="move">
+            <c unit="move" id="N1904.Gal.4.12.11-13">
                <e id="N1904.Gal.4.12.11" clearId="n48004012011" usfm="GAL 4:12!11">οὐδέν</e>
                <e id="N1904.Gal.4.12.12" clearId="n48004012012" usfm="GAL 4:12!12">με</e>
                <e id="N1904.Gal.4.12.13"
@@ -2268,7 +2268,7 @@
                   usfm="GAL 4:12!13"
                   after="·">ἠδικήσατε</e>
             </c>
-            <c id="N1904.Gal.4.13.1-14.21" unit="move">
+            <c unit="move" id="N1904.Gal.4.13.1-14.21">
                <e id="N1904.Gal.4.13.1" clearId="n48004013001" usfm="GAL 4:13!1">οἴδατε</e>
                <e id="N1904.Gal.4.13.2" clearId="n48004013002" usfm="GAL 4:13!2">δὲ</e>
                <e id="N1904.Gal.4.13.3" clearId="n48004013003" usfm="GAL 4:13!3">ὅτι</e>
@@ -2314,7 +2314,7 @@
                   usfm="GAL 4:14!21"
                   after=".">Ἰησοῦν</e>
             </c>
-            <c id="N1904.Gal.4.15.1-5" unit="move">
+            <c unit="move" id="N1904.Gal.4.15.1-5">
                <e id="N1904.Gal.4.15.1" clearId="n48004015001" usfm="GAL 4:15!1">ποῦ</e>
                <e id="N1904.Gal.4.15.2" clearId="n48004015002" usfm="GAL 4:15!2">οὖν</e>
                <e id="N1904.Gal.4.15.3" clearId="n48004015003" usfm="GAL 4:15!3">ὁ</e>
@@ -2324,7 +2324,7 @@
                   usfm="GAL 4:15!5"
                   after=";">ὑμῶν</e>
             </c>
-            <c id="N1904.Gal.4.15.6-17" unit="move">
+            <c unit="move" id="N1904.Gal.4.15.6-17">
                <e id="N1904.Gal.4.15.6" clearId="n48004015006" usfm="GAL 4:15!6">μαρτυρῶ</e>
                <e id="N1904.Gal.4.15.7" clearId="n48004015007" usfm="GAL 4:15!7">γὰρ</e>
                <e id="N1904.Gal.4.15.8" clearId="n48004015008" usfm="GAL 4:15!8">ὑμῖν</e>
@@ -2341,7 +2341,7 @@
                   usfm="GAL 4:15!17"
                   after=".">μοι</e>
             </c>
-            <c id="N1904.Gal.4.16.1-6" unit="move">
+            <c unit="move" id="N1904.Gal.4.16.1-6">
                <e id="N1904.Gal.4.16.1" clearId="n48004016001" usfm="GAL 4:16!1">ὥστε</e>
                <e id="N1904.Gal.4.16.2" clearId="n48004016002" usfm="GAL 4:16!2">ἐχθρὸς</e>
                <e id="N1904.Gal.4.16.3" clearId="n48004016003" usfm="GAL 4:16!3">ὑμῶν</e>
@@ -2352,7 +2352,7 @@
                   usfm="GAL 4:16!6"
                   after=";">ὑμῖν</e>
             </c>
-            <c id="N1904.Gal.4.17.1-11" unit="move">
+            <c unit="move" id="N1904.Gal.4.17.1-11">
                <e id="N1904.Gal.4.17.1" clearId="n48004017001" usfm="GAL 4:17!1">ζηλοῦσιν</e>
                <e id="N1904.Gal.4.17.2" clearId="n48004017002" usfm="GAL 4:17!2">ὑμᾶς</e>
                <e id="N1904.Gal.4.17.3" clearId="n48004017003" usfm="GAL 4:17!3">οὐ</e>
@@ -2374,7 +2374,7 @@
                   usfm="GAL 4:17!11"
                   after=".">ζηλοῦτε</e>
             </c>
-            <c id="N1904.Gal.4.18.1-19.11" unit="move">
+            <c unit="move" id="N1904.Gal.4.18.1-19.11">
                <e id="N1904.Gal.4.18.1" clearId="n48004018001" usfm="GAL 4:18!1">καλὸν</e>
                <e id="N1904.Gal.4.18.2" clearId="n48004018002" usfm="GAL 4:18!2">δὲ</e>
                <e id="N1904.Gal.4.18.3" clearId="n48004018003" usfm="GAL 4:18!3">ζηλοῦσθαι</e>
@@ -2414,7 +2414,7 @@
                   usfm="GAL 4:19!11"
                   after="·">ὑμῖν</e>
             </c>
-            <c id="N1904.Gal.4.20.1-15" unit="move">
+            <c unit="move" id="N1904.Gal.4.20.1-15">
                <e id="N1904.Gal.4.20.1" clearId="n48004020001" usfm="GAL 4:20!1">ἤθελον</e>
                <e id="N1904.Gal.4.20.2" clearId="n48004020002" usfm="GAL 4:20!2">δὲ</e>
                <e id="N1904.Gal.4.20.3" clearId="n48004020003" usfm="GAL 4:20!3">παρεῖναι</e>
@@ -2437,7 +2437,7 @@
                   usfm="GAL 4:20!15"
                   after=".">ὑμῖν</e>
             </c>
-            <c id="N1904.Gal.4.21.1-7" unit="move">
+            <c unit="move" id="N1904.Gal.4.21.1-7">
                <e id="N1904.Gal.4.21.1" clearId="n48004021001" usfm="GAL 4:21!1">Λέγετέ</e>
                <e id="N1904.Gal.4.21.2"
                   clearId="n48004021002"
@@ -2452,7 +2452,7 @@
                   usfm="GAL 4:21!7"
                   after=",">εἶναι</e>
             </c>
-            <c id="N1904.Gal.4.21.8-11" unit="move">
+            <c unit="move" id="N1904.Gal.4.21.8-11">
                <e id="N1904.Gal.4.21.8" clearId="n48004021008" usfm="GAL 4:21!8">τὸν</e>
                <e id="N1904.Gal.4.21.9" clearId="n48004021009" usfm="GAL 4:21!9">νόμον</e>
                <e id="N1904.Gal.4.21.10" clearId="n48004021010" usfm="GAL 4:21!10">οὐκ</e>
@@ -2461,7 +2461,7 @@
                   usfm="GAL 4:21!11"
                   after=";">ἀκούετε</e>
             </c>
-            <c id="N1904.Gal.4.22.1-16" unit="move">
+            <c unit="move" id="N1904.Gal.4.22.1-16">
                <e id="N1904.Gal.4.22.1" clearId="n48004022001" usfm="GAL 4:22!1">γέγραπται</e>
                <e id="N1904.Gal.4.22.2" clearId="n48004022002" usfm="GAL 4:22!2">γὰρ</e>
                <e id="N1904.Gal.4.22.3" clearId="n48004022003" usfm="GAL 4:22!3">ὅτι</e>
@@ -2485,7 +2485,7 @@
                   usfm="GAL 4:22!16"
                   after=".">ἐλευθέρας</e>
             </c>
-            <c id="N1904.Gal.4.23.1-24.3" unit="move">
+            <c unit="move" id="N1904.Gal.4.23.1-24.3">
                <e id="N1904.Gal.4.23.1" clearId="n48004023001" usfm="GAL 4:23!1">ἀλλ’</e>
                <e id="N1904.Gal.4.23.2" clearId="n48004023002" usfm="GAL 4:23!2">ὁ</e>
                <e id="N1904.Gal.4.23.3" clearId="n48004023003" usfm="GAL 4:23!3">μὲν</e>
@@ -2516,7 +2516,7 @@
                   usfm="GAL 4:24!3"
                   after="·">ἀλληγορούμενα</e>
             </c>
-            <c id="N1904.Gal.4.24.4-8" unit="move">
+            <c unit="move" id="N1904.Gal.4.24.4-8">
                <e id="N1904.Gal.4.24.4" clearId="n48004024004" usfm="GAL 4:24!4">αὗται</e>
                <e id="N1904.Gal.4.24.5" clearId="n48004024005" usfm="GAL 4:24!5">γάρ</e>
                <e id="N1904.Gal.4.24.6" clearId="n48004024006" usfm="GAL 4:24!6">εἰσιν</e>
@@ -2526,7 +2526,7 @@
                   usfm="GAL 4:24!8"
                   after=",">διαθῆκαι</e>
             </c>
-            <c id="N1904.Gal.4.24.9-25.20" unit="move">
+            <c unit="move" id="N1904.Gal.4.24.9-25.20">
                <e id="N1904.Gal.4.24.9" clearId="n48004024009" usfm="GAL 4:24!9">μία</e>
                <e id="N1904.Gal.4.24.10" clearId="n48004024010" usfm="GAL 4:24!10">μὲν</e>
                <e id="N1904.Gal.4.24.11" clearId="n48004024011" usfm="GAL 4:24!11">ἀπὸ</e>
@@ -2577,7 +2577,7 @@
                   usfm="GAL 4:25!20"
                   after=".">αὐτῆς</e>
             </c>
-            <c id="N1904.Gal.4.26.1-10" unit="move">
+            <c unit="move" id="N1904.Gal.4.26.1-10">
                <e id="N1904.Gal.4.26.1" clearId="n48004026001" usfm="GAL 4:26!1">ἡ</e>
                <e id="N1904.Gal.4.26.2" clearId="n48004026002" usfm="GAL 4:26!2">δὲ</e>
                <e id="N1904.Gal.4.26.3" clearId="n48004026003" usfm="GAL 4:26!3">ἄνω</e>
@@ -2595,11 +2595,11 @@
                   usfm="GAL 4:26!10"
                   after="·">ἡμῶν</e>
             </c>
-            <c id="N1904.Gal.4.27.1-25" unit="move">
+            <c unit="move" id="N1904.Gal.4.27.1-25">
                <e id="N1904.Gal.4.27.1" clearId="n48004027001" usfm="GAL 4:27!1">γέγραπται</e>
                <e id="N1904.Gal.4.27.2" clearId="n48004027002" usfm="GAL 4:27!2">γάρ</e>
                <c unit="turn">
-                  <c id="N1904.Gal.4.27.3-25" unit="move">
+                  <c unit="move" id="N1904.Gal.4.27.3-25">
                      <e id="N1904.Gal.4.27.3"
                         clearId="n48004027003"
                         usfm="GAL 4:27!3"
@@ -2641,7 +2641,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Gal.4.28.1-8" unit="move">
+            <c unit="move" id="N1904.Gal.4.28.1-8">
                <e id="N1904.Gal.4.28.1" clearId="n48004028001" usfm="GAL 4:28!1">ὑμεῖς</e>
                <e id="N1904.Gal.4.28.2"
                   clearId="n48004028002"
@@ -2660,7 +2660,7 @@
                   usfm="GAL 4:28!8"
                   after=".">ἐστέ</e>
             </c>
-            <c id="N1904.Gal.4.29.1-14" unit="move">
+            <c unit="move" id="N1904.Gal.4.29.1-14">
                <e id="N1904.Gal.4.29.1" clearId="n48004029001" usfm="GAL 4:29!1">ἀλλ’</e>
                <e id="N1904.Gal.4.29.2" clearId="n48004029002" usfm="GAL 4:29!2">ὥσπερ</e>
                <e id="N1904.Gal.4.29.3" clearId="n48004029003" usfm="GAL 4:29!3">τότε</e>
@@ -2682,7 +2682,7 @@
                   usfm="GAL 4:29!14"
                   after=".">νῦν</e>
             </c>
-            <c id="N1904.Gal.4.30.1-25" unit="move">
+            <c unit="move" id="N1904.Gal.4.30.1-25">
                <e id="N1904.Gal.4.30.1" clearId="n48004030001" usfm="GAL 4:30!1">ἀλλὰ</e>
                <e id="N1904.Gal.4.30.2" clearId="n48004030002" usfm="GAL 4:30!2">τί</e>
                <e id="N1904.Gal.4.30.3" clearId="n48004030003" usfm="GAL 4:30!3">λέγει</e>
@@ -2692,7 +2692,7 @@
                   usfm="GAL 4:30!5"
                   after=";">γραφή</e>
                <c unit="turn">
-                  <c id="N1904.Gal.4.30.6-12" unit="move">
+                  <c unit="move" id="N1904.Gal.4.30.6-12">
                      <e id="N1904.Gal.4.30.6" clearId="n48004030006" usfm="GAL 4:30!6">Ἔκβαλε</e>
                      <e id="N1904.Gal.4.30.7" clearId="n48004030007" usfm="GAL 4:30!7">τὴν</e>
                      <e id="N1904.Gal.4.30.8" clearId="n48004030008" usfm="GAL 4:30!8">παιδίσκην</e>
@@ -2706,7 +2706,7 @@
                   </c>
                </c>
                <c unit="turn">
-                  <c id="N1904.Gal.4.30.13-25" unit="move">
+                  <c unit="move" id="N1904.Gal.4.30.13-25">
                      <e id="N1904.Gal.4.30.13" clearId="n48004030013" usfm="GAL 4:30!13">οὐ</e>
                      <e id="N1904.Gal.4.30.14" clearId="n48004030014" usfm="GAL 4:30!14">γὰρ</e>
                      <e id="N1904.Gal.4.30.15" clearId="n48004030015" usfm="GAL 4:30!15">μὴ</e>
@@ -2726,7 +2726,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Gal.4.31.1-9" unit="move">
+            <c unit="move" id="N1904.Gal.4.31.1-9">
                <e id="N1904.Gal.4.31.1"
                   clearId="n48004031001"
                   usfm="GAL 4:31!1"
@@ -2748,7 +2748,7 @@
             </c>
          </c>
          <c unit="seg" title="Christian Liberty an Incentive to Holiness of Life">
-            <c id="N1904.Gal.5.1.1-5" unit="move">
+            <c unit="move" id="N1904.Gal.5.1.1-5">
                <e id="N1904.Gal.5.1.1" clearId="n48005001001" usfm="GAL 5:1!1">Τῇ</e>
                <e id="N1904.Gal.5.1.2" clearId="n48005001002" usfm="GAL 5:1!2">ἐλευθερίᾳ</e>
                <e id="N1904.Gal.5.1.3" clearId="n48005001003" usfm="GAL 5:1!3">ἡμᾶς</e>
@@ -2758,11 +2758,11 @@
                   usfm="GAL 5:1!5"
                   after="·">ἠλευθέρωσεν</e>
             </c>
-            <c id="N1904.Gal.5.1.6-7" unit="move">
+            <c unit="move" id="N1904.Gal.5.1.6-7">
                <e id="N1904.Gal.5.1.6" clearId="n48005001006" usfm="GAL 5:1!6">στήκετε</e>
                <e id="N1904.Gal.5.1.7" clearId="n48005001007" usfm="GAL 5:1!7">οὖν</e>
             </c>
-            <c id="N1904.Gal.5.1.8-13" unit="move">
+            <c unit="move" id="N1904.Gal.5.1.8-13">
                <e id="N1904.Gal.5.1.8" clearId="n48005001008" usfm="GAL 5:1!8">καὶ</e>
                <e id="N1904.Gal.5.1.9" clearId="n48005001009" usfm="GAL 5:1!9">μὴ</e>
                <e id="N1904.Gal.5.1.10" clearId="n48005001010" usfm="GAL 5:1!10">πάλιν</e>
@@ -2773,7 +2773,7 @@
                   usfm="GAL 5:1!13"
                   after=".">ἐνέχεσθε</e>
             </c>
-            <c id="N1904.Gal.5.2.1-12" unit="move">
+            <c unit="move" id="N1904.Gal.5.2.1-12">
                <e id="N1904.Gal.5.2.1" clearId="n48005002001" usfm="GAL 5:2!1">Ἴδε</e>
                <e id="N1904.Gal.5.2.2" clearId="n48005002002" usfm="GAL 5:2!2">ἐγὼ</e>
                <e id="N1904.Gal.5.2.3" clearId="n48005002003" usfm="GAL 5:2!3">Παῦλος</e>
@@ -2781,7 +2781,7 @@
                <e id="N1904.Gal.5.2.5" clearId="n48005002005" usfm="GAL 5:2!5">ὑμῖν</e>
                <e id="N1904.Gal.5.2.6" clearId="n48005002006" usfm="GAL 5:2!6">ὅτι</e>
                <c unit="turn">
-                  <c id="N1904.Gal.5.2.7-12" unit="move">
+                  <c unit="move" id="N1904.Gal.5.2.7-12">
                      <e id="N1904.Gal.5.2.7" clearId="n48005002007" usfm="GAL 5:2!7">ἐὰν</e>
                      <e id="N1904.Gal.5.2.8" clearId="n48005002008" usfm="GAL 5:2!8">περιτέμνησθε</e>
                      <e id="N1904.Gal.5.2.9" clearId="n48005002009" usfm="GAL 5:2!9">Χριστὸς</e>
@@ -2794,7 +2794,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Gal.5.3.1-13" unit="move">
+            <c unit="move" id="N1904.Gal.5.3.1-13">
                <e id="N1904.Gal.5.3.1" clearId="n48005003001" usfm="GAL 5:3!1">μαρτύρομαι</e>
                <e id="N1904.Gal.5.3.2" clearId="n48005003002" usfm="GAL 5:3!2">δὲ</e>
                <e id="N1904.Gal.5.3.3" clearId="n48005003003" usfm="GAL 5:3!3">πάλιν</e>
@@ -2812,7 +2812,7 @@
                   usfm="GAL 5:3!13"
                   after=".">ποιῆσαι</e>
             </c>
-            <c id="N1904.Gal.5.4.1-10" unit="move">
+            <c unit="move" id="N1904.Gal.5.4.1-10">
                <e id="N1904.Gal.5.4.1" clearId="n48005004001" usfm="GAL 5:4!1">κατηργήθητε</e>
                <e id="N1904.Gal.5.4.2" clearId="n48005004002" usfm="GAL 5:4!2">ἀπὸ</e>
                <e id="N1904.Gal.5.4.3" clearId="n48005004003" usfm="GAL 5:4!3">Χριστοῦ</e>
@@ -2830,7 +2830,7 @@
                   usfm="GAL 5:4!10"
                   after=".">ἐξεπέσατε</e>
             </c>
-            <c id="N1904.Gal.5.5.1-8" unit="move">
+            <c unit="move" id="N1904.Gal.5.5.1-8">
                <e id="N1904.Gal.5.5.1" clearId="n48005005001" usfm="GAL 5:5!1">ἡμεῖς</e>
                <e id="N1904.Gal.5.5.2" clearId="n48005005002" usfm="GAL 5:5!2">γὰρ</e>
                <e id="N1904.Gal.5.5.3" clearId="n48005005003" usfm="GAL 5:5!3">Πνεύματι</e>
@@ -2843,7 +2843,7 @@
                   usfm="GAL 5:5!8"
                   after=".">ἀπεκδεχόμεθα</e>
             </c>
-            <c id="N1904.Gal.5.6.1-15" unit="move">
+            <c unit="move" id="N1904.Gal.5.6.1-15">
                <e id="N1904.Gal.5.6.1" clearId="n48005006001" usfm="GAL 5:6!1">ἐν</e>
                <e id="N1904.Gal.5.6.2" clearId="n48005006002" usfm="GAL 5:6!2">γὰρ</e>
                <e id="N1904.Gal.5.6.3" clearId="n48005006003" usfm="GAL 5:6!3">Χριστῷ</e>
@@ -2866,14 +2866,14 @@
                   usfm="GAL 5:6!15"
                   after=".">ἐνεργουμένη</e>
             </c>
-            <c id="N1904.Gal.5.7.1-2" unit="move">
+            <c unit="move" id="N1904.Gal.5.7.1-2">
                <e id="N1904.Gal.5.7.1" clearId="n48005007001" usfm="GAL 5:7!1">Ἐτρέχετε</e>
                <e id="N1904.Gal.5.7.2"
                   clearId="n48005007002"
                   usfm="GAL 5:7!2"
                   after="·">καλῶς</e>
             </c>
-            <c id="N1904.Gal.5.7.3-8" unit="move">
+            <c unit="move" id="N1904.Gal.5.7.3-8">
                <e id="N1904.Gal.5.7.3" clearId="n48005007003" usfm="GAL 5:7!3">τίς</e>
                <e id="N1904.Gal.5.7.4" clearId="n48005007004" usfm="GAL 5:7!4">ὑμᾶς</e>
                <e id="N1904.Gal.5.7.5" clearId="n48005007005" usfm="GAL 5:7!5">ἐνέκοψεν</e>
@@ -2884,7 +2884,7 @@
                   usfm="GAL 5:7!8"
                   after=";">πείθεσθαι</e>
             </c>
-            <c id="N1904.Gal.5.8.1-7" unit="move">
+            <c unit="move" id="N1904.Gal.5.8.1-7">
                <e id="N1904.Gal.5.8.1" clearId="n48005008001" usfm="GAL 5:8!1">ἡ</e>
                <e id="N1904.Gal.5.8.2" clearId="n48005008002" usfm="GAL 5:8!2">πεισμονὴ</e>
                <e id="N1904.Gal.5.8.3" clearId="n48005008003" usfm="GAL 5:8!3">οὐκ</e>
@@ -2896,7 +2896,7 @@
                   usfm="GAL 5:8!7"
                   after=".">ὑμᾶς</e>
             </c>
-            <c id="N1904.Gal.5.9.1-6" unit="move">
+            <c unit="move" id="N1904.Gal.5.9.1-6">
                <e id="N1904.Gal.5.9.1" clearId="n48005009001" usfm="GAL 5:9!1">μικρὰ</e>
                <e id="N1904.Gal.5.9.2" clearId="n48005009002" usfm="GAL 5:9!2">ζύμη</e>
                <e id="N1904.Gal.5.9.3" clearId="n48005009003" usfm="GAL 5:9!3">ὅλον</e>
@@ -2907,7 +2907,7 @@
                   usfm="GAL 5:9!6"
                   after=".">ζυμοῖ</e>
             </c>
-            <c id="N1904.Gal.5.10.1-10" unit="move">
+            <c unit="move" id="N1904.Gal.5.10.1-10">
                <e id="N1904.Gal.5.10.1" clearId="n48005010001" usfm="GAL 5:10!1">ἐγὼ</e>
                <e id="N1904.Gal.5.10.2" clearId="n48005010002" usfm="GAL 5:10!2">πέποιθα</e>
                <e id="N1904.Gal.5.10.3" clearId="n48005010003" usfm="GAL 5:10!3">εἰς</e>
@@ -2922,7 +2922,7 @@
                   usfm="GAL 5:10!10"
                   after="·">φρονήσετε</e>
             </c>
-            <c id="N1904.Gal.5.10.11-17" unit="move">
+            <c unit="move" id="N1904.Gal.5.10.11-17">
                <e id="N1904.Gal.5.10.11" clearId="n48005010011" usfm="GAL 5:10!11">ὁ</e>
                <e id="N1904.Gal.5.10.12" clearId="n48005010012" usfm="GAL 5:10!12">δὲ</e>
                <e id="N1904.Gal.5.10.13" clearId="n48005010013" usfm="GAL 5:10!13">ταράσσων</e>
@@ -2934,7 +2934,7 @@
                   usfm="GAL 5:10!17"
                   after=",">κρίμα</e>
             </c>
-            <c id="N1904.Gal.5.10.18-20" unit="move">
+            <c unit="move" id="N1904.Gal.5.10.18-20">
                <e id="N1904.Gal.5.10.18" clearId="n48005010018" usfm="GAL 5:10!18">ὅστις</e>
                <e id="N1904.Gal.5.10.19" clearId="n48005010019" usfm="GAL 5:10!19">ἐὰν</e>
                <e id="N1904.Gal.5.10.20"
@@ -2942,7 +2942,7 @@
                   usfm="GAL 5:10!20"
                   after=".">ᾖ</e>
             </c>
-            <c id="N1904.Gal.5.11.1-10" unit="move">
+            <c unit="move" id="N1904.Gal.5.11.1-10">
                <e id="N1904.Gal.5.11.1" clearId="n48005011001" usfm="GAL 5:11!1">Ἐγὼ</e>
                <e id="N1904.Gal.5.11.2"
                   clearId="n48005011002"
@@ -2966,7 +2966,7 @@
                   usfm="GAL 5:11!10"
                   after=";">διώκομαι</e>
             </c>
-            <c id="N1904.Gal.5.11.11-16" unit="move">
+            <c unit="move" id="N1904.Gal.5.11.11-16">
                <e id="N1904.Gal.5.11.11" clearId="n48005011011" usfm="GAL 5:11!11">ἄρα</e>
                <e id="N1904.Gal.5.11.12" clearId="n48005011012" usfm="GAL 5:11!12">κατήργηται</e>
                <e id="N1904.Gal.5.11.13" clearId="n48005011013" usfm="GAL 5:11!13">τὸ</e>
@@ -2977,7 +2977,7 @@
                   usfm="GAL 5:11!16"
                   after=".">σταυροῦ</e>
             </c>
-            <c id="N1904.Gal.5.12.1-6" unit="move">
+            <c unit="move" id="N1904.Gal.5.12.1-6">
                <e id="N1904.Gal.5.12.1" clearId="n48005012001" usfm="GAL 5:12!1">Ὄφελον</e>
                <e id="N1904.Gal.5.12.2" clearId="n48005012002" usfm="GAL 5:12!2">καὶ</e>
                <e id="N1904.Gal.5.12.3" clearId="n48005012003" usfm="GAL 5:12!3">ἀποκόψονται</e>
@@ -2988,7 +2988,7 @@
                   usfm="GAL 5:12!6"
                   after=".">ὑμᾶς</e>
             </c>
-            <c id="N1904.Gal.5.13.1-6" unit="move">
+            <c unit="move" id="N1904.Gal.5.13.1-6">
                <e id="N1904.Gal.5.13.1" clearId="n48005013001" usfm="GAL 5:13!1">Ὑμεῖς</e>
                <e id="N1904.Gal.5.13.2" clearId="n48005013002" usfm="GAL 5:13!2">γὰρ</e>
                <e id="N1904.Gal.5.13.3" clearId="n48005013003" usfm="GAL 5:13!3">ἐπ’</e>
@@ -3002,7 +3002,7 @@
                   usfm="GAL 5:13!6"
                   after="·">ἀδελφοί</e>
             </c>
-            <c id="N1904.Gal.5.13.7-20" unit="move">
+            <c unit="move" id="N1904.Gal.5.13.7-20">
                <e id="N1904.Gal.5.13.7" clearId="n48005013007" usfm="GAL 5:13!7">μόνον</e>
                <e id="N1904.Gal.5.13.8" clearId="n48005013008" usfm="GAL 5:13!8">μὴ</e>
                <e id="N1904.Gal.5.13.9" clearId="n48005013009" usfm="GAL 5:13!9">τὴν</e>
@@ -3024,7 +3024,7 @@
                   usfm="GAL 5:13!20"
                   after=".">ἀλλήλοις</e>
             </c>
-            <c id="N1904.Gal.5.14.1-16" unit="move">
+            <c unit="move" id="N1904.Gal.5.14.1-16">
                <e id="N1904.Gal.5.14.1" clearId="n48005014001" usfm="GAL 5:14!1">ὁ</e>
                <e id="N1904.Gal.5.14.2" clearId="n48005014002" usfm="GAL 5:14!2">γὰρ</e>
                <e id="N1904.Gal.5.14.3" clearId="n48005014003" usfm="GAL 5:14!3">πᾶς</e>
@@ -3048,7 +3048,7 @@
                   usfm="GAL 5:14!16"
                   after=".">σεαυτόν</e>
             </c>
-            <c id="N1904.Gal.5.15.1-11" unit="move">
+            <c unit="move" id="N1904.Gal.5.15.1-11">
                <e id="N1904.Gal.5.15.1" clearId="n48005015001" usfm="GAL 5:15!1">εἰ</e>
                <e id="N1904.Gal.5.15.2" clearId="n48005015002" usfm="GAL 5:15!2">δὲ</e>
                <e id="N1904.Gal.5.15.3" clearId="n48005015003" usfm="GAL 5:15!3">ἀλλήλους</e>
@@ -3067,14 +3067,14 @@
                   usfm="GAL 5:15!11"
                   after=".">ἀναλωθῆτε</e>
             </c>
-            <c id="N1904.Gal.5.16.1-10" unit="move">
+            <c unit="move" id="N1904.Gal.5.16.1-10">
                <e id="N1904.Gal.5.16.1" clearId="n48005016001" usfm="GAL 5:16!1">Λέγω</e>
                <e id="N1904.Gal.5.16.2"
                   clearId="n48005016002"
                   usfm="GAL 5:16!2"
                   after=",">δέ</e>
                <c unit="turn">
-                  <c id="N1904.Gal.5.16.3-10" unit="move">
+                  <c unit="move" id="N1904.Gal.5.16.3-10">
                      <e id="N1904.Gal.5.16.3" clearId="n48005016003" usfm="GAL 5:16!3">Πνεύματι</e>
                      <e id="N1904.Gal.5.16.4" clearId="n48005016004" usfm="GAL 5:16!4">περιπατεῖτε</e>
                      <e id="N1904.Gal.5.16.5" clearId="n48005016005" usfm="GAL 5:16!5">καὶ</e>
@@ -3089,7 +3089,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Gal.5.17.1-7" unit="move">
+            <c unit="move" id="N1904.Gal.5.17.1-7">
                <e id="N1904.Gal.5.17.1" clearId="n48005017001" usfm="GAL 5:17!1">ἡ</e>
                <e id="N1904.Gal.5.17.2" clearId="n48005017002" usfm="GAL 5:17!2">γὰρ</e>
                <e id="N1904.Gal.5.17.3" clearId="n48005017003" usfm="GAL 5:17!3">σὰρξ</e>
@@ -3101,7 +3101,7 @@
                   usfm="GAL 5:17!7"
                   after=",">Πνεύματος</e>
             </c>
-            <c id="N1904.Gal.5.17.8-13" unit="move">
+            <c unit="move" id="N1904.Gal.5.17.8-13">
                <e id="N1904.Gal.5.17.8" clearId="n48005017008" usfm="GAL 5:17!8">τὸ</e>
                <e id="N1904.Gal.5.17.9" clearId="n48005017009" usfm="GAL 5:17!9">δὲ</e>
                <e id="N1904.Gal.5.17.10" clearId="n48005017010" usfm="GAL 5:17!10">Πνεῦμα</e>
@@ -3112,7 +3112,7 @@
                   usfm="GAL 5:17!13"
                   after=",">σαρκός</e>
             </c>
-            <c id="N1904.Gal.5.17.14-24" unit="move">
+            <c unit="move" id="N1904.Gal.5.17.14-24">
                <e id="N1904.Gal.5.17.14" clearId="n48005017014" usfm="GAL 5:17!14">ταῦτα</e>
                <e id="N1904.Gal.5.17.15" clearId="n48005017015" usfm="GAL 5:17!15">γὰρ</e>
                <e id="N1904.Gal.5.17.16" clearId="n48005017016" usfm="GAL 5:17!16">ἀλλήλοις</e>
@@ -3131,7 +3131,7 @@
                   usfm="GAL 5:17!24"
                   after=".">ποιῆτε</e>
             </c>
-            <c id="N1904.Gal.5.18.1-8" unit="move">
+            <c unit="move" id="N1904.Gal.5.18.1-8">
                <e id="N1904.Gal.5.18.1" clearId="n48005018001" usfm="GAL 5:18!1">εἰ</e>
                <e id="N1904.Gal.5.18.2" clearId="n48005018002" usfm="GAL 5:18!2">δὲ</e>
                <e id="N1904.Gal.5.18.3" clearId="n48005018003" usfm="GAL 5:18!3">Πνεύματι</e>
@@ -3147,7 +3147,7 @@
                   usfm="GAL 5:18!8"
                   after=".">νόμον</e>
             </c>
-            <c id="N1904.Gal.5.19.1-21.21" unit="move">
+            <c unit="move" id="N1904.Gal.5.19.1-21.21">
                <e id="N1904.Gal.5.19.1" clearId="n48005019001" usfm="GAL 5:19!1">φανερὰ</e>
                <e id="N1904.Gal.5.19.2" clearId="n48005019002" usfm="GAL 5:19!2">δέ</e>
                <e id="N1904.Gal.5.19.3" clearId="n48005019003" usfm="GAL 5:19!3">ἐστιν</e>
@@ -3234,7 +3234,7 @@
                <e id="N1904.Gal.5.21.12" clearId="n48005021012" usfm="GAL 5:21!12">προεῖπον</e>
                <e id="N1904.Gal.5.21.13" clearId="n48005021013" usfm="GAL 5:21!13">ὅτι</e>
                <c unit="turn">
-                  <c id="N1904.Gal.5.21.14-21" unit="move">
+                  <c unit="move" id="N1904.Gal.5.21.14-21">
                      <e id="N1904.Gal.5.21.14" clearId="n48005021014" usfm="GAL 5:21!14">οἱ</e>
                      <e id="N1904.Gal.5.21.15" clearId="n48005021015" usfm="GAL 5:21!15">τὰ</e>
                      <e id="N1904.Gal.5.21.16" clearId="n48005021016" usfm="GAL 5:21!16">τοιαῦτα</e>
@@ -3249,7 +3249,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Gal.5.22.1-23.2" unit="move">
+            <c unit="move" id="N1904.Gal.5.22.1-23.2">
                <e id="N1904.Gal.5.22.1" clearId="n48005022001" usfm="GAL 5:22!1">ὁ</e>
                <e id="N1904.Gal.5.22.2" clearId="n48005022002" usfm="GAL 5:22!2">δὲ</e>
                <e id="N1904.Gal.5.22.3" clearId="n48005022003" usfm="GAL 5:22!3">καρπὸς</e>
@@ -3293,7 +3293,7 @@
                   usfm="GAL 5:23!2"
                   after="·">ἐγκράτεια</e>
             </c>
-            <c id="N1904.Gal.5.23.3-8" unit="move">
+            <c unit="move" id="N1904.Gal.5.23.3-8">
                <e id="N1904.Gal.5.23.3" clearId="n48005023003" usfm="GAL 5:23!3">κατὰ</e>
                <e id="N1904.Gal.5.23.4" clearId="n48005023004" usfm="GAL 5:23!4">τῶν</e>
                <e id="N1904.Gal.5.23.5" clearId="n48005023005" usfm="GAL 5:23!5">τοιούτων</e>
@@ -3304,7 +3304,7 @@
                   usfm="GAL 5:23!8"
                   after=".">νόμος</e>
             </c>
-            <c id="N1904.Gal.5.24.1-14" unit="move">
+            <c unit="move" id="N1904.Gal.5.24.1-14">
                <e id="N1904.Gal.5.24.1" clearId="n48005024001" usfm="GAL 5:24!1">οἱ</e>
                <e id="N1904.Gal.5.24.2" clearId="n48005024002" usfm="GAL 5:24!2">δὲ</e>
                <e id="N1904.Gal.5.24.3" clearId="n48005024003" usfm="GAL 5:24!3">τοῦ</e>
@@ -3323,7 +3323,7 @@
                   usfm="GAL 5:24!14"
                   after=".">ἐπιθυμίαις</e>
             </c>
-            <c id="N1904.Gal.5.25.1-6" unit="move">
+            <c unit="move" id="N1904.Gal.5.25.1-6">
                <e id="N1904.Gal.5.25.1" clearId="n48005025001" usfm="GAL 5:25!1">Εἰ</e>
                <e id="N1904.Gal.5.25.2" clearId="n48005025002" usfm="GAL 5:25!2">ζῶμεν</e>
                <e id="N1904.Gal.5.25.3"
@@ -3337,7 +3337,7 @@
                   usfm="GAL 5:25!6"
                   after=".">στοιχῶμεν</e>
             </c>
-            <c id="N1904.Gal.5.26.1-7" unit="move">
+            <c unit="move" id="N1904.Gal.5.26.1-7">
                <e id="N1904.Gal.5.26.1" clearId="n48005026001" usfm="GAL 5:26!1">μὴ</e>
                <e id="N1904.Gal.5.26.2" clearId="n48005026002" usfm="GAL 5:26!2">γινώμεθα</e>
                <e id="N1904.Gal.5.26.3"
@@ -3357,7 +3357,7 @@
             </c>
          </c>
          <c unit="seg" title="An Admonition to Serve One's Neighbor in Love">
-            <c id="N1904.Gal.6.1.1-23" unit="move">
+            <c unit="move" id="N1904.Gal.6.1.1-23">
                <e id="N1904.Gal.6.1.1"
                   clearId="n48006001001"
                   usfm="GAL 6:1!1"
@@ -3397,7 +3397,7 @@
                   usfm="GAL 6:1!23"
                   after=".">πειρασθῇς</e>
             </c>
-            <c id="N1904.Gal.6.2.1-11" unit="move">
+            <c unit="move" id="N1904.Gal.6.2.1-11">
                <e id="N1904.Gal.6.2.1" clearId="n48006002001" usfm="GAL 6:2!1">Ἀλλήλων</e>
                <e id="N1904.Gal.6.2.2" clearId="n48006002002" usfm="GAL 6:2!2">τὰ</e>
                <e id="N1904.Gal.6.2.3" clearId="n48006002003" usfm="GAL 6:2!3">βάρη</e>
@@ -3416,7 +3416,7 @@
                   usfm="GAL 6:2!11"
                   after=".">Χριστοῦ</e>
             </c>
-            <c id="N1904.Gal.6.3.1-10" unit="move">
+            <c unit="move" id="N1904.Gal.6.3.1-10">
                <e id="N1904.Gal.6.3.1" clearId="n48006003001" usfm="GAL 6:3!1">εἰ</e>
                <e id="N1904.Gal.6.3.2" clearId="n48006003002" usfm="GAL 6:3!2">γὰρ</e>
                <e id="N1904.Gal.6.3.3" clearId="n48006003003" usfm="GAL 6:3!3">δοκεῖ</e>
@@ -3434,7 +3434,7 @@
                   usfm="GAL 6:3!10"
                   after=".">ἑαυτόν</e>
             </c>
-            <c id="N1904.Gal.6.4.1-6" unit="move">
+            <c unit="move" id="N1904.Gal.6.4.1-6">
                <e id="N1904.Gal.6.4.1" clearId="n48006004001" usfm="GAL 6:4!1">τὸ</e>
                <e id="N1904.Gal.6.4.2" clearId="n48006004002" usfm="GAL 6:4!2">δὲ</e>
                <e id="N1904.Gal.6.4.3" clearId="n48006004003" usfm="GAL 6:4!3">ἔργον</e>
@@ -3445,7 +3445,7 @@
                   usfm="GAL 6:4!6"
                   after=",">ἕκαστος</e>
             </c>
-            <c id="N1904.Gal.6.4.7-14" unit="move">
+            <c unit="move" id="N1904.Gal.6.4.7-14">
                <e id="N1904.Gal.6.4.7" clearId="n48006004007" usfm="GAL 6:4!7">καὶ</e>
                <e id="N1904.Gal.6.4.8" clearId="n48006004008" usfm="GAL 6:4!8">τότε</e>
                <e id="N1904.Gal.6.4.9" clearId="n48006004009" usfm="GAL 6:4!9">εἰς</e>
@@ -3455,7 +3455,7 @@
                <e id="N1904.Gal.6.4.13" clearId="n48006004013" usfm="GAL 6:4!13">καύχημα</e>
                <e id="N1904.Gal.6.4.14" clearId="n48006004014" usfm="GAL 6:4!14">ἕξει</e>
             </c>
-            <c id="N1904.Gal.6.4.15-19" unit="move">
+            <c unit="move" id="N1904.Gal.6.4.15-19">
                <e id="N1904.Gal.6.4.15" clearId="n48006004015" usfm="GAL 6:4!15">καὶ</e>
                <e id="N1904.Gal.6.4.16" clearId="n48006004016" usfm="GAL 6:4!16">οὐκ</e>
                <e id="N1904.Gal.6.4.17" clearId="n48006004017" usfm="GAL 6:4!17">εἰς</e>
@@ -3465,7 +3465,7 @@
                   usfm="GAL 6:4!19"
                   after="·">ἕτερον</e>
             </c>
-            <c id="N1904.Gal.6.5.1-6" unit="move">
+            <c unit="move" id="N1904.Gal.6.5.1-6">
                <e id="N1904.Gal.6.5.1" clearId="n48006005001" usfm="GAL 6:5!1">ἕκαστος</e>
                <e id="N1904.Gal.6.5.2" clearId="n48006005002" usfm="GAL 6:5!2">γὰρ</e>
                <e id="N1904.Gal.6.5.3" clearId="n48006005003" usfm="GAL 6:5!3">τὸ</e>
@@ -3476,7 +3476,7 @@
                   usfm="GAL 6:5!6"
                   after=".">βαστάσει</e>
             </c>
-            <c id="N1904.Gal.6.6.1-11" unit="move">
+            <c unit="move" id="N1904.Gal.6.6.1-11">
                <e id="N1904.Gal.6.6.1" clearId="n48006006001" usfm="GAL 6:6!1">Κοινωνείτω</e>
                <e id="N1904.Gal.6.6.2" clearId="n48006006002" usfm="GAL 6:6!2">δὲ</e>
                <e id="N1904.Gal.6.6.3" clearId="n48006006003" usfm="GAL 6:6!3">ὁ</e>
@@ -3492,7 +3492,7 @@
                   usfm="GAL 6:6!11"
                   after=".">ἀγαθοῖς</e>
             </c>
-            <c id="N1904.Gal.6.7.1-5" unit="move">
+            <c unit="move" id="N1904.Gal.6.7.1-5">
                <e id="N1904.Gal.6.7.1" clearId="n48006007001" usfm="GAL 6:7!1">Μὴ</e>
                <e id="N1904.Gal.6.7.2"
                   clearId="n48006007002"
@@ -3505,7 +3505,7 @@
                   usfm="GAL 6:7!5"
                   after=".">μυκτηρίζεται</e>
             </c>
-            <c id="N1904.Gal.6.7.6-8.24" unit="move">
+            <c unit="move" id="N1904.Gal.6.7.6-8.24">
                <e id="N1904.Gal.6.7.6" clearId="n48006007006" usfm="GAL 6:7!6">ὃ</e>
                <e id="N1904.Gal.6.7.7" clearId="n48006007007" usfm="GAL 6:7!7">γὰρ</e>
                <e id="N1904.Gal.6.7.8" clearId="n48006007008" usfm="GAL 6:7!8">ἐὰν</e>
@@ -3551,7 +3551,7 @@
                   usfm="GAL 6:8!24"
                   after=".">αἰώνιον</e>
             </c>
-            <c id="N1904.Gal.6.9.1-6" unit="move">
+            <c unit="move" id="N1904.Gal.6.9.1-6">
                <e id="N1904.Gal.6.9.1" clearId="n48006009001" usfm="GAL 6:9!1">τὸ</e>
                <e id="N1904.Gal.6.9.2" clearId="n48006009002" usfm="GAL 6:9!2">δὲ</e>
                <e id="N1904.Gal.6.9.3" clearId="n48006009003" usfm="GAL 6:9!3">καλὸν</e>
@@ -3562,7 +3562,7 @@
                   usfm="GAL 6:9!6"
                   after="·">ἐνκακῶμεν</e>
             </c>
-            <c id="N1904.Gal.6.9.7-12" unit="move">
+            <c unit="move" id="N1904.Gal.6.9.7-12">
                <e id="N1904.Gal.6.9.7" clearId="n48006009007" usfm="GAL 6:9!7">καιρῷ</e>
                <e id="N1904.Gal.6.9.8" clearId="n48006009008" usfm="GAL 6:9!8">γὰρ</e>
                <e id="N1904.Gal.6.9.9" clearId="n48006009009" usfm="GAL 6:9!9">ἰδίῳ</e>
@@ -3573,7 +3573,7 @@
                   usfm="GAL 6:9!12"
                   after=".">ἐκλυόμενοι</e>
             </c>
-            <c id="N1904.Gal.6.10.1-17" unit="move">
+            <c unit="move" id="N1904.Gal.6.10.1-17">
                <e id="N1904.Gal.6.10.1" clearId="n48006010001" usfm="GAL 6:10!1">Ἄρα</e>
                <e id="N1904.Gal.6.10.2" clearId="n48006010002" usfm="GAL 6:10!2">οὖν</e>
                <e id="N1904.Gal.6.10.3" clearId="n48006010003" usfm="GAL 6:10!3">ὡς</e>
@@ -3603,7 +3603,7 @@
             </c>
          </c>
          <c unit="seg" title="Concluding Remarks">
-            <c id="N1904.Gal.6.11.1-8" unit="move">
+            <c unit="move" id="N1904.Gal.6.11.1-8">
                <e id="N1904.Gal.6.11.1" clearId="n48006011001" usfm="GAL 6:11!1">Ἴδετε</e>
                <e id="N1904.Gal.6.11.2" clearId="n48006011002" usfm="GAL 6:11!2">πηλίκοις</e>
                <e id="N1904.Gal.6.11.3" clearId="n48006011003" usfm="GAL 6:11!3">ὑμῖν</e>
@@ -3616,7 +3616,7 @@
                   usfm="GAL 6:11!8"
                   after=".">χειρί</e>
             </c>
-            <c id="N1904.Gal.6.12.1-17" unit="move">
+            <c unit="move" id="N1904.Gal.6.12.1-17">
                <e id="N1904.Gal.6.12.1" clearId="n48006012001" usfm="GAL 6:12!1">Ὅσοι</e>
                <e id="N1904.Gal.6.12.2" clearId="n48006012002" usfm="GAL 6:12!2">θέλουσιν</e>
                <e id="N1904.Gal.6.12.3" clearId="n48006012003" usfm="GAL 6:12!3">εὐπροσωπῆσαι</e>
@@ -3644,7 +3644,7 @@
                   usfm="GAL 6:12!17"
                   after=".">διώκωνται</e>
             </c>
-            <c id="N1904.Gal.6.13.1-7" unit="move">
+            <c unit="move" id="N1904.Gal.6.13.1-7">
                <e id="N1904.Gal.6.13.1" clearId="n48006013001" usfm="GAL 6:13!1">οὐδὲ</e>
                <e id="N1904.Gal.6.13.2" clearId="n48006013002" usfm="GAL 6:13!2">γὰρ</e>
                <e id="N1904.Gal.6.13.3" clearId="n48006013003" usfm="GAL 6:13!3">οἱ</e>
@@ -3656,7 +3656,7 @@
                   usfm="GAL 6:13!7"
                   after=",">φυλάσσουσιν</e>
             </c>
-            <c id="N1904.Gal.6.13.8-17" unit="move">
+            <c unit="move" id="N1904.Gal.6.13.8-17">
                <e id="N1904.Gal.6.13.8" clearId="n48006013008" usfm="GAL 6:13!8">ἀλλὰ</e>
                <e id="N1904.Gal.6.13.9" clearId="n48006013009" usfm="GAL 6:13!9">θέλουσιν</e>
                <e id="N1904.Gal.6.13.10" clearId="n48006013010" usfm="GAL 6:13!10">ὑμᾶς</e>
@@ -3671,7 +3671,7 @@
                   usfm="GAL 6:13!17"
                   after=".">καυχήσωνται</e>
             </c>
-            <c id="N1904.Gal.6.14.1-15" unit="move">
+            <c unit="move" id="N1904.Gal.6.14.1-15">
                <e id="N1904.Gal.6.14.1" clearId="n48006014001" usfm="GAL 6:14!1">ἐμοὶ</e>
                <e id="N1904.Gal.6.14.2" clearId="n48006014002" usfm="GAL 6:14!2">δὲ</e>
                <e id="N1904.Gal.6.14.3" clearId="n48006014003" usfm="GAL 6:14!3">μὴ</e>
@@ -3691,7 +3691,7 @@
                   usfm="GAL 6:14!15"
                   after=",">Χριστοῦ</e>
             </c>
-            <c id="N1904.Gal.6.14.16-22" unit="move">
+            <c unit="move" id="N1904.Gal.6.14.16-22">
                <e id="N1904.Gal.6.14.16" clearId="n48006014016" usfm="GAL 6:14!16">δι’</e>
                <e id="N1904.Gal.6.14.17" clearId="n48006014017" usfm="GAL 6:14!17">οὗ</e>
                <e id="N1904.Gal.6.14.18" clearId="n48006014018" usfm="GAL 6:14!18">ἐμοὶ</e>
@@ -3703,7 +3703,7 @@
                   usfm="GAL 6:14!22"
                   after=".">κόσμῳ</e>
             </c>
-            <c id="N1904.Gal.6.15.1-10" unit="move">
+            <c unit="move" id="N1904.Gal.6.15.1-10">
                <e id="N1904.Gal.6.15.1" clearId="n48006015001" usfm="GAL 6:15!1">οὔτε</e>
                <e id="N1904.Gal.6.15.2" clearId="n48006015002" usfm="GAL 6:15!2">γὰρ</e>
                <e id="N1904.Gal.6.15.3" clearId="n48006015003" usfm="GAL 6:15!3">περιτομή</e>
@@ -3721,7 +3721,7 @@
                   usfm="GAL 6:15!10"
                   after=".">κτίσις</e>
             </c>
-            <c id="N1904.Gal.6.16.1-17" unit="move">
+            <c unit="move" id="N1904.Gal.6.16.1-17">
                <e id="N1904.Gal.6.16.1" clearId="n48006016001" usfm="GAL 6:16!1">καὶ</e>
                <e id="N1904.Gal.6.16.2" clearId="n48006016002" usfm="GAL 6:16!2">ὅσοι</e>
                <e id="N1904.Gal.6.16.3" clearId="n48006016003" usfm="GAL 6:16!3">τῷ</e>
@@ -3749,7 +3749,7 @@
                   usfm="GAL 6:16!17"
                   after=".">Θεοῦ</e>
             </c>
-            <c id="N1904.Gal.6.17.1-6" unit="move">
+            <c unit="move" id="N1904.Gal.6.17.1-6">
                <e id="N1904.Gal.6.17.1" clearId="n48006017001" usfm="GAL 6:17!1">Τοῦ</e>
                <e id="N1904.Gal.6.17.2" clearId="n48006017002" usfm="GAL 6:17!2">λοιποῦ</e>
                <e id="N1904.Gal.6.17.3" clearId="n48006017003" usfm="GAL 6:17!3">κόπους</e>
@@ -3760,7 +3760,7 @@
                   usfm="GAL 6:17!6"
                   after="·">παρεχέτω</e>
             </c>
-            <c id="N1904.Gal.6.17.7-17" unit="move">
+            <c unit="move" id="N1904.Gal.6.17.7-17">
                <e id="N1904.Gal.6.17.7" clearId="n48006017007" usfm="GAL 6:17!7">ἐγὼ</e>
                <e id="N1904.Gal.6.17.8" clearId="n48006017008" usfm="GAL 6:17!8">γὰρ</e>
                <e id="N1904.Gal.6.17.9" clearId="n48006017009" usfm="GAL 6:17!9">τὰ</e>
@@ -3776,7 +3776,7 @@
                   usfm="GAL 6:17!17"
                   after=".">βαστάζω</e>
             </c>
-            <c id="N1904.Gal.6.18.1-13" unit="move">
+            <c unit="move" id="N1904.Gal.6.18.1-13">
                <e id="N1904.Gal.6.18.1" clearId="n48006018001" usfm="GAL 6:18!1">Ἠ</e>
                <e id="N1904.Gal.6.18.2" clearId="n48006018002" usfm="GAL 6:18!2">χάρις</e>
                <e id="N1904.Gal.6.18.3" clearId="n48006018003" usfm="GAL 6:18!3">τοῦ</e>

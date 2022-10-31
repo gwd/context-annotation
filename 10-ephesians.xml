@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../../Display_Files/styles/context.css"?>
+<?xml-stylesheet href="context.css"?>
 <OpenText xmlns:cblte="http://www.cblte.org"
           xmlns:fn="http://www.w3.org/2005/xpath-functions"
           xmlns:xs="http://www.w3.org/2001/XMLSchema">
@@ -37,7 +37,7 @@
    <text id="Eph">
       <c unit="turn">
          <c unit="seg" title="Salutation">
-            <c id="N1904.Eph.1.1.1-18" unit="move">
+            <c unit="move" id="N1904.Eph.1.1.1-18">
                <e id="N1904.Eph.1.1.1" clearId="n49001001001" usfm="EPH 1:1!1">Παῦλος</e>
                <e id="N1904.Eph.1.1.2" clearId="n49001001002" usfm="EPH 1:1!2">ἀπόστολος</e>
                <e id="N1904.Eph.1.1.3" clearId="n49001001003" usfm="EPH 1:1!3">Χριστοῦ</e>
@@ -66,7 +66,7 @@
                   usfm="EPH 1:1!18"
                   after="·">Ἰησοῦ</e>
             </c>
-            <c id="N1904.Eph.1.2.1-12" unit="move">
+            <c unit="move" id="N1904.Eph.1.2.1-12">
                <e id="N1904.Eph.1.2.1" clearId="n49001002001" usfm="EPH 1:2!1">χάρις</e>
                <e id="N1904.Eph.1.2.2" clearId="n49001002002" usfm="EPH 1:2!2">ὑμῖν</e>
                <e id="N1904.Eph.1.2.3" clearId="n49001002003" usfm="EPH 1:2!3">καὶ</e>
@@ -85,7 +85,7 @@
             </c>
          </c>
          <c unit="seg" title="The Blessings of Eternal Election">
-            <c id="N1904.Eph.1.3.1-6.12" unit="move">
+            <c unit="move" id="N1904.Eph.1.3.1-6.12">
                <e id="N1904.Eph.1.3.1" clearId="n49001003001" usfm="EPH 1:3!1">Εὐλογητὸς</e>
                <e id="N1904.Eph.1.3.2" clearId="n49001003002" usfm="EPH 1:3!2">ὁ</e>
                <e id="N1904.Eph.1.3.3" clearId="n49001003003" usfm="EPH 1:3!3">Θεὸς</e>
@@ -174,7 +174,7 @@
                   usfm="EPH 1:6!12"
                   after=",">Ἠγαπημένῳ</e>
             </c>
-            <c id="N1904.Eph.1.7.1-10.23" unit="move">
+            <c unit="move" id="N1904.Eph.1.7.1-10.23">
                <e id="N1904.Eph.1.7.1" clearId="n49001007001" usfm="EPH 1:7!1">ἐν</e>
                <e id="N1904.Eph.1.7.2" clearId="n49001007002" usfm="EPH 1:7!2">ᾧ</e>
                <e id="N1904.Eph.1.7.3" clearId="n49001007003" usfm="EPH 1:7!3">ἔχομεν</e>
@@ -266,7 +266,7 @@
                   usfm="EPH 1:10!23"
                   after=",">αὐτῷ</e>
             </c>
-            <c id="N1904.Eph.1.11.1-12.13" unit="move">
+            <c unit="move" id="N1904.Eph.1.11.1-12.13">
                <e id="N1904.Eph.1.11.1" clearId="n49001011001" usfm="EPH 1:11!1">ἐν</e>
                <e id="N1904.Eph.1.11.2" clearId="n49001011002" usfm="EPH 1:11!2">ᾧ</e>
                <e id="N1904.Eph.1.11.3" clearId="n49001011003" usfm="EPH 1:11!3">καὶ</e>
@@ -304,7 +304,7 @@
                   usfm="EPH 1:12!13"
                   after="·">Χριστῷ</e>
             </c>
-            <c id="N1904.Eph.1.13.1-14.15" unit="move">
+            <c unit="move" id="N1904.Eph.1.13.1-14.15">
                <e id="N1904.Eph.1.13.1" clearId="n49001013001" usfm="EPH 1:13!1">ἐν</e>
                <e id="N1904.Eph.1.13.2" clearId="n49001013002" usfm="EPH 1:13!2">ᾧ</e>
                <e id="N1904.Eph.1.13.3" clearId="n49001013003" usfm="EPH 1:13!3">καὶ</e>
@@ -369,7 +369,7 @@
             </c>
          </c>
          <c unit="seg" title="Prayer for Spiritual Enlightenment">
-            <c id="N1904.Eph.1.15.1-19.20" unit="move">
+            <c unit="move" id="N1904.Eph.1.15.1-19.20">
                <e id="N1904.Eph.1.15.1" clearId="n49001015001" usfm="EPH 1:15!1">Διὰ</e>
                <e id="N1904.Eph.1.15.2" clearId="n49001015002" usfm="EPH 1:15!2">τοῦτο</e>
                <e id="N1904.Eph.1.15.3"
@@ -501,7 +501,7 @@
                   usfm="EPH 1:19!20"
                   after=",">αὐτοῦ</e>
             </c>
-            <c id="N1904.Eph.1.20.1-21.24" unit="move">
+            <c unit="move" id="N1904.Eph.1.20.1-21.24">
                <e id="N1904.Eph.1.20.1" clearId="n49001020001" usfm="EPH 1:20!1">ἣν</e>
                <e id="N1904.Eph.1.20.2" clearId="n49001020002" usfm="EPH 1:20!2">ἐνήργηκεν</e>
                <e id="N1904.Eph.1.20.3" clearId="n49001020003" usfm="EPH 1:20!3">ἐν</e>
@@ -550,7 +550,7 @@
                   usfm="EPH 1:21!24"
                   after="·">μέλλοντι</e>
             </c>
-            <c id="N1904.Eph.1.22.1-7" unit="move">
+            <c unit="move" id="N1904.Eph.1.22.1-7">
                <e id="N1904.Eph.1.22.1" clearId="n49001022001" usfm="EPH 1:22!1">καὶ</e>
                <e id="N1904.Eph.1.22.2" clearId="n49001022002" usfm="EPH 1:22!2">πάντα</e>
                <e id="N1904.Eph.1.22.3" clearId="n49001022003" usfm="EPH 1:22!3">ὑπέταξεν</e>
@@ -562,7 +562,7 @@
                   usfm="EPH 1:22!7"
                   after=",">αὐτοῦ</e>
             </c>
-            <c id="N1904.Eph.1.22.8-23.13" unit="move">
+            <c unit="move" id="N1904.Eph.1.22.8-23.13">
                <e id="N1904.Eph.1.22.8" clearId="n49001022008" usfm="EPH 1:22!8">καὶ</e>
                <e id="N1904.Eph.1.22.9" clearId="n49001022009" usfm="EPH 1:22!9">αὐτὸν</e>
                <e id="N1904.Eph.1.22.10" clearId="n49001022010" usfm="EPH 1:22!10">ἔδωκεν</e>
@@ -596,7 +596,7 @@
             </c>
          </c>
          <c unit="seg" title="The Church as the Sum Total of Men Saved by Grace">
-            <c id="N1904.Eph.2.1.1-2.27" unit="move">
+            <c unit="move" id="N1904.Eph.2.1.1-2.27">
                <e id="N1904.Eph.2.1.1" clearId="n49002001001" usfm="EPH 2:1!1">καὶ</e>
                <e id="N1904.Eph.2.1.2" clearId="n49002001002" usfm="EPH 2:1!2">ὑμᾶς</e>
                <e id="N1904.Eph.2.1.3" clearId="n49002001003" usfm="EPH 2:1!3">ὄντας</e>
@@ -647,7 +647,7 @@
                   usfm="EPH 2:2!27"
                   after="·">ἀπειθείας</e>
             </c>
-            <c id="N1904.Eph.2.3.1-30" unit="move">
+            <c unit="move" id="N1904.Eph.2.3.1-30">
                <e id="N1904.Eph.2.3.1" clearId="n49002003001" usfm="EPH 2:3!1">ἐν</e>
                <e id="N1904.Eph.2.3.2" clearId="n49002003002" usfm="EPH 2:3!2">οἷς</e>
                <e id="N1904.Eph.2.3.3" clearId="n49002003003" usfm="EPH 2:3!3">καὶ</e>
@@ -688,7 +688,7 @@
                   usfm="EPH 2:3!30"
                   after="·">λοιποί</e>
             </c>
-            <c id="N1904.Eph.2.4.1-5.12" unit="move">
+            <c unit="move" id="N1904.Eph.2.4.1-5.12">
                <e id="N1904.Eph.2.4.1" clearId="n49002004001" usfm="EPH 2:4!1">ὁ</e>
                <e id="N1904.Eph.2.4.2" clearId="n49002004002" usfm="EPH 2:4!2">δὲ</e>
                <e id="N1904.Eph.2.4.3" clearId="n49002004003" usfm="EPH 2:4!3">Θεὸς</e>
@@ -729,7 +729,7 @@
                   usfm="EPH 2:5!12"
                   after=",—">σεσῳσμένοι</e>
             </c>
-            <c id="N1904.Eph.2.6.1-7.20" unit="move">
+            <c unit="move" id="N1904.Eph.2.6.1-7.20">
                <e id="N1904.Eph.2.6.1" clearId="n49002006001" usfm="EPH 2:6!1">καὶ</e>
                <e id="N1904.Eph.2.6.2" clearId="n49002006002" usfm="EPH 2:6!2">συνήγειρεν</e>
                <e id="N1904.Eph.2.6.3" clearId="n49002006003" usfm="EPH 2:6!3">καὶ</e>
@@ -767,7 +767,7 @@
                   usfm="EPH 2:7!20"
                   after=".">Ἰησοῦ</e>
             </c>
-            <c id="N1904.Eph.2.8.1-7" unit="move">
+            <c unit="move" id="N1904.Eph.2.8.1-7">
                <e id="N1904.Eph.2.8.1" clearId="n49002008001" usfm="EPH 2:8!1">τῇ</e>
                <e id="N1904.Eph.2.8.2" clearId="n49002008002" usfm="EPH 2:8!2">γὰρ</e>
                <e id="N1904.Eph.2.8.3" clearId="n49002008003" usfm="EPH 2:8!3">χάριτί</e>
@@ -779,7 +779,7 @@
                   usfm="EPH 2:8!7"
                   after="·">πίστεως</e>
             </c>
-            <c id="N1904.Eph.2.8.8-12" unit="move">
+            <c unit="move" id="N1904.Eph.2.8.8-12">
                <e id="N1904.Eph.2.8.8" clearId="n49002008008" usfm="EPH 2:8!8">καὶ</e>
                <e id="N1904.Eph.2.8.9" clearId="n49002008009" usfm="EPH 2:8!9">τοῦτο</e>
                <e id="N1904.Eph.2.8.10" clearId="n49002008010" usfm="EPH 2:8!10">οὐκ</e>
@@ -789,7 +789,7 @@
                   usfm="EPH 2:8!12"
                   after=",">ὑμῶν</e>
             </c>
-            <c id="N1904.Eph.2.8.13-15" unit="move">
+            <c unit="move" id="N1904.Eph.2.8.13-15">
                <e id="N1904.Eph.2.8.13" clearId="n49002008013" usfm="EPH 2:8!13">Θεοῦ</e>
                <e id="N1904.Eph.2.8.14" clearId="n49002008014" usfm="EPH 2:8!14">τὸ</e>
                <e id="N1904.Eph.2.8.15"
@@ -797,7 +797,7 @@
                   usfm="EPH 2:8!15"
                   after="·">δῶρον</e>
             </c>
-            <c id="N1904.Eph.2.9.1-7" unit="move">
+            <c unit="move" id="N1904.Eph.2.9.1-7">
                <e id="N1904.Eph.2.9.1" clearId="n49002009001" usfm="EPH 2:9!1">οὐκ</e>
                <e id="N1904.Eph.2.9.2" clearId="n49002009002" usfm="EPH 2:9!2">ἐξ</e>
                <e id="N1904.Eph.2.9.3"
@@ -812,7 +812,7 @@
                   usfm="EPH 2:9!7"
                   after=".">καυχήσηται</e>
             </c>
-            <c id="N1904.Eph.2.10.1-19" unit="move">
+            <c unit="move" id="N1904.Eph.2.10.1-19">
                <e id="N1904.Eph.2.10.1" clearId="n49002010001" usfm="EPH 2:10!1">αὐτοῦ</e>
                <e id="N1904.Eph.2.10.2" clearId="n49002010002" usfm="EPH 2:10!2">γάρ</e>
                <e id="N1904.Eph.2.10.3" clearId="n49002010003" usfm="EPH 2:10!3">ἐσμεν</e>
@@ -842,7 +842,7 @@
                   usfm="EPH 2:10!19"
                   after=".">περιπατήσωμεν</e>
             </c>
-            <c id="N1904.Eph.2.11.1-12.26" unit="move">
+            <c unit="move" id="N1904.Eph.2.11.1-12.26">
                <e id="N1904.Eph.2.11.1" clearId="n49002011001" usfm="EPH 2:11!1">Διὸ</e>
                <e id="N1904.Eph.2.11.2" clearId="n49002011002" usfm="EPH 2:11!2">μνημονεύετε</e>
                <e id="N1904.Eph.2.11.3" clearId="n49002011003" usfm="EPH 2:11!3">ὅτι</e>
@@ -904,7 +904,7 @@
                   usfm="EPH 2:12!26"
                   after=".">κόσμῳ</e>
             </c>
-            <c id="N1904.Eph.2.13.1-17" unit="move">
+            <c unit="move" id="N1904.Eph.2.13.1-17">
                <e id="N1904.Eph.2.13.1" clearId="n49002013001" usfm="EPH 2:13!1">νυνὶ</e>
                <e id="N1904.Eph.2.13.2" clearId="n49002013002" usfm="EPH 2:13!2">δὲ</e>
                <e id="N1904.Eph.2.13.3" clearId="n49002013003" usfm="EPH 2:13!3">ἐν</e>
@@ -926,7 +926,7 @@
                   usfm="EPH 2:13!17"
                   after=".">Χριστοῦ</e>
             </c>
-            <c id="N1904.Eph.2.14.1-16.17" unit="move">
+            <c unit="move" id="N1904.Eph.2.14.1-16.17">
                <e id="N1904.Eph.2.14.1" clearId="n49002014001" usfm="EPH 2:14!1">Αὐτὸς</e>
                <e id="N1904.Eph.2.14.2" clearId="n49002014002" usfm="EPH 2:14!2">γάρ</e>
                <e id="N1904.Eph.2.14.3" clearId="n49002014003" usfm="EPH 2:14!3">ἐστιν</e>
@@ -1008,7 +1008,7 @@
                   usfm="EPH 2:16!17"
                   after="·">αὐτῷ</e>
             </c>
-            <c id="N1904.Eph.2.17.1-18.14" unit="move">
+            <c unit="move" id="N1904.Eph.2.17.1-18.14">
                <e id="N1904.Eph.2.17.1" clearId="n49002017001" usfm="EPH 2:17!1">καὶ</e>
                <e id="N1904.Eph.2.17.2" clearId="n49002017002" usfm="EPH 2:17!2">ἐλθὼν</e>
                <e id="N1904.Eph.2.17.3" clearId="n49002017003" usfm="EPH 2:17!3">εὐηγγελίσατο</e>
@@ -1041,7 +1041,7 @@
                   usfm="EPH 2:18!14"
                   after=".">Πατέρα</e>
             </c>
-            <c id="N1904.Eph.2.19.1-22.11" unit="move">
+            <c unit="move" id="N1904.Eph.2.19.1-22.11">
                <e id="N1904.Eph.2.19.1" clearId="n49002019001" usfm="EPH 2:19!1">ἄρα</e>
                <e id="N1904.Eph.2.19.2" clearId="n49002019002" usfm="EPH 2:19!2">οὖν</e>
                <e id="N1904.Eph.2.19.3" clearId="n49002019003" usfm="EPH 2:19!3">οὐκέτι</e>
@@ -1115,7 +1115,7 @@
          </c>
          <c unit="seg"
             title="The Ministry of Paul for the Edification of the Church">
-            <c id="N1904.Eph.3.1.1-7.19" unit="move">
+            <c unit="move" id="N1904.Eph.3.1.1-7.19">
                <e id="N1904.Eph.3.1.1" clearId="n49003001001" usfm="EPH 3:1!1">Τούτου</e>
                <e id="N1904.Eph.3.1.2" clearId="n49003001002" usfm="EPH 3:1!2">χάριν</e>
                <e id="N1904.Eph.3.1.3" clearId="n49003001003" usfm="EPH 3:1!3">ἐγὼ</e>
@@ -1247,7 +1247,7 @@
                   usfm="EPH 3:7!19"
                   after=".">αὐτοῦ</e>
             </c>
-            <c id="N1904.Eph.3.8.1-12.13" unit="move">
+            <c unit="move" id="N1904.Eph.3.8.1-12.13">
                <e id="N1904.Eph.3.8.1" clearId="n49003008001" usfm="EPH 3:8!1">ἐμοὶ</e>
                <e id="N1904.Eph.3.8.2" clearId="n49003008002" usfm="EPH 3:8!2">τῷ</e>
                <e id="N1904.Eph.3.8.3" clearId="n49003008003" usfm="EPH 3:8!3">ἐλαχιστοτέρῳ</e>
@@ -1348,7 +1348,7 @@
                   usfm="EPH 3:12!13"
                   after=".">αὐτοῦ</e>
             </c>
-            <c id="N1904.Eph.3.13.1-14" unit="move">
+            <c unit="move" id="N1904.Eph.3.13.1-14">
                <e id="N1904.Eph.3.13.1" clearId="n49003013001" usfm="EPH 3:13!1">διὸ</e>
                <e id="N1904.Eph.3.13.2" clearId="n49003013002" usfm="EPH 3:13!2">αἰτοῦμαι</e>
                <e id="N1904.Eph.3.13.3" clearId="n49003013003" usfm="EPH 3:13!3">μὴ</e>
@@ -1370,7 +1370,7 @@
                   usfm="EPH 3:13!14"
                   after=".">ὑμῶν</e>
             </c>
-            <c id="N1904.Eph.3.14.1-19.17" unit="move">
+            <c unit="move" id="N1904.Eph.3.14.1-19.17">
                <e id="N1904.Eph.3.14.1" clearId="n49003014001" usfm="EPH 3:14!1">Τούτου</e>
                <e id="N1904.Eph.3.14.2" clearId="n49003014002" usfm="EPH 3:14!2">χάριν</e>
                <e id="N1904.Eph.3.14.3" clearId="n49003014003" usfm="EPH 3:14!3">κάμπτω</e>
@@ -1482,7 +1482,7 @@
                   usfm="EPH 3:19!17"
                   after=".">Θεοῦ</e>
             </c>
-            <c id="N1904.Eph.3.20.1-21.19" unit="move">
+            <c unit="move" id="N1904.Eph.3.20.1-21.19">
                <e id="N1904.Eph.3.20.1" clearId="n49003020001" usfm="EPH 3:20!1">Τῷ</e>
                <e id="N1904.Eph.3.20.2" clearId="n49003020002" usfm="EPH 3:20!2">δὲ</e>
                <e id="N1904.Eph.3.20.3" clearId="n49003020003" usfm="EPH 3:20!3">δυναμένῳ</e>
@@ -1533,7 +1533,7 @@
          </c>
          <c unit="seg"
             title="Admonitions to Unity, Perfection in Knowledge, Holiness, and Peace">
-            <c id="N1904.Eph.4.1.1-3.11" unit="move">
+            <c unit="move" id="N1904.Eph.4.1.1-3.11">
                <e id="N1904.Eph.4.1.1" clearId="n49004001001" usfm="EPH 4:1!1">Παρακαλῶ</e>
                <e id="N1904.Eph.4.1.2" clearId="n49004001002" usfm="EPH 4:1!2">οὖν</e>
                <e id="N1904.Eph.4.1.3" clearId="n49004001003" usfm="EPH 4:1!3">ὑμᾶς</e>
@@ -1586,7 +1586,7 @@
                   usfm="EPH 4:3!11"
                   after="·">εἰρήνης</e>
             </c>
-            <c id="N1904.Eph.4.4.1-14" unit="move">
+            <c unit="move" id="N1904.Eph.4.4.1-14">
                <e id="N1904.Eph.4.4.1" clearId="n49004004001" usfm="EPH 4:4!1">ἓν</e>
                <e id="N1904.Eph.4.4.2" clearId="n49004004002" usfm="EPH 4:4!2">σῶμα</e>
                <e id="N1904.Eph.4.4.3" clearId="n49004004003" usfm="EPH 4:4!3">καὶ</e>
@@ -1608,7 +1608,7 @@
                   usfm="EPH 4:4!14"
                   after="·">ὑμῶν</e>
             </c>
-            <c id="N1904.Eph.4.5.1-6.14" unit="move">
+            <c unit="move" id="N1904.Eph.4.5.1-6.14">
                <e id="N1904.Eph.4.5.1" clearId="n49004005001" usfm="EPH 4:5!1">εἷς</e>
                <e id="N1904.Eph.4.5.2"
                   clearId="n49004005002"
@@ -1645,7 +1645,7 @@
                   usfm="EPH 4:6!14"
                   after=".">πᾶσιν</e>
             </c>
-            <c id="N1904.Eph.4.7.1-14" unit="move">
+            <c unit="move" id="N1904.Eph.4.7.1-14">
                <e id="N1904.Eph.4.7.1" clearId="n49004007001" usfm="EPH 4:7!1">Ἑνὶ</e>
                <e id="N1904.Eph.4.7.2" clearId="n49004007002" usfm="EPH 4:7!2">δὲ</e>
                <e id="N1904.Eph.4.7.3" clearId="n49004007003" usfm="EPH 4:7!3">ἑκάστῳ</e>
@@ -1664,11 +1664,11 @@
                   usfm="EPH 4:7!14"
                   after=".">Χριστοῦ</e>
             </c>
-            <c id="N1904.Eph.4.8.1-11" unit="move">
+            <c unit="move" id="N1904.Eph.4.8.1-11">
                <e id="N1904.Eph.4.8.1" clearId="n49004008001" usfm="EPH 4:8!1">διὸ</e>
                <e id="N1904.Eph.4.8.2" clearId="n49004008002" usfm="EPH 4:8!2">λέγει</e>
                <c unit="turn">
-                  <c id="N1904.Eph.4.8.3-11" unit="move">
+                  <c unit="move" id="N1904.Eph.4.8.3-11">
                      <e id="N1904.Eph.4.8.3" clearId="n49004008003" usfm="EPH 4:8!3">Ἀναβὰς</e>
                      <e id="N1904.Eph.4.8.4" clearId="n49004008004" usfm="EPH 4:8!4">εἰς</e>
                      <e id="N1904.Eph.4.8.5" clearId="n49004008005" usfm="EPH 4:8!5">ὕψος</e>
@@ -1687,7 +1687,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Eph.4.9.1-16" unit="move">
+            <c unit="move" id="N1904.Eph.4.9.1-16">
                <e id="N1904.Eph.4.9.1" clearId="n49004009001" usfm="EPH 4:9!1">τὸ</e>
                <e id="N1904.Eph.4.9.2" clearId="n49004009002" usfm="EPH 4:9!2">δὲ</e>
                <e id="N1904.Eph.4.9.3" clearId="n49004009003" usfm="EPH 4:9!3">Ἀνέβη</e>
@@ -1708,7 +1708,7 @@
                   usfm="EPH 4:9!16"
                   after=";">γῆς</e>
             </c>
-            <c id="N1904.Eph.4.10.1-15" unit="move">
+            <c unit="move" id="N1904.Eph.4.10.1-15">
                <e id="N1904.Eph.4.10.1" clearId="n49004010001" usfm="EPH 4:10!1">ὁ</e>
                <e id="N1904.Eph.4.10.2" clearId="n49004010002" usfm="EPH 4:10!2">καταβὰς</e>
                <e id="N1904.Eph.4.10.3" clearId="n49004010003" usfm="EPH 4:10!3">αὐτός</e>
@@ -1731,7 +1731,7 @@
                   usfm="EPH 4:10!15"
                   after=".">πάντα</e>
             </c>
-            <c id="N1904.Eph.4.11.1-16.30" unit="move">
+            <c unit="move" id="N1904.Eph.4.11.1-16.30">
                <e id="N1904.Eph.4.11.1" clearId="n49004011001" usfm="EPH 4:11!1">καὶ</e>
                <e id="N1904.Eph.4.11.2" clearId="n49004011002" usfm="EPH 4:11!2">αὐτὸς</e>
                <e id="N1904.Eph.4.11.3" clearId="n49004011003" usfm="EPH 4:11!3">ἔδωκεν</e>
@@ -1902,12 +1902,12 @@
                   usfm="EPH 4:16!30"
                   after=".">ἀγάπῃ</e>
             </c>
-            <c id="N1904.Eph.4.17.1-3" unit="move">
+            <c unit="move" id="N1904.Eph.4.17.1-3">
                <e id="N1904.Eph.4.17.1" clearId="n49004017001" usfm="EPH 4:17!1">Τοῦτο</e>
                <e id="N1904.Eph.4.17.2" clearId="n49004017002" usfm="EPH 4:17!2">οὖν</e>
                <e id="N1904.Eph.4.17.3" clearId="n49004017003" usfm="EPH 4:17!3">λέγω</e>
             </c>
-            <c id="N1904.Eph.4.17.4-19.12" unit="move">
+            <c unit="move" id="N1904.Eph.4.17.4-19.12">
                <e id="N1904.Eph.4.17.4" clearId="n49004017004" usfm="EPH 4:17!4">καὶ</e>
                <e id="N1904.Eph.4.17.5" clearId="n49004017005" usfm="EPH 4:17!5">μαρτύρομαι</e>
                <e id="N1904.Eph.4.17.6" clearId="n49004017006" usfm="EPH 4:17!6">ἐν</e>
@@ -1981,7 +1981,7 @@
                   usfm="EPH 4:19!12"
                   after=".">πλεονεξίᾳ</e>
             </c>
-            <c id="N1904.Eph.4.20.1-24.15" unit="move">
+            <c unit="move" id="N1904.Eph.4.20.1-24.15">
                <e id="N1904.Eph.4.20.1" clearId="n49004020001" usfm="EPH 4:20!1">ὑμεῖς</e>
                <e id="N1904.Eph.4.20.2" clearId="n49004020002" usfm="EPH 4:20!2">δὲ</e>
                <e id="N1904.Eph.4.20.3" clearId="n49004020003" usfm="EPH 4:20!3">οὐχ</e>
@@ -2060,7 +2060,7 @@
                   usfm="EPH 4:24!15"
                   after=".">ἀληθείας</e>
             </c>
-            <c id="N1904.Eph.4.25.1-15" unit="move">
+            <c unit="move" id="N1904.Eph.4.25.1-15">
                <e id="N1904.Eph.4.25.1" clearId="n49004025001" usfm="EPH 4:25!1">Διὸ</e>
                <e id="N1904.Eph.4.25.2" clearId="n49004025002" usfm="EPH 4:25!2">ἀποθέμενοι</e>
                <e id="N1904.Eph.4.25.3" clearId="n49004025003" usfm="EPH 4:25!3">τὸ</e>
@@ -2083,7 +2083,7 @@
                   usfm="EPH 4:25!15"
                   after=".">μέλη</e>
             </c>
-            <c id="N1904.Eph.4.26.1-4" unit="move">
+            <c unit="move" id="N1904.Eph.4.26.1-4">
                <e id="N1904.Eph.4.26.1" clearId="n49004026001" usfm="EPH 4:26!1">ὀργίζεσθε</e>
                <e id="N1904.Eph.4.26.2" clearId="n49004026002" usfm="EPH 4:26!2">καὶ</e>
                <e id="N1904.Eph.4.26.3" clearId="n49004026003" usfm="EPH 4:26!3">μὴ</e>
@@ -2092,7 +2092,7 @@
                   usfm="EPH 4:26!4"
                   after="·">ἁμαρτάνετε</e>
             </c>
-            <c id="N1904.Eph.4.26.5-27.5" unit="move">
+            <c unit="move" id="N1904.Eph.4.26.5-27.5">
                <e id="N1904.Eph.4.26.5" clearId="n49004026005" usfm="EPH 4:26!5">ὁ</e>
                <e id="N1904.Eph.4.26.6" clearId="n49004026006" usfm="EPH 4:26!6">ἥλιος</e>
                <e id="N1904.Eph.4.26.7" clearId="n49004026007" usfm="EPH 4:26!7">μὴ</e>
@@ -2112,7 +2112,7 @@
                   usfm="EPH 4:27!5"
                   after=".">διαβόλῳ</e>
             </c>
-            <c id="N1904.Eph.4.28.1-19" unit="move">
+            <c unit="move" id="N1904.Eph.4.28.1-19">
                <e id="N1904.Eph.4.28.1" clearId="n49004028001" usfm="EPH 4:28!1">ὁ</e>
                <e id="N1904.Eph.4.28.2" clearId="n49004028002" usfm="EPH 4:28!2">κλέπτων</e>
                <e id="N1904.Eph.4.28.3" clearId="n49004028003" usfm="EPH 4:28!3">μηκέτι</e>
@@ -2142,7 +2142,7 @@
                   usfm="EPH 4:28!19"
                   after=".">ἔχοντι</e>
             </c>
-            <c id="N1904.Eph.4.29.1-22" unit="move">
+            <c unit="move" id="N1904.Eph.4.29.1-22">
                <e id="N1904.Eph.4.29.1" clearId="n49004029001" usfm="EPH 4:29!1">πᾶς</e>
                <e id="N1904.Eph.4.29.2" clearId="n49004029002" usfm="EPH 4:29!2">λόγος</e>
                <e id="N1904.Eph.4.29.3" clearId="n49004029003" usfm="EPH 4:29!3">σαπρὸς</e>
@@ -2175,7 +2175,7 @@
                   usfm="EPH 4:29!22"
                   after=".">ἀκούουσιν</e>
             </c>
-            <c id="N1904.Eph.4.30.1-15" unit="move">
+            <c unit="move" id="N1904.Eph.4.30.1-15">
                <e id="N1904.Eph.4.30.1" clearId="n49004030001" usfm="EPH 4:30!1">καὶ</e>
                <e id="N1904.Eph.4.30.2" clearId="n49004030002" usfm="EPH 4:30!2">μὴ</e>
                <e id="N1904.Eph.4.30.3" clearId="n49004030003" usfm="EPH 4:30!3">λυπεῖτε</e>
@@ -2198,7 +2198,7 @@
                   usfm="EPH 4:30!15"
                   after=".">ἀπολυτρώσεως</e>
             </c>
-            <c id="N1904.Eph.4.31.1-16" unit="move">
+            <c unit="move" id="N1904.Eph.4.31.1-16">
                <e id="N1904.Eph.4.31.1" clearId="n49004031001" usfm="EPH 4:31!1">πᾶσα</e>
                <e id="N1904.Eph.4.31.2" clearId="n49004031002" usfm="EPH 4:31!2">πικρία</e>
                <e id="N1904.Eph.4.31.3" clearId="n49004031003" usfm="EPH 4:31!3">καὶ</e>
@@ -2219,7 +2219,7 @@
                   usfm="EPH 4:31!16"
                   after=".">κακίᾳ</e>
             </c>
-            <c id="N1904.Eph.4.32.1-16" unit="move">
+            <c unit="move" id="N1904.Eph.4.32.1-16">
                <e id="N1904.Eph.4.32.1" clearId="n49004032001" usfm="EPH 4:32!1">γίνεσθε</e>
                <e id="N1904.Eph.4.32.2" clearId="n49004032002" usfm="EPH 4:32!2">δὲ</e>
                <e id="N1904.Eph.4.32.3" clearId="n49004032003" usfm="EPH 4:32!3">εἰς</e>
@@ -2249,7 +2249,7 @@
          </c>
          <c unit="seg"
             title="A Warning, Principally against the Sins of Uncleanness">
-            <c id="N1904.Eph.5.1.1-8" unit="move">
+            <c unit="move" id="N1904.Eph.5.1.1-8">
                <e id="N1904.Eph.5.1.1" clearId="n49005001001" usfm="EPH 5:1!1">γίνεσθε</e>
                <e id="N1904.Eph.5.1.2" clearId="n49005001002" usfm="EPH 5:1!2">οὖν</e>
                <e id="N1904.Eph.5.1.3" clearId="n49005001003" usfm="EPH 5:1!3">μιμηταὶ</e>
@@ -2265,7 +2265,7 @@
                   usfm="EPH 5:1!8"
                   after=",">ἀγαπητά</e>
             </c>
-            <c id="N1904.Eph.5.2.1-23" unit="move">
+            <c unit="move" id="N1904.Eph.5.2.1-23">
                <e id="N1904.Eph.5.2.1" clearId="n49005002001" usfm="EPH 5:2!1">καὶ</e>
                <e id="N1904.Eph.5.2.2" clearId="n49005002002" usfm="EPH 5:2!2">περιπατεῖτε</e>
                <e id="N1904.Eph.5.2.3" clearId="n49005002003" usfm="EPH 5:2!3">ἐν</e>
@@ -2296,7 +2296,7 @@
                   usfm="EPH 5:2!23"
                   after=".">εὐωδίας</e>
             </c>
-            <c id="N1904.Eph.5.3.1-4.9" unit="move">
+            <c unit="move" id="N1904.Eph.5.3.1-4.9">
                <e id="N1904.Eph.5.3.1" clearId="n49005003001" usfm="EPH 5:3!1">Πορνεία</e>
                <e id="N1904.Eph.5.3.2" clearId="n49005003002" usfm="EPH 5:3!2">δὲ</e>
                <e id="N1904.Eph.5.3.3" clearId="n49005003003" usfm="EPH 5:3!3">καὶ</e>
@@ -2333,7 +2333,7 @@
                   usfm="EPH 5:4!9"
                   after=",">ἀνῆκεν</e>
             </c>
-            <c id="N1904.Eph.5.4.10-12" unit="move">
+            <c unit="move" id="N1904.Eph.5.4.10-12">
                <e id="N1904.Eph.5.4.10" clearId="n49005004010" usfm="EPH 5:4!10">ἀλλὰ</e>
                <e id="N1904.Eph.5.4.11" clearId="n49005004011" usfm="EPH 5:4!11">μᾶλλον</e>
                <e id="N1904.Eph.5.4.12"
@@ -2341,7 +2341,7 @@
                   usfm="EPH 5:4!12"
                   after=".">εὐχαριστία</e>
             </c>
-            <c id="N1904.Eph.5.5.1-24" unit="move">
+            <c unit="move" id="N1904.Eph.5.5.1-24">
                <e id="N1904.Eph.5.5.1" clearId="n49005005001" usfm="EPH 5:5!1">τοῦτο</e>
                <e id="N1904.Eph.5.5.2" clearId="n49005005002" usfm="EPH 5:5!2">γὰρ</e>
                <e id="N1904.Eph.5.5.3" clearId="n49005005003" usfm="EPH 5:5!3">ἴστε</e>
@@ -2379,7 +2379,7 @@
                   usfm="EPH 5:5!24"
                   after=".">Θεοῦ</e>
             </c>
-            <c id="N1904.Eph.5.6.1-5" unit="move">
+            <c unit="move" id="N1904.Eph.5.6.1-5">
                <e id="N1904.Eph.5.6.1" clearId="n49005006001" usfm="EPH 5:6!1">Μηδεὶς</e>
                <e id="N1904.Eph.5.6.2" clearId="n49005006002" usfm="EPH 5:6!2">ὑμᾶς</e>
                <e id="N1904.Eph.5.6.3" clearId="n49005006003" usfm="EPH 5:6!3">ἀπατάτω</e>
@@ -2389,7 +2389,7 @@
                   usfm="EPH 5:6!5"
                   after="·">λόγοις</e>
             </c>
-            <c id="N1904.Eph.5.6.6-18" unit="move">
+            <c unit="move" id="N1904.Eph.5.6.6-18">
                <e id="N1904.Eph.5.6.6" clearId="n49005006006" usfm="EPH 5:6!6">διὰ</e>
                <e id="N1904.Eph.5.6.7" clearId="n49005006007" usfm="EPH 5:6!7">ταῦτα</e>
                <e id="N1904.Eph.5.6.8" clearId="n49005006008" usfm="EPH 5:6!8">γὰρ</e>
@@ -2407,7 +2407,7 @@
                   usfm="EPH 5:6!18"
                   after=".">ἀπειθείας</e>
             </c>
-            <c id="N1904.Eph.5.7.1-5" unit="move">
+            <c unit="move" id="N1904.Eph.5.7.1-5">
                <e id="N1904.Eph.5.7.1" clearId="n49005007001" usfm="EPH 5:7!1">μὴ</e>
                <e id="N1904.Eph.5.7.2" clearId="n49005007002" usfm="EPH 5:7!2">οὖν</e>
                <e id="N1904.Eph.5.7.3" clearId="n49005007003" usfm="EPH 5:7!3">γίνεσθε</e>
@@ -2417,7 +2417,7 @@
                   usfm="EPH 5:7!5"
                   after="·">αὐτῶν</e>
             </c>
-            <c id="N1904.Eph.5.8.1-4" unit="move">
+            <c unit="move" id="N1904.Eph.5.8.1-4">
                <e id="N1904.Eph.5.8.1" clearId="n49005008001" usfm="EPH 5:8!1">ἦτε</e>
                <e id="N1904.Eph.5.8.2" clearId="n49005008002" usfm="EPH 5:8!2">γάρ</e>
                <e id="N1904.Eph.5.8.3" clearId="n49005008003" usfm="EPH 5:8!3">ποτε</e>
@@ -2426,7 +2426,7 @@
                   usfm="EPH 5:8!4"
                   after=",">σκότος</e>
             </c>
-            <c id="N1904.Eph.5.8.5-9" unit="move">
+            <c unit="move" id="N1904.Eph.5.8.5-9">
                <e id="N1904.Eph.5.8.5" clearId="n49005008005" usfm="EPH 5:8!5">νῦν</e>
                <e id="N1904.Eph.5.8.6" clearId="n49005008006" usfm="EPH 5:8!6">δὲ</e>
                <e id="N1904.Eph.5.8.7" clearId="n49005008007" usfm="EPH 5:8!7">φῶς</e>
@@ -2436,7 +2436,7 @@
                   usfm="EPH 5:8!9"
                   after="·">Κυρίῳ</e>
             </c>
-            <c id="N1904.Eph.5.8.10-13" unit="move">
+            <c unit="move" id="N1904.Eph.5.8.10-13">
                <e id="N1904.Eph.5.8.10" clearId="n49005008010" usfm="EPH 5:8!10">ὡς</e>
                <e id="N1904.Eph.5.8.11" clearId="n49005008011" usfm="EPH 5:8!11">τέκνα</e>
                <e id="N1904.Eph.5.8.12" clearId="n49005008012" usfm="EPH 5:8!12">φωτὸς</e>
@@ -2445,7 +2445,7 @@
                   usfm="EPH 5:8!13"
                   after=",">περιπατεῖτε</e>
             </c>
-            <c id="N1904.Eph.5.9.1-12" unit="move">
+            <c unit="move" id="N1904.Eph.5.9.1-12">
                <e id="N1904.Eph.5.9.1"
                   clearId="n49005009001"
                   usfm="EPH 5:9!1"
@@ -2465,7 +2465,7 @@
                   usfm="EPH 5:9!12"
                   after=",">ἀληθείᾳ</e>
             </c>
-            <c id="N1904.Eph.5.10.1-6" unit="move">
+            <c unit="move" id="N1904.Eph.5.10.1-6">
                <e id="N1904.Eph.5.10.1"
                   clearId="n49005010001"
                   usfm="EPH 5:10!1"
@@ -2479,7 +2479,7 @@
                   usfm="EPH 5:10!6"
                   after=",">Κυρίῳ</e>
             </c>
-            <c id="N1904.Eph.5.11.1-13" unit="move">
+            <c unit="move" id="N1904.Eph.5.11.1-13">
                <e id="N1904.Eph.5.11.1" clearId="n49005011001" usfm="EPH 5:11!1">καὶ</e>
                <e id="N1904.Eph.5.11.2" clearId="n49005011002" usfm="EPH 5:11!2">μὴ</e>
                <e id="N1904.Eph.5.11.3" clearId="n49005011003" usfm="EPH 5:11!3">συνκοινωνεῖτε</e>
@@ -2500,7 +2500,7 @@
                   usfm="EPH 5:11!13"
                   after=",">ἐλέγχετε</e>
             </c>
-            <c id="N1904.Eph.5.12.1-10" unit="move">
+            <c unit="move" id="N1904.Eph.5.12.1-10">
                <e id="N1904.Eph.5.12.1" clearId="n49005012001" usfm="EPH 5:12!1">τὰ</e>
                <e id="N1904.Eph.5.12.2" clearId="n49005012002" usfm="EPH 5:12!2">γὰρ</e>
                <e id="N1904.Eph.5.12.3" clearId="n49005012003" usfm="EPH 5:12!3">κρυφῇ</e>
@@ -2515,7 +2515,7 @@
                   usfm="EPH 5:12!10"
                   after="·">λέγειν</e>
             </c>
-            <c id="N1904.Eph.5.13.1-8" unit="move">
+            <c unit="move" id="N1904.Eph.5.13.1-8">
                <e id="N1904.Eph.5.13.1" clearId="n49005013001" usfm="EPH 5:13!1">τὰ</e>
                <e id="N1904.Eph.5.13.2" clearId="n49005013002" usfm="EPH 5:13!2">δὲ</e>
                <e id="N1904.Eph.5.13.3" clearId="n49005013003" usfm="EPH 5:13!3">πάντα</e>
@@ -2528,7 +2528,7 @@
                   usfm="EPH 5:13!8"
                   after="·">φανεροῦται</e>
             </c>
-            <c id="N1904.Eph.5.13.9-14" unit="move">
+            <c unit="move" id="N1904.Eph.5.13.9-14">
                <e id="N1904.Eph.5.13.9" clearId="n49005013009" usfm="EPH 5:13!9">πᾶν</e>
                <e id="N1904.Eph.5.13.10" clearId="n49005013010" usfm="EPH 5:13!10">γὰρ</e>
                <e id="N1904.Eph.5.13.11" clearId="n49005013011" usfm="EPH 5:13!11">τὸ</e>
@@ -2539,11 +2539,11 @@
                   usfm="EPH 5:13!14"
                   after=".">ἐστιν</e>
             </c>
-            <c id="N1904.Eph.5.14.1-15" unit="move">
+            <c unit="move" id="N1904.Eph.5.14.1-15">
                <e id="N1904.Eph.5.14.1" clearId="n49005014001" usfm="EPH 5:14!1">διὸ</e>
                <e id="N1904.Eph.5.14.2" clearId="n49005014002" usfm="EPH 5:14!2">λέγει</e>
                <c unit="turn">
-                  <c id="N1904.Eph.5.14.3-5" unit="move">
+                  <c unit="move" id="N1904.Eph.5.14.3-5">
                      <e id="N1904.Eph.5.14.3"
                         clearId="n49005014003"
                         usfm="EPH 5:14!3"
@@ -2554,7 +2554,7 @@
                         usfm="EPH 5:14!5"
                         after=",">καθεύδων</e>
                   </c>
-                  <c id="N1904.Eph.5.14.6-10" unit="move">
+                  <c unit="move" id="N1904.Eph.5.14.6-10">
                      <e id="N1904.Eph.5.14.6" clearId="n49005014006" usfm="EPH 5:14!6">καὶ</e>
                      <e id="N1904.Eph.5.14.7" clearId="n49005014007" usfm="EPH 5:14!7">ἀνάστα</e>
                      <e id="N1904.Eph.5.14.8" clearId="n49005014008" usfm="EPH 5:14!8">ἐκ</e>
@@ -2564,7 +2564,7 @@
                         usfm="EPH 5:14!10"
                         after=",">νεκρῶν</e>
                   </c>
-                  <c id="N1904.Eph.5.14.11-15" unit="move">
+                  <c unit="move" id="N1904.Eph.5.14.11-15">
                      <e id="N1904.Eph.5.14.11" clearId="n49005014011" usfm="EPH 5:14!11">καὶ</e>
                      <e id="N1904.Eph.5.14.12" clearId="n49005014012" usfm="EPH 5:14!12">ἐπιφαύσει</e>
                      <e id="N1904.Eph.5.14.13" clearId="n49005014013" usfm="EPH 5:14!13">σοι</e>
@@ -2576,7 +2576,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Eph.5.15.1-16.8" unit="move">
+            <c unit="move" id="N1904.Eph.5.15.1-16.8">
                <e id="N1904.Eph.5.15.1" clearId="n49005015001" usfm="EPH 5:15!1">Βλέπετε</e>
                <e id="N1904.Eph.5.15.2" clearId="n49005015002" usfm="EPH 5:15!2">οὖν</e>
                <e id="N1904.Eph.5.15.3" clearId="n49005015003" usfm="EPH 5:15!3">ἀκριβῶς</e>
@@ -2609,7 +2609,7 @@
                   usfm="EPH 5:16!8"
                   after=".">εἰσιν</e>
             </c>
-            <c id="N1904.Eph.5.17.1-12" unit="move">
+            <c unit="move" id="N1904.Eph.5.17.1-12">
                <e id="N1904.Eph.5.17.1" clearId="n49005017001" usfm="EPH 5:17!1">διὰ</e>
                <e id="N1904.Eph.5.17.2" clearId="n49005017002" usfm="EPH 5:17!2">τοῦτο</e>
                <e id="N1904.Eph.5.17.3" clearId="n49005017003" usfm="EPH 5:17!3">μὴ</e>
@@ -2629,7 +2629,7 @@
                   usfm="EPH 5:17!12"
                   after=".">Κυρίου</e>
             </c>
-            <c id="N1904.Eph.5.18.1-8" unit="move">
+            <c unit="move" id="N1904.Eph.5.18.1-8">
                <e id="N1904.Eph.5.18.1" clearId="n49005018001" usfm="EPH 5:18!1">καὶ</e>
                <e id="N1904.Eph.5.18.2" clearId="n49005018002" usfm="EPH 5:18!2">μὴ</e>
                <e id="N1904.Eph.5.18.3" clearId="n49005018003" usfm="EPH 5:18!3">μεθύσκεσθε</e>
@@ -2645,7 +2645,7 @@
                   usfm="EPH 5:18!8"
                   after=",">ἀσωτία</e>
             </c>
-            <c id="N1904.Eph.5.18.9-21.5" unit="move">
+            <c unit="move" id="N1904.Eph.5.18.9-21.5">
                <e id="N1904.Eph.5.18.9" clearId="n49005018009" usfm="EPH 5:18!9">ἀλλὰ</e>
                <e id="N1904.Eph.5.18.10" clearId="n49005018010" usfm="EPH 5:18!10">πληροῦσθε</e>
                <e id="N1904.Eph.5.18.11" clearId="n49005018011" usfm="EPH 5:18!11">ἐν</e>
@@ -2705,7 +2705,7 @@
          </c>
          <c unit="seg"
             title="The Duties of Husbands and Wives and the Relation of Christ to the Church">
-            <c id="N1904.Eph.5.22.1-23.17" unit="move">
+            <c unit="move" id="N1904.Eph.5.22.1-23.17">
                <e id="N1904.Eph.5.22.1" clearId="n49005022001" usfm="EPH 5:22!1">Αἱ</e>
                <e id="N1904.Eph.5.22.2" clearId="n49005022002" usfm="EPH 5:22!2">γυναῖκες</e>
                <e id="N1904.Eph.5.22.3" clearId="n49005022003" usfm="EPH 5:22!3">τοῖς</e>
@@ -2741,7 +2741,7 @@
                   usfm="EPH 5:23!17"
                   after=".">σώματος</e>
             </c>
-            <c id="N1904.Eph.5.24.1-15" unit="move">
+            <c unit="move" id="N1904.Eph.5.24.1-15">
                <e id="N1904.Eph.5.24.1" clearId="n49005024001" usfm="EPH 5:24!1">ἀλλὰ</e>
                <e id="N1904.Eph.5.24.2" clearId="n49005024002" usfm="EPH 5:24!2">ὡς</e>
                <e id="N1904.Eph.5.24.3" clearId="n49005024003" usfm="EPH 5:24!3">ἡ</e>
@@ -2764,7 +2764,7 @@
                   usfm="EPH 5:24!15"
                   after=".">παντί</e>
             </c>
-            <c id="N1904.Eph.5.25.1-27.22" unit="move">
+            <c unit="move" id="N1904.Eph.5.25.1-27.22">
                <e id="N1904.Eph.5.25.1" clearId="n49005025001" usfm="EPH 5:25!1">Οἱ</e>
                <e id="N1904.Eph.5.25.2"
                   clearId="n49005025002"
@@ -2836,7 +2836,7 @@
                   usfm="EPH 5:27!22"
                   after=".">ἄμωμος</e>
             </c>
-            <c id="N1904.Eph.5.28.1-13" unit="move">
+            <c unit="move" id="N1904.Eph.5.28.1-13">
                <e id="N1904.Eph.5.28.1" clearId="n49005028001" usfm="EPH 5:28!1">οὕτως</e>
                <e id="N1904.Eph.5.28.2" clearId="n49005028002" usfm="EPH 5:28!2">ὀφείλουσιν</e>
                <e id="N1904.Eph.5.28.3" clearId="n49005028003" usfm="EPH 5:28!3">καὶ</e>
@@ -2854,7 +2854,7 @@
                   usfm="EPH 5:28!13"
                   after=".">σώματα</e>
             </c>
-            <c id="N1904.Eph.5.28.14-20" unit="move">
+            <c unit="move" id="N1904.Eph.5.28.14-20">
                <e id="N1904.Eph.5.28.14" clearId="n49005028014" usfm="EPH 5:28!14">ὁ</e>
                <e id="N1904.Eph.5.28.15" clearId="n49005028015" usfm="EPH 5:28!15">ἀγαπῶν</e>
                <e id="N1904.Eph.5.28.16" clearId="n49005028016" usfm="EPH 5:28!16">τὴν</e>
@@ -2866,7 +2866,7 @@
                   usfm="EPH 5:28!20"
                   after="·">ἀγαπᾷ</e>
             </c>
-            <c id="N1904.Eph.5.29.1-7" unit="move">
+            <c unit="move" id="N1904.Eph.5.29.1-7">
                <e id="N1904.Eph.5.29.1" clearId="n49005029001" usfm="EPH 5:29!1">οὐδεὶς</e>
                <e id="N1904.Eph.5.29.2" clearId="n49005029002" usfm="EPH 5:29!2">γάρ</e>
                <e id="N1904.Eph.5.29.3" clearId="n49005029003" usfm="EPH 5:29!3">ποτε</e>
@@ -2878,7 +2878,7 @@
                   usfm="EPH 5:29!7"
                   after=",">ἐμίσησεν</e>
             </c>
-            <c id="N1904.Eph.5.29.8-30.6" unit="move">
+            <c unit="move" id="N1904.Eph.5.29.8-30.6">
                <e id="N1904.Eph.5.29.8" clearId="n49005029008" usfm="EPH 5:29!8">ἀλλὰ</e>
                <e id="N1904.Eph.5.29.9" clearId="n49005029009" usfm="EPH 5:29!9">ἐκτρέφει</e>
                <e id="N1904.Eph.5.29.10" clearId="n49005029010" usfm="EPH 5:29!10">καὶ</e>
@@ -2906,7 +2906,7 @@
                   usfm="EPH 5:30!6"
                   after=".">αὐτοῦ</e>
             </c>
-            <c id="N1904.Eph.5.31.1-22" unit="move">
+            <c unit="move" id="N1904.Eph.5.31.1-22">
                <e id="N1904.Eph.5.31.1" clearId="n49005031001" usfm="EPH 5:31!1">ἀντὶ</e>
                <e id="N1904.Eph.5.31.2" clearId="n49005031002" usfm="EPH 5:31!2">τούτου</e>
                <e id="N1904.Eph.5.31.3" clearId="n49005031003" usfm="EPH 5:31!3">καταλείψει</e>
@@ -2936,7 +2936,7 @@
                   usfm="EPH 5:31!22"
                   after=".">μίαν</e>
             </c>
-            <c id="N1904.Eph.5.32.1-14" unit="move">
+            <c unit="move" id="N1904.Eph.5.32.1-14">
                <e id="N1904.Eph.5.32.1" clearId="n49005032001" usfm="EPH 5:32!1">τὸ</e>
                <e id="N1904.Eph.5.32.2" clearId="n49005032002" usfm="EPH 5:32!2">μυστήριον</e>
                <e id="N1904.Eph.5.32.3" clearId="n49005032003" usfm="EPH 5:32!3">τοῦτο</e>
@@ -2958,7 +2958,7 @@
                   usfm="EPH 5:32!14"
                   after=".">ἐκκλησίαν</e>
             </c>
-            <c id="N1904.Eph.5.33.1-21" unit="move">
+            <c unit="move" id="N1904.Eph.5.33.1-21">
                <e id="N1904.Eph.5.33.1" clearId="n49005033001" usfm="EPH 5:33!1">πλὴν</e>
                <e id="N1904.Eph.5.33.2" clearId="n49005033002" usfm="EPH 5:33!2">καὶ</e>
                <e id="N1904.Eph.5.33.3" clearId="n49005033003" usfm="EPH 5:33!3">ὑμεῖς</e>
@@ -2989,7 +2989,7 @@
             </c>
          </c>
          <c unit="seg" title="The Duties of Children, of Parents, of Servants">
-            <c id="N1904.Eph.6.1.1-8" unit="move">
+            <c unit="move" id="N1904.Eph.6.1.1-8">
                <e id="N1904.Eph.6.1.1" clearId="n49006001001" usfm="EPH 6:1!1">Τὰ</e>
                <e id="N1904.Eph.6.1.2"
                   clearId="n49006001002"
@@ -3005,7 +3005,7 @@
                   usfm="EPH 6:1!8"
                   after="·">Κυρίῳ</e>
             </c>
-            <c id="N1904.Eph.6.1.9-12" unit="move">
+            <c unit="move" id="N1904.Eph.6.1.9-12">
                <e id="N1904.Eph.6.1.9" clearId="n49006001009" usfm="EPH 6:1!9">τοῦτο</e>
                <e id="N1904.Eph.6.1.10" clearId="n49006001010" usfm="EPH 6:1!10">γάρ</e>
                <e id="N1904.Eph.6.1.11" clearId="n49006001011" usfm="EPH 6:1!11">ἐστιν</e>
@@ -3014,7 +3014,7 @@
                   usfm="EPH 6:1!12"
                   after=".">δίκαιον</e>
             </c>
-            <c id="N1904.Eph.6.2.1-3.10" unit="move">
+            <c unit="move" id="N1904.Eph.6.2.1-3.10">
                <e id="N1904.Eph.6.2.1" clearId="n49006002001" usfm="EPH 6:2!1">τίμα</e>
                <e id="N1904.Eph.6.2.2" clearId="n49006002002" usfm="EPH 6:2!2">τὸν</e>
                <e id="N1904.Eph.6.2.3" clearId="n49006002003" usfm="EPH 6:2!3">πατέρα</e>
@@ -3048,7 +3048,7 @@
                   usfm="EPH 6:3!10"
                   after=".">γῆς</e>
             </c>
-            <c id="N1904.Eph.6.4.1-16" unit="move">
+            <c unit="move" id="N1904.Eph.6.4.1-16">
                <e id="N1904.Eph.6.4.1" clearId="n49006004001" usfm="EPH 6:4!1">Καὶ</e>
                <e id="N1904.Eph.6.4.2" clearId="n49006004002" usfm="EPH 6:4!2">οἱ</e>
                <e id="N1904.Eph.6.4.3"
@@ -3075,7 +3075,7 @@
                   usfm="EPH 6:4!16"
                   after=".">Κυρίου</e>
             </c>
-            <c id="N1904.Eph.6.5.1-8.15" unit="move">
+            <c unit="move" id="N1904.Eph.6.5.1-8.15">
                <e id="N1904.Eph.6.5.1" clearId="n49006005001" usfm="EPH 6:5!1">Οἱ</e>
                <e id="N1904.Eph.6.5.2"
                   clearId="n49006005002"
@@ -3163,7 +3163,7 @@
                   usfm="EPH 6:8!15"
                   after=".">ἐλεύθερος</e>
             </c>
-            <c id="N1904.Eph.6.9.1-28" unit="move">
+            <c unit="move" id="N1904.Eph.6.9.1-28">
                <e id="N1904.Eph.6.9.1" clearId="n49006009001" usfm="EPH 6:9!1">Καὶ</e>
                <e id="N1904.Eph.6.9.2" clearId="n49006009002" usfm="EPH 6:9!2">οἱ</e>
                <e id="N1904.Eph.6.9.3"
@@ -3210,7 +3210,7 @@
             </c>
          </c>
          <c unit="seg" title="The Christian's Spiritual Armor and Its Use">
-            <c id="N1904.Eph.6.10.1-12" unit="move">
+            <c unit="move" id="N1904.Eph.6.10.1-12">
                <e id="N1904.Eph.6.10.1" clearId="n49006010001" usfm="EPH 6:10!1">Τοῦ</e>
                <e id="N1904.Eph.6.10.2"
                   clearId="n49006010002"
@@ -3230,7 +3230,7 @@
                   usfm="EPH 6:10!12"
                   after=".">αὐτοῦ</e>
             </c>
-            <c id="N1904.Eph.6.11.1-12.31" unit="move">
+            <c unit="move" id="N1904.Eph.6.11.1-12.31">
                <e id="N1904.Eph.6.11.1" clearId="n49006011001" usfm="EPH 6:11!1">ἐνδύσασθε</e>
                <e id="N1904.Eph.6.11.2" clearId="n49006011002" usfm="EPH 6:11!2">τὴν</e>
                <e id="N1904.Eph.6.11.3" clearId="n49006011003" usfm="EPH 6:11!3">πανοπλίαν</e>
@@ -3296,7 +3296,7 @@
                   usfm="EPH 6:12!31"
                   after=".">ἐπουρανίοις</e>
             </c>
-            <c id="N1904.Eph.6.13.1-19" unit="move">
+            <c unit="move" id="N1904.Eph.6.13.1-19">
                <e id="N1904.Eph.6.13.1" clearId="n49006013001" usfm="EPH 6:13!1">διὰ</e>
                <e id="N1904.Eph.6.13.2" clearId="n49006013002" usfm="EPH 6:13!2">τοῦτο</e>
                <e id="N1904.Eph.6.13.3" clearId="n49006013003" usfm="EPH 6:13!3">ἀναλάβετε</e>
@@ -3323,7 +3323,7 @@
                   usfm="EPH 6:13!19"
                   after=".">στῆναι</e>
             </c>
-            <c id="N1904.Eph.6.14.1-16.18" unit="move">
+            <c unit="move" id="N1904.Eph.6.14.1-16.18">
                <e id="N1904.Eph.6.14.1" clearId="n49006014001" usfm="EPH 6:14!1">στῆτε</e>
                <e id="N1904.Eph.6.14.2" clearId="n49006014002" usfm="EPH 6:14!2">οὖν</e>
                <e id="N1904.Eph.6.14.3" clearId="n49006014003" usfm="EPH 6:14!3">περιζωσάμενοι</e>
@@ -3382,7 +3382,7 @@
                   usfm="EPH 6:16!18"
                   after="·">σβέσαι</e>
             </c>
-            <c id="N1904.Eph.6.17.1-20.13" unit="move">
+            <c unit="move" id="N1904.Eph.6.17.1-20.13">
                <e id="N1904.Eph.6.17.1" clearId="n49006017001" usfm="EPH 6:17!1">καὶ</e>
                <e id="N1904.Eph.6.17.2" clearId="n49006017002" usfm="EPH 6:17!2">τὴν</e>
                <e id="N1904.Eph.6.17.3" clearId="n49006017003" usfm="EPH 6:17!3">περικεφαλαίαν</e>
@@ -3490,7 +3490,7 @@
             </c>
          </c>
          <c unit="seg" title="Concluding Remarks and Greeting">
-            <c id="N1904.Eph.6.21.1-22.17" unit="move">
+            <c unit="move" id="N1904.Eph.6.21.1-22.17">
                <e id="N1904.Eph.6.21.1" clearId="n49006021001" usfm="EPH 6:21!1">Ἵνα</e>
                <e id="N1904.Eph.6.21.2" clearId="n49006021002" usfm="EPH 6:21!2">δὲ</e>
                <e id="N1904.Eph.6.21.3" clearId="n49006021003" usfm="EPH 6:21!3">εἰδῆτε</e>
@@ -3546,7 +3546,7 @@
                   usfm="EPH 6:22!17"
                   after=".">ὑμῶν</e>
             </c>
-            <c id="N1904.Eph.6.23.1-14" unit="move">
+            <c unit="move" id="N1904.Eph.6.23.1-14">
                <e id="N1904.Eph.6.23.1" clearId="n49006023001" usfm="EPH 6:23!1">Εἰρήνη</e>
                <e id="N1904.Eph.6.23.2" clearId="n49006023002" usfm="EPH 6:23!2">τοῖς</e>
                <e id="N1904.Eph.6.23.3" clearId="n49006023003" usfm="EPH 6:23!3">ἀδελφοῖς</e>
@@ -3565,7 +3565,7 @@
                   usfm="EPH 6:23!14"
                   after=".">Χριστοῦ</e>
             </c>
-            <c id="N1904.Eph.6.24.1-13" unit="move">
+            <c unit="move" id="N1904.Eph.6.24.1-13">
                <e id="N1904.Eph.6.24.1" clearId="n49006024001" usfm="EPH 6:24!1">ἡ</e>
                <e id="N1904.Eph.6.24.2" clearId="n49006024002" usfm="EPH 6:24!2">χάρις</e>
                <e id="N1904.Eph.6.24.3" clearId="n49006024003" usfm="EPH 6:24!3">μετὰ</e>

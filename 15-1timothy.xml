@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../../Display_Files/styles/context.css"?>
+<?xml-stylesheet href="context.css"?>
 <OpenText xmlns:cblte="http://www.cblte.org"
           xmlns:fn="http://www.w3.org/2005/xpath-functions"
           xmlns:xs="http://www.w3.org/2001/XMLSchema">
@@ -37,7 +37,7 @@
    <text id="1Tim">
       <c unit="turn">
          <c unit="seg" title="Address and Greeting">
-            <c id="N1904.1Tim.1.1.1-2.5" unit="move">
+            <c unit="move" id="N1904.1Tim.1.1.1-2.5">
                <e id="N1904.1Tim.1.1.1" clearId="n54001001001" usfm="1TI 1:1!1">Παῦλος</e>
                <e id="N1904.1Tim.1.1.2" clearId="n54001001002" usfm="1TI 1:1!2">ἀπόστολος</e>
                <e id="N1904.1Tim.1.1.3" clearId="n54001001003" usfm="1TI 1:1!3">Χριστοῦ</e>
@@ -62,7 +62,7 @@
                   usfm="1TI 1:2!5"
                   after="·">πίστει</e>
             </c>
-            <c id="N1904.1Tim.1.2.6-17" unit="move">
+            <c unit="move" id="N1904.1Tim.1.2.6-17">
                <e id="N1904.1Tim.1.2.6"
                   clearId="n54001002006"
                   usfm="1TI 1:2!6"
@@ -87,7 +87,7 @@
             </c>
          </c>
          <c unit="seg" title="Warning Against False Teachers">
-            <c id="N1904.1Tim.1.3.1-4.16" unit="move">
+            <c unit="move" id="N1904.1Tim.1.3.1-4.16">
                <e id="N1904.1Tim.1.3.1" clearId="n54001003001" usfm="1TI 1:3!1">Καθὼς</e>
                <e id="N1904.1Tim.1.3.2" clearId="n54001003002" usfm="1TI 1:3!2">παρεκάλεσά</e>
                <e id="N1904.1Tim.1.3.3" clearId="n54001003003" usfm="1TI 1:3!3">σε</e>
@@ -131,7 +131,7 @@
                   usfm="1TI 1:4!16"
                   after="·">πίστει</e>
             </c>
-            <c id="N1904.1Tim.1.5.1-7.12" unit="move">
+            <c unit="move" id="N1904.1Tim.1.5.1-7.12">
                <e id="N1904.1Tim.1.5.1" clearId="n54001005001" usfm="1TI 1:5!1">τὸ</e>
                <e id="N1904.1Tim.1.5.2" clearId="n54001005002" usfm="1TI 1:5!2">δὲ</e>
                <e id="N1904.1Tim.1.5.3" clearId="n54001005003" usfm="1TI 1:5!3">τέλος</e>
@@ -181,7 +181,7 @@
             </c>
          </c>
          <c unit="seg" title="The Real Purpose of the Law">
-            <c id="N1904.1Tim.1.8.1-11.11" unit="move">
+            <c unit="move" id="N1904.1Tim.1.8.1-11.11">
                <e id="N1904.1Tim.1.8.1" clearId="n54001008001" usfm="1TI 1:8!1">Οἴδαμεν</e>
                <e id="N1904.1Tim.1.8.2" clearId="n54001008002" usfm="1TI 1:8!2">δὲ</e>
                <e id="N1904.1Tim.1.8.3" clearId="n54001008003" usfm="1TI 1:8!3">ὅτι</e>
@@ -292,7 +292,7 @@
             </c>
          </c>
          <c unit="seg" title="Paul's Praise for the Grace which He has Experienced">
-            <c id="N1904.1Tim.1.12.1-13.8" unit="move">
+            <c unit="move" id="N1904.1Tim.1.12.1-13.8">
                <e id="N1904.1Tim.1.12.1" clearId="n54001012001" usfm="1TI 1:12!1">Χάριν</e>
                <e id="N1904.1Tim.1.12.2" clearId="n54001012002" usfm="1TI 1:12!2">ἔχω</e>
                <e id="N1904.1Tim.1.12.3" clearId="n54001012003" usfm="1TI 1:12!3">τῷ</e>
@@ -328,7 +328,7 @@
                   usfm="1TI 1:13!8"
                   after="·">ὑβριστήν</e>
             </c>
-            <c id="N1904.1Tim.1.13.9-15" unit="move">
+            <c unit="move" id="N1904.1Tim.1.13.9-15">
                <e id="N1904.1Tim.1.13.9" clearId="n54001013009" usfm="1TI 1:13!9">ἀλλὰ</e>
                <e id="N1904.1Tim.1.13.10"
                   clearId="n54001013010"
@@ -343,7 +343,7 @@
                   usfm="1TI 1:13!15"
                   after=",">ἀπιστίᾳ</e>
             </c>
-            <c id="N1904.1Tim.1.14.1-15" unit="move">
+            <c unit="move" id="N1904.1Tim.1.14.1-15">
                <e id="N1904.1Tim.1.14.1" clearId="n54001014001" usfm="1TI 1:14!1">ὑπερεπλεόνασεν</e>
                <e id="N1904.1Tim.1.14.2" clearId="n54001014002" usfm="1TI 1:14!2">δὲ</e>
                <e id="N1904.1Tim.1.14.3" clearId="n54001014003" usfm="1TI 1:14!3">ἡ</e>
@@ -363,7 +363,7 @@
                   usfm="1TI 1:14!15"
                   after=".">Ἰησοῦ</e>
             </c>
-            <c id="N1904.1Tim.1.15.1-20" unit="move">
+            <c unit="move" id="N1904.1Tim.1.15.1-20">
                <e id="N1904.1Tim.1.15.1" clearId="n54001015001" usfm="1TI 1:15!1">πιστὸς</e>
                <e id="N1904.1Tim.1.15.2" clearId="n54001015002" usfm="1TI 1:15!2">ὁ</e>
                <e id="N1904.1Tim.1.15.3" clearId="n54001015003" usfm="1TI 1:15!3">λόγος</e>
@@ -394,7 +394,7 @@
                   usfm="1TI 1:15!20"
                   after="·">ἐγώ</e>
             </c>
-            <c id="N1904.1Tim.1.16.1-24" unit="move">
+            <c unit="move" id="N1904.1Tim.1.16.1-24">
                <e id="N1904.1Tim.1.16.1" clearId="n54001016001" usfm="1TI 1:16!1">ἀλλὰ</e>
                <e id="N1904.1Tim.1.16.2" clearId="n54001016002" usfm="1TI 1:16!2">διὰ</e>
                <e id="N1904.1Tim.1.16.3" clearId="n54001016003" usfm="1TI 1:16!3">τοῦτο</e>
@@ -429,7 +429,7 @@
                   usfm="1TI 1:16!24"
                   after=".">αἰώνιον</e>
             </c>
-            <c id="N1904.1Tim.1.17.1-18" unit="move">
+            <c unit="move" id="N1904.1Tim.1.17.1-18">
                <e id="N1904.1Tim.1.17.1" clearId="n54001017001" usfm="1TI 1:17!1">Τῷ</e>
                <e id="N1904.1Tim.1.17.2" clearId="n54001017002" usfm="1TI 1:17!2">δὲ</e>
                <e id="N1904.1Tim.1.17.3" clearId="n54001017003" usfm="1TI 1:17!3">Βασιλεῖ</e>
@@ -463,7 +463,7 @@
             </c>
          </c>
          <c unit="seg" title="A Warning against Apostasy">
-            <c id="N1904.1Tim.1.18.1-20.13" unit="move">
+            <c unit="move" id="N1904.1Tim.1.18.1-20.13">
                <e id="N1904.1Tim.1.18.1" clearId="n54001018001" usfm="1TI 1:18!1">Ταύτην</e>
                <e id="N1904.1Tim.1.18.2" clearId="n54001018002" usfm="1TI 1:18!2">τὴν</e>
                <e id="N1904.1Tim.1.18.3" clearId="n54001018003" usfm="1TI 1:18!3">παραγγελίαν</e>
@@ -540,7 +540,7 @@
          </c>
          <c unit="seg"
             title="An Admonition to Pray for All Men on the Basis of Christ's Atoning Death">
-            <c id="N1904.1Tim.2.1.1-2.19" unit="move">
+            <c unit="move" id="N1904.1Tim.2.1.1-2.19">
                <e id="N1904.1Tim.2.1.1" clearId="n54002001001" usfm="1TI 2:1!1">Παρακαλῶ</e>
                <e id="N1904.1Tim.2.1.2" clearId="n54002001002" usfm="1TI 2:1!2">οὖν</e>
                <e id="N1904.1Tim.2.1.3" clearId="n54002001003" usfm="1TI 2:1!3">πρῶτον</e>
@@ -594,7 +594,7 @@
                   usfm="1TI 2:2!19"
                   after=".">σεμνότητι</e>
             </c>
-            <c id="N1904.1Tim.2.3.1-4.10" unit="move">
+            <c unit="move" id="N1904.1Tim.2.3.1-4.10">
                <e id="N1904.1Tim.2.3.1" clearId="n54002003001" usfm="1TI 2:3!1">τοῦτο</e>
                <e id="N1904.1Tim.2.3.2" clearId="n54002003002" usfm="1TI 2:3!2">καλὸν</e>
                <e id="N1904.1Tim.2.3.3" clearId="n54002003003" usfm="1TI 2:3!3">καὶ</e>
@@ -621,7 +621,7 @@
                   usfm="1TI 2:4!10"
                   after=".">ἐλθεῖν</e>
             </c>
-            <c id="N1904.1Tim.2.5.1-3" unit="move">
+            <c unit="move" id="N1904.1Tim.2.5.1-3">
                <e id="N1904.1Tim.2.5.1" clearId="n54002005001" usfm="1TI 2:5!1">εἷς</e>
                <e id="N1904.1Tim.2.5.2" clearId="n54002005002" usfm="1TI 2:5!2">γὰρ</e>
                <e id="N1904.1Tim.2.5.3"
@@ -629,7 +629,7 @@
                   usfm="1TI 2:5!3"
                   after=",">Θεός</e>
             </c>
-            <c id="N1904.1Tim.2.5.4-6.6" unit="move">
+            <c unit="move" id="N1904.1Tim.2.5.4-6.6">
                <e id="N1904.1Tim.2.5.4" clearId="n54002005004" usfm="1TI 2:5!4">εἷς</e>
                <e id="N1904.1Tim.2.5.5" clearId="n54002005005" usfm="1TI 2:5!5">καὶ</e>
                <e id="N1904.1Tim.2.5.6" clearId="n54002005006" usfm="1TI 2:5!6">μεσίτης</e>
@@ -655,7 +655,7 @@
                   usfm="1TI 2:6!6"
                   after=",">πάντων</e>
             </c>
-            <c id="N1904.1Tim.2.6.7-10" unit="move">
+            <c unit="move" id="N1904.1Tim.2.6.7-10">
                <e id="N1904.1Tim.2.6.7" clearId="n54002006007" usfm="1TI 2:6!7">τὸ</e>
                <e id="N1904.1Tim.2.6.8" clearId="n54002006008" usfm="1TI 2:6!8">μαρτύριον</e>
                <e id="N1904.1Tim.2.6.9" clearId="n54002006009" usfm="1TI 2:6!9">καιροῖς</e>
@@ -664,7 +664,7 @@
                   usfm="1TI 2:6!10"
                   after="·">ἰδίοις</e>
             </c>
-            <c id="N1904.1Tim.2.7.1-17" unit="move">
+            <c unit="move" id="N1904.1Tim.2.7.1-17">
                <e id="N1904.1Tim.2.7.1" clearId="n54002007001" usfm="1TI 2:7!1">εἰς</e>
                <e id="N1904.1Tim.2.7.2" clearId="n54002007002" usfm="1TI 2:7!2">ὃ</e>
                <e id="N1904.1Tim.2.7.3" clearId="n54002007003" usfm="1TI 2:7!3">ἐτέθην</e>
@@ -697,7 +697,7 @@
             </c>
          </c>
          <c unit="seg" title="The Station and Calling of Christian Women">
-            <c id="N1904.1Tim.2.8.1-10.9" unit="move">
+            <c unit="move" id="N1904.1Tim.2.8.1-10.9">
                <e id="N1904.1Tim.2.8.1" clearId="n54002008001" usfm="1TI 2:8!1">Βούλομαι</e>
                <e id="N1904.1Tim.2.8.2" clearId="n54002008002" usfm="1TI 2:8!2">οὖν</e>
                <e id="N1904.1Tim.2.8.3" clearId="n54002008003" usfm="1TI 2:8!3">προσεύχεσθαι</e>
@@ -759,7 +759,7 @@
                   usfm="1TI 2:10!9"
                   after=".">ἀγαθῶν</e>
             </c>
-            <c id="N1904.1Tim.2.11.1-7" unit="move">
+            <c unit="move" id="N1904.1Tim.2.11.1-7">
                <e id="N1904.1Tim.2.11.1" clearId="n54002011001" usfm="1TI 2:11!1">Γυνὴ</e>
                <e id="N1904.1Tim.2.11.2" clearId="n54002011002" usfm="1TI 2:11!2">ἐν</e>
                <e id="N1904.1Tim.2.11.3" clearId="n54002011003" usfm="1TI 2:11!3">ἡσυχίᾳ</e>
@@ -771,7 +771,7 @@
                   usfm="1TI 2:11!7"
                   after="·">ὑποταγῇ</e>
             </c>
-            <c id="N1904.1Tim.2.12.1-12" unit="move">
+            <c unit="move" id="N1904.1Tim.2.12.1-12">
                <e id="N1904.1Tim.2.12.1" clearId="n54002012001" usfm="1TI 2:12!1">διδάσκειν</e>
                <e id="N1904.1Tim.2.12.2" clearId="n54002012002" usfm="1TI 2:12!2">δὲ</e>
                <e id="N1904.1Tim.2.12.3" clearId="n54002012003" usfm="1TI 2:12!3">γυναικὶ</e>
@@ -794,7 +794,7 @@
                   usfm="1TI 2:12!12"
                   after=".">ἡσυχίᾳ</e>
             </c>
-            <c id="N1904.1Tim.2.13.1-6" unit="move">
+            <c unit="move" id="N1904.1Tim.2.13.1-6">
                <e id="N1904.1Tim.2.13.1" clearId="n54002013001" usfm="1TI 2:13!1">Ἀδὰμ</e>
                <e id="N1904.1Tim.2.13.2" clearId="n54002013002" usfm="1TI 2:13!2">γὰρ</e>
                <e id="N1904.1Tim.2.13.3" clearId="n54002013003" usfm="1TI 2:13!3">πρῶτος</e>
@@ -808,7 +808,7 @@
                   usfm="1TI 2:13!6"
                   after=".">Εὔα</e>
             </c>
-            <c id="N1904.1Tim.2.14.1-4" unit="move">
+            <c unit="move" id="N1904.1Tim.2.14.1-4">
                <e id="N1904.1Tim.2.14.1" clearId="n54002014001" usfm="1TI 2:14!1">καὶ</e>
                <e id="N1904.1Tim.2.14.2" clearId="n54002014002" usfm="1TI 2:14!2">Ἀδὰμ</e>
                <e id="N1904.1Tim.2.14.3" clearId="n54002014003" usfm="1TI 2:14!3">οὐκ</e>
@@ -817,7 +817,7 @@
                   usfm="1TI 2:14!4"
                   after=",">ἠπατήθη</e>
             </c>
-            <c id="N1904.1Tim.2.14.5-11" unit="move">
+            <c unit="move" id="N1904.1Tim.2.14.5-11">
                <e id="N1904.1Tim.2.14.5" clearId="n54002014005" usfm="1TI 2:14!5">ἡ</e>
                <e id="N1904.1Tim.2.14.6" clearId="n54002014006" usfm="1TI 2:14!6">δὲ</e>
                <e id="N1904.1Tim.2.14.7" clearId="n54002014007" usfm="1TI 2:14!7">γυνὴ</e>
@@ -829,7 +829,7 @@
                   usfm="1TI 2:14!11"
                   after="·">γέγονεν</e>
             </c>
-            <c id="N1904.1Tim.2.15.1-15" unit="move">
+            <c unit="move" id="N1904.1Tim.2.15.1-15">
                <e id="N1904.1Tim.2.15.1" clearId="n54002015001" usfm="1TI 2:15!1">σωθήσεται</e>
                <e id="N1904.1Tim.2.15.2" clearId="n54002015002" usfm="1TI 2:15!2">δὲ</e>
                <e id="N1904.1Tim.2.15.3" clearId="n54002015003" usfm="1TI 2:15!3">διὰ</e>
@@ -854,7 +854,7 @@
             </c>
          </c>
          <c unit="seg" title="The Office of a Bishop, or Overseer">
-            <c id="N1904.1Tim.3.1.1-3" unit="move">
+            <c unit="move" id="N1904.1Tim.3.1.1-3">
                <e id="N1904.1Tim.3.1.1" clearId="n54003001001" usfm="1TI 3:1!1">Πιστὸς</e>
                <e id="N1904.1Tim.3.1.2" clearId="n54003001002" usfm="1TI 3:1!2">ὁ</e>
                <e id="N1904.1Tim.3.1.3"
@@ -862,7 +862,7 @@
                   usfm="1TI 3:1!3"
                   after="·">λόγος</e>
             </c>
-            <c id="N1904.1Tim.3.1.4-10" unit="move">
+            <c unit="move" id="N1904.1Tim.3.1.4-10">
                <e id="N1904.1Tim.3.1.4" clearId="n54003001004" usfm="1TI 3:1!4">εἴ</e>
                <e id="N1904.1Tim.3.1.5" clearId="n54003001005" usfm="1TI 3:1!5">τις</e>
                <e id="N1904.1Tim.3.1.6" clearId="n54003001006" usfm="1TI 3:1!6">ἐπισκοπῆς</e>
@@ -877,7 +877,7 @@
                   usfm="1TI 3:1!10"
                   after=".">ἐπιθυμεῖ</e>
             </c>
-            <c id="N1904.1Tim.3.2.1-4.12" unit="move">
+            <c unit="move" id="N1904.1Tim.3.2.1-4.12">
                <e id="N1904.1Tim.3.2.1" clearId="n54003002001" usfm="1TI 3:2!1">δεῖ</e>
                <e id="N1904.1Tim.3.2.2" clearId="n54003002002" usfm="1TI 3:2!2">οὖν</e>
                <e id="N1904.1Tim.3.2.3" clearId="n54003002003" usfm="1TI 3:2!3">τὸν</e>
@@ -955,7 +955,7 @@
                   usfm="1TI 3:4!12"
                   after=",">σεμνότητος</e>
             </c>
-            <c id="N1904.1Tim.3.5.1-13" unit="move">
+            <c unit="move" id="N1904.1Tim.3.5.1-13">
                <e id="N1904.1Tim.3.5.1"
                   clearId="n54003005001"
                   usfm="1TI 3:5!1"
@@ -979,7 +979,7 @@
                   usfm="1TI 3:5!13"
                   after=";)">ἐπιμελήσεται</e>
             </c>
-            <c id="N1904.1Tim.3.6.1-10" unit="move">
+            <c unit="move" id="N1904.1Tim.3.6.1-10">
                <e id="N1904.1Tim.3.6.1" clearId="n54003006001" usfm="1TI 3:6!1">μὴ</e>
                <e id="N1904.1Tim.3.6.2"
                   clearId="n54003006002"
@@ -997,7 +997,7 @@
                   usfm="1TI 3:6!10"
                   after=".">διαβόλου</e>
             </c>
-            <c id="N1904.1Tim.3.7.1-18" unit="move">
+            <c unit="move" id="N1904.1Tim.3.7.1-18">
                <e id="N1904.1Tim.3.7.1" clearId="n54003007001" usfm="1TI 3:7!1">δεῖ</e>
                <e id="N1904.1Tim.3.7.2" clearId="n54003007002" usfm="1TI 3:7!2">δὲ</e>
                <e id="N1904.1Tim.3.7.3" clearId="n54003007003" usfm="1TI 3:7!3">καὶ</e>
@@ -1025,7 +1025,7 @@
             </c>
          </c>
          <c unit="seg" title="The Office of Deacons">
-            <c id="N1904.1Tim.3.8.1-9.8" unit="move">
+            <c unit="move" id="N1904.1Tim.3.8.1-9.8">
                <e id="N1904.1Tim.3.8.1" clearId="n54003008001" usfm="1TI 3:8!1">Διακόνους</e>
                <e id="N1904.1Tim.3.8.2" clearId="n54003008002" usfm="1TI 3:8!2">ὡσαύτως</e>
                <e id="N1904.1Tim.3.8.3"
@@ -1061,7 +1061,7 @@
                   usfm="1TI 3:9!8"
                   after=".">συνειδήσει</e>
             </c>
-            <c id="N1904.1Tim.3.10.1-5" unit="move">
+            <c unit="move" id="N1904.1Tim.3.10.1-5">
                <e id="N1904.1Tim.3.10.1" clearId="n54003010001" usfm="1TI 3:10!1">καὶ</e>
                <e id="N1904.1Tim.3.10.2" clearId="n54003010002" usfm="1TI 3:10!2">οὗτοι</e>
                <e id="N1904.1Tim.3.10.3" clearId="n54003010003" usfm="1TI 3:10!3">δὲ</e>
@@ -1071,7 +1071,7 @@
                   usfm="1TI 3:10!5"
                   after=",">πρῶτον</e>
             </c>
-            <c id="N1904.1Tim.3.10.6-9" unit="move">
+            <c unit="move" id="N1904.1Tim.3.10.6-9">
                <e id="N1904.1Tim.3.10.6" clearId="n54003010006" usfm="1TI 3:10!6">εἶτα</e>
                <e id="N1904.1Tim.3.10.7" clearId="n54003010007" usfm="1TI 3:10!7">διακονείτωσαν</e>
                <e id="N1904.1Tim.3.10.8" clearId="n54003010008" usfm="1TI 3:10!8">ἀνέγκλητοι</e>
@@ -1080,7 +1080,7 @@
                   usfm="1TI 3:10!9"
                   after=".">ὄντες</e>
             </c>
-            <c id="N1904.1Tim.3.11.1-9" unit="move">
+            <c unit="move" id="N1904.1Tim.3.11.1-9">
                <e id="N1904.1Tim.3.11.1" clearId="n54003011001" usfm="1TI 3:11!1">γυναῖκας</e>
                <e id="N1904.1Tim.3.11.2" clearId="n54003011002" usfm="1TI 3:11!2">ὡσαύτως</e>
                <e id="N1904.1Tim.3.11.3"
@@ -1103,7 +1103,7 @@
                   usfm="1TI 3:11!9"
                   after=".">πᾶσιν</e>
             </c>
-            <c id="N1904.1Tim.3.12.1-12" unit="move">
+            <c unit="move" id="N1904.1Tim.3.12.1-12">
                <e id="N1904.1Tim.3.12.1" clearId="n54003012001" usfm="1TI 3:12!1">διάκονοι</e>
                <e id="N1904.1Tim.3.12.2" clearId="n54003012002" usfm="1TI 3:12!2">ἔστωσαν</e>
                <e id="N1904.1Tim.3.12.3" clearId="n54003012003" usfm="1TI 3:12!3">μιᾶς</e>
@@ -1123,7 +1123,7 @@
                   usfm="1TI 3:12!12"
                   after=".">οἴκων</e>
             </c>
-            <c id="N1904.1Tim.3.13.1-8" unit="move">
+            <c unit="move" id="N1904.1Tim.3.13.1-8">
                <e id="N1904.1Tim.3.13.1" clearId="n54003013001" usfm="1TI 3:13!1">οἱ</e>
                <e id="N1904.1Tim.3.13.2" clearId="n54003013002" usfm="1TI 3:13!2">γὰρ</e>
                <e id="N1904.1Tim.3.13.3" clearId="n54003013003" usfm="1TI 3:13!3">καλῶς</e>
@@ -1133,7 +1133,7 @@
                <e id="N1904.1Tim.3.13.7" clearId="n54003013007" usfm="1TI 3:13!7">καλὸν</e>
                <e id="N1904.1Tim.3.13.8" clearId="n54003013008" usfm="1TI 3:13!8">περιποιοῦνται</e>
             </c>
-            <c id="N1904.1Tim.3.13.9-17" unit="move">
+            <c unit="move" id="N1904.1Tim.3.13.9-17">
                <e id="N1904.1Tim.3.13.9" clearId="n54003013009" usfm="1TI 3:13!9">καὶ</e>
                <e id="N1904.1Tim.3.13.10" clearId="n54003013010" usfm="1TI 3:13!10">πολλὴν</e>
                <e id="N1904.1Tim.3.13.11" clearId="n54003013011" usfm="1TI 3:13!11">παρρησίαν</e>
@@ -1149,7 +1149,7 @@
             </c>
          </c>
          <c unit="seg" title="The Purpose of Paul's Letter and a Doxology">
-            <c id="N1904.1Tim.3.14.1-8" unit="move">
+            <c unit="move" id="N1904.1Tim.3.14.1-8">
                <e id="N1904.1Tim.3.14.1" clearId="n54003014001" usfm="1TI 3:14!1">Ταῦτά</e>
                <e id="N1904.1Tim.3.14.2" clearId="n54003014002" usfm="1TI 3:14!2">σοι</e>
                <e id="N1904.1Tim.3.14.3" clearId="n54003014003" usfm="1TI 3:14!3">γράφω</e>
@@ -1162,7 +1162,7 @@
                   usfm="1TI 3:14!8"
                   after="·">τάχειον</e>
             </c>
-            <c id="N1904.1Tim.3.15.1-21" unit="move">
+            <c unit="move" id="N1904.1Tim.3.15.1-21">
                <e id="N1904.1Tim.3.15.1" clearId="n54003015001" usfm="1TI 3:15!1">ἐὰν</e>
                <e id="N1904.1Tim.3.15.2" clearId="n54003015002" usfm="1TI 3:15!2">δὲ</e>
                <e id="N1904.1Tim.3.15.3"
@@ -1197,7 +1197,7 @@
                   usfm="1TI 3:15!21"
                   after=".">ἀληθείας</e>
             </c>
-            <c id="N1904.1Tim.3.16.1-8" unit="move">
+            <c unit="move" id="N1904.1Tim.3.16.1-8">
                <e id="N1904.1Tim.3.16.1" clearId="n54003016001" usfm="1TI 3:16!1">καὶ</e>
                <e id="N1904.1Tim.3.16.2" clearId="n54003016002" usfm="1TI 3:16!2">ὁμολογουμένως</e>
                <e id="N1904.1Tim.3.16.3" clearId="n54003016003" usfm="1TI 3:16!3">μέγα</e>
@@ -1210,7 +1210,7 @@
                   usfm="1TI 3:16!8"
                   after="·">μυστήριον</e>
             </c>
-            <c id="N1904.1Tim.3.16.9-26" unit="move">
+            <c unit="move" id="N1904.1Tim.3.16.9-26">
                <e id="N1904.1Tim.3.16.9" clearId="n54003016009" usfm="1TI 3:16!9">Ὃς</e>
                <e id="N1904.1Tim.3.16.10" clearId="n54003016010" usfm="1TI 3:16!10">ἐφανερώθη</e>
                <e id="N1904.1Tim.3.16.11" clearId="n54003016011" usfm="1TI 3:16!11">ἐν</e>
@@ -1251,7 +1251,7 @@
          </c>
          <c unit="seg"
             title="The False Doctrines of the Last Days and Their Refutation">
-            <c id="N1904.1Tim.4.1.1-5.7" unit="move">
+            <c unit="move" id="N1904.1Tim.4.1.1-5.7">
                <e id="N1904.1Tim.4.1.1" clearId="n54004001001" usfm="1TI 4:1!1">Τὸ</e>
                <e id="N1904.1Tim.4.1.2" clearId="n54004001002" usfm="1TI 4:1!2">δὲ</e>
                <e id="N1904.1Tim.4.1.3" clearId="n54004001003" usfm="1TI 4:1!3">πνεῦμα</e>
@@ -1347,7 +1347,7 @@
             </c>
          </c>
          <c unit="seg" title="The Personal Conduct of Timothy">
-            <c id="N1904.1Tim.4.6.1-20" unit="move">
+            <c unit="move" id="N1904.1Tim.4.6.1-20">
                <e id="N1904.1Tim.4.6.1" clearId="n54004006001" usfm="1TI 4:6!1">Ταῦτα</e>
                <e id="N1904.1Tim.4.6.2" clearId="n54004006002" usfm="1TI 4:6!2">ὑποτιθέμενος</e>
                <e id="N1904.1Tim.4.6.3" clearId="n54004006003" usfm="1TI 4:6!3">τοῖς</e>
@@ -1375,7 +1375,7 @@
                   usfm="1TI 4:6!20"
                   after="·">παρηκολούθηκας</e>
             </c>
-            <c id="N1904.1Tim.4.7.1-7" unit="move">
+            <c unit="move" id="N1904.1Tim.4.7.1-7">
                <e id="N1904.1Tim.4.7.1" clearId="n54004007001" usfm="1TI 4:7!1">τοὺς</e>
                <e id="N1904.1Tim.4.7.2" clearId="n54004007002" usfm="1TI 4:7!2">δὲ</e>
                <e id="N1904.1Tim.4.7.3" clearId="n54004007003" usfm="1TI 4:7!3">βεβήλους</e>
@@ -1387,7 +1387,7 @@
                   usfm="1TI 4:7!7"
                   after=".">παραιτοῦ</e>
             </c>
-            <c id="N1904.1Tim.4.7.8-12" unit="move">
+            <c unit="move" id="N1904.1Tim.4.7.8-12">
                <e id="N1904.1Tim.4.7.8" clearId="n54004007008" usfm="1TI 4:7!8">γύμναζε</e>
                <e id="N1904.1Tim.4.7.9" clearId="n54004007009" usfm="1TI 4:7!9">δὲ</e>
                <e id="N1904.1Tim.4.7.10" clearId="n54004007010" usfm="1TI 4:7!10">σεαυτὸν</e>
@@ -1397,7 +1397,7 @@
                   usfm="1TI 4:7!12"
                   after=".">εὐσέβειαν</e>
             </c>
-            <c id="N1904.1Tim.4.8.1-8" unit="move">
+            <c unit="move" id="N1904.1Tim.4.8.1-8">
                <e id="N1904.1Tim.4.8.1" clearId="n54004008001" usfm="1TI 4:8!1">ἡ</e>
                <e id="N1904.1Tim.4.8.2" clearId="n54004008002" usfm="1TI 4:8!2">γὰρ</e>
                <e id="N1904.1Tim.4.8.3" clearId="n54004008003" usfm="1TI 4:8!3">σωματικὴ</e>
@@ -1410,7 +1410,7 @@
                   usfm="1TI 4:8!8"
                   after="·">ὠφέλιμος</e>
             </c>
-            <c id="N1904.1Tim.4.8.9-23" unit="move">
+            <c unit="move" id="N1904.1Tim.4.8.9-23">
                <e id="N1904.1Tim.4.8.9" clearId="n54004008009" usfm="1TI 4:8!9">ἡ</e>
                <e id="N1904.1Tim.4.8.10" clearId="n54004008010" usfm="1TI 4:8!10">δὲ</e>
                <e id="N1904.1Tim.4.8.11" clearId="n54004008011" usfm="1TI 4:8!11">εὐσέβεια</e>
@@ -1433,7 +1433,7 @@
                   usfm="1TI 4:8!23"
                   after=".">μελλούσης</e>
             </c>
-            <c id="N1904.1Tim.4.9.1-7" unit="move">
+            <c unit="move" id="N1904.1Tim.4.9.1-7">
                <e id="N1904.1Tim.4.9.1" clearId="n54004009001" usfm="1TI 4:9!1">πιστὸς</e>
                <e id="N1904.1Tim.4.9.2" clearId="n54004009002" usfm="1TI 4:9!2">ὁ</e>
                <e id="N1904.1Tim.4.9.3" clearId="n54004009003" usfm="1TI 4:9!3">λόγος</e>
@@ -1445,7 +1445,7 @@
                   usfm="1TI 4:9!7"
                   after="·">ἄξιος</e>
             </c>
-            <c id="N1904.1Tim.4.10.1-18" unit="move">
+            <c unit="move" id="N1904.1Tim.4.10.1-18">
                <e id="N1904.1Tim.4.10.1" clearId="n54004010001" usfm="1TI 4:10!1">εἰς</e>
                <e id="N1904.1Tim.4.10.2" clearId="n54004010002" usfm="1TI 4:10!2">τοῦτο</e>
                <e id="N1904.1Tim.4.10.3" clearId="n54004010003" usfm="1TI 4:10!3">γὰρ</e>
@@ -1477,7 +1477,7 @@
                   usfm="1TI 4:10!18"
                   after=".">πιστῶν</e>
             </c>
-            <c id="N1904.1Tim.4.11.1-4" unit="move">
+            <c unit="move" id="N1904.1Tim.4.11.1-4">
                <e id="N1904.1Tim.4.11.1" clearId="n54004011001" usfm="1TI 4:11!1">Παράγγελλε</e>
                <e id="N1904.1Tim.4.11.2" clearId="n54004011002" usfm="1TI 4:11!2">ταῦτα</e>
                <e id="N1904.1Tim.4.11.3" clearId="n54004011003" usfm="1TI 4:11!3">καὶ</e>
@@ -1486,7 +1486,7 @@
                   usfm="1TI 4:11!4"
                   after=".">δίδασκε</e>
             </c>
-            <c id="N1904.1Tim.4.12.1-20" unit="move">
+            <c unit="move" id="N1904.1Tim.4.12.1-20">
                <e id="N1904.1Tim.4.12.1" clearId="n54004012001" usfm="1TI 4:12!1">μηδείς</e>
                <e id="N1904.1Tim.4.12.2" clearId="n54004012002" usfm="1TI 4:12!2">σου</e>
                <e id="N1904.1Tim.4.12.3" clearId="n54004012003" usfm="1TI 4:12!3">τῆς</e>
@@ -1526,7 +1526,7 @@
                   usfm="1TI 4:12!20"
                   after=".">ἁγνείᾳ</e>
             </c>
-            <c id="N1904.1Tim.4.13.1-9" unit="move">
+            <c unit="move" id="N1904.1Tim.4.13.1-9">
                <e id="N1904.1Tim.4.13.1" clearId="n54004013001" usfm="1TI 4:13!1">ἕως</e>
                <e id="N1904.1Tim.4.13.2" clearId="n54004013002" usfm="1TI 4:13!2">ἔρχομαι</e>
                <e id="N1904.1Tim.4.13.3" clearId="n54004013003" usfm="1TI 4:13!3">πρόσεχε</e>
@@ -1546,7 +1546,7 @@
                   usfm="1TI 4:13!9"
                   after=".">διδασκαλίᾳ</e>
             </c>
-            <c id="N1904.1Tim.4.14.1-17" unit="move">
+            <c unit="move" id="N1904.1Tim.4.14.1-17">
                <e id="N1904.1Tim.4.14.1" clearId="n54004014001" usfm="1TI 4:14!1">μὴ</e>
                <e id="N1904.1Tim.4.14.2" clearId="n54004014002" usfm="1TI 4:14!2">ἀμέλει</e>
                <e id="N1904.1Tim.4.14.3" clearId="n54004014003" usfm="1TI 4:14!3">τοῦ</e>
@@ -1571,7 +1571,7 @@
                   usfm="1TI 4:14!17"
                   after=".">πρεσβυτερίου</e>
             </c>
-            <c id="N1904.1Tim.4.15.1-12" unit="move">
+            <c unit="move" id="N1904.1Tim.4.15.1-12">
                <e id="N1904.1Tim.4.15.1" clearId="n54004015001" usfm="1TI 4:15!1">ταῦτα</e>
                <e id="N1904.1Tim.4.15.2"
                   clearId="n54004015002"
@@ -1594,7 +1594,7 @@
                   usfm="1TI 4:15!12"
                   after=".">πᾶσιν</e>
             </c>
-            <c id="N1904.1Tim.4.16.1-7" unit="move">
+            <c unit="move" id="N1904.1Tim.4.16.1-7">
                <e id="N1904.1Tim.4.16.1" clearId="n54004016001" usfm="1TI 4:16!1">ἔπεχε</e>
                <e id="N1904.1Tim.4.16.2" clearId="n54004016002" usfm="1TI 4:16!2">σεαυτῷ</e>
                <e id="N1904.1Tim.4.16.3" clearId="n54004016003" usfm="1TI 4:16!3">καὶ</e>
@@ -1609,7 +1609,7 @@
                   usfm="1TI 4:16!7"
                   after="·">αὐτοῖς</e>
             </c>
-            <c id="N1904.1Tim.4.16.8-17" unit="move">
+            <c unit="move" id="N1904.1Tim.4.16.8-17">
                <e id="N1904.1Tim.4.16.8" clearId="n54004016008" usfm="1TI 4:16!8">τοῦτο</e>
                <e id="N1904.1Tim.4.16.9" clearId="n54004016009" usfm="1TI 4:16!9">γὰρ</e>
                <e id="N1904.1Tim.4.16.10" clearId="n54004016010" usfm="1TI 4:16!10">ποιῶν</e>
@@ -1626,7 +1626,7 @@
             </c>
          </c>
          <c unit="seg" title="The Pastoral Care of the Aged, the Young, the Widows">
-            <c id="N1904.1Tim.5.1.1-2.9" unit="move">
+            <c unit="move" id="N1904.1Tim.5.1.1-2.9">
                <e id="N1904.1Tim.5.1.1" clearId="n54005001001" usfm="1TI 5:1!1">Πρεσβυτέρῳ</e>
                <e id="N1904.1Tim.5.1.2" clearId="n54005001002" usfm="1TI 5:1!2">μὴ</e>
                <e id="N1904.1Tim.5.1.3"
@@ -1662,7 +1662,7 @@
                   usfm="1TI 5:2!9"
                   after=".">ἁγνείᾳ</e>
             </c>
-            <c id="N1904.1Tim.5.3.1-5" unit="move">
+            <c unit="move" id="N1904.1Tim.5.3.1-5">
                <e id="N1904.1Tim.5.3.1" clearId="n54005003001" usfm="1TI 5:3!1">Χήρας</e>
                <e id="N1904.1Tim.5.3.2" clearId="n54005003002" usfm="1TI 5:3!2">τίμα</e>
                <e id="N1904.1Tim.5.3.3" clearId="n54005003003" usfm="1TI 5:3!3">τὰς</e>
@@ -1672,7 +1672,7 @@
                   usfm="1TI 5:3!5"
                   after=".">χήρας</e>
             </c>
-            <c id="N1904.1Tim.5.4.1-19" unit="move">
+            <c unit="move" id="N1904.1Tim.5.4.1-19">
                <e id="N1904.1Tim.5.4.1" clearId="n54005004001" usfm="1TI 5:4!1">εἰ</e>
                <e id="N1904.1Tim.5.4.2" clearId="n54005004002" usfm="1TI 5:4!2">δέ</e>
                <e id="N1904.1Tim.5.4.3" clearId="n54005004003" usfm="1TI 5:4!3">τις</e>
@@ -1699,7 +1699,7 @@
                   usfm="1TI 5:4!19"
                   after="·">προγόνοις</e>
             </c>
-            <c id="N1904.1Tim.5.4.20-26" unit="move">
+            <c unit="move" id="N1904.1Tim.5.4.20-26">
                <e id="N1904.1Tim.5.4.20" clearId="n54005004020" usfm="1TI 5:4!20">τοῦτο</e>
                <e id="N1904.1Tim.5.4.21" clearId="n54005004021" usfm="1TI 5:4!21">γάρ</e>
                <e id="N1904.1Tim.5.4.22" clearId="n54005004022" usfm="1TI 5:4!22">ἐστιν</e>
@@ -1711,7 +1711,7 @@
                   usfm="1TI 5:4!26"
                   after=".">Θεοῦ</e>
             </c>
-            <c id="N1904.1Tim.5.5.1-9" unit="move">
+            <c unit="move" id="N1904.1Tim.5.5.1-9">
                <e id="N1904.1Tim.5.5.1" clearId="n54005005001" usfm="1TI 5:5!1">ἡ</e>
                <e id="N1904.1Tim.5.5.2" clearId="n54005005002" usfm="1TI 5:5!2">δὲ</e>
                <e id="N1904.1Tim.5.5.3" clearId="n54005005003" usfm="1TI 5:5!3">ὄντως</e>
@@ -1722,7 +1722,7 @@
                <e id="N1904.1Tim.5.5.8" clearId="n54005005008" usfm="1TI 5:5!8">ἐπὶ</e>
                <e id="N1904.1Tim.5.5.9" clearId="n54005005009" usfm="1TI 5:5!9">Θεὸν</e>
             </c>
-            <c id="N1904.1Tim.5.5.10-19" unit="move">
+            <c unit="move" id="N1904.1Tim.5.5.10-19">
                <e id="N1904.1Tim.5.5.10" clearId="n54005005010" usfm="1TI 5:5!10">καὶ</e>
                <e id="N1904.1Tim.5.5.11" clearId="n54005005011" usfm="1TI 5:5!11">προσμένει</e>
                <e id="N1904.1Tim.5.5.12" clearId="n54005005012" usfm="1TI 5:5!12">ταῖς</e>
@@ -1737,7 +1737,7 @@
                   usfm="1TI 5:5!19"
                   after="·">ἡμέρας</e>
             </c>
-            <c id="N1904.1Tim.5.6.1-5" unit="move">
+            <c unit="move" id="N1904.1Tim.5.6.1-5">
                <e id="N1904.1Tim.5.6.1" clearId="n54005006001" usfm="1TI 5:6!1">ἡ</e>
                <e id="N1904.1Tim.5.6.2" clearId="n54005006002" usfm="1TI 5:6!2">δὲ</e>
                <e id="N1904.1Tim.5.6.3" clearId="n54005006003" usfm="1TI 5:6!3">σπαταλῶσα</e>
@@ -1747,7 +1747,7 @@
                   usfm="1TI 5:6!5"
                   after=".">τέθνηκεν</e>
             </c>
-            <c id="N1904.1Tim.5.7.1-6" unit="move">
+            <c unit="move" id="N1904.1Tim.5.7.1-6">
                <e id="N1904.1Tim.5.7.1" clearId="n54005007001" usfm="1TI 5:7!1">καὶ</e>
                <e id="N1904.1Tim.5.7.2" clearId="n54005007002" usfm="1TI 5:7!2">ταῦτα</e>
                <e id="N1904.1Tim.5.7.3"
@@ -1761,7 +1761,7 @@
                   usfm="1TI 5:7!6"
                   after=".">ὦσιν</e>
             </c>
-            <c id="N1904.1Tim.5.8.1-17" unit="move">
+            <c unit="move" id="N1904.1Tim.5.8.1-17">
                <e id="N1904.1Tim.5.8.1" clearId="n54005008001" usfm="1TI 5:8!1">εἰ</e>
                <e id="N1904.1Tim.5.8.2" clearId="n54005008002" usfm="1TI 5:8!2">δέ</e>
                <e id="N1904.1Tim.5.8.3" clearId="n54005008003" usfm="1TI 5:8!3">τις</e>
@@ -1788,7 +1788,7 @@
             </c>
          </c>
          <c unit="seg" title="The Care of Widows on the Part of the Congregation">
-            <c id="N1904.1Tim.5.9.1-10.20" unit="move">
+            <c unit="move" id="N1904.1Tim.5.9.1-10.20">
                <e id="N1904.1Tim.5.9.1" clearId="n54005009001" usfm="1TI 5:9!1">Χήρα</e>
                <e id="N1904.1Tim.5.9.2" clearId="n54005009002" usfm="1TI 5:9!2">καταλεγέσθω</e>
                <e id="N1904.1Tim.5.9.3" clearId="n54005009003" usfm="1TI 5:9!3">μὴ</e>
@@ -1844,7 +1844,7 @@
                   usfm="1TI 5:10!20"
                   after=".">ἐπηκολούθησεν</e>
             </c>
-            <c id="N1904.1Tim.5.11.1-4" unit="move">
+            <c unit="move" id="N1904.1Tim.5.11.1-4">
                <e id="N1904.1Tim.5.11.1" clearId="n54005011001" usfm="1TI 5:11!1">νεωτέρας</e>
                <e id="N1904.1Tim.5.11.2" clearId="n54005011002" usfm="1TI 5:11!2">δὲ</e>
                <e id="N1904.1Tim.5.11.3" clearId="n54005011003" usfm="1TI 5:11!3">χήρας</e>
@@ -1853,7 +1853,7 @@
                   usfm="1TI 5:11!4"
                   after="·">παραιτοῦ</e>
             </c>
-            <c id="N1904.1Tim.5.11.5-12.7" unit="move">
+            <c unit="move" id="N1904.1Tim.5.11.5-12.7">
                <e id="N1904.1Tim.5.11.5" clearId="n54005011005" usfm="1TI 5:11!5">ὅταν</e>
                <e id="N1904.1Tim.5.11.6" clearId="n54005011006" usfm="1TI 5:11!6">γὰρ</e>
                <e id="N1904.1Tim.5.11.7" clearId="n54005011007" usfm="1TI 5:11!7">καταστρηνιάσωσιν</e>
@@ -1878,7 +1878,7 @@
                   usfm="1TI 5:12!7"
                   after="·">ἠθέτησαν</e>
             </c>
-            <c id="N1904.1Tim.5.13.1-8" unit="move">
+            <c unit="move" id="N1904.1Tim.5.13.1-8">
                <e id="N1904.1Tim.5.13.1" clearId="n54005013001" usfm="1TI 5:13!1">ἅμα</e>
                <e id="N1904.1Tim.5.13.2" clearId="n54005013002" usfm="1TI 5:13!2">δὲ</e>
                <e id="N1904.1Tim.5.13.3" clearId="n54005013003" usfm="1TI 5:13!3">καὶ</e>
@@ -1894,13 +1894,13 @@
                   usfm="1TI 5:13!8"
                   after=",">οἰκίας</e>
             </c>
-            <c id="N1904.1Tim.5.13.9-12" unit="move">
+            <c unit="move" id="N1904.1Tim.5.13.9-12">
                <e id="N1904.1Tim.5.13.9" clearId="n54005013009" usfm="1TI 5:13!9">οὐ</e>
                <e id="N1904.1Tim.5.13.10" clearId="n54005013010" usfm="1TI 5:13!10">μόνον</e>
                <e id="N1904.1Tim.5.13.11" clearId="n54005013011" usfm="1TI 5:13!11">δὲ</e>
                <e id="N1904.1Tim.5.13.12" clearId="n54005013012" usfm="1TI 5:13!12">ἀργαὶ</e>
             </c>
-            <c id="N1904.1Tim.5.13.13-21" unit="move">
+            <c unit="move" id="N1904.1Tim.5.13.13-21">
                <e id="N1904.1Tim.5.13.13" clearId="n54005013013" usfm="1TI 5:13!13">ἀλλὰ</e>
                <e id="N1904.1Tim.5.13.14" clearId="n54005013014" usfm="1TI 5:13!14">καὶ</e>
                <e id="N1904.1Tim.5.13.15" clearId="n54005013015" usfm="1TI 5:13!15">φλύαροι</e>
@@ -1917,7 +1917,7 @@
                   usfm="1TI 5:13!21"
                   after=".">δέοντα</e>
             </c>
-            <c id="N1904.1Tim.5.14.1-13" unit="move">
+            <c unit="move" id="N1904.1Tim.5.14.1-13">
                <e id="N1904.1Tim.5.14.1" clearId="n54005014001" usfm="1TI 5:14!1">βούλομαι</e>
                <e id="N1904.1Tim.5.14.2" clearId="n54005014002" usfm="1TI 5:14!2">οὖν</e>
                <e id="N1904.1Tim.5.14.3" clearId="n54005014003" usfm="1TI 5:14!3">νεωτέρας</e>
@@ -1944,7 +1944,7 @@
                   usfm="1TI 5:14!13"
                   after="·">χάριν</e>
             </c>
-            <c id="N1904.1Tim.5.15.1-7" unit="move">
+            <c unit="move" id="N1904.1Tim.5.15.1-7">
                <e id="N1904.1Tim.5.15.1" clearId="n54005015001" usfm="1TI 5:15!1">ἤδη</e>
                <e id="N1904.1Tim.5.15.2" clearId="n54005015002" usfm="1TI 5:15!2">γάρ</e>
                <e id="N1904.1Tim.5.15.3" clearId="n54005015003" usfm="1TI 5:15!3">τινες</e>
@@ -1956,7 +1956,7 @@
                   usfm="1TI 5:15!7"
                   after=".">Σατανᾶ</e>
             </c>
-            <c id="N1904.1Tim.5.16.1-17" unit="move">
+            <c unit="move" id="N1904.1Tim.5.16.1-17">
                <e id="N1904.1Tim.5.16.1" clearId="n54005016001" usfm="1TI 5:16!1">εἴ</e>
                <e id="N1904.1Tim.5.16.2" clearId="n54005016002" usfm="1TI 5:16!2">τις</e>
                <e id="N1904.1Tim.5.16.3" clearId="n54005016003" usfm="1TI 5:16!3">πιστὴ</e>
@@ -1990,7 +1990,7 @@
          </c>
          <c unit="seg"
             title="Rules of Conduct with Regard to the Elders of the Congregation">
-            <c id="N1904.1Tim.5.17.1-14" unit="move">
+            <c unit="move" id="N1904.1Tim.5.17.1-14">
                <e id="N1904.1Tim.5.17.1" clearId="n54005017001" usfm="1TI 5:17!1">Οἱ</e>
                <e id="N1904.1Tim.5.17.2" clearId="n54005017002" usfm="1TI 5:17!2">καλῶς</e>
                <e id="N1904.1Tim.5.17.3" clearId="n54005017003" usfm="1TI 5:17!3">προεστῶτες</e>
@@ -2012,13 +2012,13 @@
                   usfm="1TI 5:17!14"
                   after=".">διδασκαλίᾳ</e>
             </c>
-            <c id="N1904.1Tim.5.18.1-15" unit="move">
+            <c unit="move" id="N1904.1Tim.5.18.1-15">
                <e id="N1904.1Tim.5.18.1" clearId="n54005018001" usfm="1TI 5:18!1">λέγει</e>
                <e id="N1904.1Tim.5.18.2" clearId="n54005018002" usfm="1TI 5:18!2">γὰρ</e>
                <e id="N1904.1Tim.5.18.3" clearId="n54005018003" usfm="1TI 5:18!3">ἡ</e>
                <e id="N1904.1Tim.5.18.4" clearId="n54005018004" usfm="1TI 5:18!4">γραφή</e>
                <c unit="turn">
-                  <c id="N1904.1Tim.5.18.5-15" unit="move">
+                  <c unit="move" id="N1904.1Tim.5.18.5-15">
                      <e id="N1904.1Tim.5.18.5" clearId="n54005018005" usfm="1TI 5:18!5">Βοῦν</e>
                      <e id="N1904.1Tim.5.18.6" clearId="n54005018006" usfm="1TI 5:18!6">ἀλοῶντα</e>
                      <e id="N1904.1Tim.5.18.7" clearId="n54005018007" usfm="1TI 5:18!7">οὐ</e>
@@ -2039,7 +2039,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.1Tim.5.19.1-13" unit="move">
+            <c unit="move" id="N1904.1Tim.5.19.1-13">
                <e id="N1904.1Tim.5.19.1" clearId="n54005019001" usfm="1TI 5:19!1">κατὰ</e>
                <e id="N1904.1Tim.5.19.2" clearId="n54005019002" usfm="1TI 5:19!2">πρεσβυτέρου</e>
                <e id="N1904.1Tim.5.19.3" clearId="n54005019003" usfm="1TI 5:19!3">κατηγορίαν</e>
@@ -2060,7 +2060,7 @@
                   usfm="1TI 5:19!13"
                   after=".">μαρτύρων</e>
             </c>
-            <c id="N1904.1Tim.5.20.1-11" unit="move">
+            <c unit="move" id="N1904.1Tim.5.20.1-11">
                <e id="N1904.1Tim.5.20.1" clearId="n54005020001" usfm="1TI 5:20!1">Τοὺς</e>
                <e id="N1904.1Tim.5.20.2" clearId="n54005020002" usfm="1TI 5:20!2">ἁμαρτάνοντας</e>
                <e id="N1904.1Tim.5.20.3" clearId="n54005020003" usfm="1TI 5:20!3">ἐνώπιον</e>
@@ -2079,7 +2079,7 @@
                   usfm="1TI 5:20!11"
                   after=".">ἔχωσιν</e>
             </c>
-            <c id="N1904.1Tim.5.21.1-20" unit="move">
+            <c unit="move" id="N1904.1Tim.5.21.1-20">
                <e id="N1904.1Tim.5.21.1" clearId="n54005021001" usfm="1TI 5:21!1">διαμαρτύρομαι</e>
                <e id="N1904.1Tim.5.21.2" clearId="n54005021002" usfm="1TI 5:21!2">ἐνώπιον</e>
                <e id="N1904.1Tim.5.21.3" clearId="n54005021003" usfm="1TI 5:21!3">τοῦ</e>
@@ -2107,7 +2107,7 @@
                   usfm="1TI 5:21!20"
                   after=".">πρόσκλισιν</e>
             </c>
-            <c id="N1904.1Tim.5.22.1-8" unit="move">
+            <c unit="move" id="N1904.1Tim.5.22.1-8">
                <e id="N1904.1Tim.5.22.1" clearId="n54005022001" usfm="1TI 5:22!1">Χεῖρας</e>
                <e id="N1904.1Tim.5.22.2" clearId="n54005022002" usfm="1TI 5:22!2">ταχέως</e>
                <e id="N1904.1Tim.5.22.3" clearId="n54005022003" usfm="1TI 5:22!3">μηδενὶ</e>
@@ -2123,7 +2123,7 @@
                   usfm="1TI 5:22!8"
                   after="·">ἀλλοτρίαις</e>
             </c>
-            <c id="N1904.1Tim.5.22.9-11" unit="move">
+            <c unit="move" id="N1904.1Tim.5.22.9-11">
                <e id="N1904.1Tim.5.22.9" clearId="n54005022009" usfm="1TI 5:22!9">σεαυτὸν</e>
                <e id="N1904.1Tim.5.22.10" clearId="n54005022010" usfm="1TI 5:22!10">ἁγνὸν</e>
                <e id="N1904.1Tim.5.22.11"
@@ -2131,7 +2131,7 @@
                   usfm="1TI 5:22!11"
                   after=".">τήρει</e>
             </c>
-            <c id="N1904.1Tim.5.23.1-14" unit="move">
+            <c unit="move" id="N1904.1Tim.5.23.1-14">
                <e id="N1904.1Tim.5.23.1" clearId="n54005023001" usfm="1TI 5:23!1">Μηκέτι</e>
                <e id="N1904.1Tim.5.23.2"
                   clearId="n54005023002"
@@ -2153,7 +2153,7 @@
                   usfm="1TI 5:23!14"
                   after=".">ἀσθενείας</e>
             </c>
-            <c id="N1904.1Tim.5.24.1-13" unit="move">
+            <c unit="move" id="N1904.1Tim.5.24.1-13">
                <e id="N1904.1Tim.5.24.1" clearId="n54005024001" usfm="1TI 5:24!1">Τινῶν</e>
                <e id="N1904.1Tim.5.24.2" clearId="n54005024002" usfm="1TI 5:24!2">ἀνθρώπων</e>
                <e id="N1904.1Tim.5.24.3" clearId="n54005024003" usfm="1TI 5:24!3">αἱ</e>
@@ -2174,7 +2174,7 @@
                   usfm="1TI 5:24!13"
                   after="·">ἐπακολουθοῦσιν</e>
             </c>
-            <c id="N1904.1Tim.5.25.1-14" unit="move">
+            <c unit="move" id="N1904.1Tim.5.25.1-14">
                <e id="N1904.1Tim.5.25.1" clearId="n54005025001" usfm="1TI 5:25!1">ὡσαύτως</e>
                <e id="N1904.1Tim.5.25.2" clearId="n54005025002" usfm="1TI 5:25!2">καὶ</e>
                <e id="N1904.1Tim.5.25.3" clearId="n54005025003" usfm="1TI 5:25!3">τὰ</e>
@@ -2196,7 +2196,7 @@
                   usfm="1TI 5:25!14"
                   after=".">δύνανται</e>
             </c>
-            <c id="N1904.1Tim.6.1.1-22" unit="move">
+            <c unit="move" id="N1904.1Tim.6.1.1-22">
                <e id="N1904.1Tim.6.1.1" clearId="n54006001001" usfm="1TI 6:1!1">Ὅσοι</e>
                <e id="N1904.1Tim.6.1.2" clearId="n54006001002" usfm="1TI 6:1!2">εἰσὶν</e>
                <e id="N1904.1Tim.6.1.3" clearId="n54006001003" usfm="1TI 6:1!3">ὑπὸ</e>
@@ -2229,7 +2229,7 @@
                   usfm="1TI 6:1!22"
                   after=".">βλασφημῆται</e>
             </c>
-            <c id="N1904.1Tim.6.2.1-10" unit="move">
+            <c unit="move" id="N1904.1Tim.6.2.1-10">
                <e id="N1904.1Tim.6.2.1" clearId="n54006002001" usfm="1TI 6:2!1">οἱ</e>
                <e id="N1904.1Tim.6.2.2" clearId="n54006002002" usfm="1TI 6:2!2">δὲ</e>
                <e id="N1904.1Tim.6.2.3" clearId="n54006002003" usfm="1TI 6:2!3">πιστοὺς</e>
@@ -2247,7 +2247,7 @@
                   usfm="1TI 6:2!10"
                   after=",">εἰσιν</e>
             </c>
-            <c id="N1904.1Tim.6.2.11-22" unit="move">
+            <c unit="move" id="N1904.1Tim.6.2.11-22">
                <e id="N1904.1Tim.6.2.11" clearId="n54006002011" usfm="1TI 6:2!11">ἀλλὰ</e>
                <e id="N1904.1Tim.6.2.12" clearId="n54006002012" usfm="1TI 6:2!12">μᾶλλον</e>
                <e id="N1904.1Tim.6.2.13"
@@ -2267,7 +2267,7 @@
                   usfm="1TI 6:2!22"
                   after=".">ἀντιλαμβανόμενοι</e>
             </c>
-            <c id="N1904.1Tim.6.2.23-26" unit="move">
+            <c unit="move" id="N1904.1Tim.6.2.23-26">
                <e id="N1904.1Tim.6.2.23" clearId="n54006002023" usfm="1TI 6:2!23">Ταῦτα</e>
                <e id="N1904.1Tim.6.2.24" clearId="n54006002024" usfm="1TI 6:2!24">δίδασκε</e>
                <e id="N1904.1Tim.6.2.25" clearId="n54006002025" usfm="1TI 6:2!25">καὶ</e>
@@ -2278,7 +2278,7 @@
             </c>
          </c>
          <c unit="seg" title="A Description Characterizing the Errorists">
-            <c id="N1904.1Tim.6.3.1-5.14" unit="move">
+            <c unit="move" id="N1904.1Tim.6.3.1-5.14">
                <e id="N1904.1Tim.6.3.1" clearId="n54006003001" usfm="1TI 6:3!1">εἴ</e>
                <e id="N1904.1Tim.6.3.2" clearId="n54006003002" usfm="1TI 6:3!2">τις</e>
                <e id="N1904.1Tim.6.3.3" clearId="n54006003003" usfm="1TI 6:3!3">ἑτεροδιδασκαλεῖ</e>
@@ -2368,7 +2368,7 @@
             </c>
          </c>
          <c unit="seg" title="The Sin of Avarice and Its Results">
-            <c id="N1904.1Tim.6.6.1-8" unit="move">
+            <c unit="move" id="N1904.1Tim.6.6.1-8">
                <e id="N1904.1Tim.6.6.1" clearId="n54006006001" usfm="1TI 6:6!1">ἔστιν</e>
                <e id="N1904.1Tim.6.6.2" clearId="n54006006002" usfm="1TI 6:6!2">δὲ</e>
                <e id="N1904.1Tim.6.6.3" clearId="n54006006003" usfm="1TI 6:6!3">πορισμὸς</e>
@@ -2381,7 +2381,7 @@
                   usfm="1TI 6:6!8"
                   after="·">αὐταρκείας</e>
             </c>
-            <c id="N1904.1Tim.6.7.1-11" unit="move">
+            <c unit="move" id="N1904.1Tim.6.7.1-11">
                <e id="N1904.1Tim.6.7.1" clearId="n54006007001" usfm="1TI 6:7!1">οὐδὲν</e>
                <e id="N1904.1Tim.6.7.2" clearId="n54006007002" usfm="1TI 6:7!2">γὰρ</e>
                <e id="N1904.1Tim.6.7.3" clearId="n54006007003" usfm="1TI 6:7!3">εἰσηνέγκαμεν</e>
@@ -2400,7 +2400,7 @@
                   usfm="1TI 6:7!11"
                   after="·">δυνάμεθα</e>
             </c>
-            <c id="N1904.1Tim.6.8.1-7" unit="move">
+            <c unit="move" id="N1904.1Tim.6.8.1-7">
                <e id="N1904.1Tim.6.8.1" clearId="n54006008001" usfm="1TI 6:8!1">ἔχοντες</e>
                <e id="N1904.1Tim.6.8.2" clearId="n54006008002" usfm="1TI 6:8!2">δὲ</e>
                <e id="N1904.1Tim.6.8.3" clearId="n54006008003" usfm="1TI 6:8!3">διατροφὰς</e>
@@ -2415,7 +2415,7 @@
                   usfm="1TI 6:8!7"
                   after=".">ἀρκεσθησόμεθα</e>
             </c>
-            <c id="N1904.1Tim.6.9.1-23" unit="move">
+            <c unit="move" id="N1904.1Tim.6.9.1-23">
                <e id="N1904.1Tim.6.9.1" clearId="n54006009001" usfm="1TI 6:9!1">οἱ</e>
                <e id="N1904.1Tim.6.9.2" clearId="n54006009002" usfm="1TI 6:9!2">δὲ</e>
                <e id="N1904.1Tim.6.9.3" clearId="n54006009003" usfm="1TI 6:9!3">βουλόμενοι</e>
@@ -2446,7 +2446,7 @@
                   usfm="1TI 6:9!23"
                   after=".">ἀπώλειαν</e>
             </c>
-            <c id="N1904.1Tim.6.10.1-20" unit="move">
+            <c unit="move" id="N1904.1Tim.6.10.1-20">
                <e id="N1904.1Tim.6.10.1" clearId="n54006010001" usfm="1TI 6:10!1">ῥίζα</e>
                <e id="N1904.1Tim.6.10.2" clearId="n54006010002" usfm="1TI 6:10!2">γὰρ</e>
                <e id="N1904.1Tim.6.10.3" clearId="n54006010003" usfm="1TI 6:10!3">πάντων</e>
@@ -2476,7 +2476,7 @@
             </c>
          </c>
          <c unit="seg" title="The Conduct of the True Christian and Its Reward">
-            <c id="N1904.1Tim.6.11.1-7" unit="move">
+            <c unit="move" id="N1904.1Tim.6.11.1-7">
                <e id="N1904.1Tim.6.11.1" clearId="n54006011001" usfm="1TI 6:11!1">Σὺ</e>
                <e id="N1904.1Tim.6.11.2"
                   clearId="n54006011002"
@@ -2494,7 +2494,7 @@
                   usfm="1TI 6:11!7"
                   after="·">φεῦγε</e>
             </c>
-            <c id="N1904.1Tim.6.11.8-15" unit="move">
+            <c unit="move" id="N1904.1Tim.6.11.8-15">
                <e id="N1904.1Tim.6.11.8" clearId="n54006011008" usfm="1TI 6:11!8">δίωκε</e>
                <e id="N1904.1Tim.6.11.9" clearId="n54006011009" usfm="1TI 6:11!9">δὲ</e>
                <e id="N1904.1Tim.6.11.10"
@@ -2522,7 +2522,7 @@
                   usfm="1TI 6:11!15"
                   after=".">πραϋπαθίαν</e>
             </c>
-            <c id="N1904.1Tim.6.12.1-6" unit="move">
+            <c unit="move" id="N1904.1Tim.6.12.1-6">
                <e id="N1904.1Tim.6.12.1" clearId="n54006012001" usfm="1TI 6:12!1">ἀγωνίζου</e>
                <e id="N1904.1Tim.6.12.2" clearId="n54006012002" usfm="1TI 6:12!2">τὸν</e>
                <e id="N1904.1Tim.6.12.3" clearId="n54006012003" usfm="1TI 6:12!3">καλὸν</e>
@@ -2533,7 +2533,7 @@
                   usfm="1TI 6:12!6"
                   after=",">πίστεως</e>
             </c>
-            <c id="N1904.1Tim.6.12.7-21" unit="move">
+            <c unit="move" id="N1904.1Tim.6.12.7-21">
                <e id="N1904.1Tim.6.12.7" clearId="n54006012007" usfm="1TI 6:12!7">ἐπιλαβοῦ</e>
                <e id="N1904.1Tim.6.12.8" clearId="n54006012008" usfm="1TI 6:12!8">τῆς</e>
                <e id="N1904.1Tim.6.12.9" clearId="n54006012009" usfm="1TI 6:12!9">αἰωνίου</e>
@@ -2556,7 +2556,7 @@
                   usfm="1TI 6:12!21"
                   after=".">μαρτύρων</e>
             </c>
-            <c id="N1904.1Tim.6.13.1-16.20" unit="move">
+            <c unit="move" id="N1904.1Tim.6.13.1-16.20">
                <e id="N1904.1Tim.6.13.1" clearId="n54006013001" usfm="1TI 6:13!1">παραγγέλλω</e>
                <e id="N1904.1Tim.6.13.2" clearId="n54006013002" usfm="1TI 6:13!2">ἐνώπιον</e>
                <e id="N1904.1Tim.6.13.3" clearId="n54006013003" usfm="1TI 6:13!3">τοῦ</e>
@@ -2657,7 +2657,7 @@
             </c>
          </c>
          <c unit="seg" title="Final Admonitions and Conclusion">
-            <c id="N1904.1Tim.6.17.1-19.12" unit="move">
+            <c unit="move" id="N1904.1Tim.6.17.1-19.12">
                <e id="N1904.1Tim.6.17.1" clearId="n54006017001" usfm="1TI 6:17!1">Τοῖς</e>
                <e id="N1904.1Tim.6.17.2" clearId="n54006017002" usfm="1TI 6:17!2">πλουσίοις</e>
                <e id="N1904.1Tim.6.17.3" clearId="n54006017003" usfm="1TI 6:17!3">ἐν</e>
@@ -2730,7 +2730,7 @@
                   usfm="1TI 6:19!12"
                   after=".">ζωῆς</e>
             </c>
-            <c id="N1904.1Tim.6.20.1-21.7" unit="move">
+            <c unit="move" id="N1904.1Tim.6.20.1-21.7">
                <e id="N1904.1Tim.6.20.1" clearId="n54006020001" usfm="1TI 6:20!1">Ὦ</e>
                <e id="N1904.1Tim.6.20.2"
                   clearId="n54006020002"
@@ -2765,7 +2765,7 @@
                   usfm="1TI 6:21!7"
                   after=".">ἠστόχησαν</e>
             </c>
-            <c id="N1904.1Tim.6.21.8-11" unit="move">
+            <c unit="move" id="N1904.1Tim.6.21.8-11">
                <e id="N1904.1Tim.6.21.8" clearId="n54006021008" usfm="1TI 6:21!8">Ἠ</e>
                <e id="N1904.1Tim.6.21.9" clearId="n54006021009" usfm="1TI 6:21!9">χάρις</e>
                <e id="N1904.1Tim.6.21.10" clearId="n54006021010" usfm="1TI 6:21!10">μεθ’</e>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../../Display_Files/styles/context.css"?>
+<?xml-stylesheet href="context.css"?>
 <OpenText xmlns:cblte="http://www.cblte.org"
           xmlns:fn="http://www.w3.org/2005/xpath-functions"
           xmlns:xs="http://www.w3.org/2001/XMLSchema">
@@ -37,7 +37,7 @@
    <text id="Titus">
       <c unit="turn">
          <c unit="seg" title="Address and Opening Salutation">
-            <c id="N1904.Titus.1.1.1-4.6" unit="move">
+            <c unit="move" id="N1904.Titus.1.1.1-4.6">
                <e id="N1904.Titus.1.1.1" clearId="n56001001001" usfm="TIT 1:1!1">Παῦλος</e>
                <e id="N1904.Titus.1.1.2" clearId="n56001001002" usfm="TIT 1:1!2">δοῦλος</e>
                <e id="N1904.Titus.1.1.3"
@@ -107,7 +107,7 @@
                   usfm="TIT 1:4!6"
                   after="·">πίστιν</e>
             </c>
-            <c id="N1904.Titus.1.4.7-18" unit="move">
+            <c unit="move" id="N1904.Titus.1.4.7-18">
                <e id="N1904.Titus.1.4.7" clearId="n56001004007" usfm="TIT 1:4!7">χάρις</e>
                <e id="N1904.Titus.1.4.8" clearId="n56001004008" usfm="TIT 1:4!8">καὶ</e>
                <e id="N1904.Titus.1.4.9" clearId="n56001004009" usfm="TIT 1:4!9">εἰρήνη</e>
@@ -126,7 +126,7 @@
             </c>
          </c>
          <c unit="seg" title="The Qualifications of Christian Pastors">
-            <c id="N1904.Titus.1.5.1-6.16" unit="move">
+            <c unit="move" id="N1904.Titus.1.5.1-6.16">
                <e id="N1904.Titus.1.5.1" clearId="n56001005001" usfm="TIT 1:5!1">Τούτου</e>
                <e id="N1904.Titus.1.5.2" clearId="n56001005002" usfm="TIT 1:5!2">χάριν</e>
                <e id="N1904.Titus.1.5.3" clearId="n56001005003" usfm="TIT 1:5!3">ἀπέλιπόν</e>
@@ -184,7 +184,7 @@
                   usfm="TIT 1:6!16"
                   after=".">ἀνυπότακτα</e>
             </c>
-            <c id="N1904.Titus.1.7.1-9.21" unit="move">
+            <c unit="move" id="N1904.Titus.1.7.1-9.21">
                <e id="N1904.Titus.1.7.1" clearId="n56001007001" usfm="TIT 1:7!1">δεῖ</e>
                <e id="N1904.Titus.1.7.2" clearId="n56001007002" usfm="TIT 1:7!2">γὰρ</e>
                <e id="N1904.Titus.1.7.3" clearId="n56001007003" usfm="TIT 1:7!3">τὸν</e>
@@ -278,7 +278,7 @@
          </c>
          <c unit="seg"
             title="The False Teachers Characterized and the Question of How to Deal with Them">
-            <c id="N1904.Titus.1.10.1-11.14" unit="move">
+            <c unit="move" id="N1904.Titus.1.10.1-11.14">
                <e id="N1904.Titus.1.10.1" clearId="n56001010001" usfm="TIT 1:10!1">Εἰσὶν</e>
                <e id="N1904.Titus.1.10.2" clearId="n56001010002" usfm="TIT 1:10!2">γὰρ</e>
                <e id="N1904.Titus.1.10.3" clearId="n56001010003" usfm="TIT 1:10!3">πολλοὶ</e>
@@ -321,7 +321,7 @@
                   usfm="TIT 1:11!14"
                   after=".">χάριν</e>
             </c>
-            <c id="N1904.Titus.1.12.1-14" unit="move">
+            <c unit="move" id="N1904.Titus.1.12.1-14">
                <e id="N1904.Titus.1.12.1" clearId="n56001012001" usfm="TIT 1:12!1">εἶπέν</e>
                <e id="N1904.Titus.1.12.2" clearId="n56001012002" usfm="TIT 1:12!2">τις</e>
                <e id="N1904.Titus.1.12.3" clearId="n56001012003" usfm="TIT 1:12!3">ἐξ</e>
@@ -330,7 +330,7 @@
                <e id="N1904.Titus.1.12.6" clearId="n56001012006" usfm="TIT 1:12!6">αὐτῶν</e>
                <e id="N1904.Titus.1.12.7" clearId="n56001012007" usfm="TIT 1:12!7">προφήτης</e>
                <c unit="turn">
-                  <c id="N1904.Titus.1.12.8-14" unit="move">
+                  <c unit="move" id="N1904.Titus.1.12.8-14">
                      <e id="N1904.Titus.1.12.8" clearId="n56001012008" usfm="TIT 1:12!8">Κρῆτες</e>
                      <e id="N1904.Titus.1.12.9" clearId="n56001012009" usfm="TIT 1:12!9">ἀεὶ</e>
                      <e id="N1904.Titus.1.12.10"
@@ -350,7 +350,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Titus.1.13.1-5" unit="move">
+            <c unit="move" id="N1904.Titus.1.13.1-5">
                <e id="N1904.Titus.1.13.1" clearId="n56001013001" usfm="TIT 1:13!1">ἡ</e>
                <e id="N1904.Titus.1.13.2" clearId="n56001013002" usfm="TIT 1:13!2">μαρτυρία</e>
                <e id="N1904.Titus.1.13.3" clearId="n56001013003" usfm="TIT 1:13!3">αὕτη</e>
@@ -360,7 +360,7 @@
                   usfm="TIT 1:13!5"
                   after=".">ἀληθής</e>
             </c>
-            <c id="N1904.Titus.1.13.6-14.10" unit="move">
+            <c unit="move" id="N1904.Titus.1.13.6-14.10">
                <e id="N1904.Titus.1.13.6" clearId="n56001013006" usfm="TIT 1:13!6">δι’</e>
                <e id="N1904.Titus.1.13.7" clearId="n56001013007" usfm="TIT 1:13!7">ἣν</e>
                <e id="N1904.Titus.1.13.8" clearId="n56001013008" usfm="TIT 1:13!8">αἰτίαν</e>
@@ -392,7 +392,7 @@
                   usfm="TIT 1:14!10"
                   after=".">ἀλήθειαν</e>
             </c>
-            <c id="N1904.Titus.1.15.1-4" unit="move">
+            <c unit="move" id="N1904.Titus.1.15.1-4">
                <e id="N1904.Titus.1.15.1" clearId="n56001015001" usfm="TIT 1:15!1">πάντα</e>
                <e id="N1904.Titus.1.15.2" clearId="n56001015002" usfm="TIT 1:15!2">καθαρὰ</e>
                <e id="N1904.Titus.1.15.3" clearId="n56001015003" usfm="TIT 1:15!3">τοῖς</e>
@@ -401,7 +401,7 @@
                   usfm="TIT 1:15!4"
                   after="·">καθαροῖς</e>
             </c>
-            <c id="N1904.Titus.1.15.5-11" unit="move">
+            <c unit="move" id="N1904.Titus.1.15.5-11">
                <e id="N1904.Titus.1.15.5" clearId="n56001015005" usfm="TIT 1:15!5">τοῖς</e>
                <e id="N1904.Titus.1.15.6" clearId="n56001015006" usfm="TIT 1:15!6">δὲ</e>
                <e id="N1904.Titus.1.15.7" clearId="n56001015007" usfm="TIT 1:15!7">μεμιαμμένοις</e>
@@ -413,7 +413,7 @@
                   usfm="TIT 1:15!11"
                   after=",">καθαρόν</e>
             </c>
-            <c id="N1904.Titus.1.15.12-20" unit="move">
+            <c unit="move" id="N1904.Titus.1.15.12-20">
                <e id="N1904.Titus.1.15.12" clearId="n56001015012" usfm="TIT 1:15!12">ἀλλὰ</e>
                <e id="N1904.Titus.1.15.13" clearId="n56001015013" usfm="TIT 1:15!13">μεμίανται</e>
                <e id="N1904.Titus.1.15.14" clearId="n56001015014" usfm="TIT 1:15!14">αὐτῶν</e>
@@ -427,7 +427,7 @@
                   usfm="TIT 1:15!20"
                   after=".">συνείδησις</e>
             </c>
-            <c id="N1904.Titus.1.16.1-17" unit="move">
+            <c unit="move" id="N1904.Titus.1.16.1-17">
                <e id="N1904.Titus.1.16.1" clearId="n56001016001" usfm="TIT 1:16!1">Θεὸν</e>
                <e id="N1904.Titus.1.16.2" clearId="n56001016002" usfm="TIT 1:16!2">ὁμολογοῦσιν</e>
                <e id="N1904.Titus.1.16.3"
@@ -457,7 +457,7 @@
             </c>
          </c>
          <c unit="seg" title="Admonitions concerning Various Stations">
-            <c id="N1904.Titus.2.1.1-8" unit="move">
+            <c unit="move" id="N1904.Titus.2.1.1-8">
                <e id="N1904.Titus.2.1.1" clearId="n56002001001" usfm="TIT 2:1!1">Σὺ</e>
                <e id="N1904.Titus.2.1.2" clearId="n56002001002" usfm="TIT 2:1!2">δὲ</e>
                <e id="N1904.Titus.2.1.3" clearId="n56002001003" usfm="TIT 2:1!3">λάλει</e>
@@ -470,7 +470,7 @@
                   usfm="TIT 2:1!8"
                   after=".">διδασκαλίᾳ</e>
             </c>
-            <c id="N1904.Titus.2.2.1-12" unit="move">
+            <c unit="move" id="N1904.Titus.2.2.1-12">
                <e id="N1904.Titus.2.2.1" clearId="n56002002001" usfm="TIT 2:2!1">πρεσβύτας</e>
                <e id="N1904.Titus.2.2.2" clearId="n56002002002" usfm="TIT 2:2!2">νηφαλίους</e>
                <e id="N1904.Titus.2.2.3"
@@ -502,7 +502,7 @@
                   usfm="TIT 2:2!12"
                   after="·">ὑπομονῇ</e>
             </c>
-            <c id="N1904.Titus.2.3.1-5.15" unit="move">
+            <c unit="move" id="N1904.Titus.2.3.1-5.15">
                <e id="N1904.Titus.2.3.1" clearId="n56002003001" usfm="TIT 2:3!1">πρεσβύτιδας</e>
                <e id="N1904.Titus.2.3.2" clearId="n56002003002" usfm="TIT 2:3!2">ὡσαύτως</e>
                <e id="N1904.Titus.2.3.3" clearId="n56002003003" usfm="TIT 2:3!3">ἐν</e>
@@ -571,14 +571,14 @@
                   usfm="TIT 2:5!15"
                   after=".">βλασφημῆται</e>
             </c>
-            <c id="N1904.Titus.2.6.1-5" unit="move">
+            <c unit="move" id="N1904.Titus.2.6.1-5">
                <e id="N1904.Titus.2.6.1" clearId="n56002006001" usfm="TIT 2:6!1">Τοὺς</e>
                <e id="N1904.Titus.2.6.2" clearId="n56002006002" usfm="TIT 2:6!2">νεωτέρους</e>
                <e id="N1904.Titus.2.6.3" clearId="n56002006003" usfm="TIT 2:6!3">ὡσαύτως</e>
                <e id="N1904.Titus.2.6.4" clearId="n56002006004" usfm="TIT 2:6!4">παρακάλει</e>
                <e id="N1904.Titus.2.6.5" clearId="n56002006005" usfm="TIT 2:6!5">σωφρονεῖν</e>
             </c>
-            <c id="N1904.Titus.2.7.1-8.14" unit="move">
+            <c unit="move" id="N1904.Titus.2.7.1-8.14">
                <e id="N1904.Titus.2.7.1" clearId="n56002007001" usfm="TIT 2:7!1">περὶ</e>
                <e id="N1904.Titus.2.7.2"
                   clearId="n56002007002"
@@ -624,7 +624,7 @@
                   usfm="TIT 2:8!14"
                   after=".">φαῦλον</e>
             </c>
-            <c id="N1904.Titus.2.9.1-10.18" unit="move">
+            <c unit="move" id="N1904.Titus.2.9.1-10.18">
                <e id="N1904.Titus.2.9.1" clearId="n56002009001" usfm="TIT 2:9!1">δούλους</e>
                <e id="N1904.Titus.2.9.2" clearId="n56002009002" usfm="TIT 2:9!2">ἰδίοις</e>
                <e id="N1904.Titus.2.9.3" clearId="n56002009003" usfm="TIT 2:9!3">δεσπόταις</e>
@@ -674,7 +674,7 @@
             </c>
          </c>
          <c unit="seg" title="The Grace of Salvation and Its Sanctifying Power">
-            <c id="N1904.Titus.2.11.1-14.19" unit="move">
+            <c unit="move" id="N1904.Titus.2.11.1-14.19">
                <e id="N1904.Titus.2.11.1" clearId="n56002011001" usfm="TIT 2:11!1">Ἐπεφάνη</e>
                <e id="N1904.Titus.2.11.2" clearId="n56002011002" usfm="TIT 2:11!2">γὰρ</e>
                <e id="N1904.Titus.2.11.3" clearId="n56002011003" usfm="TIT 2:11!3">ἡ</e>
@@ -758,7 +758,7 @@
                   usfm="TIT 2:14!19"
                   after=".">ἔργων</e>
             </c>
-            <c id="N1904.Titus.2.15.1-9" unit="move">
+            <c unit="move" id="N1904.Titus.2.15.1-9">
                <e id="N1904.Titus.2.15.1" clearId="n56002015001" usfm="TIT 2:15!1">Ταῦτα</e>
                <e id="N1904.Titus.2.15.2" clearId="n56002015002" usfm="TIT 2:15!2">λάλει</e>
                <e id="N1904.Titus.2.15.3" clearId="n56002015003" usfm="TIT 2:15!3">καὶ</e>
@@ -772,7 +772,7 @@
                   usfm="TIT 2:15!9"
                   after="·">ἐπιταγῆς</e>
             </c>
-            <c id="N1904.Titus.2.15.10-12" unit="move">
+            <c unit="move" id="N1904.Titus.2.15.10-12">
                <e id="N1904.Titus.2.15.10" clearId="n56002015010" usfm="TIT 2:15!10">μηδείς</e>
                <e id="N1904.Titus.2.15.11" clearId="n56002015011" usfm="TIT 2:15!11">σου</e>
                <e id="N1904.Titus.2.15.12"
@@ -782,7 +782,7 @@
             </c>
          </c>
          <c unit="seg" title="An Admonition to Obedience and Meekness">
-            <c id="N1904.Titus.3.1.1-2.11" unit="move">
+            <c unit="move" id="N1904.Titus.3.1.1-2.11">
                <e id="N1904.Titus.3.1.1" clearId="n56003001001" usfm="TIT 3:1!1">Ὑπομίμνῃσκε</e>
                <e id="N1904.Titus.3.1.2" clearId="n56003001002" usfm="TIT 3:1!2">αὐτοὺς</e>
                <e id="N1904.Titus.3.1.3" clearId="n56003001003" usfm="TIT 3:1!3">ἀρχαῖς</e>
@@ -828,7 +828,7 @@
                   usfm="TIT 3:2!11"
                   after=".">ἀνθρώπους</e>
             </c>
-            <c id="N1904.Titus.3.3.1-21" unit="move">
+            <c unit="move" id="N1904.Titus.3.3.1-21">
                <e id="N1904.Titus.3.3.1" clearId="n56003003001" usfm="TIT 3:3!1">Ἦμεν</e>
                <e id="N1904.Titus.3.3.2" clearId="n56003003002" usfm="TIT 3:3!2">γάρ</e>
                <e id="N1904.Titus.3.3.3" clearId="n56003003003" usfm="TIT 3:3!3">ποτε</e>
@@ -874,7 +874,7 @@
             </c>
          </c>
          <c unit="seg" title="The Washing of Regeneration and Its Wonderful Power">
-            <c id="N1904.Titus.3.4.1-7.11" unit="move">
+            <c unit="move" id="N1904.Titus.3.4.1-7.11">
                <e id="N1904.Titus.3.4.1" clearId="n56003004001" usfm="TIT 3:4!1">ὅτε</e>
                <e id="N1904.Titus.3.4.2" clearId="n56003004002" usfm="TIT 3:4!2">δὲ</e>
                <e id="N1904.Titus.3.4.3" clearId="n56003004003" usfm="TIT 3:4!3">ἡ</e>
@@ -945,7 +945,7 @@
                   usfm="TIT 3:7!11"
                   after=".">αἰωνίου</e>
             </c>
-            <c id="N1904.Titus.3.8.1-3" unit="move">
+            <c unit="move" id="N1904.Titus.3.8.1-3">
                <e id="N1904.Titus.3.8.1" clearId="n56003008001" usfm="TIT 3:8!1">Πιστὸς</e>
                <e id="N1904.Titus.3.8.2" clearId="n56003008002" usfm="TIT 3:8!2">ὁ</e>
                <e id="N1904.Titus.3.8.3"
@@ -953,7 +953,7 @@
                   usfm="TIT 3:8!3"
                   after=",">λόγος</e>
             </c>
-            <c id="N1904.Titus.3.8.4-17" unit="move">
+            <c unit="move" id="N1904.Titus.3.8.4-17">
                <e id="N1904.Titus.3.8.4" clearId="n56003008004" usfm="TIT 3:8!4">καὶ</e>
                <e id="N1904.Titus.3.8.5" clearId="n56003008005" usfm="TIT 3:8!5">περὶ</e>
                <e id="N1904.Titus.3.8.6" clearId="n56003008006" usfm="TIT 3:8!6">τούτων</e>
@@ -975,7 +975,7 @@
                   usfm="TIT 3:8!17"
                   after=".">Θεῷ</e>
             </c>
-            <c id="N1904.Titus.3.8.18-24" unit="move">
+            <c unit="move" id="N1904.Titus.3.8.18-24">
                <e id="N1904.Titus.3.8.18" clearId="n56003008018" usfm="TIT 3:8!18">ταῦτά</e>
                <e id="N1904.Titus.3.8.19" clearId="n56003008019" usfm="TIT 3:8!19">ἐστιν</e>
                <e id="N1904.Titus.3.8.20" clearId="n56003008020" usfm="TIT 3:8!20">καλὰ</e>
@@ -990,7 +990,7 @@
          </c>
          <c unit="seg"
             title="The Conduct of Titus toward False Teachers and Heretics">
-            <c id="N1904.Titus.3.9.1-11" unit="move">
+            <c unit="move" id="N1904.Titus.3.9.1-11">
                <e id="N1904.Titus.3.9.1" clearId="n56003009001" usfm="TIT 3:9!1">μωρὰς</e>
                <e id="N1904.Titus.3.9.2" clearId="n56003009002" usfm="TIT 3:9!2">δὲ</e>
                <e id="N1904.Titus.3.9.3" clearId="n56003009003" usfm="TIT 3:9!3">ζητήσεις</e>
@@ -1006,7 +1006,7 @@
                   usfm="TIT 3:9!11"
                   after="·">περιΐστασο</e>
             </c>
-            <c id="N1904.Titus.3.9.12-16" unit="move">
+            <c unit="move" id="N1904.Titus.3.9.12-16">
                <e id="N1904.Titus.3.9.12" clearId="n56003009012" usfm="TIT 3:9!12">εἰσὶν</e>
                <e id="N1904.Titus.3.9.13" clearId="n56003009013" usfm="TIT 3:9!13">γὰρ</e>
                <e id="N1904.Titus.3.9.14" clearId="n56003009014" usfm="TIT 3:9!14">ἀνωφελεῖς</e>
@@ -1016,7 +1016,7 @@
                   usfm="TIT 3:9!16"
                   after=".">μάταιοι</e>
             </c>
-            <c id="N1904.Titus.3.10.1-11.9" unit="move">
+            <c unit="move" id="N1904.Titus.3.10.1-11.9">
                <e id="N1904.Titus.3.10.1" clearId="n56003010001" usfm="TIT 3:10!1">αἱρετικὸν</e>
                <e id="N1904.Titus.3.10.2" clearId="n56003010002" usfm="TIT 3:10!2">ἄνθρωπον</e>
                <e id="N1904.Titus.3.10.3" clearId="n56003010003" usfm="TIT 3:10!3">μετὰ</e>
@@ -1046,7 +1046,7 @@
             </c>
          </c>
          <c unit="seg" title="Final Directions and Greetings">
-            <c id="N1904.Titus.3.12.1-13" unit="move">
+            <c unit="move" id="N1904.Titus.3.12.1-13">
                <e id="N1904.Titus.3.12.1" clearId="n56003012001" usfm="TIT 3:12!1">Ὅταν</e>
                <e id="N1904.Titus.3.12.2" clearId="n56003012002" usfm="TIT 3:12!2">πέμψω</e>
                <e id="N1904.Titus.3.12.3" clearId="n56003012003" usfm="TIT 3:12!3">Ἀρτεμᾶν</e>
@@ -1067,7 +1067,7 @@
                   usfm="TIT 3:12!13"
                   after="·">Νικόπολιν</e>
             </c>
-            <c id="N1904.Titus.3.12.14-17" unit="move">
+            <c unit="move" id="N1904.Titus.3.12.14-17">
                <e id="N1904.Titus.3.12.14" clearId="n56003012014" usfm="TIT 3:12!14">ἐκεῖ</e>
                <e id="N1904.Titus.3.12.15" clearId="n56003012015" usfm="TIT 3:12!15">γὰρ</e>
                <e id="N1904.Titus.3.12.16" clearId="n56003012016" usfm="TIT 3:12!16">κέκρικα</e>
@@ -1076,7 +1076,7 @@
                   usfm="TIT 3:12!17"
                   after=".">παραχειμάσαι</e>
             </c>
-            <c id="N1904.Titus.3.13.1-11" unit="move">
+            <c unit="move" id="N1904.Titus.3.13.1-11">
                <e id="N1904.Titus.3.13.1" clearId="n56003013001" usfm="TIT 3:13!1">Ζηνᾶν</e>
                <e id="N1904.Titus.3.13.2" clearId="n56003013002" usfm="TIT 3:13!2">τὸν</e>
                <e id="N1904.Titus.3.13.3" clearId="n56003013003" usfm="TIT 3:13!3">νομικὸν</e>
@@ -1095,7 +1095,7 @@
                   usfm="TIT 3:13!11"
                   after=".">λείπῃ</e>
             </c>
-            <c id="N1904.Titus.3.14.1-16" unit="move">
+            <c unit="move" id="N1904.Titus.3.14.1-16">
                <e id="N1904.Titus.3.14.1" clearId="n56003014001" usfm="TIT 3:14!1">μανθανέτωσαν</e>
                <e id="N1904.Titus.3.14.2" clearId="n56003014002" usfm="TIT 3:14!2">δὲ</e>
                <e id="N1904.Titus.3.14.3" clearId="n56003014003" usfm="TIT 3:14!3">καὶ</e>
@@ -1119,7 +1119,7 @@
                   usfm="TIT 3:14!16"
                   after=".">ἄκαρποι</e>
             </c>
-            <c id="N1904.Titus.3.15.1-6" unit="move">
+            <c unit="move" id="N1904.Titus.3.15.1-6">
                <e id="N1904.Titus.3.15.1" clearId="n56003015001" usfm="TIT 3:15!1">Ἀσπάζονταί</e>
                <e id="N1904.Titus.3.15.2" clearId="n56003015002" usfm="TIT 3:15!2">σε</e>
                <e id="N1904.Titus.3.15.3" clearId="n56003015003" usfm="TIT 3:15!3">οἱ</e>
@@ -1130,7 +1130,7 @@
                   usfm="TIT 3:15!6"
                   after=".">πάντες</e>
             </c>
-            <c id="N1904.Titus.3.15.7-12" unit="move">
+            <c unit="move" id="N1904.Titus.3.15.7-12">
                <e id="N1904.Titus.3.15.7" clearId="n56003015007" usfm="TIT 3:15!7">ἄσπασαι</e>
                <e id="N1904.Titus.3.15.8" clearId="n56003015008" usfm="TIT 3:15!8">τοὺς</e>
                <e id="N1904.Titus.3.15.9" clearId="n56003015009" usfm="TIT 3:15!9">φιλοῦντας</e>
@@ -1141,7 +1141,7 @@
                   usfm="TIT 3:15!12"
                   after=".">πίστει</e>
             </c>
-            <c id="N1904.Titus.3.15.13-17" unit="move">
+            <c unit="move" id="N1904.Titus.3.15.13-17">
                <e id="N1904.Titus.3.15.13" clearId="n56003015013" usfm="TIT 3:15!13">Ἠ</e>
                <e id="N1904.Titus.3.15.14" clearId="n56003015014" usfm="TIT 3:15!14">χάρις</e>
                <e id="N1904.Titus.3.15.15" clearId="n56003015015" usfm="TIT 3:15!15">μετὰ</e>

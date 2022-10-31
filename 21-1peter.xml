@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../../Display_Files/styles/context.css"?>
+<?xml-stylesheet href="context.css"?>
 <OpenText xmlns:cblte="http://www.cblte.org"
           xmlns:fn="http://www.w3.org/2005/xpath-functions"
           xmlns:xs="http://www.w3.org/2001/XMLSchema">
@@ -37,7 +37,7 @@
    <text id="1Pet">
       <c unit="turn">
          <c unit="seg" title="Address and Salutation">
-            <c id="N1904.1Pet.1.1.1-2.14" unit="move">
+            <c unit="move" id="N1904.1Pet.1.1.1-2.14">
                <e id="N1904.1Pet.1.1.1" clearId="n60001001001" usfm="1PE 1:1!1">Πέτρος</e>
                <e id="N1904.1Pet.1.1.2" clearId="n60001001002" usfm="1PE 1:1!2">ἀπόστολος</e>
                <e id="N1904.1Pet.1.1.3" clearId="n60001001003" usfm="1PE 1:1!3">Ἰησοῦ</e>
@@ -90,7 +90,7 @@
                   usfm="1PE 1:2!14"
                   after="·">Χριστοῦ</e>
             </c>
-            <c id="N1904.1Pet.1.2.15-19" unit="move">
+            <c unit="move" id="N1904.1Pet.1.2.15-19">
                <e id="N1904.1Pet.1.2.15" clearId="n60001002015" usfm="1PE 1:2!15">χάρις</e>
                <e id="N1904.1Pet.1.2.16" clearId="n60001002016" usfm="1PE 1:2!16">ὑμῖν</e>
                <e id="N1904.1Pet.1.2.17" clearId="n60001002017" usfm="1PE 1:2!17">καὶ</e>
@@ -102,7 +102,7 @@
             </c>
          </c>
          <c unit="seg" title="A Praise of God for His Manifold Blessings">
-            <c id="N1904.1Pet.1.3.1-5.14" unit="move">
+            <c unit="move" id="N1904.1Pet.1.3.1-5.14">
                <e id="N1904.1Pet.1.3.1" clearId="n60001003001" usfm="1PE 1:3!1">Εὐλογητὸς</e>
                <e id="N1904.1Pet.1.3.2" clearId="n60001003002" usfm="1PE 1:3!2">ὁ</e>
                <e id="N1904.1Pet.1.3.3" clearId="n60001003003" usfm="1PE 1:3!3">Θεὸς</e>
@@ -169,7 +169,7 @@
                   usfm="1PE 1:5!14"
                   after=".">ἐσχάτῳ</e>
             </c>
-            <c id="N1904.1Pet.1.6.1-7.25" unit="move">
+            <c unit="move" id="N1904.1Pet.1.6.1-7.25">
                <e id="N1904.1Pet.1.6.1" clearId="n60001006001" usfm="1PE 1:6!1">ἐν</e>
                <e id="N1904.1Pet.1.6.2" clearId="n60001006002" usfm="1PE 1:6!2">ᾧ</e>
                <e id="N1904.1Pet.1.6.3"
@@ -222,7 +222,7 @@
                   usfm="1PE 1:7!25"
                   after="·">Χριστοῦ</e>
             </c>
-            <c id="N1904.1Pet.1.8.1-9.7" unit="move">
+            <c unit="move" id="N1904.1Pet.1.8.1-9.7">
                <e id="N1904.1Pet.1.8.1" clearId="n60001008001" usfm="1PE 1:8!1">ὃν</e>
                <e id="N1904.1Pet.1.8.2" clearId="n60001008002" usfm="1PE 1:8!2">οὐκ</e>
                <e id="N1904.1Pet.1.8.3" clearId="n60001008003" usfm="1PE 1:8!3">ἰδόντες</e>
@@ -256,7 +256,7 @@
                   usfm="1PE 1:9!7"
                   after=".">ψυχῶν</e>
             </c>
-            <c id="N1904.1Pet.1.10.1-11.22" unit="move">
+            <c unit="move" id="N1904.1Pet.1.10.1-11.22">
                <e id="N1904.1Pet.1.10.1" clearId="n60001010001" usfm="1PE 1:10!1">περὶ</e>
                <e id="N1904.1Pet.1.10.2" clearId="n60001010002" usfm="1PE 1:10!2">ἧς</e>
                <e id="N1904.1Pet.1.10.3" clearId="n60001010003" usfm="1PE 1:10!3">σωτηρίας</e>
@@ -300,7 +300,7 @@
                   usfm="1PE 1:11!22"
                   after="·">δόξας</e>
             </c>
-            <c id="N1904.1Pet.1.12.1-28" unit="move">
+            <c unit="move" id="N1904.1Pet.1.12.1-28">
                <e id="N1904.1Pet.1.12.1" clearId="n60001012001" usfm="1PE 1:12!1">οἷς</e>
                <e id="N1904.1Pet.1.12.2" clearId="n60001012002" usfm="1PE 1:12!2">ἀπεκαλύφθη</e>
                <e id="N1904.1Pet.1.12.3" clearId="n60001012003" usfm="1PE 1:12!3">ὅτι</e>
@@ -341,7 +341,7 @@
             </c>
          </c>
          <c unit="seg" title="An Admonition to Lead a Godly Life">
-            <c id="N1904.1Pet.1.13.1-19" unit="move">
+            <c unit="move" id="N1904.1Pet.1.13.1-19">
                <e id="N1904.1Pet.1.13.1" clearId="n60001013001" usfm="1PE 1:13!1">Διὸ</e>
                <e id="N1904.1Pet.1.13.2" clearId="n60001013002" usfm="1PE 1:13!2">ἀναζωσάμενοι</e>
                <e id="N1904.1Pet.1.13.3" clearId="n60001013003" usfm="1PE 1:13!3">τὰς</e>
@@ -374,7 +374,7 @@
                   usfm="1PE 1:13!19"
                   after=".">Χριστοῦ</e>
             </c>
-            <c id="N1904.1Pet.1.14.1-16.7" unit="move">
+            <c unit="move" id="N1904.1Pet.1.14.1-16.7">
                <e id="N1904.1Pet.1.14.1" clearId="n60001014001" usfm="1PE 1:14!1">ὡς</e>
                <e id="N1904.1Pet.1.14.2" clearId="n60001014002" usfm="1PE 1:14!2">τέκνα</e>
                <e id="N1904.1Pet.1.14.3"
@@ -412,7 +412,7 @@
                <e id="N1904.1Pet.1.16.1" clearId="n60001016001" usfm="1PE 1:16!1">διότι</e>
                <e id="N1904.1Pet.1.16.2" clearId="n60001016002" usfm="1PE 1:16!2">γέγραπται</e>
                <c unit="turn">
-                  <c id="N1904.1Pet.1.16.3-7" unit="move">
+                  <c unit="move" id="N1904.1Pet.1.16.3-7">
                      <e id="N1904.1Pet.1.16.3" clearId="n60001016003" usfm="1PE 1:16!3">Ἅγιοι</e>
                      <e id="N1904.1Pet.1.16.4"
                         clearId="n60001016004"
@@ -427,7 +427,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.1Pet.1.17.1-21.24" unit="move">
+            <c unit="move" id="N1904.1Pet.1.17.1-21.24">
                <e id="N1904.1Pet.1.17.1" clearId="n60001017001" usfm="1PE 1:17!1">καὶ</e>
                <e id="N1904.1Pet.1.17.2" clearId="n60001017002" usfm="1PE 1:17!2">εἰ</e>
                <e id="N1904.1Pet.1.17.3" clearId="n60001017003" usfm="1PE 1:17!3">Πατέρα</e>
@@ -535,7 +535,7 @@
                   usfm="1PE 1:21!24"
                   after=".">Θεόν</e>
             </c>
-            <c id="N1904.1Pet.1.22.1-23.13" unit="move">
+            <c unit="move" id="N1904.1Pet.1.22.1-23.13">
                <e id="N1904.1Pet.1.22.1" clearId="n60001022001" usfm="1PE 1:22!1">Τὰς</e>
                <e id="N1904.1Pet.1.22.2" clearId="n60001022002" usfm="1PE 1:22!2">ψυχὰς</e>
                <e id="N1904.1Pet.1.22.3" clearId="n60001022003" usfm="1PE 1:22!3">ὑμῶν</e>
@@ -579,7 +579,7 @@
                   usfm="1PE 1:23!13"
                   after=".">μένοντος</e>
             </c>
-            <c id="N1904.1Pet.1.24.1-25.8" unit="move">
+            <c unit="move" id="N1904.1Pet.1.24.1-25.8">
                <e id="N1904.1Pet.1.24.1" clearId="n60001024001" usfm="1PE 1:24!1">διότι</e>
                <e id="N1904.1Pet.1.24.2" clearId="n60001024002" usfm="1PE 1:24!2">πᾶσα</e>
                <e id="N1904.1Pet.1.24.3" clearId="n60001024003" usfm="1PE 1:24!3">σὰρξ</e>
@@ -623,7 +623,7 @@
                   usfm="1PE 1:25!8"
                   after=".">αἰῶνα</e>
             </c>
-            <c id="N1904.1Pet.1.25.9-17" unit="move">
+            <c unit="move" id="N1904.1Pet.1.25.9-17">
                <e id="N1904.1Pet.1.25.9" clearId="n60001025009" usfm="1PE 1:25!9">τοῦτο</e>
                <e id="N1904.1Pet.1.25.10" clearId="n60001025010" usfm="1PE 1:25!10">δέ</e>
                <e id="N1904.1Pet.1.25.11" clearId="n60001025011" usfm="1PE 1:25!11">ἐστιν</e>
@@ -639,7 +639,7 @@
             </c>
          </c>
          <c unit="seg" title="Further Practical Admonitions">
-            <c id="N1904.1Pet.2.1.1-3.6" unit="move">
+            <c unit="move" id="N1904.1Pet.2.1.1-3.6">
                <e id="N1904.1Pet.2.1.1" clearId="n60002001001" usfm="1PE 2:1!1">Ἀποθέμενοι</e>
                <e id="N1904.1Pet.2.1.2" clearId="n60002001002" usfm="1PE 2:1!2">οὖν</e>
                <e id="N1904.1Pet.2.1.3" clearId="n60002001003" usfm="1PE 2:1!3">πᾶσαν</e>
@@ -687,7 +687,7 @@
                   usfm="1PE 2:3!6"
                   after=".">Κύριος</e>
             </c>
-            <c id="N1904.1Pet.2.4.1-5.19" unit="move">
+            <c unit="move" id="N1904.1Pet.2.4.1-5.19">
                <e id="N1904.1Pet.2.4.1" clearId="n60002004001" usfm="1PE 2:4!1">πρὸς</e>
                <e id="N1904.1Pet.2.4.2" clearId="n60002004002" usfm="1PE 2:4!2">ὃν</e>
                <e id="N1904.1Pet.2.4.3"
@@ -737,13 +737,13 @@
                   usfm="1PE 2:5!19"
                   after=".">Χριστοῦ</e>
             </c>
-            <c id="N1904.1Pet.2.6.1-20" unit="move">
+            <c unit="move" id="N1904.1Pet.2.6.1-20">
                <e id="N1904.1Pet.2.6.1" clearId="n60002006001" usfm="1PE 2:6!1">διότι</e>
                <e id="N1904.1Pet.2.6.2" clearId="n60002006002" usfm="1PE 2:6!2">περιέχει</e>
                <e id="N1904.1Pet.2.6.3" clearId="n60002006003" usfm="1PE 2:6!3">ἐν</e>
                <e id="N1904.1Pet.2.6.4" clearId="n60002006004" usfm="1PE 2:6!4">γραφῇ</e>
                <c unit="turn">
-                  <c id="N1904.1Pet.2.6.5-20" unit="move">
+                  <c unit="move" id="N1904.1Pet.2.6.5-20">
                      <e id="N1904.1Pet.2.6.5" clearId="n60002006005" usfm="1PE 2:6!5">Ἰδοὺ</e>
                      <e id="N1904.1Pet.2.6.6" clearId="n60002006006" usfm="1PE 2:6!6">τίθημι</e>
                      <e id="N1904.1Pet.2.6.7" clearId="n60002006007" usfm="1PE 2:6!7">ἐν</e>
@@ -769,7 +769,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.1Pet.2.7.1-6" unit="move">
+            <c unit="move" id="N1904.1Pet.2.7.1-6">
                <e id="N1904.1Pet.2.7.1" clearId="n60002007001" usfm="1PE 2:7!1">ὑμῖν</e>
                <e id="N1904.1Pet.2.7.2" clearId="n60002007002" usfm="1PE 2:7!2">οὖν</e>
                <e id="N1904.1Pet.2.7.3" clearId="n60002007003" usfm="1PE 2:7!3">ἡ</e>
@@ -780,7 +780,7 @@
                   usfm="1PE 2:7!6"
                   after="·">πιστεύουσιν</e>
             </c>
-            <c id="N1904.1Pet.2.7.7-8.6" unit="move">
+            <c unit="move" id="N1904.1Pet.2.7.7-8.6">
                <e id="N1904.1Pet.2.7.7" clearId="n60002007007" usfm="1PE 2:7!7">ἀπιστοῦσιν</e>
                <e id="N1904.1Pet.2.7.8" clearId="n60002007008" usfm="1PE 2:7!8">δὲ</e>
                <e id="N1904.1Pet.2.7.9" clearId="n60002007009" usfm="1PE 2:7!9">λίθος</e>
@@ -806,7 +806,7 @@
                   usfm="1PE 2:8!6"
                   after="·">σκανδάλου</e>
             </c>
-            <c id="N1904.1Pet.2.8.7-15" unit="move">
+            <c unit="move" id="N1904.1Pet.2.8.7-15">
                <e id="N1904.1Pet.2.8.7" clearId="n60002008007" usfm="1PE 2:8!7">οἳ</e>
                <e id="N1904.1Pet.2.8.8" clearId="n60002008008" usfm="1PE 2:8!8">προσκόπτουσιν</e>
                <e id="N1904.1Pet.2.8.9" clearId="n60002008009" usfm="1PE 2:8!9">τῷ</e>
@@ -823,7 +823,7 @@
                   usfm="1PE 2:8!15"
                   after="·">ἐτέθησαν</e>
             </c>
-            <c id="N1904.1Pet.2.9.1-10.8" unit="move">
+            <c unit="move" id="N1904.1Pet.2.9.1-10.8">
                <e id="N1904.1Pet.2.9.1" clearId="n60002009001" usfm="1PE 2:9!1">ὑμεῖς</e>
                <e id="N1904.1Pet.2.9.2" clearId="n60002009002" usfm="1PE 2:9!2">δὲ</e>
                <e id="N1904.1Pet.2.9.3" clearId="n60002009003" usfm="1PE 2:9!3">γένος</e>
@@ -879,7 +879,7 @@
                   usfm="1PE 2:10!8"
                   after=",">Θεοῦ</e>
             </c>
-            <c id="N1904.1Pet.2.10.9-14" unit="move">
+            <c unit="move" id="N1904.1Pet.2.10.9-14">
                <e id="N1904.1Pet.2.10.9" clearId="n60002010009" usfm="1PE 2:10!9">οἱ</e>
                <e id="N1904.1Pet.2.10.10" clearId="n60002010010" usfm="1PE 2:10!10">οὐκ</e>
                <e id="N1904.1Pet.2.10.11"
@@ -896,7 +896,7 @@
          </c>
          <c unit="seg"
             title="Specific Admonitions Concerning the Station of the Christians">
-            <c id="N1904.1Pet.2.11.1-15" unit="move">
+            <c unit="move" id="N1904.1Pet.2.11.1-15">
                <e id="N1904.1Pet.2.11.1"
                   clearId="n60002011001"
                   usfm="1PE 2:11!1"
@@ -922,7 +922,7 @@
                   usfm="1PE 2:11!15"
                   after="·">ψυχῆς</e>
             </c>
-            <c id="N1904.1Pet.2.12.1-26" unit="move">
+            <c unit="move" id="N1904.1Pet.2.12.1-26">
                <e id="N1904.1Pet.2.12.1" clearId="n60002012001" usfm="1PE 2:12!1">τὴν</e>
                <e id="N1904.1Pet.2.12.2" clearId="n60002012002" usfm="1PE 2:12!2">ἀναστροφὴν</e>
                <e id="N1904.1Pet.2.12.3" clearId="n60002012003" usfm="1PE 2:12!3">ὑμῶν</e>
@@ -959,7 +959,7 @@
                   usfm="1PE 2:12!26"
                   after=".">ἐπισκοπῆς</e>
             </c>
-            <c id="N1904.1Pet.2.13.1-14.12" unit="move">
+            <c unit="move" id="N1904.1Pet.2.13.1-14.12">
                <e id="N1904.1Pet.2.13.1" clearId="n60002013001" usfm="1PE 2:13!1">Ὑποτάγητε</e>
                <e id="N1904.1Pet.2.13.2" clearId="n60002013002" usfm="1PE 2:13!2">πάσῃ</e>
                <e id="N1904.1Pet.2.13.3" clearId="n60002013003" usfm="1PE 2:13!3">ἀνθρωπίνῃ</e>
@@ -993,7 +993,7 @@
                   usfm="1PE 2:14!12"
                   after="·">ἀγαθοποιῶν</e>
             </c>
-            <c id="N1904.1Pet.2.15.1-14" unit="move">
+            <c unit="move" id="N1904.1Pet.2.15.1-14">
                <e id="N1904.1Pet.2.15.1" clearId="n60002015001" usfm="1PE 2:15!1">ὅτι</e>
                <e id="N1904.1Pet.2.15.2" clearId="n60002015002" usfm="1PE 2:15!2">οὕτως</e>
                <e id="N1904.1Pet.2.15.3" clearId="n60002015003" usfm="1PE 2:15!3">ἐστὶν</e>
@@ -1015,7 +1015,7 @@
                   usfm="1PE 2:15!14"
                   after="·">ἀγνωσίαν</e>
             </c>
-            <c id="N1904.1Pet.2.16.1-15" unit="move">
+            <c unit="move" id="N1904.1Pet.2.16.1-15">
                <e id="N1904.1Pet.2.16.1" clearId="n60002016001" usfm="1PE 2:16!1">ὡς</e>
                <e id="N1904.1Pet.2.16.2"
                   clearId="n60002016002"
@@ -1041,7 +1041,7 @@
                   usfm="1PE 2:16!15"
                   after=".">δοῦλοι</e>
             </c>
-            <c id="N1904.1Pet.2.17.1-11" unit="move">
+            <c unit="move" id="N1904.1Pet.2.17.1-11">
                <e id="N1904.1Pet.2.17.1" clearId="n60002017001" usfm="1PE 2:17!1">πάντας</e>
                <e id="N1904.1Pet.2.17.2"
                   clearId="n60002017002"
@@ -1066,7 +1066,7 @@
                   usfm="1PE 2:17!11"
                   after=".">τιμᾶτε</e>
             </c>
-            <c id="N1904.1Pet.2.18.1-18" unit="move">
+            <c unit="move" id="N1904.1Pet.2.18.1-18">
                <e id="N1904.1Pet.2.18.1" clearId="n60002018001" usfm="1PE 2:18!1">Οἱ</e>
                <e id="N1904.1Pet.2.18.2"
                   clearId="n60002018002"
@@ -1095,7 +1095,7 @@
                   usfm="1PE 2:18!18"
                   after=".">σκολιοῖς</e>
             </c>
-            <c id="N1904.1Pet.2.19.1-12" unit="move">
+            <c unit="move" id="N1904.1Pet.2.19.1-12">
                <e id="N1904.1Pet.2.19.1" clearId="n60002019001" usfm="1PE 2:19!1">τοῦτο</e>
                <e id="N1904.1Pet.2.19.2" clearId="n60002019002" usfm="1PE 2:19!2">γὰρ</e>
                <e id="N1904.1Pet.2.19.3" clearId="n60002019003" usfm="1PE 2:19!3">χάρις</e>
@@ -1112,7 +1112,7 @@
                   usfm="1PE 2:19!12"
                   after=".">ἀδίκως</e>
             </c>
-            <c id="N1904.1Pet.2.20.1-8" unit="move">
+            <c unit="move" id="N1904.1Pet.2.20.1-8">
                <e id="N1904.1Pet.2.20.1" clearId="n60002020001" usfm="1PE 2:20!1">ποῖον</e>
                <e id="N1904.1Pet.2.20.2" clearId="n60002020002" usfm="1PE 2:20!2">γὰρ</e>
                <e id="N1904.1Pet.2.20.3" clearId="n60002020003" usfm="1PE 2:20!3">κλέος</e>
@@ -1125,7 +1125,7 @@
                   usfm="1PE 2:20!8"
                   after=";">ὑπομενεῖτε</e>
             </c>
-            <c id="N1904.1Pet.2.20.9-18" unit="move">
+            <c unit="move" id="N1904.1Pet.2.20.9-18">
                <e id="N1904.1Pet.2.20.9" clearId="n60002020009" usfm="1PE 2:20!9">ἀλλ’</e>
                <e id="N1904.1Pet.2.20.10" clearId="n60002020010" usfm="1PE 2:20!10">εἰ</e>
                <e id="N1904.1Pet.2.20.11" clearId="n60002020011" usfm="1PE 2:20!11">ἀγαθοποιοῦντες</e>
@@ -1143,7 +1143,7 @@
                   usfm="1PE 2:20!18"
                   after=".">Θεῷ</e>
             </c>
-            <c id="N1904.1Pet.2.21.1-18" unit="move">
+            <c unit="move" id="N1904.1Pet.2.21.1-18">
                <e id="N1904.1Pet.2.21.1" clearId="n60002021001" usfm="1PE 2:21!1">εἰς</e>
                <e id="N1904.1Pet.2.21.2" clearId="n60002021002" usfm="1PE 2:21!2">τοῦτο</e>
                <e id="N1904.1Pet.2.21.3" clearId="n60002021003" usfm="1PE 2:21!3">γὰρ</e>
@@ -1172,7 +1172,7 @@
                   usfm="1PE 2:21!18"
                   after="·">αὐτοῦ</e>
             </c>
-            <c id="N1904.1Pet.2.22.1-11" unit="move">
+            <c unit="move" id="N1904.1Pet.2.22.1-11">
                <e id="N1904.1Pet.2.22.1" clearId="n60002022001" usfm="1PE 2:22!1">ὃς</e>
                <e id="N1904.1Pet.2.22.2" clearId="n60002022002" usfm="1PE 2:22!2">ἁμαρτίαν</e>
                <e id="N1904.1Pet.2.22.3" clearId="n60002022003" usfm="1PE 2:22!3">οὐκ</e>
@@ -1188,7 +1188,7 @@
                   usfm="1PE 2:22!11"
                   after="·">αὐτοῦ</e>
             </c>
-            <c id="N1904.1Pet.2.23.1-12" unit="move">
+            <c unit="move" id="N1904.1Pet.2.23.1-12">
                <e id="N1904.1Pet.2.23.1" clearId="n60002023001" usfm="1PE 2:23!1">ὃς</e>
                <e id="N1904.1Pet.2.23.2" clearId="n60002023002" usfm="1PE 2:23!2">λοιδορούμενος</e>
                <e id="N1904.1Pet.2.23.3" clearId="n60002023003" usfm="1PE 2:23!3">οὐκ</e>
@@ -1211,7 +1211,7 @@
                   usfm="1PE 2:23!12"
                   after="·">δικαίως</e>
             </c>
-            <c id="N1904.1Pet.2.24.1-20" unit="move">
+            <c unit="move" id="N1904.1Pet.2.24.1-20">
                <e id="N1904.1Pet.2.24.1" clearId="n60002024001" usfm="1PE 2:24!1">ὃς</e>
                <e id="N1904.1Pet.2.24.2" clearId="n60002024002" usfm="1PE 2:24!2">τὰς</e>
                <e id="N1904.1Pet.2.24.3" clearId="n60002024003" usfm="1PE 2:24!3">ἁμαρτίας</e>
@@ -1239,7 +1239,7 @@
                   usfm="1PE 2:24!20"
                   after="·">ζήσωμεν</e>
             </c>
-            <c id="N1904.1Pet.2.24.21-24" unit="move">
+            <c unit="move" id="N1904.1Pet.2.24.21-24">
                <e id="N1904.1Pet.2.24.21" clearId="n60002024021" usfm="1PE 2:24!21">οὗ</e>
                <e id="N1904.1Pet.2.24.22" clearId="n60002024022" usfm="1PE 2:24!22">τῷ</e>
                <e id="N1904.1Pet.2.24.23" clearId="n60002024023" usfm="1PE 2:24!23">μώλωπι</e>
@@ -1248,7 +1248,7 @@
                   usfm="1PE 2:24!24"
                   after=".">ἰάθητε</e>
             </c>
-            <c id="N1904.1Pet.2.25.1-5" unit="move">
+            <c unit="move" id="N1904.1Pet.2.25.1-5">
                <e id="N1904.1Pet.2.25.1" clearId="n60002025001" usfm="1PE 2:25!1">ἦτε</e>
                <e id="N1904.1Pet.2.25.2" clearId="n60002025002" usfm="1PE 2:25!2">γὰρ</e>
                <e id="N1904.1Pet.2.25.3" clearId="n60002025003" usfm="1PE 2:25!3">ὡς</e>
@@ -1258,7 +1258,7 @@
                   usfm="1PE 2:25!5"
                   after=",">πλανώμενοι</e>
             </c>
-            <c id="N1904.1Pet.2.25.6-16" unit="move">
+            <c unit="move" id="N1904.1Pet.2.25.6-16">
                <e id="N1904.1Pet.2.25.6" clearId="n60002025006" usfm="1PE 2:25!6">ἀλλὰ</e>
                <e id="N1904.1Pet.2.25.7" clearId="n60002025007" usfm="1PE 2:25!7">ἐπεστράφητε</e>
                <e id="N1904.1Pet.2.25.8" clearId="n60002025008" usfm="1PE 2:25!8">νῦν</e>
@@ -1276,7 +1276,7 @@
             </c>
          </c>
          <c unit="seg" title="Exhortations to the Married">
-            <c id="N1904.1Pet.3.1.1-2.7" unit="move">
+            <c unit="move" id="N1904.1Pet.3.1.1-2.7">
                <e id="N1904.1Pet.3.1.1" clearId="n60003001001" usfm="1PE 3:1!1">Ὁμοίως</e>
                <e id="N1904.1Pet.3.1.2"
                   clearId="n60003001002"
@@ -1321,7 +1321,7 @@
                   usfm="1PE 3:2!7"
                   after=".">ὑμῶν</e>
             </c>
-            <c id="N1904.1Pet.3.3.1-4.20" unit="move">
+            <c unit="move" id="N1904.1Pet.3.3.1-4.20">
                <e id="N1904.1Pet.3.3.1" clearId="n60003003001" usfm="1PE 3:3!1">ὧν</e>
                <e id="N1904.1Pet.3.3.2" clearId="n60003003002" usfm="1PE 3:3!2">ἔστω</e>
                <e id="N1904.1Pet.3.3.3" clearId="n60003003003" usfm="1PE 3:3!3">οὐχ</e>
@@ -1366,7 +1366,7 @@
                   usfm="1PE 3:4!20"
                   after=".">πολυτελές</e>
             </c>
-            <c id="N1904.1Pet.3.5.1-6.17" unit="move">
+            <c unit="move" id="N1904.1Pet.3.5.1-6.17">
                <e id="N1904.1Pet.3.5.1" clearId="n60003005001" usfm="1PE 3:5!1">οὕτως</e>
                <e id="N1904.1Pet.3.5.2" clearId="n60003005002" usfm="1PE 3:5!2">γάρ</e>
                <e id="N1904.1Pet.3.5.3" clearId="n60003005003" usfm="1PE 3:5!3">ποτε</e>
@@ -1417,7 +1417,7 @@
                   usfm="1PE 3:6!17"
                   after=".">πτόησιν</e>
             </c>
-            <c id="N1904.1Pet.3.7.1-25" unit="move">
+            <c unit="move" id="N1904.1Pet.3.7.1-25">
                <e id="N1904.1Pet.3.7.1" clearId="n60003007001" usfm="1PE 3:7!1">Οἱ</e>
                <e id="N1904.1Pet.3.7.2" clearId="n60003007002" usfm="1PE 3:7!2">ἄνδρες</e>
                <e id="N1904.1Pet.3.7.3" clearId="n60003007003" usfm="1PE 3:7!3">ὁμοίως</e>
@@ -1455,7 +1455,7 @@
             </c>
          </c>
          <c unit="seg" title="Exhortations to Christians in General">
-            <c id="N1904.1Pet.3.8.1-9.19" unit="move">
+            <c unit="move" id="N1904.1Pet.3.8.1-9.19">
                <e id="N1904.1Pet.3.8.1" clearId="n60003008001" usfm="1PE 3:8!1">Τὸ</e>
                <e id="N1904.1Pet.3.8.2" clearId="n60003008002" usfm="1PE 3:8!2">δὲ</e>
                <e id="N1904.1Pet.3.8.3" clearId="n60003008003" usfm="1PE 3:8!3">τέλος</e>
@@ -1509,7 +1509,7 @@
                   usfm="1PE 3:9!19"
                   after=".">κληρονομήσητε</e>
             </c>
-            <c id="N1904.1Pet.3.10.1-20" unit="move">
+            <c unit="move" id="N1904.1Pet.3.10.1-20">
                <e id="N1904.1Pet.3.10.1" clearId="n60003010001" usfm="1PE 3:10!1">ὁ</e>
                <e id="N1904.1Pet.3.10.2" clearId="n60003010002" usfm="1PE 3:10!2">γὰρ</e>
                <e id="N1904.1Pet.3.10.3" clearId="n60003010003" usfm="1PE 3:10!3">θέλων</e>
@@ -1534,7 +1534,7 @@
                   usfm="1PE 3:10!20"
                   after=",">δόλον</e>
             </c>
-            <c id="N1904.1Pet.3.11.1-7" unit="move">
+            <c unit="move" id="N1904.1Pet.3.11.1-7">
                <e id="N1904.1Pet.3.11.1" clearId="n60003011001" usfm="1PE 3:11!1">ἐκκλινάτω</e>
                <e id="N1904.1Pet.3.11.2" clearId="n60003011002" usfm="1PE 3:11!2">δὲ</e>
                <e id="N1904.1Pet.3.11.3" clearId="n60003011003" usfm="1PE 3:11!3">ἀπὸ</e>
@@ -1546,7 +1546,7 @@
                   usfm="1PE 3:11!7"
                   after=",">ἀγαθόν</e>
             </c>
-            <c id="N1904.1Pet.3.11.8-12" unit="move">
+            <c unit="move" id="N1904.1Pet.3.11.8-12">
                <e id="N1904.1Pet.3.11.8" clearId="n60003011008" usfm="1PE 3:11!8">ζητησάτω</e>
                <e id="N1904.1Pet.3.11.9" clearId="n60003011009" usfm="1PE 3:11!9">εἰρήνην</e>
                <e id="N1904.1Pet.3.11.10" clearId="n60003011010" usfm="1PE 3:11!10">καὶ</e>
@@ -1556,7 +1556,7 @@
                   usfm="1PE 3:11!12"
                   after="·">αὐτήν</e>
             </c>
-            <c id="N1904.1Pet.3.12.1-17" unit="move">
+            <c unit="move" id="N1904.1Pet.3.12.1-17">
                <e id="N1904.1Pet.3.12.1" clearId="n60003012001" usfm="1PE 3:12!1">ὅτι</e>
                <e id="N1904.1Pet.3.12.2" clearId="n60003012002" usfm="1PE 3:12!2">ὀφθαλμοὶ</e>
                <e id="N1904.1Pet.3.12.3" clearId="n60003012003" usfm="1PE 3:12!3">Κυρίου</e>
@@ -1581,7 +1581,7 @@
                   usfm="1PE 3:12!17"
                   after=".">κακά</e>
             </c>
-            <c id="N1904.1Pet.3.13.1-10" unit="move">
+            <c unit="move" id="N1904.1Pet.3.13.1-10">
                <e id="N1904.1Pet.3.13.1" clearId="n60003013001" usfm="1PE 3:13!1">Καὶ</e>
                <e id="N1904.1Pet.3.13.2" clearId="n60003013002" usfm="1PE 3:13!2">τίς</e>
                <e id="N1904.1Pet.3.13.3" clearId="n60003013003" usfm="1PE 3:13!3">ὁ</e>
@@ -1596,7 +1596,7 @@
                   usfm="1PE 3:13!10"
                   after=";">γένησθε</e>
             </c>
-            <c id="N1904.1Pet.3.14.1-7" unit="move">
+            <c unit="move" id="N1904.1Pet.3.14.1-7">
                <e id="N1904.1Pet.3.14.1" clearId="n60003014001" usfm="1PE 3:14!1">ἀλλ’</e>
                <e id="N1904.1Pet.3.14.2" clearId="n60003014002" usfm="1PE 3:14!2">εἰ</e>
                <e id="N1904.1Pet.3.14.3" clearId="n60003014003" usfm="1PE 3:14!3">καὶ</e>
@@ -1611,7 +1611,7 @@
                   usfm="1PE 3:14!7"
                   after=".">μακάριοι</e>
             </c>
-            <c id="N1904.1Pet.3.14.8-16.21" unit="move">
+            <c unit="move" id="N1904.1Pet.3.14.8-16.21">
                <e id="N1904.1Pet.3.14.8" clearId="n60003014008" usfm="1PE 3:14!8">τὸν</e>
                <e id="N1904.1Pet.3.14.9" clearId="n60003014009" usfm="1PE 3:14!9">δὲ</e>
                <e id="N1904.1Pet.3.14.10" clearId="n60003014010" usfm="1PE 3:14!10">φόβον</e>
@@ -1683,7 +1683,7 @@
                   usfm="1PE 3:16!21"
                   after=".">ἀναστροφήν</e>
             </c>
-            <c id="N1904.1Pet.3.17.1-18.21" unit="move">
+            <c unit="move" id="N1904.1Pet.3.17.1-18.21">
                <e id="N1904.1Pet.3.17.1" clearId="n60003017001" usfm="1PE 3:17!1">κρεῖττον</e>
                <e id="N1904.1Pet.3.17.2" clearId="n60003017002" usfm="1PE 3:17!2">γὰρ</e>
                <e id="N1904.1Pet.3.17.3"
@@ -1739,7 +1739,7 @@
                   usfm="1PE 3:18!21"
                   after="·">πνεύματι</e>
             </c>
-            <c id="N1904.1Pet.3.19.1-20.23" unit="move">
+            <c unit="move" id="N1904.1Pet.3.19.1-20.23">
                <e id="N1904.1Pet.3.19.1" clearId="n60003019001" usfm="1PE 3:19!1">ἐν</e>
                <e id="N1904.1Pet.3.19.2" clearId="n60003019002" usfm="1PE 3:19!2">ᾧ</e>
                <e id="N1904.1Pet.3.19.3" clearId="n60003019003" usfm="1PE 3:19!3">καὶ</e>
@@ -1788,7 +1788,7 @@
                   usfm="1PE 3:20!23"
                   after=".">ὕδατος</e>
             </c>
-            <c id="N1904.1Pet.3.21.1-22.15" unit="move">
+            <c unit="move" id="N1904.1Pet.3.21.1-22.15">
                <e id="N1904.1Pet.3.21.1" clearId="n60003021001" usfm="1PE 3:21!1">ὃ</e>
                <e id="N1904.1Pet.3.21.2" clearId="n60003021002" usfm="1PE 3:21!2">καὶ</e>
                <e id="N1904.1Pet.3.21.3" clearId="n60003021003" usfm="1PE 3:21!3">ὑμᾶς</e>
@@ -1846,7 +1846,7 @@
             </c>
          </c>
          <c unit="seg" title="Admonitions in View of the Second Coming of Christ">
-            <c id="N1904.1Pet.4.1.1-2.14" unit="move">
+            <c unit="move" id="N1904.1Pet.4.1.1-2.14">
                <e id="N1904.1Pet.4.1.1" clearId="n60004001001" usfm="1PE 4:1!1">Χριστοῦ</e>
                <e id="N1904.1Pet.4.1.2" clearId="n60004001002" usfm="1PE 4:1!2">οὖν</e>
                <e id="N1904.1Pet.4.1.3" clearId="n60004001003" usfm="1PE 4:1!3">παθόντος</e>
@@ -1887,7 +1887,7 @@
                   usfm="1PE 4:2!14"
                   after=".">χρόνον</e>
             </c>
-            <c id="N1904.1Pet.4.3.1-5.10" unit="move">
+            <c unit="move" id="N1904.1Pet.4.3.1-5.10">
                <e id="N1904.1Pet.4.3.1" clearId="n60004003001" usfm="1PE 4:3!1">ἀρκετὸς</e>
                <e id="N1904.1Pet.4.3.2" clearId="n60004003002" usfm="1PE 4:3!2">γὰρ</e>
                <e id="N1904.1Pet.4.3.3" clearId="n60004003003" usfm="1PE 4:3!3">ὁ</e>
@@ -1962,7 +1962,7 @@
                   usfm="1PE 4:5!10"
                   after=".">νεκρούς</e>
             </c>
-            <c id="N1904.1Pet.4.6.1-17" unit="move">
+            <c unit="move" id="N1904.1Pet.4.6.1-17">
                <e id="N1904.1Pet.4.6.1" clearId="n60004006001" usfm="1PE 4:6!1">εἰς</e>
                <e id="N1904.1Pet.4.6.2" clearId="n60004006002" usfm="1PE 4:6!2">τοῦτο</e>
                <e id="N1904.1Pet.4.6.3" clearId="n60004006003" usfm="1PE 4:6!3">γὰρ</e>
@@ -1990,7 +1990,7 @@
                   usfm="1PE 4:6!17"
                   after=".">πνεύματι</e>
             </c>
-            <c id="N1904.1Pet.4.7.1-5" unit="move">
+            <c unit="move" id="N1904.1Pet.4.7.1-5">
                <e id="N1904.1Pet.4.7.1" clearId="n60004007001" usfm="1PE 4:7!1">Πάντων</e>
                <e id="N1904.1Pet.4.7.2" clearId="n60004007002" usfm="1PE 4:7!2">δὲ</e>
                <e id="N1904.1Pet.4.7.3" clearId="n60004007003" usfm="1PE 4:7!3">τὸ</e>
@@ -2000,7 +2000,7 @@
                   usfm="1PE 4:7!5"
                   after=".">ἤγγικεν</e>
             </c>
-            <c id="N1904.1Pet.4.7.6-11" unit="move">
+            <c unit="move" id="N1904.1Pet.4.7.6-11">
                <e id="N1904.1Pet.4.7.6" clearId="n60004007006" usfm="1PE 4:7!6">σωφρονήσατε</e>
                <e id="N1904.1Pet.4.7.7" clearId="n60004007007" usfm="1PE 4:7!7">οὖν</e>
                <e id="N1904.1Pet.4.7.8" clearId="n60004007008" usfm="1PE 4:7!8">καὶ</e>
@@ -2011,7 +2011,7 @@
                   usfm="1PE 4:7!11"
                   after="·">προσευχάς</e>
             </c>
-            <c id="N1904.1Pet.4.8.1-13" unit="move">
+            <c unit="move" id="N1904.1Pet.4.8.1-13">
                <e id="N1904.1Pet.4.8.1" clearId="n60004008001" usfm="1PE 4:8!1">πρὸ</e>
                <e id="N1904.1Pet.4.8.2" clearId="n60004008002" usfm="1PE 4:8!2">πάντων</e>
                <e id="N1904.1Pet.4.8.3" clearId="n60004008003" usfm="1PE 4:8!3">τὴν</e>
@@ -2032,7 +2032,7 @@
                   usfm="1PE 4:8!13"
                   after="·">ἁμαρτιῶν</e>
             </c>
-            <c id="N1904.1Pet.4.9.1-5" unit="move">
+            <c unit="move" id="N1904.1Pet.4.9.1-5">
                <e id="N1904.1Pet.4.9.1" clearId="n60004009001" usfm="1PE 4:9!1">φιλόξενοι</e>
                <e id="N1904.1Pet.4.9.2" clearId="n60004009002" usfm="1PE 4:9!2">εἰς</e>
                <e id="N1904.1Pet.4.9.3" clearId="n60004009003" usfm="1PE 4:9!3">ἀλλήλους</e>
@@ -2042,7 +2042,7 @@
                   usfm="1PE 4:9!5"
                   after="·">γογγυσμοῦ</e>
             </c>
-            <c id="N1904.1Pet.4.10.1-11.38" unit="move">
+            <c unit="move" id="N1904.1Pet.4.10.1-11.38">
                <e id="N1904.1Pet.4.10.1" clearId="n60004010001" usfm="1PE 4:10!1">ἕκαστος</e>
                <e id="N1904.1Pet.4.10.2" clearId="n60004010002" usfm="1PE 4:10!2">καθὼς</e>
                <e id="N1904.1Pet.4.10.3" clearId="n60004010003" usfm="1PE 4:10!3">ἔλαβεν</e>
@@ -2123,7 +2123,7 @@
                   usfm="1PE 4:11!38"
                   after=".">ἀμήν</e>
             </c>
-            <c id="N1904.1Pet.4.12.1-13.18" unit="move">
+            <c unit="move" id="N1904.1Pet.4.12.1-13.18">
                <e id="N1904.1Pet.4.12.1"
                   clearId="n60004012001"
                   usfm="1PE 4:12!1"
@@ -2173,7 +2173,7 @@
                   usfm="1PE 4:13!18"
                   after=".">ἀγαλλιώμενοι</e>
             </c>
-            <c id="N1904.1Pet.4.14.1-18" unit="move">
+            <c unit="move" id="N1904.1Pet.4.14.1-18">
                <e id="N1904.1Pet.4.14.1" clearId="n60004014001" usfm="1PE 4:14!1">εἰ</e>
                <e id="N1904.1Pet.4.14.2" clearId="n60004014002" usfm="1PE 4:14!2">ὀνειδίζεσθε</e>
                <e id="N1904.1Pet.4.14.3" clearId="n60004014003" usfm="1PE 4:14!3">ἐν</e>
@@ -2202,7 +2202,7 @@
                   usfm="1PE 4:14!18"
                   after=".">ἀναπαύεται</e>
             </c>
-            <c id="N1904.1Pet.4.15.1-17.12" unit="move">
+            <c unit="move" id="N1904.1Pet.4.15.1-17.12">
                <e id="N1904.1Pet.4.15.1" clearId="n60004015001" usfm="1PE 4:15!1">μὴ</e>
                <e id="N1904.1Pet.4.15.2" clearId="n60004015002" usfm="1PE 4:15!2">γάρ</e>
                <e id="N1904.1Pet.4.15.3" clearId="n60004015003" usfm="1PE 4:15!3">τις</e>
@@ -2259,7 +2259,7 @@
                   usfm="1PE 4:17!12"
                   after="·">Θεοῦ</e>
             </c>
-            <c id="N1904.1Pet.4.17.13-26" unit="move">
+            <c unit="move" id="N1904.1Pet.4.17.13-26">
                <e id="N1904.1Pet.4.17.13" clearId="n60004017013" usfm="1PE 4:17!13">εἰ</e>
                <e id="N1904.1Pet.4.17.14" clearId="n60004017014" usfm="1PE 4:17!14">δὲ</e>
                <e id="N1904.1Pet.4.17.15" clearId="n60004017015" usfm="1PE 4:17!15">πρῶτον</e>
@@ -2281,7 +2281,7 @@
                   usfm="1PE 4:17!26"
                   after=";">εὐαγγελίῳ</e>
             </c>
-            <c id="N1904.1Pet.4.18.1-12" unit="move">
+            <c unit="move" id="N1904.1Pet.4.18.1-12">
                <e id="N1904.1Pet.4.18.1" clearId="n60004018001" usfm="1PE 4:18!1">καὶ</e>
                <e id="N1904.1Pet.4.18.2" clearId="n60004018002" usfm="1PE 4:18!2">εἰ</e>
                <e id="N1904.1Pet.4.18.3" clearId="n60004018003" usfm="1PE 4:18!3">ὁ</e>
@@ -2301,7 +2301,7 @@
                   usfm="1PE 4:18!12"
                   after=";">φανεῖται</e>
             </c>
-            <c id="N1904.1Pet.4.19.1-17" unit="move">
+            <c unit="move" id="N1904.1Pet.4.19.1-17">
                <e id="N1904.1Pet.4.19.1" clearId="n60004019001" usfm="1PE 4:19!1">ὥστε</e>
                <e id="N1904.1Pet.4.19.2" clearId="n60004019002" usfm="1PE 4:19!2">καὶ</e>
                <e id="N1904.1Pet.4.19.3" clearId="n60004019003" usfm="1PE 4:19!3">οἱ</e>
@@ -2325,7 +2325,7 @@
             </c>
          </c>
          <c unit="seg" title="Final Admonitions and Concluding Greetings">
-            <c id="N1904.1Pet.5.1.1-20" unit="move">
+            <c unit="move" id="N1904.1Pet.5.1.1-20">
                <e id="N1904.1Pet.5.1.1" clearId="n60005001001" usfm="1PE 5:1!1">Πρεσβυτέρους</e>
                <e id="N1904.1Pet.5.1.2" clearId="n60005001002" usfm="1PE 5:1!2">οὖν</e>
                <e id="N1904.1Pet.5.1.3" clearId="n60005001003" usfm="1PE 5:1!3">ἐν</e>
@@ -2353,7 +2353,7 @@
                   usfm="1PE 5:1!20"
                   after=",">κοινωνός</e>
             </c>
-            <c id="N1904.1Pet.5.2.1-3.10" unit="move">
+            <c unit="move" id="N1904.1Pet.5.2.1-3.10">
                <e id="N1904.1Pet.5.2.1" clearId="n60005002001" usfm="1PE 5:2!1">ποιμάνατε</e>
                <e id="N1904.1Pet.5.2.2" clearId="n60005002002" usfm="1PE 5:2!2">τὸ</e>
                <e id="N1904.1Pet.5.2.3" clearId="n60005002003" usfm="1PE 5:2!3">ἐν</e>
@@ -2394,7 +2394,7 @@
                   usfm="1PE 5:3!10"
                   after="·">ποιμνίου</e>
             </c>
-            <c id="N1904.1Pet.5.4.1-10" unit="move">
+            <c unit="move" id="N1904.1Pet.5.4.1-10">
                <e id="N1904.1Pet.5.4.1" clearId="n60005004001" usfm="1PE 5:4!1">καὶ</e>
                <e id="N1904.1Pet.5.4.2" clearId="n60005004002" usfm="1PE 5:4!2">φανερωθέντος</e>
                <e id="N1904.1Pet.5.4.3" clearId="n60005004003" usfm="1PE 5:4!3">τοῦ</e>
@@ -2409,7 +2409,7 @@
                   usfm="1PE 5:4!10"
                   after=".">στέφανον</e>
             </c>
-            <c id="N1904.1Pet.5.5.1-4" unit="move">
+            <c unit="move" id="N1904.1Pet.5.5.1-4">
                <e id="N1904.1Pet.5.5.1"
                   clearId="n60005005001"
                   usfm="1PE 5:5!1"
@@ -2424,7 +2424,7 @@
                   usfm="1PE 5:5!4"
                   after="·">πρεσβυτέροις</e>
             </c>
-            <c id="N1904.1Pet.5.5.5-19" unit="move">
+            <c unit="move" id="N1904.1Pet.5.5.5-19">
                <e id="N1904.1Pet.5.5.5" clearId="n60005005005" usfm="1PE 5:5!5">πάντες</e>
                <e id="N1904.1Pet.5.5.6" clearId="n60005005006" usfm="1PE 5:5!6">δὲ</e>
                <e id="N1904.1Pet.5.5.7" clearId="n60005005007" usfm="1PE 5:5!7">ἀλλήλοις</e>
@@ -2450,7 +2450,7 @@
                   usfm="1PE 5:5!19"
                   after=".">χάριν</e>
             </c>
-            <c id="N1904.1Pet.5.6.1-7.12" unit="move">
+            <c unit="move" id="N1904.1Pet.5.6.1-7.12">
                <e id="N1904.1Pet.5.6.1" clearId="n60005006001" usfm="1PE 5:6!1">Ταπεινώθητε</e>
                <e id="N1904.1Pet.5.6.2" clearId="n60005006002" usfm="1PE 5:6!2">οὖν</e>
                <e id="N1904.1Pet.5.6.3" clearId="n60005006003" usfm="1PE 5:6!3">ὑπὸ</e>
@@ -2489,7 +2489,7 @@
                   usfm="1PE 5:7!12"
                   after=".">ὑμῶν</e>
             </c>
-            <c id="N1904.1Pet.5.8.1-2" unit="move">
+            <c unit="move" id="N1904.1Pet.5.8.1-2">
                <e id="N1904.1Pet.5.8.1"
                   clearId="n60005008001"
                   usfm="1PE 5:8!1"
@@ -2499,7 +2499,7 @@
                   usfm="1PE 5:8!2"
                   after=".">γρηγορήσατε</e>
             </c>
-            <c id="N1904.1Pet.5.8.3-9.17" unit="move">
+            <c unit="move" id="N1904.1Pet.5.8.3-9.17">
                <e id="N1904.1Pet.5.8.3" clearId="n60005008003" usfm="1PE 5:8!3">ὁ</e>
                <e id="N1904.1Pet.5.8.4" clearId="n60005008004" usfm="1PE 5:8!4">ἀντίδικος</e>
                <e id="N1904.1Pet.5.8.5" clearId="n60005008005" usfm="1PE 5:8!5">ὑμῶν</e>
@@ -2538,7 +2538,7 @@
                   usfm="1PE 5:9!17"
                   after=".">ἐπιτελεῖσθαι</e>
             </c>
-            <c id="N1904.1Pet.5.10.1-22" unit="move">
+            <c unit="move" id="N1904.1Pet.5.10.1-22">
                <e id="N1904.1Pet.5.10.1" clearId="n60005010001" usfm="1PE 5:10!1">Ὁ</e>
                <e id="N1904.1Pet.5.10.2" clearId="n60005010002" usfm="1PE 5:10!2">δὲ</e>
                <e id="N1904.1Pet.5.10.3" clearId="n60005010003" usfm="1PE 5:10!3">Θεὸς</e>
@@ -2580,7 +2580,7 @@
                   usfm="1PE 5:10!22"
                   after=".">θεμελιώσει</e>
             </c>
-            <c id="N1904.1Pet.5.11.1-9" unit="move">
+            <c unit="move" id="N1904.1Pet.5.11.1-9">
                <e id="N1904.1Pet.5.11.1" clearId="n60005011001" usfm="1PE 5:11!1">αὐτῷ</e>
                <e id="N1904.1Pet.5.11.2" clearId="n60005011002" usfm="1PE 5:11!2">τὸ</e>
                <e id="N1904.1Pet.5.11.3" clearId="n60005011003" usfm="1PE 5:11!3">κράτος</e>
@@ -2597,7 +2597,7 @@
                   usfm="1PE 5:11!9"
                   after=".">ἀμήν</e>
             </c>
-            <c id="N1904.1Pet.5.12.1-23" unit="move">
+            <c unit="move" id="N1904.1Pet.5.12.1-23">
                <e id="N1904.1Pet.5.12.1" clearId="n60005012001" usfm="1PE 5:12!1">Διὰ</e>
                <e id="N1904.1Pet.5.12.2" clearId="n60005012002" usfm="1PE 5:12!2">Σιλουανοῦ</e>
                <e id="N1904.1Pet.5.12.3" clearId="n60005012003" usfm="1PE 5:12!3">ὑμῖν</e>
@@ -2637,7 +2637,7 @@
                   usfm="1PE 5:12!23"
                   after=".">στῆτε</e>
             </c>
-            <c id="N1904.1Pet.5.13.1-11" unit="move">
+            <c unit="move" id="N1904.1Pet.5.13.1-11">
                <e id="N1904.1Pet.5.13.1" clearId="n60005013001" usfm="1PE 5:13!1">Ἀσπάζεται</e>
                <e id="N1904.1Pet.5.13.2" clearId="n60005013002" usfm="1PE 5:13!2">ὑμᾶς</e>
                <e id="N1904.1Pet.5.13.3" clearId="n60005013003" usfm="1PE 5:13!3">ἡ</e>
@@ -2653,7 +2653,7 @@
                   usfm="1PE 5:13!11"
                   after=".">μου</e>
             </c>
-            <c id="N1904.1Pet.5.14.1-5" unit="move">
+            <c unit="move" id="N1904.1Pet.5.14.1-5">
                <e id="N1904.1Pet.5.14.1" clearId="n60005014001" usfm="1PE 5:14!1">ἀσπάσασθε</e>
                <e id="N1904.1Pet.5.14.2" clearId="n60005014002" usfm="1PE 5:14!2">ἀλλήλους</e>
                <e id="N1904.1Pet.5.14.3" clearId="n60005014003" usfm="1PE 5:14!3">ἐν</e>
@@ -2663,7 +2663,7 @@
                   usfm="1PE 5:14!5"
                   after=".">ἀγάπης</e>
             </c>
-            <c id="N1904.1Pet.5.14.6-11" unit="move">
+            <c unit="move" id="N1904.1Pet.5.14.6-11">
                <e id="N1904.1Pet.5.14.6" clearId="n60005014006" usfm="1PE 5:14!6">Εἰρήνη</e>
                <e id="N1904.1Pet.5.14.7" clearId="n60005014007" usfm="1PE 5:14!7">ὑμῖν</e>
                <e id="N1904.1Pet.5.14.8" clearId="n60005014008" usfm="1PE 5:14!8">πᾶσιν</e>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="../../Display_Files/styles/context.css"?>
+<?xml-stylesheet href="context.css"?>
 <OpenText xmlns:cblte="http://www.cblte.org"
           xmlns:fn="http://www.w3.org/2005/xpath-functions"
           xmlns:xs="http://www.w3.org/2001/XMLSchema">
@@ -37,7 +37,7 @@
    <text id="Jude">
       <c unit="turn">
          <c unit="seg" title="Introductory Salutation">
-            <c id="N1904.Jude.1.1.1-17" unit="move">
+            <c unit="move" id="N1904.Jude.1.1.1-17">
                <e id="N1904.Jude.1.1.1" clearId="n65001001001" usfm="JUD 1:1!1">Ἰούδας</e>
                <e id="N1904.Jude.1.1.2" clearId="n65001001002" usfm="JUD 1:1!2">Ἰησοῦ</e>
                <e id="N1904.Jude.1.1.3" clearId="n65001001003" usfm="JUD 1:1!3">Χριστοῦ</e>
@@ -65,7 +65,7 @@
                   usfm="JUD 1:1!17"
                   after=".">κλητοῖς</e>
             </c>
-            <c id="N1904.Jude.1.2.1-7" unit="move">
+            <c unit="move" id="N1904.Jude.1.2.1-7">
                <e id="N1904.Jude.1.2.1" clearId="n65001002001" usfm="JUD 1:2!1">ἔλεος</e>
                <e id="N1904.Jude.1.2.2" clearId="n65001002002" usfm="JUD 1:2!2">ὑμῖν</e>
                <e id="N1904.Jude.1.2.3" clearId="n65001002003" usfm="JUD 1:2!3">καὶ</e>
@@ -79,7 +79,7 @@
             </c>
          </c>
          <c unit="seg" title="An Exhortation to Constancy in Faith">
-            <c id="N1904.Jude.1.3.1-23" unit="move">
+            <c unit="move" id="N1904.Jude.1.3.1-23">
                <e id="N1904.Jude.1.3.1"
                   clearId="n65001003001"
                   usfm="JUD 1:3!1"
@@ -113,7 +113,7 @@
                   usfm="JUD 1:3!23"
                   after=".">πίστει</e>
             </c>
-            <c id="N1904.Jude.1.4.1-30" unit="move">
+            <c unit="move" id="N1904.Jude.1.4.1-30">
                <e id="N1904.Jude.1.4.1" clearId="n65001004001" usfm="JUD 1:4!1">παρεισεδύησαν</e>
                <e id="N1904.Jude.1.4.2" clearId="n65001004002" usfm="JUD 1:4!2">γάρ</e>
                <e id="N1904.Jude.1.4.3" clearId="n65001004003" usfm="JUD 1:4!3">τινες</e>
@@ -159,7 +159,7 @@
             </c>
          </c>
          <c unit="seg" title="Examples of the Judgment of God">
-            <c id="N1904.Jude.1.5.1-7.25" unit="move">
+            <c unit="move" id="N1904.Jude.1.5.1-7.25">
                <e id="N1904.Jude.1.5.1" clearId="n65001005001" usfm="JUD 1:5!1">Ὑπομνῆσαι</e>
                <e id="N1904.Jude.1.5.2" clearId="n65001005002" usfm="JUD 1:5!2">δὲ</e>
                <e id="N1904.Jude.1.5.3" clearId="n65001005003" usfm="JUD 1:5!3">ὑμᾶς</e>
@@ -251,7 +251,7 @@
             </c>
          </c>
          <c unit="seg" title="The Character of the Seducing Teachers">
-            <c id="N1904.Jude.1.8.1-14" unit="move">
+            <c unit="move" id="N1904.Jude.1.8.1-14">
                <e id="N1904.Jude.1.8.1" clearId="n65001008001" usfm="JUD 1:8!1">Ὁμοίως</e>
                <e id="N1904.Jude.1.8.2" clearId="n65001008002" usfm="JUD 1:8!2">μέντοι</e>
                <e id="N1904.Jude.1.8.3" clearId="n65001008003" usfm="JUD 1:8!3">καὶ</e>
@@ -276,7 +276,7 @@
                   usfm="JUD 1:8!14"
                   after=".">βλασφημοῦσιν</e>
             </c>
-            <c id="N1904.Jude.1.9.1-24" unit="move">
+            <c unit="move" id="N1904.Jude.1.9.1-24">
                <e id="N1904.Jude.1.9.1" clearId="n65001009001" usfm="JUD 1:9!1">ὁ</e>
                <e id="N1904.Jude.1.9.2" clearId="n65001009002" usfm="JUD 1:9!2">δὲ</e>
                <e id="N1904.Jude.1.9.3" clearId="n65001009003" usfm="JUD 1:9!3">Μιχαὴλ</e>
@@ -308,7 +308,7 @@
                <e id="N1904.Jude.1.9.20" clearId="n65001009020" usfm="JUD 1:9!20">ἀλλὰ</e>
                <e id="N1904.Jude.1.9.21" clearId="n65001009021" usfm="JUD 1:9!21">εἶπεν</e>
                <c unit="turn">
-                  <c id="N1904.Jude.1.9.22-24" unit="move">
+                  <c unit="move" id="N1904.Jude.1.9.22-24">
                      <e id="N1904.Jude.1.9.22" clearId="n65001009022" usfm="JUD 1:9!22">Ἐπιτιμήσαι</e>
                      <e id="N1904.Jude.1.9.23" clearId="n65001009023" usfm="JUD 1:9!23">σοι</e>
                      <e id="N1904.Jude.1.9.24"
@@ -318,7 +318,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Jude.1.10.1-7" unit="move">
+            <c unit="move" id="N1904.Jude.1.10.1-7">
                <e id="N1904.Jude.1.10.1" clearId="n65001010001" usfm="JUD 1:10!1">οὗτοι</e>
                <e id="N1904.Jude.1.10.2" clearId="n65001010002" usfm="JUD 1:10!2">δὲ</e>
                <e id="N1904.Jude.1.10.3" clearId="n65001010003" usfm="JUD 1:10!3">ὅσα</e>
@@ -330,7 +330,7 @@
                   usfm="JUD 1:10!7"
                   after=",">βλασφημοῦσιν</e>
             </c>
-            <c id="N1904.Jude.1.10.8-18" unit="move">
+            <c unit="move" id="N1904.Jude.1.10.8-18">
                <e id="N1904.Jude.1.10.8" clearId="n65001010008" usfm="JUD 1:10!8">ὅσα</e>
                <e id="N1904.Jude.1.10.9" clearId="n65001010009" usfm="JUD 1:10!9">δὲ</e>
                <e id="N1904.Jude.1.10.10" clearId="n65001010010" usfm="JUD 1:10!10">φυσικῶς</e>
@@ -349,7 +349,7 @@
                   usfm="JUD 1:10!18"
                   after=".">φθείρονται</e>
             </c>
-            <c id="N1904.Jude.1.11.1-21" unit="move">
+            <c unit="move" id="N1904.Jude.1.11.1-21">
                <e id="N1904.Jude.1.11.1" clearId="n65001011001" usfm="JUD 1:11!1">οὐαὶ</e>
                <e id="N1904.Jude.1.11.2"
                   clearId="n65001011002"
@@ -384,7 +384,7 @@
                   usfm="JUD 1:11!21"
                   after=".">ἀπώλοντο</e>
             </c>
-            <c id="N1904.Jude.1.12.1-13.17" unit="move">
+            <c unit="move" id="N1904.Jude.1.12.1-13.17">
                <e id="N1904.Jude.1.12.1" clearId="n65001012001" usfm="JUD 1:12!1">Οὗτοί</e>
                <e id="N1904.Jude.1.12.2" clearId="n65001012002" usfm="JUD 1:12!2">εἰσιν</e>
                <e id="N1904.Jude.1.12.3" clearId="n65001012003" usfm="JUD 1:12!3">οἱ</e>
@@ -449,7 +449,7 @@
             </c>
          </c>
          <c unit="seg" title="God's Coming Judgment Upon the False Teachers">
-            <c id="N1904.Jude.1.14.1-15.28" unit="move">
+            <c unit="move" id="N1904.Jude.1.14.1-15.28">
                <e id="N1904.Jude.1.14.1" clearId="n65001014001" usfm="JUD 1:14!1">Ἐπροφήτευσεν</e>
                <e id="N1904.Jude.1.14.2" clearId="n65001014002" usfm="JUD 1:14!2">δὲ</e>
                <e id="N1904.Jude.1.14.3" clearId="n65001014003" usfm="JUD 1:14!3">καὶ</e>
@@ -460,7 +460,7 @@
                <e id="N1904.Jude.1.14.8" clearId="n65001014008" usfm="JUD 1:14!8">Ἑνὼχ</e>
                <e id="N1904.Jude.1.14.9" clearId="n65001014009" usfm="JUD 1:14!9">λέγων</e>
                <c unit="turn">
-                  <c id="N1904.Jude.1.14.10-15.28" unit="move">
+                  <c unit="move" id="N1904.Jude.1.14.10-15.28">
                      <e id="N1904.Jude.1.14.10" clearId="n65001014010" usfm="JUD 1:14!10">Ἰδοὺ</e>
                      <e id="N1904.Jude.1.14.11" clearId="n65001014011" usfm="JUD 1:14!11">ἦλθεν</e>
                      <e id="N1904.Jude.1.14.12" clearId="n65001014012" usfm="JUD 1:14!12">Κύριος</e>
@@ -505,7 +505,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Jude.1.16.1-19" unit="move">
+            <c unit="move" id="N1904.Jude.1.16.1-19">
                <e id="N1904.Jude.1.16.1" clearId="n65001016001" usfm="JUD 1:16!1">Οὗτοί</e>
                <e id="N1904.Jude.1.16.2" clearId="n65001016002" usfm="JUD 1:16!2">εἰσιν</e>
                <e id="N1904.Jude.1.16.3"
@@ -543,7 +543,7 @@
             </c>
          </c>
          <c unit="seg" title="An Admonition to Holy Steadfastness">
-            <c id="N1904.Jude.1.17.1-16" unit="move">
+            <c unit="move" id="N1904.Jude.1.17.1-16">
                <e id="N1904.Jude.1.17.1" clearId="n65001017001" usfm="JUD 1:17!1">Ὑμεῖς</e>
                <e id="N1904.Jude.1.17.2"
                   clearId="n65001017002"
@@ -570,12 +570,12 @@
                   usfm="JUD 1:17!16"
                   after=",">Χριστοῦ</e>
             </c>
-            <c id="N1904.Jude.1.18.1-16" unit="move">
+            <c unit="move" id="N1904.Jude.1.18.1-16">
                <e id="N1904.Jude.1.18.1" clearId="n65001018001" usfm="JUD 1:18!1">ὅτι</e>
                <e id="N1904.Jude.1.18.2" clearId="n65001018002" usfm="JUD 1:18!2">ἔλεγον</e>
                <e id="N1904.Jude.1.18.3" clearId="n65001018003" usfm="JUD 1:18!3">ὑμῖν</e>
                <c unit="turn">
-                  <c id="N1904.Jude.1.18.4-16" unit="move">
+                  <c unit="move" id="N1904.Jude.1.18.4-16">
                      <e id="N1904.Jude.1.18.4" clearId="n65001018004" usfm="JUD 1:18!4">Ἐπ’</e>
                      <e id="N1904.Jude.1.18.5" clearId="n65001018005" usfm="JUD 1:18!5">ἐσχάτου</e>
                      <e id="N1904.Jude.1.18.6" clearId="n65001018006" usfm="JUD 1:18!6">τοῦ</e>
@@ -595,7 +595,7 @@
                   </c>
                </c>
             </c>
-            <c id="N1904.Jude.1.19.1-8" unit="move">
+            <c unit="move" id="N1904.Jude.1.19.1-8">
                <e id="N1904.Jude.1.19.1" clearId="n65001019001" usfm="JUD 1:19!1">Οὗτοί</e>
                <e id="N1904.Jude.1.19.2" clearId="n65001019002" usfm="JUD 1:19!2">εἰσιν</e>
                <e id="N1904.Jude.1.19.3" clearId="n65001019003" usfm="JUD 1:19!3">οἱ</e>
@@ -614,7 +614,7 @@
                   usfm="JUD 1:19!8"
                   after=".">ἔχοντες</e>
             </c>
-            <c id="N1904.Jude.1.20.1-21.16" unit="move">
+            <c unit="move" id="N1904.Jude.1.20.1-21.16">
                <e id="N1904.Jude.1.20.1" clearId="n65001020001" usfm="JUD 1:20!1">ὑμεῖς</e>
                <e id="N1904.Jude.1.20.2"
                   clearId="n65001020002"
@@ -663,7 +663,7 @@
                   usfm="JUD 1:21!16"
                   after=".">αἰώνιον</e>
             </c>
-            <c id="N1904.Jude.1.22.1-23.4" unit="move">
+            <c unit="move" id="N1904.Jude.1.22.1-23.4">
                <e id="N1904.Jude.1.22.1" clearId="n65001022001" usfm="JUD 1:22!1">καὶ</e>
                <e id="N1904.Jude.1.22.2" clearId="n65001022002" usfm="JUD 1:22!2">οὓς</e>
                <e id="N1904.Jude.1.22.3" clearId="n65001022003" usfm="JUD 1:22!3">μὲν</e>
@@ -677,7 +677,7 @@
                   usfm="JUD 1:23!4"
                   after=",">ἁρπάζοντες</e>
             </c>
-            <c id="N1904.Jude.1.23.5-17" unit="move">
+            <c unit="move" id="N1904.Jude.1.23.5-17">
                <e id="N1904.Jude.1.23.5" clearId="n65001023005" usfm="JUD 1:23!5">οὓς</e>
                <e id="N1904.Jude.1.23.6" clearId="n65001023006" usfm="JUD 1:23!6">δὲ</e>
                <e id="N1904.Jude.1.23.7" clearId="n65001023007" usfm="JUD 1:23!7">ἐλεᾶτε</e>
@@ -700,7 +700,7 @@
             </c>
          </c>
          <c unit="seg" title="Concluding Doxology">
-            <c id="N1904.Jude.1.24.1-25.27" unit="move">
+            <c unit="move" id="N1904.Jude.1.24.1-25.27">
                <e id="N1904.Jude.1.24.1" clearId="n65001024001" usfm="JUD 1:24!1">Τῷ</e>
                <e id="N1904.Jude.1.24.2" clearId="n65001024002" usfm="JUD 1:24!2">δὲ</e>
                <e id="N1904.Jude.1.24.3" clearId="n65001024003" usfm="JUD 1:24!3">δυναμένῳ</e>
