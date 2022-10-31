@@ -5,6 +5,11 @@ This repository contains hierarchical (i.e., tree format) context annotations de
 ## What are context trees?
 In OpenText's functional-linguistic model, *context* is represented by discourses. More specifically, each discourse includes at least one `turn` node (at least one speaker must take a turn, or else there would be no discourse) and zero or more turn stages (these mostly correspond to traditional pericopes, but see caveats below regarding projection data). The graphological expressions (i.e., tokens) are included for human-readability and to anchor this contextual representation to the correct tokens.
 
+## Viewing the trees
+The XML files for each book of the New Testament can be downloaded and opened directly in any XML or text editor.
+
+In order to view a rendered display of the context trees, ensure the `context.css` file is in the same directory as the XML file you are trying to view, and open the XML file in your internet browser (e.g., Safari or Chrome).
+
 ## Node types
 - `text` nodes represent texts. Currently, these are only the books of the New Testament.
 - `c` nodes represent contextual units. There are three types of contextual unit:
