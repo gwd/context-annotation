@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../Display_Files/styles/context.css"?>
+<OpenText xmlns:cblte="http://www.cblte.org"
+          xmlns:fn="http://www.w3.org/2005/xpath-functions"
+          xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <header>
+      <fileDesc>
+         <titleStmt>
+            <title>OpenText Contextual Annotation</title>
+            <editor>Christopher D. Land</editor>
+            <editor>Ryder A. Wishart</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>1.00</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>www.opentext.org</authority>
+            <availability>
+               <p>Greek text transcribed by Diego Renato dos Santos. Available at https://sites.google.com/site/nestle1904/.</p>
+               <p>Context annotation is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Available at https://github.com/OpenText-org/context-annotation.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Corrections are welcome either through GitHub, the project website (www.opentext.org), or a direct email to Christopher D. Land or Ryder A. Wishart.</note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The text is that of Eberhard Nestle, published as ̔Η Καινη Διαθηκη, Text with Critical Apparatus (London: British and Foreign Bible Society, 1904).</p>
+            <p>Contextual speaking turns were derived by Christopher D. Land using projection data in the original [OpenText annotation](https://github.com/OpenText-org/GNT_annotation_v1.0) together with the capitalization of the Nestle 1904 edition. Manual error correction was then carried
+                        out by Christopher D. Land and Doosuk Kim.</p>
+            <p>Turn segments were derived by Ryder A. Wishart by modifying the pericope headings of Robinson and Pierpont's Greek New Testament, which is in the public domain. Differences can be identified by comparing this data to the start and end tokens compiled by [James
+                        Tauber](https://github.com/jtauber/vocabulary-tools/blob/master/gnt_data/pericopes.txt).</p>
+            <p>Move segments were derived by Christopher D. Land from syntax markup copyright 2014-2017 by the Global Bible Initiative, made available under under a [CC-BY-SA License] (http://creativecommons.org/licenses/by-sa/3.0/). Available at
+                        https://github.com/biblicalhumanities/greek-new-testament/syntax-trees/nestle1904.</p>
+         </sourceDesc>
+      </fileDesc>
+   </header>
+   <text id="2John">
+      <c unit="turn">
+         <c unit="seg" title="Address and Salutation">
+            <c id="N1904.2John.1.1.1-2.14" unit="move">
+               <e id="N1904.2John.1.1.1" clearId="n63001001001" usfm="2JN 1:1!1">Ὁ</e>
+               <e id="N1904.2John.1.1.2" clearId="n63001001002" usfm="2JN 1:1!2">πρεσβύτερος</e>
+               <e id="N1904.2John.1.1.3" clearId="n63001001003" usfm="2JN 1:1!3">ἐκλεκτῇ</e>
+               <e id="N1904.2John.1.1.4" clearId="n63001001004" usfm="2JN 1:1!4">κυρίᾳ</e>
+               <e id="N1904.2John.1.1.5" clearId="n63001001005" usfm="2JN 1:1!5">καὶ</e>
+               <e id="N1904.2John.1.1.6" clearId="n63001001006" usfm="2JN 1:1!6">τοῖς</e>
+               <e id="N1904.2John.1.1.7" clearId="n63001001007" usfm="2JN 1:1!7">τέκνοις</e>
+               <e id="N1904.2John.1.1.8"
+                  clearId="n63001001008"
+                  usfm="2JN 1:1!8"
+                  after=",">αὐτῆς</e>
+               <e id="N1904.2John.1.1.9" clearId="n63001001009" usfm="2JN 1:1!9">οὓς</e>
+               <e id="N1904.2John.1.1.10" clearId="n63001001010" usfm="2JN 1:1!10">ἐγὼ</e>
+               <e id="N1904.2John.1.1.11" clearId="n63001001011" usfm="2JN 1:1!11">ἀγαπῶ</e>
+               <e id="N1904.2John.1.1.12" clearId="n63001001012" usfm="2JN 1:1!12">ἐν</e>
+               <e id="N1904.2John.1.1.13"
+                  clearId="n63001001013"
+                  usfm="2JN 1:1!13"
+                  after=",">ἀληθείᾳ</e>
+               <e id="N1904.2John.1.1.14" clearId="n63001001014" usfm="2JN 1:1!14">καὶ</e>
+               <e id="N1904.2John.1.1.15" clearId="n63001001015" usfm="2JN 1:1!15">οὐκ</e>
+               <e id="N1904.2John.1.1.16" clearId="n63001001016" usfm="2JN 1:1!16">ἐγὼ</e>
+               <e id="N1904.2John.1.1.17" clearId="n63001001017" usfm="2JN 1:1!17">μόνος</e>
+               <e id="N1904.2John.1.1.18" clearId="n63001001018" usfm="2JN 1:1!18">ἀλλὰ</e>
+               <e id="N1904.2John.1.1.19" clearId="n63001001019" usfm="2JN 1:1!19">καὶ</e>
+               <e id="N1904.2John.1.1.20" clearId="n63001001020" usfm="2JN 1:1!20">πάντες</e>
+               <e id="N1904.2John.1.1.21" clearId="n63001001021" usfm="2JN 1:1!21">οἱ</e>
+               <e id="N1904.2John.1.1.22" clearId="n63001001022" usfm="2JN 1:1!22">ἐγνωκότες</e>
+               <e id="N1904.2John.1.1.23" clearId="n63001001023" usfm="2JN 1:1!23">τὴν</e>
+               <e id="N1904.2John.1.1.24"
+                  clearId="n63001001024"
+                  usfm="2JN 1:1!24"
+                  after=",">ἀλήθειαν</e>
+               <e id="N1904.2John.1.2.1" clearId="n63001002001" usfm="2JN 1:2!1">διὰ</e>
+               <e id="N1904.2John.1.2.2" clearId="n63001002002" usfm="2JN 1:2!2">τὴν</e>
+               <e id="N1904.2John.1.2.3" clearId="n63001002003" usfm="2JN 1:2!3">ἀλήθειαν</e>
+               <e id="N1904.2John.1.2.4" clearId="n63001002004" usfm="2JN 1:2!4">τὴν</e>
+               <e id="N1904.2John.1.2.5" clearId="n63001002005" usfm="2JN 1:2!5">μένουσαν</e>
+               <e id="N1904.2John.1.2.6" clearId="n63001002006" usfm="2JN 1:2!6">ἐν</e>
+               <e id="N1904.2John.1.2.7"
+                  clearId="n63001002007"
+                  usfm="2JN 1:2!7"
+                  after=",">ἡμῖν</e>
+               <e id="N1904.2John.1.2.8" clearId="n63001002008" usfm="2JN 1:2!8">καὶ</e>
+               <e id="N1904.2John.1.2.9" clearId="n63001002009" usfm="2JN 1:2!9">μεθ’</e>
+               <e id="N1904.2John.1.2.10" clearId="n63001002010" usfm="2JN 1:2!10">ἡμῶν</e>
+               <e id="N1904.2John.1.2.11" clearId="n63001002011" usfm="2JN 1:2!11">ἔσται</e>
+               <e id="N1904.2John.1.2.12" clearId="n63001002012" usfm="2JN 1:2!12">εἰς</e>
+               <e id="N1904.2John.1.2.13" clearId="n63001002013" usfm="2JN 1:2!13">τὸν</e>
+               <e id="N1904.2John.1.2.14"
+                  clearId="n63001002014"
+                  usfm="2JN 1:2!14"
+                  after=".">αἰῶνα</e>
+            </c>
+            <c id="N1904.2John.1.3.1-21" unit="move">
+               <e id="N1904.2John.1.3.1" clearId="n63001003001" usfm="2JN 1:3!1">ἔσται</e>
+               <e id="N1904.2John.1.3.2" clearId="n63001003002" usfm="2JN 1:3!2">μεθ’</e>
+               <e id="N1904.2John.1.3.3" clearId="n63001003003" usfm="2JN 1:3!3">ἡμῶν</e>
+               <e id="N1904.2John.1.3.4" clearId="n63001003004" usfm="2JN 1:3!4">χάρις</e>
+               <e id="N1904.2John.1.3.5" clearId="n63001003005" usfm="2JN 1:3!5">ἔλεος</e>
+               <e id="N1904.2John.1.3.6" clearId="n63001003006" usfm="2JN 1:3!6">εἰρήνη</e>
+               <e id="N1904.2John.1.3.7" clearId="n63001003007" usfm="2JN 1:3!7">παρὰ</e>
+               <e id="N1904.2John.1.3.8" clearId="n63001003008" usfm="2JN 1:3!8">Θεοῦ</e>
+               <e id="N1904.2John.1.3.9"
+                  clearId="n63001003009"
+                  usfm="2JN 1:3!9"
+                  after=",">Πατρός</e>
+               <e id="N1904.2John.1.3.10" clearId="n63001003010" usfm="2JN 1:3!10">καὶ</e>
+               <e id="N1904.2John.1.3.11" clearId="n63001003011" usfm="2JN 1:3!11">παρὰ</e>
+               <e id="N1904.2John.1.3.12" clearId="n63001003012" usfm="2JN 1:3!12">Ἰησοῦ</e>
+               <e id="N1904.2John.1.3.13" clearId="n63001003013" usfm="2JN 1:3!13">Χριστοῦ</e>
+               <e id="N1904.2John.1.3.14" clearId="n63001003014" usfm="2JN 1:3!14">τοῦ</e>
+               <e id="N1904.2John.1.3.15" clearId="n63001003015" usfm="2JN 1:3!15">Υἱοῦ</e>
+               <e id="N1904.2John.1.3.16" clearId="n63001003016" usfm="2JN 1:3!16">τοῦ</e>
+               <e id="N1904.2John.1.3.17"
+                  clearId="n63001003017"
+                  usfm="2JN 1:3!17"
+                  after=",">Πατρός</e>
+               <e id="N1904.2John.1.3.18" clearId="n63001003018" usfm="2JN 1:3!18">ἐν</e>
+               <e id="N1904.2John.1.3.19" clearId="n63001003019" usfm="2JN 1:3!19">ἀληθείᾳ</e>
+               <e id="N1904.2John.1.3.20" clearId="n63001003020" usfm="2JN 1:3!20">καὶ</e>
+               <e id="N1904.2John.1.3.21"
+                  clearId="n63001003021"
+                  usfm="2JN 1:3!21"
+                  after=".">ἀγάπῃ</e>
+            </c>
+         </c>
+         <c unit="seg" title="Exhortation to Walk in Truth and Love">
+            <c id="N1904.2John.1.4.1-17" unit="move">
+               <e id="N1904.2John.1.4.1" clearId="n63001004001" usfm="2JN 1:4!1">Ἐχάρην</e>
+               <e id="N1904.2John.1.4.2" clearId="n63001004002" usfm="2JN 1:4!2">λίαν</e>
+               <e id="N1904.2John.1.4.3" clearId="n63001004003" usfm="2JN 1:4!3">ὅτι</e>
+               <e id="N1904.2John.1.4.4" clearId="n63001004004" usfm="2JN 1:4!4">εὕρηκα</e>
+               <e id="N1904.2John.1.4.5" clearId="n63001004005" usfm="2JN 1:4!5">ἐκ</e>
+               <e id="N1904.2John.1.4.6" clearId="n63001004006" usfm="2JN 1:4!6">τῶν</e>
+               <e id="N1904.2John.1.4.7" clearId="n63001004007" usfm="2JN 1:4!7">τέκνων</e>
+               <e id="N1904.2John.1.4.8" clearId="n63001004008" usfm="2JN 1:4!8">σου</e>
+               <e id="N1904.2John.1.4.9" clearId="n63001004009" usfm="2JN 1:4!9">περιπατοῦντας</e>
+               <e id="N1904.2John.1.4.10" clearId="n63001004010" usfm="2JN 1:4!10">ἐν</e>
+               <e id="N1904.2John.1.4.11"
+                  clearId="n63001004011"
+                  usfm="2JN 1:4!11"
+                  after=",">ἀληθείᾳ</e>
+               <e id="N1904.2John.1.4.12" clearId="n63001004012" usfm="2JN 1:4!12">καθὼς</e>
+               <e id="N1904.2John.1.4.13" clearId="n63001004013" usfm="2JN 1:4!13">ἐντολὴν</e>
+               <e id="N1904.2John.1.4.14" clearId="n63001004014" usfm="2JN 1:4!14">ἐλάβομεν</e>
+               <e id="N1904.2John.1.4.15" clearId="n63001004015" usfm="2JN 1:4!15">παρὰ</e>
+               <e id="N1904.2John.1.4.16" clearId="n63001004016" usfm="2JN 1:4!16">τοῦ</e>
+               <e id="N1904.2John.1.4.17"
+                  clearId="n63001004017"
+                  usfm="2JN 1:4!17"
+                  after=".">Πατρός</e>
+            </c>
+            <c id="N1904.2John.1.5.1-19" unit="move">
+               <e id="N1904.2John.1.5.1" clearId="n63001005001" usfm="2JN 1:5!1">καὶ</e>
+               <e id="N1904.2John.1.5.2" clearId="n63001005002" usfm="2JN 1:5!2">νῦν</e>
+               <e id="N1904.2John.1.5.3" clearId="n63001005003" usfm="2JN 1:5!3">ἐρωτῶ</e>
+               <e id="N1904.2John.1.5.4"
+                  clearId="n63001005004"
+                  usfm="2JN 1:5!4"
+                  after=",">σε</e>
+               <e id="N1904.2John.1.5.5"
+                  clearId="n63001005005"
+                  usfm="2JN 1:5!5"
+                  after=",">κυρία</e>
+               <e id="N1904.2John.1.5.6" clearId="n63001005006" usfm="2JN 1:5!6">οὐχ</e>
+               <e id="N1904.2John.1.5.7" clearId="n63001005007" usfm="2JN 1:5!7">ὡς</e>
+               <e id="N1904.2John.1.5.8" clearId="n63001005008" usfm="2JN 1:5!8">ἐντολὴν</e>
+               <e id="N1904.2John.1.5.9" clearId="n63001005009" usfm="2JN 1:5!9">γράφων</e>
+               <e id="N1904.2John.1.5.10" clearId="n63001005010" usfm="2JN 1:5!10">σοι</e>
+               <e id="N1904.2John.1.5.11"
+                  clearId="n63001005011"
+                  usfm="2JN 1:5!11"
+                  after=",">καινὴν</e>
+               <e id="N1904.2John.1.5.12" clearId="n63001005012" usfm="2JN 1:5!12">ἀλλὰ</e>
+               <e id="N1904.2John.1.5.13" clearId="n63001005013" usfm="2JN 1:5!13">ἣν</e>
+               <e id="N1904.2John.1.5.14" clearId="n63001005014" usfm="2JN 1:5!14">εἴχαμεν</e>
+               <e id="N1904.2John.1.5.15" clearId="n63001005015" usfm="2JN 1:5!15">ἀπ’</e>
+               <e id="N1904.2John.1.5.16"
+                  clearId="n63001005016"
+                  usfm="2JN 1:5!16"
+                  after=",">ἀρχῆς</e>
+               <e id="N1904.2John.1.5.17" clearId="n63001005017" usfm="2JN 1:5!17">ἵνα</e>
+               <e id="N1904.2John.1.5.18" clearId="n63001005018" usfm="2JN 1:5!18">ἀγαπῶμεν</e>
+               <e id="N1904.2John.1.5.19"
+                  clearId="n63001005019"
+                  usfm="2JN 1:5!19"
+                  after=".">ἀλλήλους</e>
+            </c>
+            <c id="N1904.2John.1.6.1-11" unit="move">
+               <e id="N1904.2John.1.6.1" clearId="n63001006001" usfm="2JN 1:6!1">καὶ</e>
+               <e id="N1904.2John.1.6.2" clearId="n63001006002" usfm="2JN 1:6!2">αὕτη</e>
+               <e id="N1904.2John.1.6.3" clearId="n63001006003" usfm="2JN 1:6!3">ἐστὶν</e>
+               <e id="N1904.2John.1.6.4" clearId="n63001006004" usfm="2JN 1:6!4">ἡ</e>
+               <e id="N1904.2John.1.6.5"
+                  clearId="n63001006005"
+                  usfm="2JN 1:6!5"
+                  after=",">ἀγάπη</e>
+               <e id="N1904.2John.1.6.6" clearId="n63001006006" usfm="2JN 1:6!6">ἵνα</e>
+               <e id="N1904.2John.1.6.7" clearId="n63001006007" usfm="2JN 1:6!7">περιπατῶμεν</e>
+               <e id="N1904.2John.1.6.8" clearId="n63001006008" usfm="2JN 1:6!8">κατὰ</e>
+               <e id="N1904.2John.1.6.9" clearId="n63001006009" usfm="2JN 1:6!9">τὰς</e>
+               <e id="N1904.2John.1.6.10" clearId="n63001006010" usfm="2JN 1:6!10">ἐντολὰς</e>
+               <e id="N1904.2John.1.6.11"
+                  clearId="n63001006011"
+                  usfm="2JN 1:6!11"
+                  after="·">αὐτοῦ</e>
+            </c>
+            <c id="N1904.2John.1.6.12-23" unit="move">
+               <e id="N1904.2John.1.6.12" clearId="n63001006012" usfm="2JN 1:6!12">αὕτη</e>
+               <e id="N1904.2John.1.6.13" clearId="n63001006013" usfm="2JN 1:6!13">ἡ</e>
+               <e id="N1904.2John.1.6.14" clearId="n63001006014" usfm="2JN 1:6!14">ἐντολή</e>
+               <e id="N1904.2John.1.6.15"
+                  clearId="n63001006015"
+                  usfm="2JN 1:6!15"
+                  after=",">ἐστιν</e>
+               <e id="N1904.2John.1.6.16" clearId="n63001006016" usfm="2JN 1:6!16">καθὼς</e>
+               <e id="N1904.2John.1.6.17" clearId="n63001006017" usfm="2JN 1:6!17">ἠκούσατε</e>
+               <e id="N1904.2John.1.6.18" clearId="n63001006018" usfm="2JN 1:6!18">ἀπ’</e>
+               <e id="N1904.2John.1.6.19"
+                  clearId="n63001006019"
+                  usfm="2JN 1:6!19"
+                  after=",">ἀρχῆς</e>
+               <e id="N1904.2John.1.6.20" clearId="n63001006020" usfm="2JN 1:6!20">ἵνα</e>
+               <e id="N1904.2John.1.6.21" clearId="n63001006021" usfm="2JN 1:6!21">ἐν</e>
+               <e id="N1904.2John.1.6.22" clearId="n63001006022" usfm="2JN 1:6!22">αὐτῇ</e>
+               <e id="N1904.2John.1.6.23"
+                  clearId="n63001006023"
+                  usfm="2JN 1:6!23"
+                  after=".">περιπατῆτε</e>
+            </c>
+         </c>
+         <c unit="seg" title="Warning against False Teachers">
+            <c id="N1904.2John.1.7.1-15" unit="move">
+               <e id="N1904.2John.1.7.1" clearId="n63001007001" usfm="2JN 1:7!1">ὅτι</e>
+               <e id="N1904.2John.1.7.2" clearId="n63001007002" usfm="2JN 1:7!2">πολλοὶ</e>
+               <e id="N1904.2John.1.7.3" clearId="n63001007003" usfm="2JN 1:7!3">πλάνοι</e>
+               <e id="N1904.2John.1.7.4" clearId="n63001007004" usfm="2JN 1:7!4">ἐξῆλθον</e>
+               <e id="N1904.2John.1.7.5" clearId="n63001007005" usfm="2JN 1:7!5">εἰς</e>
+               <e id="N1904.2John.1.7.6" clearId="n63001007006" usfm="2JN 1:7!6">τὸν</e>
+               <e id="N1904.2John.1.7.7"
+                  clearId="n63001007007"
+                  usfm="2JN 1:7!7"
+                  after=",">κόσμον</e>
+               <e id="N1904.2John.1.7.8" clearId="n63001007008" usfm="2JN 1:7!8">οἱ</e>
+               <e id="N1904.2John.1.7.9" clearId="n63001007009" usfm="2JN 1:7!9">μὴ</e>
+               <e id="N1904.2John.1.7.10" clearId="n63001007010" usfm="2JN 1:7!10">ὁμολογοῦντες</e>
+               <e id="N1904.2John.1.7.11" clearId="n63001007011" usfm="2JN 1:7!11">Ἰησοῦν</e>
+               <e id="N1904.2John.1.7.12" clearId="n63001007012" usfm="2JN 1:7!12">Χριστὸν</e>
+               <e id="N1904.2John.1.7.13" clearId="n63001007013" usfm="2JN 1:7!13">ἐρχόμενον</e>
+               <e id="N1904.2John.1.7.14" clearId="n63001007014" usfm="2JN 1:7!14">ἐν</e>
+               <e id="N1904.2John.1.7.15"
+                  clearId="n63001007015"
+                  usfm="2JN 1:7!15"
+                  after="·">σαρκί</e>
+            </c>
+            <c id="N1904.2John.1.7.16-22" unit="move">
+               <e id="N1904.2John.1.7.16" clearId="n63001007016" usfm="2JN 1:7!16">οὗτός</e>
+               <e id="N1904.2John.1.7.17" clearId="n63001007017" usfm="2JN 1:7!17">ἐστιν</e>
+               <e id="N1904.2John.1.7.18" clearId="n63001007018" usfm="2JN 1:7!18">ὁ</e>
+               <e id="N1904.2John.1.7.19" clearId="n63001007019" usfm="2JN 1:7!19">πλάνος</e>
+               <e id="N1904.2John.1.7.20" clearId="n63001007020" usfm="2JN 1:7!20">καὶ</e>
+               <e id="N1904.2John.1.7.21" clearId="n63001007021" usfm="2JN 1:7!21">ὁ</e>
+               <e id="N1904.2John.1.7.22"
+                  clearId="n63001007022"
+                  usfm="2JN 1:7!22"
+                  after=".">ἀντίχριστος</e>
+            </c>
+            <c id="N1904.2John.1.8.1-11" unit="move">
+               <e id="N1904.2John.1.8.1" clearId="n63001008001" usfm="2JN 1:8!1">βλέπετε</e>
+               <e id="N1904.2John.1.8.2"
+                  clearId="n63001008002"
+                  usfm="2JN 1:8!2"
+                  after=",">ἑαυτούς</e>
+               <e id="N1904.2John.1.8.3" clearId="n63001008003" usfm="2JN 1:8!3">ἵνα</e>
+               <e id="N1904.2John.1.8.4" clearId="n63001008004" usfm="2JN 1:8!4">μὴ</e>
+               <e id="N1904.2John.1.8.5" clearId="n63001008005" usfm="2JN 1:8!5">ἀπολέσητε</e>
+               <e id="N1904.2John.1.8.6" clearId="n63001008006" usfm="2JN 1:8!6">ἃ</e>
+               <e id="N1904.2John.1.8.7"
+                  clearId="n63001008007"
+                  usfm="2JN 1:8!7"
+                  after=",">ἠργασάμεθα</e>
+               <e id="N1904.2John.1.8.8" clearId="n63001008008" usfm="2JN 1:8!8">ἀλλὰ</e>
+               <e id="N1904.2John.1.8.9" clearId="n63001008009" usfm="2JN 1:8!9">μισθὸν</e>
+               <e id="N1904.2John.1.8.10" clearId="n63001008010" usfm="2JN 1:8!10">πλήρη</e>
+               <e id="N1904.2John.1.8.11"
+                  clearId="n63001008011"
+                  usfm="2JN 1:8!11"
+                  after=".">ἀπολάβητε</e>
+            </c>
+            <c id="N1904.2John.1.9.1-14" unit="move">
+               <e id="N1904.2John.1.9.1" clearId="n63001009001" usfm="2JN 1:9!1">πᾶς</e>
+               <e id="N1904.2John.1.9.2" clearId="n63001009002" usfm="2JN 1:9!2">ὁ</e>
+               <e id="N1904.2John.1.9.3" clearId="n63001009003" usfm="2JN 1:9!3">προάγων</e>
+               <e id="N1904.2John.1.9.4" clearId="n63001009004" usfm="2JN 1:9!4">καὶ</e>
+               <e id="N1904.2John.1.9.5" clearId="n63001009005" usfm="2JN 1:9!5">μὴ</e>
+               <e id="N1904.2John.1.9.6" clearId="n63001009006" usfm="2JN 1:9!6">μένων</e>
+               <e id="N1904.2John.1.9.7" clearId="n63001009007" usfm="2JN 1:9!7">ἐν</e>
+               <e id="N1904.2John.1.9.8" clearId="n63001009008" usfm="2JN 1:9!8">τῇ</e>
+               <e id="N1904.2John.1.9.9" clearId="n63001009009" usfm="2JN 1:9!9">διδαχῇ</e>
+               <e id="N1904.2John.1.9.10" clearId="n63001009010" usfm="2JN 1:9!10">τοῦ</e>
+               <e id="N1904.2John.1.9.11" clearId="n63001009011" usfm="2JN 1:9!11">Χριστοῦ</e>
+               <e id="N1904.2John.1.9.12" clearId="n63001009012" usfm="2JN 1:9!12">Θεὸν</e>
+               <e id="N1904.2John.1.9.13" clearId="n63001009013" usfm="2JN 1:9!13">οὐκ</e>
+               <e id="N1904.2John.1.9.14"
+                  clearId="n63001009014"
+                  usfm="2JN 1:9!14"
+                  after="·">ἔχει</e>
+            </c>
+            <c id="N1904.2John.1.9.15-27" unit="move">
+               <e id="N1904.2John.1.9.15" clearId="n63001009015" usfm="2JN 1:9!15">ὁ</e>
+               <e id="N1904.2John.1.9.16" clearId="n63001009016" usfm="2JN 1:9!16">μένων</e>
+               <e id="N1904.2John.1.9.17" clearId="n63001009017" usfm="2JN 1:9!17">ἐν</e>
+               <e id="N1904.2John.1.9.18" clearId="n63001009018" usfm="2JN 1:9!18">τῇ</e>
+               <e id="N1904.2John.1.9.19"
+                  clearId="n63001009019"
+                  usfm="2JN 1:9!19"
+                  after=",">διδαχῇ</e>
+               <e id="N1904.2John.1.9.20" clearId="n63001009020" usfm="2JN 1:9!20">οὗτος</e>
+               <e id="N1904.2John.1.9.21" clearId="n63001009021" usfm="2JN 1:9!21">καὶ</e>
+               <e id="N1904.2John.1.9.22" clearId="n63001009022" usfm="2JN 1:9!22">τὸν</e>
+               <e id="N1904.2John.1.9.23" clearId="n63001009023" usfm="2JN 1:9!23">Πατέρα</e>
+               <e id="N1904.2John.1.9.24" clearId="n63001009024" usfm="2JN 1:9!24">καὶ</e>
+               <e id="N1904.2John.1.9.25" clearId="n63001009025" usfm="2JN 1:9!25">τὸν</e>
+               <e id="N1904.2John.1.9.26" clearId="n63001009026" usfm="2JN 1:9!26">Υἱὸν</e>
+               <e id="N1904.2John.1.9.27"
+                  clearId="n63001009027"
+                  usfm="2JN 1:9!27"
+                  after=".">ἔχει</e>
+            </c>
+            <c id="N1904.2John.1.10.1-21" unit="move">
+               <e id="N1904.2John.1.10.1" clearId="n63001010001" usfm="2JN 1:10!1">εἴ</e>
+               <e id="N1904.2John.1.10.2" clearId="n63001010002" usfm="2JN 1:10!2">τις</e>
+               <e id="N1904.2John.1.10.3" clearId="n63001010003" usfm="2JN 1:10!3">ἔρχεται</e>
+               <e id="N1904.2John.1.10.4" clearId="n63001010004" usfm="2JN 1:10!4">πρὸς</e>
+               <e id="N1904.2John.1.10.5" clearId="n63001010005" usfm="2JN 1:10!5">ὑμᾶς</e>
+               <e id="N1904.2John.1.10.6" clearId="n63001010006" usfm="2JN 1:10!6">καὶ</e>
+               <e id="N1904.2John.1.10.7" clearId="n63001010007" usfm="2JN 1:10!7">ταύτην</e>
+               <e id="N1904.2John.1.10.8" clearId="n63001010008" usfm="2JN 1:10!8">τὴν</e>
+               <e id="N1904.2John.1.10.9" clearId="n63001010009" usfm="2JN 1:10!9">διδαχὴν</e>
+               <e id="N1904.2John.1.10.10" clearId="n63001010010" usfm="2JN 1:10!10">οὐ</e>
+               <e id="N1904.2John.1.10.11"
+                  clearId="n63001010011"
+                  usfm="2JN 1:10!11"
+                  after=",">φέρει</e>
+               <e id="N1904.2John.1.10.12" clearId="n63001010012" usfm="2JN 1:10!12">μὴ</e>
+               <e id="N1904.2John.1.10.13" clearId="n63001010013" usfm="2JN 1:10!13">λαμβάνετε</e>
+               <e id="N1904.2John.1.10.14" clearId="n63001010014" usfm="2JN 1:10!14">αὐτὸν</e>
+               <e id="N1904.2John.1.10.15" clearId="n63001010015" usfm="2JN 1:10!15">εἰς</e>
+               <e id="N1904.2John.1.10.16"
+                  clearId="n63001010016"
+                  usfm="2JN 1:10!16"
+                  after=",">οἰκίαν</e>
+               <e id="N1904.2John.1.10.17" clearId="n63001010017" usfm="2JN 1:10!17">καὶ</e>
+               <e id="N1904.2John.1.10.18" clearId="n63001010018" usfm="2JN 1:10!18">χαίρειν</e>
+               <e id="N1904.2John.1.10.19" clearId="n63001010019" usfm="2JN 1:10!19">αὐτῷ</e>
+               <e id="N1904.2John.1.10.20" clearId="n63001010020" usfm="2JN 1:10!20">μὴ</e>
+               <e id="N1904.2John.1.10.21"
+                  clearId="n63001010021"
+                  usfm="2JN 1:10!21"
+                  after="·">λέγετε</e>
+            </c>
+            <c id="N1904.2John.1.11.1-11" unit="move">
+               <e id="N1904.2John.1.11.1" clearId="n63001011001" usfm="2JN 1:11!1">ὁ</e>
+               <e id="N1904.2John.1.11.2" clearId="n63001011002" usfm="2JN 1:11!2">λέγων</e>
+               <e id="N1904.2John.1.11.3" clearId="n63001011003" usfm="2JN 1:11!3">γὰρ</e>
+               <e id="N1904.2John.1.11.4" clearId="n63001011004" usfm="2JN 1:11!4">αὐτῷ</e>
+               <e id="N1904.2John.1.11.5" clearId="n63001011005" usfm="2JN 1:11!5">χαίρειν</e>
+               <e id="N1904.2John.1.11.6" clearId="n63001011006" usfm="2JN 1:11!6">κοινωνεῖ</e>
+               <e id="N1904.2John.1.11.7" clearId="n63001011007" usfm="2JN 1:11!7">τοῖς</e>
+               <e id="N1904.2John.1.11.8" clearId="n63001011008" usfm="2JN 1:11!8">ἔργοις</e>
+               <e id="N1904.2John.1.11.9" clearId="n63001011009" usfm="2JN 1:11!9">αὐτοῦ</e>
+               <e id="N1904.2John.1.11.10" clearId="n63001011010" usfm="2JN 1:11!10">τοῖς</e>
+               <e id="N1904.2John.1.11.11"
+                  clearId="n63001011011"
+                  usfm="2JN 1:11!11"
+                  after=".">πονηροῖς</e>
+            </c>
+         </c>
+         <c unit="seg" title="Conclusion">
+            <c id="N1904.2John.1.12.1-26" unit="move">
+               <e id="N1904.2John.1.12.1" clearId="n63001012001" usfm="2JN 1:12!1">Πολλὰ</e>
+               <e id="N1904.2John.1.12.2" clearId="n63001012002" usfm="2JN 1:12!2">ἔχων</e>
+               <e id="N1904.2John.1.12.3" clearId="n63001012003" usfm="2JN 1:12!3">ὑμῖν</e>
+               <e id="N1904.2John.1.12.4" clearId="n63001012004" usfm="2JN 1:12!4">γράφειν</e>
+               <e id="N1904.2John.1.12.5" clearId="n63001012005" usfm="2JN 1:12!5">οὐκ</e>
+               <e id="N1904.2John.1.12.6" clearId="n63001012006" usfm="2JN 1:12!6">ἐβουλήθην</e>
+               <e id="N1904.2John.1.12.7" clearId="n63001012007" usfm="2JN 1:12!7">διὰ</e>
+               <e id="N1904.2John.1.12.8" clearId="n63001012008" usfm="2JN 1:12!8">χάρτου</e>
+               <e id="N1904.2John.1.12.9" clearId="n63001012009" usfm="2JN 1:12!9">καὶ</e>
+               <e id="N1904.2John.1.12.10"
+                  clearId="n63001012010"
+                  usfm="2JN 1:12!10"
+                  after=",">μέλανος</e>
+               <e id="N1904.2John.1.12.11" clearId="n63001012011" usfm="2JN 1:12!11">ἀλλὰ</e>
+               <e id="N1904.2John.1.12.12" clearId="n63001012012" usfm="2JN 1:12!12">ἐλπίζω</e>
+               <e id="N1904.2John.1.12.13" clearId="n63001012013" usfm="2JN 1:12!13">γενέσθαι</e>
+               <e id="N1904.2John.1.12.14" clearId="n63001012014" usfm="2JN 1:12!14">πρὸς</e>
+               <e id="N1904.2John.1.12.15" clearId="n63001012015" usfm="2JN 1:12!15">ὑμᾶς</e>
+               <e id="N1904.2John.1.12.16" clearId="n63001012016" usfm="2JN 1:12!16">καὶ</e>
+               <e id="N1904.2John.1.12.17" clearId="n63001012017" usfm="2JN 1:12!17">στόμα</e>
+               <e id="N1904.2John.1.12.18" clearId="n63001012018" usfm="2JN 1:12!18">πρὸς</e>
+               <e id="N1904.2John.1.12.19" clearId="n63001012019" usfm="2JN 1:12!19">στόμα</e>
+               <e id="N1904.2John.1.12.20"
+                  clearId="n63001012020"
+                  usfm="2JN 1:12!20"
+                  after=",">λαλῆσαι</e>
+               <e id="N1904.2John.1.12.21" clearId="n63001012021" usfm="2JN 1:12!21">ἵνα</e>
+               <e id="N1904.2John.1.12.22" clearId="n63001012022" usfm="2JN 1:12!22">ἡ</e>
+               <e id="N1904.2John.1.12.23" clearId="n63001012023" usfm="2JN 1:12!23">χαρὰ</e>
+               <e id="N1904.2John.1.12.24" clearId="n63001012024" usfm="2JN 1:12!24">ἡμῶν</e>
+               <e id="N1904.2John.1.12.25" clearId="n63001012025" usfm="2JN 1:12!25">πεπληρωμένη</e>
+               <e id="N1904.2John.1.12.26"
+                  clearId="n63001012026"
+                  usfm="2JN 1:12!26"
+                  after=".">ᾖ</e>
+            </c>
+            <c id="N1904.2John.1.13.1-9" unit="move">
+               <e id="N1904.2John.1.13.1" clearId="n63001013001" usfm="2JN 1:13!1">Ἀσπάζεταί</e>
+               <e id="N1904.2John.1.13.2" clearId="n63001013002" usfm="2JN 1:13!2">σε</e>
+               <e id="N1904.2John.1.13.3" clearId="n63001013003" usfm="2JN 1:13!3">τὰ</e>
+               <e id="N1904.2John.1.13.4" clearId="n63001013004" usfm="2JN 1:13!4">τέκνα</e>
+               <e id="N1904.2John.1.13.5" clearId="n63001013005" usfm="2JN 1:13!5">τῆς</e>
+               <e id="N1904.2John.1.13.6" clearId="n63001013006" usfm="2JN 1:13!6">ἀδελφῆς</e>
+               <e id="N1904.2John.1.13.7" clearId="n63001013007" usfm="2JN 1:13!7">σου</e>
+               <e id="N1904.2John.1.13.8" clearId="n63001013008" usfm="2JN 1:13!8">τῆς</e>
+               <e id="N1904.2John.1.13.9"
+                  clearId="n63001013009"
+                  usfm="2JN 1:13!9"
+                  after=".">ἐκλεκτῆς</e>
+            </c>
+         </c>
+      </c>
+   </text>
+</OpenText>

@@ -1,0 +1,2639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../Display_Files/styles/context.css"?>
+<OpenText xmlns:cblte="http://www.cblte.org"
+          xmlns:fn="http://www.w3.org/2005/xpath-functions"
+          xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <header>
+      <fileDesc>
+         <titleStmt>
+            <title>OpenText Contextual Annotation</title>
+            <editor>Christopher D. Land</editor>
+            <editor>Ryder A. Wishart</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>1.00</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>www.opentext.org</authority>
+            <availability>
+               <p>Greek text transcribed by Diego Renato dos Santos. Available at https://sites.google.com/site/nestle1904/.</p>
+               <p>Context annotation is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Available at https://github.com/OpenText-org/context-annotation.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Corrections are welcome either through GitHub, the project website (www.opentext.org), or a direct email to Christopher D. Land or Ryder A. Wishart.</note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The text is that of Eberhard Nestle, published as ̔Η Καινη Διαθηκη, Text with Critical Apparatus (London: British and Foreign Bible Society, 1904).</p>
+            <p>Contextual speaking turns were derived by Christopher D. Land using projection data in the original [OpenText annotation](https://github.com/OpenText-org/GNT_annotation_v1.0) together with the capitalization of the Nestle 1904 edition. Manual error correction was then carried
+                        out by Christopher D. Land and Doosuk Kim.</p>
+            <p>Turn segments were derived by Ryder A. Wishart by modifying the pericope headings of Robinson and Pierpont's Greek New Testament, which is in the public domain. Differences can be identified by comparing this data to the start and end tokens compiled by [James
+                        Tauber](https://github.com/jtauber/vocabulary-tools/blob/master/gnt_data/pericopes.txt).</p>
+            <p>Move segments were derived by Christopher D. Land from syntax markup copyright 2014-2017 by the Global Bible Initiative, made available under under a [CC-BY-SA License] (http://creativecommons.org/licenses/by-sa/3.0/). Available at
+                        https://github.com/biblicalhumanities/greek-new-testament/syntax-trees/nestle1904.</p>
+         </sourceDesc>
+      </fileDesc>
+   </header>
+   <text id="Phil">
+      <c unit="turn">
+         <c unit="seg" title="The Address and Salutation">
+            <c id="N1904.Phil.1.1.1-20" unit="move">
+               <e id="N1904.Phil.1.1.1" clearId="n50001001001" usfm="PHP 1:1!1">Παῦλος</e>
+               <e id="N1904.Phil.1.1.2" clearId="n50001001002" usfm="PHP 1:1!2">καὶ</e>
+               <e id="N1904.Phil.1.1.3" clearId="n50001001003" usfm="PHP 1:1!3">Τιμόθεος</e>
+               <e id="N1904.Phil.1.1.4" clearId="n50001001004" usfm="PHP 1:1!4">δοῦλοι</e>
+               <e id="N1904.Phil.1.1.5" clearId="n50001001005" usfm="PHP 1:1!5">Χριστοῦ</e>
+               <e id="N1904.Phil.1.1.6" clearId="n50001001006" usfm="PHP 1:1!6">Ἰησοῦ</e>
+               <e id="N1904.Phil.1.1.7" clearId="n50001001007" usfm="PHP 1:1!7">πᾶσιν</e>
+               <e id="N1904.Phil.1.1.8" clearId="n50001001008" usfm="PHP 1:1!8">τοῖς</e>
+               <e id="N1904.Phil.1.1.9" clearId="n50001001009" usfm="PHP 1:1!9">ἁγίοις</e>
+               <e id="N1904.Phil.1.1.10" clearId="n50001001010" usfm="PHP 1:1!10">ἐν</e>
+               <e id="N1904.Phil.1.1.11" clearId="n50001001011" usfm="PHP 1:1!11">Χριστῷ</e>
+               <e id="N1904.Phil.1.1.12" clearId="n50001001012" usfm="PHP 1:1!12">Ἰησοῦ</e>
+               <e id="N1904.Phil.1.1.13" clearId="n50001001013" usfm="PHP 1:1!13">τοῖς</e>
+               <e id="N1904.Phil.1.1.14" clearId="n50001001014" usfm="PHP 1:1!14">οὖσιν</e>
+               <e id="N1904.Phil.1.1.15" clearId="n50001001015" usfm="PHP 1:1!15">ἐν</e>
+               <e id="N1904.Phil.1.1.16" clearId="n50001001016" usfm="PHP 1:1!16">Φιλίπποις</e>
+               <e id="N1904.Phil.1.1.17" clearId="n50001001017" usfm="PHP 1:1!17">σὺν</e>
+               <e id="N1904.Phil.1.1.18" clearId="n50001001018" usfm="PHP 1:1!18">ἐπισκόποις</e>
+               <e id="N1904.Phil.1.1.19" clearId="n50001001019" usfm="PHP 1:1!19">καὶ</e>
+               <e id="N1904.Phil.1.1.20"
+                  clearId="n50001001020"
+                  usfm="PHP 1:1!20"
+                  after="·">διακόνοις</e>
+            </c>
+            <c id="N1904.Phil.1.2.1-12" unit="move">
+               <e id="N1904.Phil.1.2.1" clearId="n50001002001" usfm="PHP 1:2!1">χάρις</e>
+               <e id="N1904.Phil.1.2.2" clearId="n50001002002" usfm="PHP 1:2!2">ὑμῖν</e>
+               <e id="N1904.Phil.1.2.3" clearId="n50001002003" usfm="PHP 1:2!3">καὶ</e>
+               <e id="N1904.Phil.1.2.4" clearId="n50001002004" usfm="PHP 1:2!4">εἰρήνη</e>
+               <e id="N1904.Phil.1.2.5" clearId="n50001002005" usfm="PHP 1:2!5">ἀπὸ</e>
+               <e id="N1904.Phil.1.2.6" clearId="n50001002006" usfm="PHP 1:2!6">Θεοῦ</e>
+               <e id="N1904.Phil.1.2.7" clearId="n50001002007" usfm="PHP 1:2!7">Πατρὸς</e>
+               <e id="N1904.Phil.1.2.8" clearId="n50001002008" usfm="PHP 1:2!8">ἡμῶν</e>
+               <e id="N1904.Phil.1.2.9" clearId="n50001002009" usfm="PHP 1:2!9">καὶ</e>
+               <e id="N1904.Phil.1.2.10" clearId="n50001002010" usfm="PHP 1:2!10">Κυρίου</e>
+               <e id="N1904.Phil.1.2.11" clearId="n50001002011" usfm="PHP 1:2!11">Ἰησοῦ</e>
+               <e id="N1904.Phil.1.2.12"
+                  clearId="n50001002012"
+                  usfm="PHP 1:2!12"
+                  after=".">Χριστοῦ</e>
+            </c>
+         </c>
+         <c unit="seg"
+            title="The Apostle's Personal Feeling toward the Philippian Christians">
+            <c id="N1904.Phil.1.3.1-7.37" unit="move">
+               <e id="N1904.Phil.1.3.1" clearId="n50001003001" usfm="PHP 1:3!1">Εὐχαριστῶ</e>
+               <e id="N1904.Phil.1.3.2" clearId="n50001003002" usfm="PHP 1:3!2">τῷ</e>
+               <e id="N1904.Phil.1.3.3" clearId="n50001003003" usfm="PHP 1:3!3">Θεῷ</e>
+               <e id="N1904.Phil.1.3.4" clearId="n50001003004" usfm="PHP 1:3!4">μου</e>
+               <e id="N1904.Phil.1.3.5" clearId="n50001003005" usfm="PHP 1:3!5">ἐπὶ</e>
+               <e id="N1904.Phil.1.3.6" clearId="n50001003006" usfm="PHP 1:3!6">πάσῃ</e>
+               <e id="N1904.Phil.1.3.7" clearId="n50001003007" usfm="PHP 1:3!7">τῇ</e>
+               <e id="N1904.Phil.1.3.8" clearId="n50001003008" usfm="PHP 1:3!8">μνείᾳ</e>
+               <e id="N1904.Phil.1.3.9"
+                  clearId="n50001003009"
+                  usfm="PHP 1:3!9"
+                  after=",">ὑμῶν</e>
+               <e id="N1904.Phil.1.4.1" clearId="n50001004001" usfm="PHP 1:4!1">πάντοτε</e>
+               <e id="N1904.Phil.1.4.2" clearId="n50001004002" usfm="PHP 1:4!2">ἐν</e>
+               <e id="N1904.Phil.1.4.3" clearId="n50001004003" usfm="PHP 1:4!3">πάσῃ</e>
+               <e id="N1904.Phil.1.4.4" clearId="n50001004004" usfm="PHP 1:4!4">δεήσει</e>
+               <e id="N1904.Phil.1.4.5" clearId="n50001004005" usfm="PHP 1:4!5">μου</e>
+               <e id="N1904.Phil.1.4.6" clearId="n50001004006" usfm="PHP 1:4!6">ὑπὲρ</e>
+               <e id="N1904.Phil.1.4.7" clearId="n50001004007" usfm="PHP 1:4!7">πάντων</e>
+               <e id="N1904.Phil.1.4.8" clearId="n50001004008" usfm="PHP 1:4!8">ὑμῶν</e>
+               <e id="N1904.Phil.1.4.9" clearId="n50001004009" usfm="PHP 1:4!9">μετὰ</e>
+               <e id="N1904.Phil.1.4.10" clearId="n50001004010" usfm="PHP 1:4!10">χαρᾶς</e>
+               <e id="N1904.Phil.1.4.11" clearId="n50001004011" usfm="PHP 1:4!11">τὴν</e>
+               <e id="N1904.Phil.1.4.12" clearId="n50001004012" usfm="PHP 1:4!12">δέησιν</e>
+               <e id="N1904.Phil.1.4.13"
+                  clearId="n50001004013"
+                  usfm="PHP 1:4!13"
+                  after=",">ποιούμενος</e>
+               <e id="N1904.Phil.1.5.1" clearId="n50001005001" usfm="PHP 1:5!1">ἐπὶ</e>
+               <e id="N1904.Phil.1.5.2" clearId="n50001005002" usfm="PHP 1:5!2">τῇ</e>
+               <e id="N1904.Phil.1.5.3" clearId="n50001005003" usfm="PHP 1:5!3">κοινωνίᾳ</e>
+               <e id="N1904.Phil.1.5.4" clearId="n50001005004" usfm="PHP 1:5!4">ὑμῶν</e>
+               <e id="N1904.Phil.1.5.5" clearId="n50001005005" usfm="PHP 1:5!5">εἰς</e>
+               <e id="N1904.Phil.1.5.6" clearId="n50001005006" usfm="PHP 1:5!6">τὸ</e>
+               <e id="N1904.Phil.1.5.7" clearId="n50001005007" usfm="PHP 1:5!7">εὐαγγέλιον</e>
+               <e id="N1904.Phil.1.5.8" clearId="n50001005008" usfm="PHP 1:5!8">ἀπὸ</e>
+               <e id="N1904.Phil.1.5.9" clearId="n50001005009" usfm="PHP 1:5!9">τῆς</e>
+               <e id="N1904.Phil.1.5.10" clearId="n50001005010" usfm="PHP 1:5!10">πρώτης</e>
+               <e id="N1904.Phil.1.5.11" clearId="n50001005011" usfm="PHP 1:5!11">ἡμέρας</e>
+               <e id="N1904.Phil.1.5.12" clearId="n50001005012" usfm="PHP 1:5!12">ἄχρι</e>
+               <e id="N1904.Phil.1.5.13" clearId="n50001005013" usfm="PHP 1:5!13">τοῦ</e>
+               <e id="N1904.Phil.1.5.14"
+                  clearId="n50001005014"
+                  usfm="PHP 1:5!14"
+                  after=",">νῦν</e>
+               <e id="N1904.Phil.1.6.1" clearId="n50001006001" usfm="PHP 1:6!1">πεποιθὼς</e>
+               <e id="N1904.Phil.1.6.2" clearId="n50001006002" usfm="PHP 1:6!2">αὐτὸ</e>
+               <e id="N1904.Phil.1.6.3"
+                  clearId="n50001006003"
+                  usfm="PHP 1:6!3"
+                  after=",">τοῦτο</e>
+               <e id="N1904.Phil.1.6.4" clearId="n50001006004" usfm="PHP 1:6!4">ὅτι</e>
+               <e id="N1904.Phil.1.6.5" clearId="n50001006005" usfm="PHP 1:6!5">ὁ</e>
+               <e id="N1904.Phil.1.6.6" clearId="n50001006006" usfm="PHP 1:6!6">ἐναρξάμενος</e>
+               <e id="N1904.Phil.1.6.7" clearId="n50001006007" usfm="PHP 1:6!7">ἐν</e>
+               <e id="N1904.Phil.1.6.8" clearId="n50001006008" usfm="PHP 1:6!8">ὑμῖν</e>
+               <e id="N1904.Phil.1.6.9" clearId="n50001006009" usfm="PHP 1:6!9">ἔργον</e>
+               <e id="N1904.Phil.1.6.10" clearId="n50001006010" usfm="PHP 1:6!10">ἀγαθὸν</e>
+               <e id="N1904.Phil.1.6.11" clearId="n50001006011" usfm="PHP 1:6!11">ἐπιτελέσει</e>
+               <e id="N1904.Phil.1.6.12" clearId="n50001006012" usfm="PHP 1:6!12">ἄχρι</e>
+               <e id="N1904.Phil.1.6.13" clearId="n50001006013" usfm="PHP 1:6!13">ἡμέρας</e>
+               <e id="N1904.Phil.1.6.14" clearId="n50001006014" usfm="PHP 1:6!14">Χριστοῦ</e>
+               <e id="N1904.Phil.1.6.15"
+                  clearId="n50001006015"
+                  usfm="PHP 1:6!15"
+                  after="·">Ἰησοῦ</e>
+               <e id="N1904.Phil.1.7.1" clearId="n50001007001" usfm="PHP 1:7!1">καθώς</e>
+               <e id="N1904.Phil.1.7.2" clearId="n50001007002" usfm="PHP 1:7!2">ἐστιν</e>
+               <e id="N1904.Phil.1.7.3" clearId="n50001007003" usfm="PHP 1:7!3">δίκαιον</e>
+               <e id="N1904.Phil.1.7.4" clearId="n50001007004" usfm="PHP 1:7!4">ἐμοὶ</e>
+               <e id="N1904.Phil.1.7.5" clearId="n50001007005" usfm="PHP 1:7!5">τοῦτο</e>
+               <e id="N1904.Phil.1.7.6" clearId="n50001007006" usfm="PHP 1:7!6">φρονεῖν</e>
+               <e id="N1904.Phil.1.7.7" clearId="n50001007007" usfm="PHP 1:7!7">ὑπὲρ</e>
+               <e id="N1904.Phil.1.7.8" clearId="n50001007008" usfm="PHP 1:7!8">πάντων</e>
+               <e id="N1904.Phil.1.7.9"
+                  clearId="n50001007009"
+                  usfm="PHP 1:7!9"
+                  after=",">ὑμῶν</e>
+               <e id="N1904.Phil.1.7.10" clearId="n50001007010" usfm="PHP 1:7!10">διὰ</e>
+               <e id="N1904.Phil.1.7.11" clearId="n50001007011" usfm="PHP 1:7!11">τὸ</e>
+               <e id="N1904.Phil.1.7.12" clearId="n50001007012" usfm="PHP 1:7!12">ἔχειν</e>
+               <e id="N1904.Phil.1.7.13" clearId="n50001007013" usfm="PHP 1:7!13">με</e>
+               <e id="N1904.Phil.1.7.14" clearId="n50001007014" usfm="PHP 1:7!14">ἐν</e>
+               <e id="N1904.Phil.1.7.15" clearId="n50001007015" usfm="PHP 1:7!15">τῇ</e>
+               <e id="N1904.Phil.1.7.16" clearId="n50001007016" usfm="PHP 1:7!16">καρδίᾳ</e>
+               <e id="N1904.Phil.1.7.17"
+                  clearId="n50001007017"
+                  usfm="PHP 1:7!17"
+                  after=",">ὑμᾶς</e>
+               <e id="N1904.Phil.1.7.18" clearId="n50001007018" usfm="PHP 1:7!18">ἔν</e>
+               <e id="N1904.Phil.1.7.19" clearId="n50001007019" usfm="PHP 1:7!19">τε</e>
+               <e id="N1904.Phil.1.7.20" clearId="n50001007020" usfm="PHP 1:7!20">τοῖς</e>
+               <e id="N1904.Phil.1.7.21" clearId="n50001007021" usfm="PHP 1:7!21">δεσμοῖς</e>
+               <e id="N1904.Phil.1.7.22" clearId="n50001007022" usfm="PHP 1:7!22">μου</e>
+               <e id="N1904.Phil.1.7.23" clearId="n50001007023" usfm="PHP 1:7!23">καὶ</e>
+               <e id="N1904.Phil.1.7.24" clearId="n50001007024" usfm="PHP 1:7!24">ἐν</e>
+               <e id="N1904.Phil.1.7.25" clearId="n50001007025" usfm="PHP 1:7!25">τῇ</e>
+               <e id="N1904.Phil.1.7.26" clearId="n50001007026" usfm="PHP 1:7!26">ἀπολογίᾳ</e>
+               <e id="N1904.Phil.1.7.27" clearId="n50001007027" usfm="PHP 1:7!27">καὶ</e>
+               <e id="N1904.Phil.1.7.28" clearId="n50001007028" usfm="PHP 1:7!28">βεβαιώσει</e>
+               <e id="N1904.Phil.1.7.29" clearId="n50001007029" usfm="PHP 1:7!29">τοῦ</e>
+               <e id="N1904.Phil.1.7.30" clearId="n50001007030" usfm="PHP 1:7!30">εὐαγγελίου</e>
+               <e id="N1904.Phil.1.7.31" clearId="n50001007031" usfm="PHP 1:7!31">συνκοινωνούς</e>
+               <e id="N1904.Phil.1.7.32" clearId="n50001007032" usfm="PHP 1:7!32">μου</e>
+               <e id="N1904.Phil.1.7.33" clearId="n50001007033" usfm="PHP 1:7!33">τῆς</e>
+               <e id="N1904.Phil.1.7.34" clearId="n50001007034" usfm="PHP 1:7!34">χάριτος</e>
+               <e id="N1904.Phil.1.7.35" clearId="n50001007035" usfm="PHP 1:7!35">πάντας</e>
+               <e id="N1904.Phil.1.7.36" clearId="n50001007036" usfm="PHP 1:7!36">ὑμᾶς</e>
+               <e id="N1904.Phil.1.7.37"
+                  clearId="n50001007037"
+                  usfm="PHP 1:7!37"
+                  after=".">ὄντας</e>
+            </c>
+            <c id="N1904.Phil.1.8.1-13" unit="move">
+               <e id="N1904.Phil.1.8.1" clearId="n50001008001" usfm="PHP 1:8!1">μάρτυς</e>
+               <e id="N1904.Phil.1.8.2" clearId="n50001008002" usfm="PHP 1:8!2">γάρ</e>
+               <e id="N1904.Phil.1.8.3" clearId="n50001008003" usfm="PHP 1:8!3">μου</e>
+               <e id="N1904.Phil.1.8.4" clearId="n50001008004" usfm="PHP 1:8!4">ὁ</e>
+               <e id="N1904.Phil.1.8.5"
+                  clearId="n50001008005"
+                  usfm="PHP 1:8!5"
+                  after=",">Θεός</e>
+               <e id="N1904.Phil.1.8.6" clearId="n50001008006" usfm="PHP 1:8!6">ὡς</e>
+               <e id="N1904.Phil.1.8.7" clearId="n50001008007" usfm="PHP 1:8!7">ἐπιποθῶ</e>
+               <e id="N1904.Phil.1.8.8" clearId="n50001008008" usfm="PHP 1:8!8">πάντας</e>
+               <e id="N1904.Phil.1.8.9" clearId="n50001008009" usfm="PHP 1:8!9">ὑμᾶς</e>
+               <e id="N1904.Phil.1.8.10" clearId="n50001008010" usfm="PHP 1:8!10">ἐν</e>
+               <e id="N1904.Phil.1.8.11" clearId="n50001008011" usfm="PHP 1:8!11">σπλάγχνοις</e>
+               <e id="N1904.Phil.1.8.12" clearId="n50001008012" usfm="PHP 1:8!12">Χριστοῦ</e>
+               <e id="N1904.Phil.1.8.13"
+                  clearId="n50001008013"
+                  usfm="PHP 1:8!13"
+                  after=".">Ἰησοῦ</e>
+            </c>
+            <c id="N1904.Phil.1.9.1-11.12" unit="move">
+               <e id="N1904.Phil.1.9.1" clearId="n50001009001" usfm="PHP 1:9!1">καὶ</e>
+               <e id="N1904.Phil.1.9.2" clearId="n50001009002" usfm="PHP 1:9!2">τοῦτο</e>
+               <e id="N1904.Phil.1.9.3"
+                  clearId="n50001009003"
+                  usfm="PHP 1:9!3"
+                  after=",">προσεύχομαι</e>
+               <e id="N1904.Phil.1.9.4" clearId="n50001009004" usfm="PHP 1:9!4">ἵνα</e>
+               <e id="N1904.Phil.1.9.5" clearId="n50001009005" usfm="PHP 1:9!5">ἡ</e>
+               <e id="N1904.Phil.1.9.6" clearId="n50001009006" usfm="PHP 1:9!6">ἀγάπη</e>
+               <e id="N1904.Phil.1.9.7" clearId="n50001009007" usfm="PHP 1:9!7">ὑμῶν</e>
+               <e id="N1904.Phil.1.9.8" clearId="n50001009008" usfm="PHP 1:9!8">ἔτι</e>
+               <e id="N1904.Phil.1.9.9" clearId="n50001009009" usfm="PHP 1:9!9">μᾶλλον</e>
+               <e id="N1904.Phil.1.9.10" clearId="n50001009010" usfm="PHP 1:9!10">καὶ</e>
+               <e id="N1904.Phil.1.9.11" clearId="n50001009011" usfm="PHP 1:9!11">μᾶλλον</e>
+               <e id="N1904.Phil.1.9.12" clearId="n50001009012" usfm="PHP 1:9!12">περισσεύῃ</e>
+               <e id="N1904.Phil.1.9.13" clearId="n50001009013" usfm="PHP 1:9!13">ἐν</e>
+               <e id="N1904.Phil.1.9.14" clearId="n50001009014" usfm="PHP 1:9!14">ἐπιγνώσει</e>
+               <e id="N1904.Phil.1.9.15" clearId="n50001009015" usfm="PHP 1:9!15">καὶ</e>
+               <e id="N1904.Phil.1.9.16" clearId="n50001009016" usfm="PHP 1:9!16">πάσῃ</e>
+               <e id="N1904.Phil.1.9.17"
+                  clearId="n50001009017"
+                  usfm="PHP 1:9!17"
+                  after=",">αἰσθήσει</e>
+               <e id="N1904.Phil.1.10.1" clearId="n50001010001" usfm="PHP 1:10!1">εἰς</e>
+               <e id="N1904.Phil.1.10.2" clearId="n50001010002" usfm="PHP 1:10!2">τὸ</e>
+               <e id="N1904.Phil.1.10.3" clearId="n50001010003" usfm="PHP 1:10!3">δοκιμάζειν</e>
+               <e id="N1904.Phil.1.10.4" clearId="n50001010004" usfm="PHP 1:10!4">ὑμᾶς</e>
+               <e id="N1904.Phil.1.10.5" clearId="n50001010005" usfm="PHP 1:10!5">τὰ</e>
+               <e id="N1904.Phil.1.10.6"
+                  clearId="n50001010006"
+                  usfm="PHP 1:10!6"
+                  after=",">διαφέροντα</e>
+               <e id="N1904.Phil.1.10.7" clearId="n50001010007" usfm="PHP 1:10!7">ἵνα</e>
+               <e id="N1904.Phil.1.10.8" clearId="n50001010008" usfm="PHP 1:10!8">ἦτε</e>
+               <e id="N1904.Phil.1.10.9" clearId="n50001010009" usfm="PHP 1:10!9">εἰλικρινεῖς</e>
+               <e id="N1904.Phil.1.10.10" clearId="n50001010010" usfm="PHP 1:10!10">καὶ</e>
+               <e id="N1904.Phil.1.10.11" clearId="n50001010011" usfm="PHP 1:10!11">ἀπρόσκοποι</e>
+               <e id="N1904.Phil.1.10.12" clearId="n50001010012" usfm="PHP 1:10!12">εἰς</e>
+               <e id="N1904.Phil.1.10.13" clearId="n50001010013" usfm="PHP 1:10!13">ἡμέραν</e>
+               <e id="N1904.Phil.1.10.14"
+                  clearId="n50001010014"
+                  usfm="PHP 1:10!14"
+                  after=",">Χριστοῦ</e>
+               <e id="N1904.Phil.1.11.1" clearId="n50001011001" usfm="PHP 1:11!1">πεπληρωμένοι</e>
+               <e id="N1904.Phil.1.11.2" clearId="n50001011002" usfm="PHP 1:11!2">καρπὸν</e>
+               <e id="N1904.Phil.1.11.3" clearId="n50001011003" usfm="PHP 1:11!3">δικαιοσύνης</e>
+               <e id="N1904.Phil.1.11.4" clearId="n50001011004" usfm="PHP 1:11!4">τὸν</e>
+               <e id="N1904.Phil.1.11.5" clearId="n50001011005" usfm="PHP 1:11!5">διὰ</e>
+               <e id="N1904.Phil.1.11.6" clearId="n50001011006" usfm="PHP 1:11!6">Ἰησοῦ</e>
+               <e id="N1904.Phil.1.11.7"
+                  clearId="n50001011007"
+                  usfm="PHP 1:11!7"
+                  after=",">Χριστοῦ</e>
+               <e id="N1904.Phil.1.11.8" clearId="n50001011008" usfm="PHP 1:11!8">εἰς</e>
+               <e id="N1904.Phil.1.11.9" clearId="n50001011009" usfm="PHP 1:11!9">δόξαν</e>
+               <e id="N1904.Phil.1.11.10" clearId="n50001011010" usfm="PHP 1:11!10">καὶ</e>
+               <e id="N1904.Phil.1.11.11" clearId="n50001011011" usfm="PHP 1:11!11">ἔπαινον</e>
+               <e id="N1904.Phil.1.11.12"
+                  clearId="n50001011012"
+                  usfm="PHP 1:11!12"
+                  after=".">Θεοῦ</e>
+            </c>
+         </c>
+         <c unit="seg"
+            title="Paul's Present Circumstances, Experiences, and Expectations">
+            <c id="N1904.Phil.1.12.1-14.19" unit="move">
+               <e id="N1904.Phil.1.12.1" clearId="n50001012001" usfm="PHP 1:12!1">Γινώσκειν</e>
+               <e id="N1904.Phil.1.12.2" clearId="n50001012002" usfm="PHP 1:12!2">δὲ</e>
+               <e id="N1904.Phil.1.12.3" clearId="n50001012003" usfm="PHP 1:12!3">ὑμᾶς</e>
+               <e id="N1904.Phil.1.12.4"
+                  clearId="n50001012004"
+                  usfm="PHP 1:12!4"
+                  after=",">βούλομαι</e>
+               <e id="N1904.Phil.1.12.5"
+                  clearId="n50001012005"
+                  usfm="PHP 1:12!5"
+                  after=",">ἀδελφοί</e>
+               <e id="N1904.Phil.1.12.6" clearId="n50001012006" usfm="PHP 1:12!6">ὅτι</e>
+               <e id="N1904.Phil.1.12.7" clearId="n50001012007" usfm="PHP 1:12!7">τὰ</e>
+               <e id="N1904.Phil.1.12.8" clearId="n50001012008" usfm="PHP 1:12!8">κατ’</e>
+               <e id="N1904.Phil.1.12.9" clearId="n50001012009" usfm="PHP 1:12!9">ἐμὲ</e>
+               <e id="N1904.Phil.1.12.10" clearId="n50001012010" usfm="PHP 1:12!10">μᾶλλον</e>
+               <e id="N1904.Phil.1.12.11" clearId="n50001012011" usfm="PHP 1:12!11">εἰς</e>
+               <e id="N1904.Phil.1.12.12" clearId="n50001012012" usfm="PHP 1:12!12">προκοπὴν</e>
+               <e id="N1904.Phil.1.12.13" clearId="n50001012013" usfm="PHP 1:12!13">τοῦ</e>
+               <e id="N1904.Phil.1.12.14" clearId="n50001012014" usfm="PHP 1:12!14">εὐαγγελίου</e>
+               <e id="N1904.Phil.1.12.15"
+                  clearId="n50001012015"
+                  usfm="PHP 1:12!15"
+                  after=",">ἐλήλυθεν</e>
+               <e id="N1904.Phil.1.13.1" clearId="n50001013001" usfm="PHP 1:13!1">ὥστε</e>
+               <e id="N1904.Phil.1.13.2" clearId="n50001013002" usfm="PHP 1:13!2">τοὺς</e>
+               <e id="N1904.Phil.1.13.3" clearId="n50001013003" usfm="PHP 1:13!3">δεσμούς</e>
+               <e id="N1904.Phil.1.13.4" clearId="n50001013004" usfm="PHP 1:13!4">μου</e>
+               <e id="N1904.Phil.1.13.5" clearId="n50001013005" usfm="PHP 1:13!5">φανεροὺς</e>
+               <e id="N1904.Phil.1.13.6" clearId="n50001013006" usfm="PHP 1:13!6">ἐν</e>
+               <e id="N1904.Phil.1.13.7" clearId="n50001013007" usfm="PHP 1:13!7">Χριστῷ</e>
+               <e id="N1904.Phil.1.13.8" clearId="n50001013008" usfm="PHP 1:13!8">γενέσθαι</e>
+               <e id="N1904.Phil.1.13.9" clearId="n50001013009" usfm="PHP 1:13!9">ἐν</e>
+               <e id="N1904.Phil.1.13.10" clearId="n50001013010" usfm="PHP 1:13!10">ὅλῳ</e>
+               <e id="N1904.Phil.1.13.11" clearId="n50001013011" usfm="PHP 1:13!11">τῷ</e>
+               <e id="N1904.Phil.1.13.12" clearId="n50001013012" usfm="PHP 1:13!12">πραιτωρίῳ</e>
+               <e id="N1904.Phil.1.13.13" clearId="n50001013013" usfm="PHP 1:13!13">καὶ</e>
+               <e id="N1904.Phil.1.13.14" clearId="n50001013014" usfm="PHP 1:13!14">τοῖς</e>
+               <e id="N1904.Phil.1.13.15" clearId="n50001013015" usfm="PHP 1:13!15">λοιποῖς</e>
+               <e id="N1904.Phil.1.13.16"
+                  clearId="n50001013016"
+                  usfm="PHP 1:13!16"
+                  after=",">πᾶσιν</e>
+               <e id="N1904.Phil.1.14.1" clearId="n50001014001" usfm="PHP 1:14!1">καὶ</e>
+               <e id="N1904.Phil.1.14.2" clearId="n50001014002" usfm="PHP 1:14!2">τοὺς</e>
+               <e id="N1904.Phil.1.14.3" clearId="n50001014003" usfm="PHP 1:14!3">πλείονας</e>
+               <e id="N1904.Phil.1.14.4" clearId="n50001014004" usfm="PHP 1:14!4">τῶν</e>
+               <e id="N1904.Phil.1.14.5" clearId="n50001014005" usfm="PHP 1:14!5">ἀδελφῶν</e>
+               <e id="N1904.Phil.1.14.6" clearId="n50001014006" usfm="PHP 1:14!6">ἐν</e>
+               <e id="N1904.Phil.1.14.7" clearId="n50001014007" usfm="PHP 1:14!7">Κυρίῳ</e>
+               <e id="N1904.Phil.1.14.8" clearId="n50001014008" usfm="PHP 1:14!8">πεποιθότας</e>
+               <e id="N1904.Phil.1.14.9" clearId="n50001014009" usfm="PHP 1:14!9">τοῖς</e>
+               <e id="N1904.Phil.1.14.10" clearId="n50001014010" usfm="PHP 1:14!10">δεσμοῖς</e>
+               <e id="N1904.Phil.1.14.11" clearId="n50001014011" usfm="PHP 1:14!11">μου</e>
+               <e id="N1904.Phil.1.14.12" clearId="n50001014012" usfm="PHP 1:14!12">περισσοτέρως</e>
+               <e id="N1904.Phil.1.14.13" clearId="n50001014013" usfm="PHP 1:14!13">τολμᾶν</e>
+               <e id="N1904.Phil.1.14.14" clearId="n50001014014" usfm="PHP 1:14!14">ἀφόβως</e>
+               <e id="N1904.Phil.1.14.15" clearId="n50001014015" usfm="PHP 1:14!15">τὸν</e>
+               <e id="N1904.Phil.1.14.16" clearId="n50001014016" usfm="PHP 1:14!16">λόγον</e>
+               <e id="N1904.Phil.1.14.17" clearId="n50001014017" usfm="PHP 1:14!17">τοῦ</e>
+               <e id="N1904.Phil.1.14.18" clearId="n50001014018" usfm="PHP 1:14!18">Θεοῦ</e>
+               <e id="N1904.Phil.1.14.19"
+                  clearId="n50001014019"
+                  usfm="PHP 1:14!19"
+                  after=".">λαλεῖν</e>
+            </c>
+            <c id="N1904.Phil.1.15.1-15" unit="move">
+               <e id="N1904.Phil.1.15.1" clearId="n50001015001" usfm="PHP 1:15!1">Τινὲς</e>
+               <e id="N1904.Phil.1.15.2" clearId="n50001015002" usfm="PHP 1:15!2">μὲν</e>
+               <e id="N1904.Phil.1.15.3" clearId="n50001015003" usfm="PHP 1:15!3">καὶ</e>
+               <e id="N1904.Phil.1.15.4" clearId="n50001015004" usfm="PHP 1:15!4">διὰ</e>
+               <e id="N1904.Phil.1.15.5" clearId="n50001015005" usfm="PHP 1:15!5">φθόνον</e>
+               <e id="N1904.Phil.1.15.6" clearId="n50001015006" usfm="PHP 1:15!6">καὶ</e>
+               <e id="N1904.Phil.1.15.7"
+                  clearId="n50001015007"
+                  usfm="PHP 1:15!7"
+                  after=",">ἔριν</e>
+               <e id="N1904.Phil.1.15.8" clearId="n50001015008" usfm="PHP 1:15!8">τινὲς</e>
+               <e id="N1904.Phil.1.15.9" clearId="n50001015009" usfm="PHP 1:15!9">δὲ</e>
+               <e id="N1904.Phil.1.15.10" clearId="n50001015010" usfm="PHP 1:15!10">καὶ</e>
+               <e id="N1904.Phil.1.15.11" clearId="n50001015011" usfm="PHP 1:15!11">δι’</e>
+               <e id="N1904.Phil.1.15.12" clearId="n50001015012" usfm="PHP 1:15!12">εὐδοκίαν</e>
+               <e id="N1904.Phil.1.15.13" clearId="n50001015013" usfm="PHP 1:15!13">τὸν</e>
+               <e id="N1904.Phil.1.15.14" clearId="n50001015014" usfm="PHP 1:15!14">Χριστὸν</e>
+               <e id="N1904.Phil.1.15.15"
+                  clearId="n50001015015"
+                  usfm="PHP 1:15!15"
+                  after="·">κηρύσσουσιν</e>
+            </c>
+            <c id="N1904.Phil.1.16.1-17.15" unit="move">
+               <e id="N1904.Phil.1.16.1" clearId="n50001016001" usfm="PHP 1:16!1">οἱ</e>
+               <e id="N1904.Phil.1.16.2" clearId="n50001016002" usfm="PHP 1:16!2">μὲν</e>
+               <e id="N1904.Phil.1.16.3" clearId="n50001016003" usfm="PHP 1:16!3">ἐξ</e>
+               <e id="N1904.Phil.1.16.4"
+                  clearId="n50001016004"
+                  usfm="PHP 1:16!4"
+                  after=",">ἀγάπης</e>
+               <e id="N1904.Phil.1.16.5" clearId="n50001016005" usfm="PHP 1:16!5">εἰδότες</e>
+               <e id="N1904.Phil.1.16.6" clearId="n50001016006" usfm="PHP 1:16!6">ὅτι</e>
+               <e id="N1904.Phil.1.16.7" clearId="n50001016007" usfm="PHP 1:16!7">εἰς</e>
+               <e id="N1904.Phil.1.16.8" clearId="n50001016008" usfm="PHP 1:16!8">ἀπολογίαν</e>
+               <e id="N1904.Phil.1.16.9" clearId="n50001016009" usfm="PHP 1:16!9">τοῦ</e>
+               <e id="N1904.Phil.1.16.10" clearId="n50001016010" usfm="PHP 1:16!10">εὐαγγελίου</e>
+               <e id="N1904.Phil.1.16.11"
+                  clearId="n50001016011"
+                  usfm="PHP 1:16!11"
+                  after=",">κεῖμαι</e>
+               <e id="N1904.Phil.1.17.1" clearId="n50001017001" usfm="PHP 1:17!1">οἱ</e>
+               <e id="N1904.Phil.1.17.2" clearId="n50001017002" usfm="PHP 1:17!2">δὲ</e>
+               <e id="N1904.Phil.1.17.3" clearId="n50001017003" usfm="PHP 1:17!3">ἐξ</e>
+               <e id="N1904.Phil.1.17.4" clearId="n50001017004" usfm="PHP 1:17!4">ἐριθείας</e>
+               <e id="N1904.Phil.1.17.5" clearId="n50001017005" usfm="PHP 1:17!5">τὸν</e>
+               <e id="N1904.Phil.1.17.6" clearId="n50001017006" usfm="PHP 1:17!6">Χριστὸν</e>
+               <e id="N1904.Phil.1.17.7"
+                  clearId="n50001017007"
+                  usfm="PHP 1:17!7"
+                  after=",">καταγγέλλουσιν</e>
+               <e id="N1904.Phil.1.17.8" clearId="n50001017008" usfm="PHP 1:17!8">οὐχ</e>
+               <e id="N1904.Phil.1.17.9"
+                  clearId="n50001017009"
+                  usfm="PHP 1:17!9"
+                  after=",">ἁγνῶς</e>
+               <e id="N1904.Phil.1.17.10" clearId="n50001017010" usfm="PHP 1:17!10">οἰόμενοι</e>
+               <e id="N1904.Phil.1.17.11" clearId="n50001017011" usfm="PHP 1:17!11">θλῖψιν</e>
+               <e id="N1904.Phil.1.17.12" clearId="n50001017012" usfm="PHP 1:17!12">ἐγείρειν</e>
+               <e id="N1904.Phil.1.17.13" clearId="n50001017013" usfm="PHP 1:17!13">τοῖς</e>
+               <e id="N1904.Phil.1.17.14" clearId="n50001017014" usfm="PHP 1:17!14">δεσμοῖς</e>
+               <e id="N1904.Phil.1.17.15"
+                  clearId="n50001017015"
+                  usfm="PHP 1:17!15"
+                  after=".">μου</e>
+            </c>
+            <c id="N1904.Phil.1.18.1-2" unit="move">
+               <e id="N1904.Phil.1.18.1" clearId="n50001018001" usfm="PHP 1:18!1">τί</e>
+               <e id="N1904.Phil.1.18.2"
+                  clearId="n50001018002"
+                  usfm="PHP 1:18!2"
+                  after=";">γάρ</e>
+            </c>
+            <c id="N1904.Phil.1.18.3-16" unit="move">
+               <e id="N1904.Phil.1.18.3" clearId="n50001018003" usfm="PHP 1:18!3">πλὴν</e>
+               <e id="N1904.Phil.1.18.4" clearId="n50001018004" usfm="PHP 1:18!4">ὅτι</e>
+               <e id="N1904.Phil.1.18.5" clearId="n50001018005" usfm="PHP 1:18!5">παντὶ</e>
+               <e id="N1904.Phil.1.18.6"
+                  clearId="n50001018006"
+                  usfm="PHP 1:18!6"
+                  after=",">τρόπῳ</e>
+               <e id="N1904.Phil.1.18.7" clearId="n50001018007" usfm="PHP 1:18!7">εἴτε</e>
+               <e id="N1904.Phil.1.18.8" clearId="n50001018008" usfm="PHP 1:18!8">προφάσει</e>
+               <e id="N1904.Phil.1.18.9" clearId="n50001018009" usfm="PHP 1:18!9">εἴτε</e>
+               <e id="N1904.Phil.1.18.10"
+                  clearId="n50001018010"
+                  usfm="PHP 1:18!10"
+                  after=",">ἀληθείᾳ</e>
+               <e id="N1904.Phil.1.18.11" clearId="n50001018011" usfm="PHP 1:18!11">Χριστὸς</e>
+               <e id="N1904.Phil.1.18.12"
+                  clearId="n50001018012"
+                  usfm="PHP 1:18!12"
+                  after=",">καταγγέλλεται</e>
+               <e id="N1904.Phil.1.18.13" clearId="n50001018013" usfm="PHP 1:18!13">καὶ</e>
+               <e id="N1904.Phil.1.18.14" clearId="n50001018014" usfm="PHP 1:18!14">ἐν</e>
+               <e id="N1904.Phil.1.18.15" clearId="n50001018015" usfm="PHP 1:18!15">τούτῳ</e>
+               <e id="N1904.Phil.1.18.16"
+                  clearId="n50001018016"
+                  usfm="PHP 1:18!16"
+                  after="·">χαίρω</e>
+            </c>
+            <c id="N1904.Phil.1.18.17-20.30" unit="move">
+               <e id="N1904.Phil.1.18.17" clearId="n50001018017" usfm="PHP 1:18!17">ἀλλὰ</e>
+               <e id="N1904.Phil.1.18.18" clearId="n50001018018" usfm="PHP 1:18!18">καὶ</e>
+               <e id="N1904.Phil.1.18.19"
+                  clearId="n50001018019"
+                  usfm="PHP 1:18!19"
+                  after="·">χαρήσομαι</e>
+               <e id="N1904.Phil.1.19.1" clearId="n50001019001" usfm="PHP 1:19!1">οἶδα</e>
+               <e id="N1904.Phil.1.19.2" clearId="n50001019002" usfm="PHP 1:19!2">γὰρ</e>
+               <e id="N1904.Phil.1.19.3" clearId="n50001019003" usfm="PHP 1:19!3">ὅτι</e>
+               <e id="N1904.Phil.1.19.4" clearId="n50001019004" usfm="PHP 1:19!4">τοῦτό</e>
+               <e id="N1904.Phil.1.19.5" clearId="n50001019005" usfm="PHP 1:19!5">μοι</e>
+               <e id="N1904.Phil.1.19.6" clearId="n50001019006" usfm="PHP 1:19!6">ἀποβήσεται</e>
+               <e id="N1904.Phil.1.19.7" clearId="n50001019007" usfm="PHP 1:19!7">εἰς</e>
+               <e id="N1904.Phil.1.19.8" clearId="n50001019008" usfm="PHP 1:19!8">σωτηρίαν</e>
+               <e id="N1904.Phil.1.19.9" clearId="n50001019009" usfm="PHP 1:19!9">διὰ</e>
+               <e id="N1904.Phil.1.19.10" clearId="n50001019010" usfm="PHP 1:19!10">τῆς</e>
+               <e id="N1904.Phil.1.19.11" clearId="n50001019011" usfm="PHP 1:19!11">ὑμῶν</e>
+               <e id="N1904.Phil.1.19.12" clearId="n50001019012" usfm="PHP 1:19!12">δεήσεως</e>
+               <e id="N1904.Phil.1.19.13" clearId="n50001019013" usfm="PHP 1:19!13">καὶ</e>
+               <e id="N1904.Phil.1.19.14" clearId="n50001019014" usfm="PHP 1:19!14">ἐπιχορηγίας</e>
+               <e id="N1904.Phil.1.19.15" clearId="n50001019015" usfm="PHP 1:19!15">τοῦ</e>
+               <e id="N1904.Phil.1.19.16" clearId="n50001019016" usfm="PHP 1:19!16">Πνεύματος</e>
+               <e id="N1904.Phil.1.19.17" clearId="n50001019017" usfm="PHP 1:19!17">Ἰησοῦ</e>
+               <e id="N1904.Phil.1.19.18"
+                  clearId="n50001019018"
+                  usfm="PHP 1:19!18"
+                  after=",">Χριστοῦ</e>
+               <e id="N1904.Phil.1.20.1" clearId="n50001020001" usfm="PHP 1:20!1">κατὰ</e>
+               <e id="N1904.Phil.1.20.2" clearId="n50001020002" usfm="PHP 1:20!2">τὴν</e>
+               <e id="N1904.Phil.1.20.3" clearId="n50001020003" usfm="PHP 1:20!3">ἀποκαραδοκίαν</e>
+               <e id="N1904.Phil.1.20.4" clearId="n50001020004" usfm="PHP 1:20!4">καὶ</e>
+               <e id="N1904.Phil.1.20.5" clearId="n50001020005" usfm="PHP 1:20!5">ἐλπίδα</e>
+               <e id="N1904.Phil.1.20.6" clearId="n50001020006" usfm="PHP 1:20!6">μου</e>
+               <e id="N1904.Phil.1.20.7" clearId="n50001020007" usfm="PHP 1:20!7">ὅτι</e>
+               <e id="N1904.Phil.1.20.8" clearId="n50001020008" usfm="PHP 1:20!8">ἐν</e>
+               <e id="N1904.Phil.1.20.9" clearId="n50001020009" usfm="PHP 1:20!9">οὐδενὶ</e>
+               <e id="N1904.Phil.1.20.10"
+                  clearId="n50001020010"
+                  usfm="PHP 1:20!10"
+                  after=",">αἰσχυνθήσομαι</e>
+               <e id="N1904.Phil.1.20.11" clearId="n50001020011" usfm="PHP 1:20!11">ἀλλ’</e>
+               <e id="N1904.Phil.1.20.12" clearId="n50001020012" usfm="PHP 1:20!12">ἐν</e>
+               <e id="N1904.Phil.1.20.13" clearId="n50001020013" usfm="PHP 1:20!13">πάσῃ</e>
+               <e id="N1904.Phil.1.20.14" clearId="n50001020014" usfm="PHP 1:20!14">παρρησίᾳ</e>
+               <e id="N1904.Phil.1.20.15" clearId="n50001020015" usfm="PHP 1:20!15">ὡς</e>
+               <e id="N1904.Phil.1.20.16" clearId="n50001020016" usfm="PHP 1:20!16">πάντοτε</e>
+               <e id="N1904.Phil.1.20.17" clearId="n50001020017" usfm="PHP 1:20!17">καὶ</e>
+               <e id="N1904.Phil.1.20.18" clearId="n50001020018" usfm="PHP 1:20!18">νῦν</e>
+               <e id="N1904.Phil.1.20.19" clearId="n50001020019" usfm="PHP 1:20!19">μεγαλυνθήσεται</e>
+               <e id="N1904.Phil.1.20.20" clearId="n50001020020" usfm="PHP 1:20!20">Χριστὸς</e>
+               <e id="N1904.Phil.1.20.21" clearId="n50001020021" usfm="PHP 1:20!21">ἐν</e>
+               <e id="N1904.Phil.1.20.22" clearId="n50001020022" usfm="PHP 1:20!22">τῷ</e>
+               <e id="N1904.Phil.1.20.23" clearId="n50001020023" usfm="PHP 1:20!23">σώματί</e>
+               <e id="N1904.Phil.1.20.24"
+                  clearId="n50001020024"
+                  usfm="PHP 1:20!24"
+                  after=",">μου</e>
+               <e id="N1904.Phil.1.20.25" clearId="n50001020025" usfm="PHP 1:20!25">εἴτε</e>
+               <e id="N1904.Phil.1.20.26" clearId="n50001020026" usfm="PHP 1:20!26">διὰ</e>
+               <e id="N1904.Phil.1.20.27" clearId="n50001020027" usfm="PHP 1:20!27">ζωῆς</e>
+               <e id="N1904.Phil.1.20.28" clearId="n50001020028" usfm="PHP 1:20!28">εἴτε</e>
+               <e id="N1904.Phil.1.20.29" clearId="n50001020029" usfm="PHP 1:20!29">διὰ</e>
+               <e id="N1904.Phil.1.20.30"
+                  clearId="n50001020030"
+                  usfm="PHP 1:20!30"
+                  after=".">θανάτου</e>
+            </c>
+            <c id="N1904.Phil.1.21.1-5" unit="move">
+               <e id="N1904.Phil.1.21.1" clearId="n50001021001" usfm="PHP 1:21!1">Ἐμοὶ</e>
+               <e id="N1904.Phil.1.21.2" clearId="n50001021002" usfm="PHP 1:21!2">γὰρ</e>
+               <e id="N1904.Phil.1.21.3" clearId="n50001021003" usfm="PHP 1:21!3">τὸ</e>
+               <e id="N1904.Phil.1.21.4" clearId="n50001021004" usfm="PHP 1:21!4">ζῆν</e>
+               <e id="N1904.Phil.1.21.5" clearId="n50001021005" usfm="PHP 1:21!5">Χριστὸς</e>
+            </c>
+            <c id="N1904.Phil.1.21.6-9" unit="move">
+               <e id="N1904.Phil.1.21.6" clearId="n50001021006" usfm="PHP 1:21!6">καὶ</e>
+               <e id="N1904.Phil.1.21.7" clearId="n50001021007" usfm="PHP 1:21!7">τὸ</e>
+               <e id="N1904.Phil.1.21.8" clearId="n50001021008" usfm="PHP 1:21!8">ἀποθανεῖν</e>
+               <e id="N1904.Phil.1.21.9"
+                  clearId="n50001021009"
+                  usfm="PHP 1:21!9"
+                  after=".">κέρδος</e>
+            </c>
+            <c id="N1904.Phil.1.22.1-10" unit="move">
+               <e id="N1904.Phil.1.22.1" clearId="n50001022001" usfm="PHP 1:22!1">εἰ</e>
+               <e id="N1904.Phil.1.22.2" clearId="n50001022002" usfm="PHP 1:22!2">δὲ</e>
+               <e id="N1904.Phil.1.22.3" clearId="n50001022003" usfm="PHP 1:22!3">τὸ</e>
+               <e id="N1904.Phil.1.22.4" clearId="n50001022004" usfm="PHP 1:22!4">ζῆν</e>
+               <e id="N1904.Phil.1.22.5" clearId="n50001022005" usfm="PHP 1:22!5">ἐν</e>
+               <e id="N1904.Phil.1.22.6"
+                  clearId="n50001022006"
+                  usfm="PHP 1:22!6"
+                  after=",">σαρκί</e>
+               <e id="N1904.Phil.1.22.7" clearId="n50001022007" usfm="PHP 1:22!7">τοῦτό</e>
+               <e id="N1904.Phil.1.22.8" clearId="n50001022008" usfm="PHP 1:22!8">μοι</e>
+               <e id="N1904.Phil.1.22.9" clearId="n50001022009" usfm="PHP 1:22!9">καρπὸς</e>
+               <e id="N1904.Phil.1.22.10"
+                  clearId="n50001022010"
+                  usfm="PHP 1:22!10"
+                  after=",">ἔργου</e>
+            </c>
+            <c id="N1904.Phil.1.22.11-15" unit="move">
+               <e id="N1904.Phil.1.22.11" clearId="n50001022011" usfm="PHP 1:22!11">καὶ</e>
+               <e id="N1904.Phil.1.22.12" clearId="n50001022012" usfm="PHP 1:22!12">τί</e>
+               <e id="N1904.Phil.1.22.13" clearId="n50001022013" usfm="PHP 1:22!13">αἱρήσομαι</e>
+               <e id="N1904.Phil.1.22.14" clearId="n50001022014" usfm="PHP 1:22!14">οὐ</e>
+               <e id="N1904.Phil.1.22.15"
+                  clearId="n50001022015"
+                  usfm="PHP 1:22!15"
+                  after=".">γνωρίζω</e>
+            </c>
+            <c id="N1904.Phil.1.23.1-15" unit="move">
+               <e id="N1904.Phil.1.23.1" clearId="n50001023001" usfm="PHP 1:23!1">συνέχομαι</e>
+               <e id="N1904.Phil.1.23.2" clearId="n50001023002" usfm="PHP 1:23!2">δὲ</e>
+               <e id="N1904.Phil.1.23.3" clearId="n50001023003" usfm="PHP 1:23!3">ἐκ</e>
+               <e id="N1904.Phil.1.23.4" clearId="n50001023004" usfm="PHP 1:23!4">τῶν</e>
+               <e id="N1904.Phil.1.23.5"
+                  clearId="n50001023005"
+                  usfm="PHP 1:23!5"
+                  after=",">δύο</e>
+               <e id="N1904.Phil.1.23.6" clearId="n50001023006" usfm="PHP 1:23!6">τὴν</e>
+               <e id="N1904.Phil.1.23.7" clearId="n50001023007" usfm="PHP 1:23!7">ἐπιθυμίαν</e>
+               <e id="N1904.Phil.1.23.8" clearId="n50001023008" usfm="PHP 1:23!8">ἔχων</e>
+               <e id="N1904.Phil.1.23.9" clearId="n50001023009" usfm="PHP 1:23!9">εἰς</e>
+               <e id="N1904.Phil.1.23.10" clearId="n50001023010" usfm="PHP 1:23!10">τὸ</e>
+               <e id="N1904.Phil.1.23.11" clearId="n50001023011" usfm="PHP 1:23!11">ἀναλῦσαι</e>
+               <e id="N1904.Phil.1.23.12" clearId="n50001023012" usfm="PHP 1:23!12">καὶ</e>
+               <e id="N1904.Phil.1.23.13" clearId="n50001023013" usfm="PHP 1:23!13">σὺν</e>
+               <e id="N1904.Phil.1.23.14" clearId="n50001023014" usfm="PHP 1:23!14">Χριστῷ</e>
+               <e id="N1904.Phil.1.23.15"
+                  clearId="n50001023015"
+                  usfm="PHP 1:23!15"
+                  after=",">εἶναι</e>
+            </c>
+            <c id="N1904.Phil.1.23.16-19" unit="move">
+               <e id="N1904.Phil.1.23.16" clearId="n50001023016" usfm="PHP 1:23!16">πολλῷ</e>
+               <e id="N1904.Phil.1.23.17" clearId="n50001023017" usfm="PHP 1:23!17">γὰρ</e>
+               <e id="N1904.Phil.1.23.18" clearId="n50001023018" usfm="PHP 1:23!18">μᾶλλον</e>
+               <e id="N1904.Phil.1.23.19"
+                  clearId="n50001023019"
+                  usfm="PHP 1:23!19"
+                  after="·">κρεῖσσον</e>
+            </c>
+            <c id="N1904.Phil.1.24.1-8" unit="move">
+               <e id="N1904.Phil.1.24.1" clearId="n50001024001" usfm="PHP 1:24!1">τὸ</e>
+               <e id="N1904.Phil.1.24.2" clearId="n50001024002" usfm="PHP 1:24!2">δὲ</e>
+               <e id="N1904.Phil.1.24.3" clearId="n50001024003" usfm="PHP 1:24!3">ἐπιμένειν</e>
+               <e id="N1904.Phil.1.24.4" clearId="n50001024004" usfm="PHP 1:24!4">τῇ</e>
+               <e id="N1904.Phil.1.24.5" clearId="n50001024005" usfm="PHP 1:24!5">σαρκὶ</e>
+               <e id="N1904.Phil.1.24.6" clearId="n50001024006" usfm="PHP 1:24!6">ἀναγκαιότερον</e>
+               <e id="N1904.Phil.1.24.7" clearId="n50001024007" usfm="PHP 1:24!7">δι’</e>
+               <e id="N1904.Phil.1.24.8"
+                  clearId="n50001024008"
+                  usfm="PHP 1:24!8"
+                  after=".">ὑμᾶς</e>
+            </c>
+            <c id="N1904.Phil.1.25.1-26.17" unit="move">
+               <e id="N1904.Phil.1.25.1" clearId="n50001025001" usfm="PHP 1:25!1">καὶ</e>
+               <e id="N1904.Phil.1.25.2" clearId="n50001025002" usfm="PHP 1:25!2">τοῦτο</e>
+               <e id="N1904.Phil.1.25.3" clearId="n50001025003" usfm="PHP 1:25!3">πεποιθὼς</e>
+               <e id="N1904.Phil.1.25.4"
+                  clearId="n50001025004"
+                  usfm="PHP 1:25!4"
+                  after=",">οἶδα</e>
+               <e id="N1904.Phil.1.25.5" clearId="n50001025005" usfm="PHP 1:25!5">ὅτι</e>
+               <e id="N1904.Phil.1.25.6" clearId="n50001025006" usfm="PHP 1:25!6">μενῶ</e>
+               <e id="N1904.Phil.1.25.7" clearId="n50001025007" usfm="PHP 1:25!7">καὶ</e>
+               <e id="N1904.Phil.1.25.8" clearId="n50001025008" usfm="PHP 1:25!8">παραμενῶ</e>
+               <e id="N1904.Phil.1.25.9" clearId="n50001025009" usfm="PHP 1:25!9">πᾶσιν</e>
+               <e id="N1904.Phil.1.25.10" clearId="n50001025010" usfm="PHP 1:25!10">ὑμῖν</e>
+               <e id="N1904.Phil.1.25.11" clearId="n50001025011" usfm="PHP 1:25!11">εἰς</e>
+               <e id="N1904.Phil.1.25.12" clearId="n50001025012" usfm="PHP 1:25!12">τὴν</e>
+               <e id="N1904.Phil.1.25.13" clearId="n50001025013" usfm="PHP 1:25!13">ὑμῶν</e>
+               <e id="N1904.Phil.1.25.14" clearId="n50001025014" usfm="PHP 1:25!14">προκοπὴν</e>
+               <e id="N1904.Phil.1.25.15" clearId="n50001025015" usfm="PHP 1:25!15">καὶ</e>
+               <e id="N1904.Phil.1.25.16" clearId="n50001025016" usfm="PHP 1:25!16">χαρὰν</e>
+               <e id="N1904.Phil.1.25.17" clearId="n50001025017" usfm="PHP 1:25!17">τῆς</e>
+               <e id="N1904.Phil.1.25.18"
+                  clearId="n50001025018"
+                  usfm="PHP 1:25!18"
+                  after=",">πίστεως</e>
+               <e id="N1904.Phil.1.26.1" clearId="n50001026001" usfm="PHP 1:26!1">ἵνα</e>
+               <e id="N1904.Phil.1.26.2" clearId="n50001026002" usfm="PHP 1:26!2">τὸ</e>
+               <e id="N1904.Phil.1.26.3" clearId="n50001026003" usfm="PHP 1:26!3">καύχημα</e>
+               <e id="N1904.Phil.1.26.4" clearId="n50001026004" usfm="PHP 1:26!4">ὑμῶν</e>
+               <e id="N1904.Phil.1.26.5" clearId="n50001026005" usfm="PHP 1:26!5">περισσεύῃ</e>
+               <e id="N1904.Phil.1.26.6" clearId="n50001026006" usfm="PHP 1:26!6">ἐν</e>
+               <e id="N1904.Phil.1.26.7" clearId="n50001026007" usfm="PHP 1:26!7">Χριστῷ</e>
+               <e id="N1904.Phil.1.26.8" clearId="n50001026008" usfm="PHP 1:26!8">Ἰησοῦ</e>
+               <e id="N1904.Phil.1.26.9" clearId="n50001026009" usfm="PHP 1:26!9">ἐν</e>
+               <e id="N1904.Phil.1.26.10" clearId="n50001026010" usfm="PHP 1:26!10">ἐμοὶ</e>
+               <e id="N1904.Phil.1.26.11" clearId="n50001026011" usfm="PHP 1:26!11">διὰ</e>
+               <e id="N1904.Phil.1.26.12" clearId="n50001026012" usfm="PHP 1:26!12">τῆς</e>
+               <e id="N1904.Phil.1.26.13" clearId="n50001026013" usfm="PHP 1:26!13">ἐμῆς</e>
+               <e id="N1904.Phil.1.26.14" clearId="n50001026014" usfm="PHP 1:26!14">παρουσίας</e>
+               <e id="N1904.Phil.1.26.15" clearId="n50001026015" usfm="PHP 1:26!15">πάλιν</e>
+               <e id="N1904.Phil.1.26.16" clearId="n50001026016" usfm="PHP 1:26!16">πρὸς</e>
+               <e id="N1904.Phil.1.26.17"
+                  clearId="n50001026017"
+                  usfm="PHP 1:26!17"
+                  after=".">ὑμᾶς</e>
+            </c>
+         </c>
+         <c unit="seg" title="An Admonition to Constancy and True Unity">
+            <c id="N1904.Phil.1.27.1-30.13" unit="move">
+               <e id="N1904.Phil.1.27.1" clearId="n50001027001" usfm="PHP 1:27!1">Μόνον</e>
+               <e id="N1904.Phil.1.27.2" clearId="n50001027002" usfm="PHP 1:27!2">ἀξίως</e>
+               <e id="N1904.Phil.1.27.3" clearId="n50001027003" usfm="PHP 1:27!3">τοῦ</e>
+               <e id="N1904.Phil.1.27.4" clearId="n50001027004" usfm="PHP 1:27!4">εὐαγγελίου</e>
+               <e id="N1904.Phil.1.27.5" clearId="n50001027005" usfm="PHP 1:27!5">τοῦ</e>
+               <e id="N1904.Phil.1.27.6" clearId="n50001027006" usfm="PHP 1:27!6">Χριστοῦ</e>
+               <e id="N1904.Phil.1.27.7"
+                  clearId="n50001027007"
+                  usfm="PHP 1:27!7"
+                  after=",">πολιτεύεσθε</e>
+               <e id="N1904.Phil.1.27.8" clearId="n50001027008" usfm="PHP 1:27!8">ἵνα</e>
+               <e id="N1904.Phil.1.27.9" clearId="n50001027009" usfm="PHP 1:27!9">εἴτε</e>
+               <e id="N1904.Phil.1.27.10" clearId="n50001027010" usfm="PHP 1:27!10">ἐλθὼν</e>
+               <e id="N1904.Phil.1.27.11" clearId="n50001027011" usfm="PHP 1:27!11">καὶ</e>
+               <e id="N1904.Phil.1.27.12" clearId="n50001027012" usfm="PHP 1:27!12">ἰδὼν</e>
+               <e id="N1904.Phil.1.27.13" clearId="n50001027013" usfm="PHP 1:27!13">ὑμᾶς</e>
+               <e id="N1904.Phil.1.27.14" clearId="n50001027014" usfm="PHP 1:27!14">εἴτε</e>
+               <e id="N1904.Phil.1.27.15" clearId="n50001027015" usfm="PHP 1:27!15">ἀπὼν</e>
+               <e id="N1904.Phil.1.27.16" clearId="n50001027016" usfm="PHP 1:27!16">ἀκούω</e>
+               <e id="N1904.Phil.1.27.17" clearId="n50001027017" usfm="PHP 1:27!17">τὰ</e>
+               <e id="N1904.Phil.1.27.18" clearId="n50001027018" usfm="PHP 1:27!18">περὶ</e>
+               <e id="N1904.Phil.1.27.19"
+                  clearId="n50001027019"
+                  usfm="PHP 1:27!19"
+                  after=",">ὑμῶν</e>
+               <e id="N1904.Phil.1.27.20" clearId="n50001027020" usfm="PHP 1:27!20">ὅτι</e>
+               <e id="N1904.Phil.1.27.21" clearId="n50001027021" usfm="PHP 1:27!21">στήκετε</e>
+               <e id="N1904.Phil.1.27.22" clearId="n50001027022" usfm="PHP 1:27!22">ἐν</e>
+               <e id="N1904.Phil.1.27.23" clearId="n50001027023" usfm="PHP 1:27!23">ἑνὶ</e>
+               <e id="N1904.Phil.1.27.24"
+                  clearId="n50001027024"
+                  usfm="PHP 1:27!24"
+                  after=",">πνεύματι</e>
+               <e id="N1904.Phil.1.27.25" clearId="n50001027025" usfm="PHP 1:27!25">μιᾷ</e>
+               <e id="N1904.Phil.1.27.26" clearId="n50001027026" usfm="PHP 1:27!26">ψυχῇ</e>
+               <e id="N1904.Phil.1.27.27" clearId="n50001027027" usfm="PHP 1:27!27">συναθλοῦντες</e>
+               <e id="N1904.Phil.1.27.28" clearId="n50001027028" usfm="PHP 1:27!28">τῇ</e>
+               <e id="N1904.Phil.1.27.29" clearId="n50001027029" usfm="PHP 1:27!29">πίστει</e>
+               <e id="N1904.Phil.1.27.30" clearId="n50001027030" usfm="PHP 1:27!30">τοῦ</e>
+               <e id="N1904.Phil.1.27.31"
+                  clearId="n50001027031"
+                  usfm="PHP 1:27!31"
+                  after=",">εὐαγγελίου</e>
+               <e id="N1904.Phil.1.28.1" clearId="n50001028001" usfm="PHP 1:28!1">καὶ</e>
+               <e id="N1904.Phil.1.28.2" clearId="n50001028002" usfm="PHP 1:28!2">μὴ</e>
+               <e id="N1904.Phil.1.28.3" clearId="n50001028003" usfm="PHP 1:28!3">πτυρόμενοι</e>
+               <e id="N1904.Phil.1.28.4" clearId="n50001028004" usfm="PHP 1:28!4">ἐν</e>
+               <e id="N1904.Phil.1.28.5" clearId="n50001028005" usfm="PHP 1:28!5">μηδενὶ</e>
+               <e id="N1904.Phil.1.28.6" clearId="n50001028006" usfm="PHP 1:28!6">ὑπὸ</e>
+               <e id="N1904.Phil.1.28.7" clearId="n50001028007" usfm="PHP 1:28!7">τῶν</e>
+               <e id="N1904.Phil.1.28.8"
+                  clearId="n50001028008"
+                  usfm="PHP 1:28!8"
+                  after=",">ἀντικειμένων</e>
+               <e id="N1904.Phil.1.28.9" clearId="n50001028009" usfm="PHP 1:28!9">ἥτις</e>
+               <e id="N1904.Phil.1.28.10" clearId="n50001028010" usfm="PHP 1:28!10">ἐστὶν</e>
+               <e id="N1904.Phil.1.28.11" clearId="n50001028011" usfm="PHP 1:28!11">αὐτοῖς</e>
+               <e id="N1904.Phil.1.28.12" clearId="n50001028012" usfm="PHP 1:28!12">ἔνδειξις</e>
+               <e id="N1904.Phil.1.28.13"
+                  clearId="n50001028013"
+                  usfm="PHP 1:28!13"
+                  after=",">ἀπωλείας</e>
+               <e id="N1904.Phil.1.28.14" clearId="n50001028014" usfm="PHP 1:28!14">ὑμῶν</e>
+               <e id="N1904.Phil.1.28.15" clearId="n50001028015" usfm="PHP 1:28!15">δὲ</e>
+               <e id="N1904.Phil.1.28.16"
+                  clearId="n50001028016"
+                  usfm="PHP 1:28!16"
+                  after=",">σωτηρίας</e>
+               <e id="N1904.Phil.1.28.17" clearId="n50001028017" usfm="PHP 1:28!17">καὶ</e>
+               <e id="N1904.Phil.1.28.18" clearId="n50001028018" usfm="PHP 1:28!18">τοῦτο</e>
+               <e id="N1904.Phil.1.28.19" clearId="n50001028019" usfm="PHP 1:28!19">ἀπὸ</e>
+               <e id="N1904.Phil.1.28.20"
+                  clearId="n50001028020"
+                  usfm="PHP 1:28!20"
+                  after="·">Θεοῦ</e>
+               <e id="N1904.Phil.1.29.1" clearId="n50001029001" usfm="PHP 1:29!1">ὅτι</e>
+               <e id="N1904.Phil.1.29.2" clearId="n50001029002" usfm="PHP 1:29!2">ὑμῖν</e>
+               <e id="N1904.Phil.1.29.3" clearId="n50001029003" usfm="PHP 1:29!3">ἐχαρίσθη</e>
+               <e id="N1904.Phil.1.29.4" clearId="n50001029004" usfm="PHP 1:29!4">τὸ</e>
+               <e id="N1904.Phil.1.29.5" clearId="n50001029005" usfm="PHP 1:29!5">ὑπὲρ</e>
+               <e id="N1904.Phil.1.29.6"
+                  clearId="n50001029006"
+                  usfm="PHP 1:29!6"
+                  after=",">Χριστοῦ</e>
+               <e id="N1904.Phil.1.29.7" clearId="n50001029007" usfm="PHP 1:29!7">οὐ</e>
+               <e id="N1904.Phil.1.29.8" clearId="n50001029008" usfm="PHP 1:29!8">μόνον</e>
+               <e id="N1904.Phil.1.29.9" clearId="n50001029009" usfm="PHP 1:29!9">τὸ</e>
+               <e id="N1904.Phil.1.29.10" clearId="n50001029010" usfm="PHP 1:29!10">εἰς</e>
+               <e id="N1904.Phil.1.29.11" clearId="n50001029011" usfm="PHP 1:29!11">αὐτὸν</e>
+               <e id="N1904.Phil.1.29.12" clearId="n50001029012" usfm="PHP 1:29!12">πιστεύειν</e>
+               <e id="N1904.Phil.1.29.13" clearId="n50001029013" usfm="PHP 1:29!13">ἀλλὰ</e>
+               <e id="N1904.Phil.1.29.14" clearId="n50001029014" usfm="PHP 1:29!14">καὶ</e>
+               <e id="N1904.Phil.1.29.15" clearId="n50001029015" usfm="PHP 1:29!15">τὸ</e>
+               <e id="N1904.Phil.1.29.16" clearId="n50001029016" usfm="PHP 1:29!16">ὑπὲρ</e>
+               <e id="N1904.Phil.1.29.17" clearId="n50001029017" usfm="PHP 1:29!17">αὐτοῦ</e>
+               <e id="N1904.Phil.1.29.18"
+                  clearId="n50001029018"
+                  usfm="PHP 1:29!18"
+                  after=",">πάσχειν</e>
+               <e id="N1904.Phil.1.30.1" clearId="n50001030001" usfm="PHP 1:30!1">τὸν</e>
+               <e id="N1904.Phil.1.30.2" clearId="n50001030002" usfm="PHP 1:30!2">αὐτὸν</e>
+               <e id="N1904.Phil.1.30.3" clearId="n50001030003" usfm="PHP 1:30!3">ἀγῶνα</e>
+               <e id="N1904.Phil.1.30.4" clearId="n50001030004" usfm="PHP 1:30!4">ἔχοντες</e>
+               <e id="N1904.Phil.1.30.5" clearId="n50001030005" usfm="PHP 1:30!5">οἷον</e>
+               <e id="N1904.Phil.1.30.6" clearId="n50001030006" usfm="PHP 1:30!6">εἴδετε</e>
+               <e id="N1904.Phil.1.30.7" clearId="n50001030007" usfm="PHP 1:30!7">ἐν</e>
+               <e id="N1904.Phil.1.30.8" clearId="n50001030008" usfm="PHP 1:30!8">ἐμοὶ</e>
+               <e id="N1904.Phil.1.30.9" clearId="n50001030009" usfm="PHP 1:30!9">καὶ</e>
+               <e id="N1904.Phil.1.30.10" clearId="n50001030010" usfm="PHP 1:30!10">νῦν</e>
+               <e id="N1904.Phil.1.30.11" clearId="n50001030011" usfm="PHP 1:30!11">ἀκούετε</e>
+               <e id="N1904.Phil.1.30.12" clearId="n50001030012" usfm="PHP 1:30!12">ἐν</e>
+               <e id="N1904.Phil.1.30.13"
+                  clearId="n50001030013"
+                  usfm="PHP 1:30!13"
+                  after=".">ἐμοί</e>
+            </c>
+         </c>
+         <c unit="seg" title="The Need of Loving Humility">
+            <c id="N1904.Phil.2.1.1-4.10" unit="move">
+               <e id="N1904.Phil.2.1.1" clearId="n50002001001" usfm="PHP 2:1!1">Εἴ</e>
+               <e id="N1904.Phil.2.1.2" clearId="n50002001002" usfm="PHP 2:1!2">τις</e>
+               <e id="N1904.Phil.2.1.3" clearId="n50002001003" usfm="PHP 2:1!3">οὖν</e>
+               <e id="N1904.Phil.2.1.4" clearId="n50002001004" usfm="PHP 2:1!4">παράκλησις</e>
+               <e id="N1904.Phil.2.1.5" clearId="n50002001005" usfm="PHP 2:1!5">ἐν</e>
+               <e id="N1904.Phil.2.1.6"
+                  clearId="n50002001006"
+                  usfm="PHP 2:1!6"
+                  after=",">Χριστῷ</e>
+               <e id="N1904.Phil.2.1.7" clearId="n50002001007" usfm="PHP 2:1!7">εἴ</e>
+               <e id="N1904.Phil.2.1.8" clearId="n50002001008" usfm="PHP 2:1!8">τι</e>
+               <e id="N1904.Phil.2.1.9" clearId="n50002001009" usfm="PHP 2:1!9">παραμύθιον</e>
+               <e id="N1904.Phil.2.1.10"
+                  clearId="n50002001010"
+                  usfm="PHP 2:1!10"
+                  after=",">ἀγάπης</e>
+               <e id="N1904.Phil.2.1.11" clearId="n50002001011" usfm="PHP 2:1!11">εἴ</e>
+               <e id="N1904.Phil.2.1.12" clearId="n50002001012" usfm="PHP 2:1!12">τις</e>
+               <e id="N1904.Phil.2.1.13" clearId="n50002001013" usfm="PHP 2:1!13">κοινωνία</e>
+               <e id="N1904.Phil.2.1.14"
+                  clearId="n50002001014"
+                  usfm="PHP 2:1!14"
+                  after=",">Πνεύματος</e>
+               <e id="N1904.Phil.2.1.15" clearId="n50002001015" usfm="PHP 2:1!15">εἴ</e>
+               <e id="N1904.Phil.2.1.16" clearId="n50002001016" usfm="PHP 2:1!16">τις</e>
+               <e id="N1904.Phil.2.1.17" clearId="n50002001017" usfm="PHP 2:1!17">σπλάγχνα</e>
+               <e id="N1904.Phil.2.1.18" clearId="n50002001018" usfm="PHP 2:1!18">καὶ</e>
+               <e id="N1904.Phil.2.1.19"
+                  clearId="n50002001019"
+                  usfm="PHP 2:1!19"
+                  after=",">οἰκτιρμοί</e>
+               <e id="N1904.Phil.2.2.1" clearId="n50002002001" usfm="PHP 2:2!1">πληρώσατέ</e>
+               <e id="N1904.Phil.2.2.2" clearId="n50002002002" usfm="PHP 2:2!2">μου</e>
+               <e id="N1904.Phil.2.2.3" clearId="n50002002003" usfm="PHP 2:2!3">τὴν</e>
+               <e id="N1904.Phil.2.2.4" clearId="n50002002004" usfm="PHP 2:2!4">χαρὰν</e>
+               <e id="N1904.Phil.2.2.5" clearId="n50002002005" usfm="PHP 2:2!5">ἵνα</e>
+               <e id="N1904.Phil.2.2.6" clearId="n50002002006" usfm="PHP 2:2!6">τὸ</e>
+               <e id="N1904.Phil.2.2.7" clearId="n50002002007" usfm="PHP 2:2!7">αὐτὸ</e>
+               <e id="N1904.Phil.2.2.8"
+                  clearId="n50002002008"
+                  usfm="PHP 2:2!8"
+                  after=",">φρονῆτε</e>
+               <e id="N1904.Phil.2.2.9" clearId="n50002002009" usfm="PHP 2:2!9">τὴν</e>
+               <e id="N1904.Phil.2.2.10" clearId="n50002002010" usfm="PHP 2:2!10">αὐτὴν</e>
+               <e id="N1904.Phil.2.2.11" clearId="n50002002011" usfm="PHP 2:2!11">ἀγάπην</e>
+               <e id="N1904.Phil.2.2.12"
+                  clearId="n50002002012"
+                  usfm="PHP 2:2!12"
+                  after=",">ἔχοντες</e>
+               <e id="N1904.Phil.2.2.13"
+                  clearId="n50002002013"
+                  usfm="PHP 2:2!13"
+                  after=",">σύνψυχοι</e>
+               <e id="N1904.Phil.2.2.14" clearId="n50002002014" usfm="PHP 2:2!14">τὸ</e>
+               <e id="N1904.Phil.2.2.15" clearId="n50002002015" usfm="PHP 2:2!15">ἓν</e>
+               <e id="N1904.Phil.2.2.16"
+                  clearId="n50002002016"
+                  usfm="PHP 2:2!16"
+                  after=",">φρονοῦντες</e>
+               <e id="N1904.Phil.2.3.1" clearId="n50002003001" usfm="PHP 2:3!1">μηδὲν</e>
+               <e id="N1904.Phil.2.3.2" clearId="n50002003002" usfm="PHP 2:3!2">κατ’</e>
+               <e id="N1904.Phil.2.3.3" clearId="n50002003003" usfm="PHP 2:3!3">ἐριθείαν</e>
+               <e id="N1904.Phil.2.3.4" clearId="n50002003004" usfm="PHP 2:3!4">μηδὲ</e>
+               <e id="N1904.Phil.2.3.5" clearId="n50002003005" usfm="PHP 2:3!5">κατὰ</e>
+               <e id="N1904.Phil.2.3.6"
+                  clearId="n50002003006"
+                  usfm="PHP 2:3!6"
+                  after=",">κενοδοξίαν</e>
+               <e id="N1904.Phil.2.3.7" clearId="n50002003007" usfm="PHP 2:3!7">ἀλλὰ</e>
+               <e id="N1904.Phil.2.3.8" clearId="n50002003008" usfm="PHP 2:3!8">τῇ</e>
+               <e id="N1904.Phil.2.3.9" clearId="n50002003009" usfm="PHP 2:3!9">ταπεινοφροσύνῃ</e>
+               <e id="N1904.Phil.2.3.10" clearId="n50002003010" usfm="PHP 2:3!10">ἀλλήλους</e>
+               <e id="N1904.Phil.2.3.11" clearId="n50002003011" usfm="PHP 2:3!11">ἡγούμενοι</e>
+               <e id="N1904.Phil.2.3.12" clearId="n50002003012" usfm="PHP 2:3!12">ὑπερέχοντας</e>
+               <e id="N1904.Phil.2.3.13"
+                  clearId="n50002003013"
+                  usfm="PHP 2:3!13"
+                  after=",">ἑαυτῶν</e>
+               <e id="N1904.Phil.2.4.1" clearId="n50002004001" usfm="PHP 2:4!1">μὴ</e>
+               <e id="N1904.Phil.2.4.2" clearId="n50002004002" usfm="PHP 2:4!2">τὰ</e>
+               <e id="N1904.Phil.2.4.3" clearId="n50002004003" usfm="PHP 2:4!3">ἑαυτῶν</e>
+               <e id="N1904.Phil.2.4.4" clearId="n50002004004" usfm="PHP 2:4!4">ἕκαστοι</e>
+               <e id="N1904.Phil.2.4.5"
+                  clearId="n50002004005"
+                  usfm="PHP 2:4!5"
+                  after=",">σκοποῦντες</e>
+               <e id="N1904.Phil.2.4.6" clearId="n50002004006" usfm="PHP 2:4!6">ἀλλὰ</e>
+               <e id="N1904.Phil.2.4.7" clearId="n50002004007" usfm="PHP 2:4!7">καὶ</e>
+               <e id="N1904.Phil.2.4.8" clearId="n50002004008" usfm="PHP 2:4!8">τὰ</e>
+               <e id="N1904.Phil.2.4.9" clearId="n50002004009" usfm="PHP 2:4!9">ἑτέρων</e>
+               <e id="N1904.Phil.2.4.10"
+                  clearId="n50002004010"
+                  usfm="PHP 2:4!10"
+                  after=".">ἕκαστοι</e>
+            </c>
+         </c>
+         <c unit="seg" title="The Example of Christ's Humility">
+            <c id="N1904.Phil.2.5.1-7.10" unit="move">
+               <e id="N1904.Phil.2.5.1" clearId="n50002005001" usfm="PHP 2:5!1">τοῦτο</e>
+               <e id="N1904.Phil.2.5.2" clearId="n50002005002" usfm="PHP 2:5!2">φρονεῖτε</e>
+               <e id="N1904.Phil.2.5.3" clearId="n50002005003" usfm="PHP 2:5!3">ἐν</e>
+               <e id="N1904.Phil.2.5.4" clearId="n50002005004" usfm="PHP 2:5!4">ὑμῖν</e>
+               <e id="N1904.Phil.2.5.5" clearId="n50002005005" usfm="PHP 2:5!5">ὃ</e>
+               <e id="N1904.Phil.2.5.6" clearId="n50002005006" usfm="PHP 2:5!6">καὶ</e>
+               <e id="N1904.Phil.2.5.7" clearId="n50002005007" usfm="PHP 2:5!7">ἐν</e>
+               <e id="N1904.Phil.2.5.8" clearId="n50002005008" usfm="PHP 2:5!8">Χριστῷ</e>
+               <e id="N1904.Phil.2.5.9"
+                  clearId="n50002005009"
+                  usfm="PHP 2:5!9"
+                  after=",">Ἰησοῦ</e>
+               <e id="N1904.Phil.2.6.1" clearId="n50002006001" usfm="PHP 2:6!1">ὃς</e>
+               <e id="N1904.Phil.2.6.2" clearId="n50002006002" usfm="PHP 2:6!2">ἐν</e>
+               <e id="N1904.Phil.2.6.3" clearId="n50002006003" usfm="PHP 2:6!3">μορφῇ</e>
+               <e id="N1904.Phil.2.6.4" clearId="n50002006004" usfm="PHP 2:6!4">Θεοῦ</e>
+               <e id="N1904.Phil.2.6.5" clearId="n50002006005" usfm="PHP 2:6!5">ὑπάρχων</e>
+               <e id="N1904.Phil.2.6.6" clearId="n50002006006" usfm="PHP 2:6!6">οὐχ</e>
+               <e id="N1904.Phil.2.6.7" clearId="n50002006007" usfm="PHP 2:6!7">ἁρπαγμὸν</e>
+               <e id="N1904.Phil.2.6.8" clearId="n50002006008" usfm="PHP 2:6!8">ἡγήσατο</e>
+               <e id="N1904.Phil.2.6.9" clearId="n50002006009" usfm="PHP 2:6!9">τὸ</e>
+               <e id="N1904.Phil.2.6.10" clearId="n50002006010" usfm="PHP 2:6!10">εἶναι</e>
+               <e id="N1904.Phil.2.6.11" clearId="n50002006011" usfm="PHP 2:6!11">ἴσα</e>
+               <e id="N1904.Phil.2.6.12"
+                  clearId="n50002006012"
+                  usfm="PHP 2:6!12"
+                  after=",">Θεῷ</e>
+               <e id="N1904.Phil.2.7.1" clearId="n50002007001" usfm="PHP 2:7!1">ἀλλὰ</e>
+               <e id="N1904.Phil.2.7.2" clearId="n50002007002" usfm="PHP 2:7!2">ἑαυτὸν</e>
+               <e id="N1904.Phil.2.7.3" clearId="n50002007003" usfm="PHP 2:7!3">ἐκένωσεν</e>
+               <e id="N1904.Phil.2.7.4" clearId="n50002007004" usfm="PHP 2:7!4">μορφὴν</e>
+               <e id="N1904.Phil.2.7.5" clearId="n50002007005" usfm="PHP 2:7!5">δούλου</e>
+               <e id="N1904.Phil.2.7.6"
+                  clearId="n50002007006"
+                  usfm="PHP 2:7!6"
+                  after=",">λαβών</e>
+               <e id="N1904.Phil.2.7.7" clearId="n50002007007" usfm="PHP 2:7!7">ἐν</e>
+               <e id="N1904.Phil.2.7.8" clearId="n50002007008" usfm="PHP 2:7!8">ὁμοιώματι</e>
+               <e id="N1904.Phil.2.7.9" clearId="n50002007009" usfm="PHP 2:7!9">ἀνθρώπων</e>
+               <e id="N1904.Phil.2.7.10"
+                  clearId="n50002007010"
+                  usfm="PHP 2:7!10"
+                  after="·">γενόμενος</e>
+            </c>
+            <c id="N1904.Phil.2.7.11-8.9" unit="move">
+               <e id="N1904.Phil.2.7.11" clearId="n50002007011" usfm="PHP 2:7!11">καὶ</e>
+               <e id="N1904.Phil.2.7.12" clearId="n50002007012" usfm="PHP 2:7!12">σχήματι</e>
+               <e id="N1904.Phil.2.7.13" clearId="n50002007013" usfm="PHP 2:7!13">εὑρεθεὶς</e>
+               <e id="N1904.Phil.2.7.14" clearId="n50002007014" usfm="PHP 2:7!14">ὡς</e>
+               <e id="N1904.Phil.2.7.15" clearId="n50002007015" usfm="PHP 2:7!15">ἄνθρωπος</e>
+               <e id="N1904.Phil.2.8.1" clearId="n50002008001" usfm="PHP 2:8!1">ἐταπείνωσεν</e>
+               <e id="N1904.Phil.2.8.2" clearId="n50002008002" usfm="PHP 2:8!2">ἑαυτὸν</e>
+               <e id="N1904.Phil.2.8.3" clearId="n50002008003" usfm="PHP 2:8!3">γενόμενος</e>
+               <e id="N1904.Phil.2.8.4" clearId="n50002008004" usfm="PHP 2:8!4">ὑπήκοος</e>
+               <e id="N1904.Phil.2.8.5" clearId="n50002008005" usfm="PHP 2:8!5">μέχρι</e>
+               <e id="N1904.Phil.2.8.6"
+                  clearId="n50002008006"
+                  usfm="PHP 2:8!6"
+                  after=",">θανάτου</e>
+               <e id="N1904.Phil.2.8.7" clearId="n50002008007" usfm="PHP 2:8!7">θανάτου</e>
+               <e id="N1904.Phil.2.8.8" clearId="n50002008008" usfm="PHP 2:8!8">δὲ</e>
+               <e id="N1904.Phil.2.8.9"
+                  clearId="n50002008009"
+                  usfm="PHP 2:8!9"
+                  after=".">σταυροῦ</e>
+            </c>
+            <c id="N1904.Phil.2.9.1-11.12" unit="move">
+               <e id="N1904.Phil.2.9.1" clearId="n50002009001" usfm="PHP 2:9!1">διὸ</e>
+               <e id="N1904.Phil.2.9.2" clearId="n50002009002" usfm="PHP 2:9!2">καὶ</e>
+               <e id="N1904.Phil.2.9.3" clearId="n50002009003" usfm="PHP 2:9!3">ὁ</e>
+               <e id="N1904.Phil.2.9.4" clearId="n50002009004" usfm="PHP 2:9!4">Θεὸς</e>
+               <e id="N1904.Phil.2.9.5" clearId="n50002009005" usfm="PHP 2:9!5">αὐτὸν</e>
+               <e id="N1904.Phil.2.9.6"
+                  clearId="n50002009006"
+                  usfm="PHP 2:9!6"
+                  after=",">ὑπερύψωσεν</e>
+               <e id="N1904.Phil.2.9.7" clearId="n50002009007" usfm="PHP 2:9!7">καὶ</e>
+               <e id="N1904.Phil.2.9.8" clearId="n50002009008" usfm="PHP 2:9!8">ἐχαρίσατο</e>
+               <e id="N1904.Phil.2.9.9" clearId="n50002009009" usfm="PHP 2:9!9">αὐτῷ</e>
+               <e id="N1904.Phil.2.9.10" clearId="n50002009010" usfm="PHP 2:9!10">τὸ</e>
+               <e id="N1904.Phil.2.9.11" clearId="n50002009011" usfm="PHP 2:9!11">ὄνομα</e>
+               <e id="N1904.Phil.2.9.12" clearId="n50002009012" usfm="PHP 2:9!12">τὸ</e>
+               <e id="N1904.Phil.2.9.13" clearId="n50002009013" usfm="PHP 2:9!13">ὑπὲρ</e>
+               <e id="N1904.Phil.2.9.14" clearId="n50002009014" usfm="PHP 2:9!14">πᾶν</e>
+               <e id="N1904.Phil.2.9.15"
+                  clearId="n50002009015"
+                  usfm="PHP 2:9!15"
+                  after=",">ὄνομα</e>
+               <e id="N1904.Phil.2.10.1" clearId="n50002010001" usfm="PHP 2:10!1">ἵνα</e>
+               <e id="N1904.Phil.2.10.2" clearId="n50002010002" usfm="PHP 2:10!2">ἐν</e>
+               <e id="N1904.Phil.2.10.3" clearId="n50002010003" usfm="PHP 2:10!3">τῷ</e>
+               <e id="N1904.Phil.2.10.4" clearId="n50002010004" usfm="PHP 2:10!4">ὀνόματι</e>
+               <e id="N1904.Phil.2.10.5" clearId="n50002010005" usfm="PHP 2:10!5">Ἰησοῦ</e>
+               <e id="N1904.Phil.2.10.6" clearId="n50002010006" usfm="PHP 2:10!6">πᾶν</e>
+               <e id="N1904.Phil.2.10.7" clearId="n50002010007" usfm="PHP 2:10!7">γόνυ</e>
+               <e id="N1904.Phil.2.10.8" clearId="n50002010008" usfm="PHP 2:10!8">κάμψῃ</e>
+               <e id="N1904.Phil.2.10.9" clearId="n50002010009" usfm="PHP 2:10!9">ἐπουρανίων</e>
+               <e id="N1904.Phil.2.10.10" clearId="n50002010010" usfm="PHP 2:10!10">καὶ</e>
+               <e id="N1904.Phil.2.10.11" clearId="n50002010011" usfm="PHP 2:10!11">ἐπιγείων</e>
+               <e id="N1904.Phil.2.10.12" clearId="n50002010012" usfm="PHP 2:10!12">καὶ</e>
+               <e id="N1904.Phil.2.10.13"
+                  clearId="n50002010013"
+                  usfm="PHP 2:10!13"
+                  after=",">καταχθονίων</e>
+               <e id="N1904.Phil.2.11.1" clearId="n50002011001" usfm="PHP 2:11!1">καὶ</e>
+               <e id="N1904.Phil.2.11.2" clearId="n50002011002" usfm="PHP 2:11!2">πᾶσα</e>
+               <e id="N1904.Phil.2.11.3" clearId="n50002011003" usfm="PHP 2:11!3">γλῶσσα</e>
+               <e id="N1904.Phil.2.11.4" clearId="n50002011004" usfm="PHP 2:11!4">ἐξομολογήσηται</e>
+               <e id="N1904.Phil.2.11.5" clearId="n50002011005" usfm="PHP 2:11!5">ὅτι</e>
+               <e id="N1904.Phil.2.11.6" clearId="n50002011006" usfm="PHP 2:11!6">ΚΥΡΙΟΣ</e>
+               <e id="N1904.Phil.2.11.7" clearId="n50002011007" usfm="PHP 2:11!7">ΙΗΣΟΥΣ</e>
+               <e id="N1904.Phil.2.11.8" clearId="n50002011008" usfm="PHP 2:11!8">ΧΡΙΣΤΟΣ</e>
+               <e id="N1904.Phil.2.11.9" clearId="n50002011009" usfm="PHP 2:11!9">εἰς</e>
+               <e id="N1904.Phil.2.11.10" clearId="n50002011010" usfm="PHP 2:11!10">δόξαν</e>
+               <e id="N1904.Phil.2.11.11" clearId="n50002011011" usfm="PHP 2:11!11">Θεοῦ</e>
+               <e id="N1904.Phil.2.11.12"
+                  clearId="n50002011012"
+                  usfm="PHP 2:11!12"
+                  after=".">Πατρός</e>
+            </c>
+         </c>
+         <c unit="seg" title="Work Out Your Salvation with Fear and Trembling">
+            <c id="N1904.Phil.2.12.1-29" unit="move">
+               <e id="N1904.Phil.2.12.1"
+                  clearId="n50002012001"
+                  usfm="PHP 2:12!1"
+                  after=",">Ὥστε</e>
+               <e id="N1904.Phil.2.12.2" clearId="n50002012002" usfm="PHP 2:12!2">ἀγαπητοί</e>
+               <e id="N1904.Phil.2.12.3"
+                  clearId="n50002012003"
+                  usfm="PHP 2:12!3"
+                  after=",">μου</e>
+               <e id="N1904.Phil.2.12.4" clearId="n50002012004" usfm="PHP 2:12!4">καθὼς</e>
+               <e id="N1904.Phil.2.12.5" clearId="n50002012005" usfm="PHP 2:12!5">πάντοτε</e>
+               <e id="N1904.Phil.2.12.6"
+                  clearId="n50002012006"
+                  usfm="PHP 2:12!6"
+                  after=",">ὑπηκούσατε</e>
+               <e id="N1904.Phil.2.12.7" clearId="n50002012007" usfm="PHP 2:12!7">μὴ</e>
+               <e id="N1904.Phil.2.12.8" clearId="n50002012008" usfm="PHP 2:12!8">ὡς</e>
+               <e id="N1904.Phil.2.12.9" clearId="n50002012009" usfm="PHP 2:12!9">ἐν</e>
+               <e id="N1904.Phil.2.12.10" clearId="n50002012010" usfm="PHP 2:12!10">τῇ</e>
+               <e id="N1904.Phil.2.12.11" clearId="n50002012011" usfm="PHP 2:12!11">παρουσίᾳ</e>
+               <e id="N1904.Phil.2.12.12" clearId="n50002012012" usfm="PHP 2:12!12">μου</e>
+               <e id="N1904.Phil.2.12.13" clearId="n50002012013" usfm="PHP 2:12!13">μόνον</e>
+               <e id="N1904.Phil.2.12.14" clearId="n50002012014" usfm="PHP 2:12!14">ἀλλὰ</e>
+               <e id="N1904.Phil.2.12.15" clearId="n50002012015" usfm="PHP 2:12!15">νῦν</e>
+               <e id="N1904.Phil.2.12.16" clearId="n50002012016" usfm="PHP 2:12!16">πολλῷ</e>
+               <e id="N1904.Phil.2.12.17" clearId="n50002012017" usfm="PHP 2:12!17">μᾶλλον</e>
+               <e id="N1904.Phil.2.12.18" clearId="n50002012018" usfm="PHP 2:12!18">ἐν</e>
+               <e id="N1904.Phil.2.12.19" clearId="n50002012019" usfm="PHP 2:12!19">τῇ</e>
+               <e id="N1904.Phil.2.12.20" clearId="n50002012020" usfm="PHP 2:12!20">ἀπουσίᾳ</e>
+               <e id="N1904.Phil.2.12.21"
+                  clearId="n50002012021"
+                  usfm="PHP 2:12!21"
+                  after=",">μου</e>
+               <e id="N1904.Phil.2.12.22" clearId="n50002012022" usfm="PHP 2:12!22">μετὰ</e>
+               <e id="N1904.Phil.2.12.23" clearId="n50002012023" usfm="PHP 2:12!23">φόβου</e>
+               <e id="N1904.Phil.2.12.24" clearId="n50002012024" usfm="PHP 2:12!24">καὶ</e>
+               <e id="N1904.Phil.2.12.25" clearId="n50002012025" usfm="PHP 2:12!25">τρόμου</e>
+               <e id="N1904.Phil.2.12.26" clearId="n50002012026" usfm="PHP 2:12!26">τὴν</e>
+               <e id="N1904.Phil.2.12.27" clearId="n50002012027" usfm="PHP 2:12!27">ἑαυτῶν</e>
+               <e id="N1904.Phil.2.12.28" clearId="n50002012028" usfm="PHP 2:12!28">σωτηρίαν</e>
+               <e id="N1904.Phil.2.12.29"
+                  clearId="n50002012029"
+                  usfm="PHP 2:12!29"
+                  after="·">κατεργάζεσθε</e>
+            </c>
+            <c id="N1904.Phil.2.13.1-16" unit="move">
+               <e id="N1904.Phil.2.13.1" clearId="n50002013001" usfm="PHP 2:13!1">Θεὸς</e>
+               <e id="N1904.Phil.2.13.2" clearId="n50002013002" usfm="PHP 2:13!2">γάρ</e>
+               <e id="N1904.Phil.2.13.3" clearId="n50002013003" usfm="PHP 2:13!3">ἐστιν</e>
+               <e id="N1904.Phil.2.13.4" clearId="n50002013004" usfm="PHP 2:13!4">ὁ</e>
+               <e id="N1904.Phil.2.13.5" clearId="n50002013005" usfm="PHP 2:13!5">ἐνεργῶν</e>
+               <e id="N1904.Phil.2.13.6" clearId="n50002013006" usfm="PHP 2:13!6">ἐν</e>
+               <e id="N1904.Phil.2.13.7" clearId="n50002013007" usfm="PHP 2:13!7">ὑμῖν</e>
+               <e id="N1904.Phil.2.13.8" clearId="n50002013008" usfm="PHP 2:13!8">καὶ</e>
+               <e id="N1904.Phil.2.13.9" clearId="n50002013009" usfm="PHP 2:13!9">τὸ</e>
+               <e id="N1904.Phil.2.13.10" clearId="n50002013010" usfm="PHP 2:13!10">θέλειν</e>
+               <e id="N1904.Phil.2.13.11" clearId="n50002013011" usfm="PHP 2:13!11">καὶ</e>
+               <e id="N1904.Phil.2.13.12" clearId="n50002013012" usfm="PHP 2:13!12">τὸ</e>
+               <e id="N1904.Phil.2.13.13" clearId="n50002013013" usfm="PHP 2:13!13">ἐνεργεῖν</e>
+               <e id="N1904.Phil.2.13.14" clearId="n50002013014" usfm="PHP 2:13!14">ὑπὲρ</e>
+               <e id="N1904.Phil.2.13.15" clearId="n50002013015" usfm="PHP 2:13!15">τῆς</e>
+               <e id="N1904.Phil.2.13.16"
+                  clearId="n50002013016"
+                  usfm="PHP 2:13!16"
+                  after=".">εὐδοκίας</e>
+            </c>
+            <c id="N1904.Phil.2.14.1-16.18" unit="move">
+               <e id="N1904.Phil.2.14.1" clearId="n50002014001" usfm="PHP 2:14!1">πάντα</e>
+               <e id="N1904.Phil.2.14.2" clearId="n50002014002" usfm="PHP 2:14!2">ποιεῖτε</e>
+               <e id="N1904.Phil.2.14.3" clearId="n50002014003" usfm="PHP 2:14!3">χωρὶς</e>
+               <e id="N1904.Phil.2.14.4" clearId="n50002014004" usfm="PHP 2:14!4">γογγυσμῶν</e>
+               <e id="N1904.Phil.2.14.5" clearId="n50002014005" usfm="PHP 2:14!5">καὶ</e>
+               <e id="N1904.Phil.2.14.6"
+                  clearId="n50002014006"
+                  usfm="PHP 2:14!6"
+                  after=",">διαλογισμῶν</e>
+               <e id="N1904.Phil.2.15.1" clearId="n50002015001" usfm="PHP 2:15!1">ἵνα</e>
+               <e id="N1904.Phil.2.15.2" clearId="n50002015002" usfm="PHP 2:15!2">γένησθε</e>
+               <e id="N1904.Phil.2.15.3" clearId="n50002015003" usfm="PHP 2:15!3">ἄμεμπτοι</e>
+               <e id="N1904.Phil.2.15.4" clearId="n50002015004" usfm="PHP 2:15!4">καὶ</e>
+               <e id="N1904.Phil.2.15.5"
+                  clearId="n50002015005"
+                  usfm="PHP 2:15!5"
+                  after=",">ἀκέραιοι</e>
+               <e id="N1904.Phil.2.15.6" clearId="n50002015006" usfm="PHP 2:15!6">τέκνα</e>
+               <e id="N1904.Phil.2.15.7" clearId="n50002015007" usfm="PHP 2:15!7">Θεοῦ</e>
+               <e id="N1904.Phil.2.15.8" clearId="n50002015008" usfm="PHP 2:15!8">ἄμωμα</e>
+               <e id="N1904.Phil.2.15.9" clearId="n50002015009" usfm="PHP 2:15!9">μέσον</e>
+               <e id="N1904.Phil.2.15.10" clearId="n50002015010" usfm="PHP 2:15!10">γενεᾶς</e>
+               <e id="N1904.Phil.2.15.11" clearId="n50002015011" usfm="PHP 2:15!11">σκολιᾶς</e>
+               <e id="N1904.Phil.2.15.12" clearId="n50002015012" usfm="PHP 2:15!12">καὶ</e>
+               <e id="N1904.Phil.2.15.13"
+                  clearId="n50002015013"
+                  usfm="PHP 2:15!13"
+                  after=",">διεστραμμένης</e>
+               <e id="N1904.Phil.2.15.14" clearId="n50002015014" usfm="PHP 2:15!14">ἐν</e>
+               <e id="N1904.Phil.2.15.15" clearId="n50002015015" usfm="PHP 2:15!15">οἷς</e>
+               <e id="N1904.Phil.2.15.16" clearId="n50002015016" usfm="PHP 2:15!16">φαίνεσθε</e>
+               <e id="N1904.Phil.2.15.17" clearId="n50002015017" usfm="PHP 2:15!17">ὡς</e>
+               <e id="N1904.Phil.2.15.18" clearId="n50002015018" usfm="PHP 2:15!18">φωστῆρες</e>
+               <e id="N1904.Phil.2.15.19" clearId="n50002015019" usfm="PHP 2:15!19">ἐν</e>
+               <e id="N1904.Phil.2.15.20"
+                  clearId="n50002015020"
+                  usfm="PHP 2:15!20"
+                  after=",">κόσμῳ</e>
+               <e id="N1904.Phil.2.16.1" clearId="n50002016001" usfm="PHP 2:16!1">λόγον</e>
+               <e id="N1904.Phil.2.16.2" clearId="n50002016002" usfm="PHP 2:16!2">ζωῆς</e>
+               <e id="N1904.Phil.2.16.3"
+                  clearId="n50002016003"
+                  usfm="PHP 2:16!3"
+                  after=",">ἐπέχοντες</e>
+               <e id="N1904.Phil.2.16.4" clearId="n50002016004" usfm="PHP 2:16!4">εἰς</e>
+               <e id="N1904.Phil.2.16.5" clearId="n50002016005" usfm="PHP 2:16!5">καύχημα</e>
+               <e id="N1904.Phil.2.16.6" clearId="n50002016006" usfm="PHP 2:16!6">ἐμοὶ</e>
+               <e id="N1904.Phil.2.16.7" clearId="n50002016007" usfm="PHP 2:16!7">εἰς</e>
+               <e id="N1904.Phil.2.16.8" clearId="n50002016008" usfm="PHP 2:16!8">ἡμέραν</e>
+               <e id="N1904.Phil.2.16.9"
+                  clearId="n50002016009"
+                  usfm="PHP 2:16!9"
+                  after=",">Χριστοῦ</e>
+               <e id="N1904.Phil.2.16.10" clearId="n50002016010" usfm="PHP 2:16!10">ὅτι</e>
+               <e id="N1904.Phil.2.16.11" clearId="n50002016011" usfm="PHP 2:16!11">οὐκ</e>
+               <e id="N1904.Phil.2.16.12" clearId="n50002016012" usfm="PHP 2:16!12">εἰς</e>
+               <e id="N1904.Phil.2.16.13" clearId="n50002016013" usfm="PHP 2:16!13">κενὸν</e>
+               <e id="N1904.Phil.2.16.14" clearId="n50002016014" usfm="PHP 2:16!14">ἔδραμον</e>
+               <e id="N1904.Phil.2.16.15" clearId="n50002016015" usfm="PHP 2:16!15">οὐδὲ</e>
+               <e id="N1904.Phil.2.16.16" clearId="n50002016016" usfm="PHP 2:16!16">εἰς</e>
+               <e id="N1904.Phil.2.16.17" clearId="n50002016017" usfm="PHP 2:16!17">κενὸν</e>
+               <e id="N1904.Phil.2.16.18"
+                  clearId="n50002016018"
+                  usfm="PHP 2:16!18"
+                  after=".">ἐκοπίασα</e>
+            </c>
+            <c id="N1904.Phil.2.17.1-17" unit="move">
+               <e id="N1904.Phil.2.17.1" clearId="n50002017001" usfm="PHP 2:17!1">Ἀλλὰ</e>
+               <e id="N1904.Phil.2.17.2" clearId="n50002017002" usfm="PHP 2:17!2">εἰ</e>
+               <e id="N1904.Phil.2.17.3" clearId="n50002017003" usfm="PHP 2:17!3">καὶ</e>
+               <e id="N1904.Phil.2.17.4" clearId="n50002017004" usfm="PHP 2:17!4">σπένδομαι</e>
+               <e id="N1904.Phil.2.17.5" clearId="n50002017005" usfm="PHP 2:17!5">ἐπὶ</e>
+               <e id="N1904.Phil.2.17.6" clearId="n50002017006" usfm="PHP 2:17!6">τῇ</e>
+               <e id="N1904.Phil.2.17.7" clearId="n50002017007" usfm="PHP 2:17!7">θυσίᾳ</e>
+               <e id="N1904.Phil.2.17.8" clearId="n50002017008" usfm="PHP 2:17!8">καὶ</e>
+               <e id="N1904.Phil.2.17.9" clearId="n50002017009" usfm="PHP 2:17!9">λειτουργίᾳ</e>
+               <e id="N1904.Phil.2.17.10" clearId="n50002017010" usfm="PHP 2:17!10">τῆς</e>
+               <e id="N1904.Phil.2.17.11" clearId="n50002017011" usfm="PHP 2:17!11">πίστεως</e>
+               <e id="N1904.Phil.2.17.12"
+                  clearId="n50002017012"
+                  usfm="PHP 2:17!12"
+                  after=",">ὑμῶν</e>
+               <e id="N1904.Phil.2.17.13" clearId="n50002017013" usfm="PHP 2:17!13">χαίρω</e>
+               <e id="N1904.Phil.2.17.14" clearId="n50002017014" usfm="PHP 2:17!14">καὶ</e>
+               <e id="N1904.Phil.2.17.15" clearId="n50002017015" usfm="PHP 2:17!15">συνχαίρω</e>
+               <e id="N1904.Phil.2.17.16" clearId="n50002017016" usfm="PHP 2:17!16">πᾶσιν</e>
+               <e id="N1904.Phil.2.17.17"
+                  clearId="n50002017017"
+                  usfm="PHP 2:17!17"
+                  after="·">ὑμῖν</e>
+            </c>
+            <c id="N1904.Phil.2.18.1-6" unit="move">
+               <e id="N1904.Phil.2.18.1" clearId="n50002018001" usfm="PHP 2:18!1">τὸ</e>
+               <e id="N1904.Phil.2.18.2" clearId="n50002018002" usfm="PHP 2:18!2">δὲ</e>
+               <e id="N1904.Phil.2.18.3" clearId="n50002018003" usfm="PHP 2:18!3">αὐτὸ</e>
+               <e id="N1904.Phil.2.18.4" clearId="n50002018004" usfm="PHP 2:18!4">καὶ</e>
+               <e id="N1904.Phil.2.18.5" clearId="n50002018005" usfm="PHP 2:18!5">ὑμεῖς</e>
+               <e id="N1904.Phil.2.18.6" clearId="n50002018006" usfm="PHP 2:18!6">χαίρετε</e>
+            </c>
+            <c id="N1904.Phil.2.18.7-9" unit="move">
+               <e id="N1904.Phil.2.18.7" clearId="n50002018007" usfm="PHP 2:18!7">καὶ</e>
+               <e id="N1904.Phil.2.18.8" clearId="n50002018008" usfm="PHP 2:18!8">συνχαίρετέ</e>
+               <e id="N1904.Phil.2.18.9"
+                  clearId="n50002018009"
+                  usfm="PHP 2:18!9"
+                  after=".">μοι</e>
+            </c>
+         </c>
+         <c unit="seg" title="Recommendation of Timothy and Epaphroditus">
+            <c id="N1904.Phil.2.19.1-16" unit="move">
+               <e id="N1904.Phil.2.19.1" clearId="n50002019001" usfm="PHP 2:19!1">Ἐλπίζω</e>
+               <e id="N1904.Phil.2.19.2" clearId="n50002019002" usfm="PHP 2:19!2">δὲ</e>
+               <e id="N1904.Phil.2.19.3" clearId="n50002019003" usfm="PHP 2:19!3">ἐν</e>
+               <e id="N1904.Phil.2.19.4" clearId="n50002019004" usfm="PHP 2:19!4">Κυρίῳ</e>
+               <e id="N1904.Phil.2.19.5" clearId="n50002019005" usfm="PHP 2:19!5">Ἰησοῦ</e>
+               <e id="N1904.Phil.2.19.6" clearId="n50002019006" usfm="PHP 2:19!6">Τιμόθεον</e>
+               <e id="N1904.Phil.2.19.7" clearId="n50002019007" usfm="PHP 2:19!7">ταχέως</e>
+               <e id="N1904.Phil.2.19.8" clearId="n50002019008" usfm="PHP 2:19!8">πέμψαι</e>
+               <e id="N1904.Phil.2.19.9"
+                  clearId="n50002019009"
+                  usfm="PHP 2:19!9"
+                  after=",">ὑμῖν</e>
+               <e id="N1904.Phil.2.19.10" clearId="n50002019010" usfm="PHP 2:19!10">ἵνα</e>
+               <e id="N1904.Phil.2.19.11" clearId="n50002019011" usfm="PHP 2:19!11">κἀγὼ</e>
+               <e id="N1904.Phil.2.19.12" clearId="n50002019012" usfm="PHP 2:19!12">εὐψυχῶ</e>
+               <e id="N1904.Phil.2.19.13" clearId="n50002019013" usfm="PHP 2:19!13">γνοὺς</e>
+               <e id="N1904.Phil.2.19.14" clearId="n50002019014" usfm="PHP 2:19!14">τὰ</e>
+               <e id="N1904.Phil.2.19.15" clearId="n50002019015" usfm="PHP 2:19!15">περὶ</e>
+               <e id="N1904.Phil.2.19.16"
+                  clearId="n50002019016"
+                  usfm="PHP 2:19!16"
+                  after=".">ὑμῶν</e>
+            </c>
+            <c id="N1904.Phil.2.20.1-10" unit="move">
+               <e id="N1904.Phil.2.20.1" clearId="n50002020001" usfm="PHP 2:20!1">οὐδένα</e>
+               <e id="N1904.Phil.2.20.2" clearId="n50002020002" usfm="PHP 2:20!2">γὰρ</e>
+               <e id="N1904.Phil.2.20.3" clearId="n50002020003" usfm="PHP 2:20!3">ἔχω</e>
+               <e id="N1904.Phil.2.20.4"
+                  clearId="n50002020004"
+                  usfm="PHP 2:20!4"
+                  after=",">ἰσόψυχον</e>
+               <e id="N1904.Phil.2.20.5" clearId="n50002020005" usfm="PHP 2:20!5">ὅστις</e>
+               <e id="N1904.Phil.2.20.6" clearId="n50002020006" usfm="PHP 2:20!6">γνησίως</e>
+               <e id="N1904.Phil.2.20.7" clearId="n50002020007" usfm="PHP 2:20!7">τὰ</e>
+               <e id="N1904.Phil.2.20.8" clearId="n50002020008" usfm="PHP 2:20!8">περὶ</e>
+               <e id="N1904.Phil.2.20.9" clearId="n50002020009" usfm="PHP 2:20!9">ὑμῶν</e>
+               <e id="N1904.Phil.2.20.10"
+                  clearId="n50002020010"
+                  usfm="PHP 2:20!10"
+                  after="·">μεριμνήσει</e>
+            </c>
+            <c id="N1904.Phil.2.21.1-6" unit="move">
+               <e id="N1904.Phil.2.21.1" clearId="n50002021001" usfm="PHP 2:21!1">οἱ</e>
+               <e id="N1904.Phil.2.21.2" clearId="n50002021002" usfm="PHP 2:21!2">πάντες</e>
+               <e id="N1904.Phil.2.21.3" clearId="n50002021003" usfm="PHP 2:21!3">γὰρ</e>
+               <e id="N1904.Phil.2.21.4" clearId="n50002021004" usfm="PHP 2:21!4">τὰ</e>
+               <e id="N1904.Phil.2.21.5" clearId="n50002021005" usfm="PHP 2:21!5">ἑαυτῶν</e>
+               <e id="N1904.Phil.2.21.6"
+                  clearId="n50002021006"
+                  usfm="PHP 2:21!6"
+                  after=",">ζητοῦσιν</e>
+            </c>
+            <c id="N1904.Phil.2.21.7-10" unit="move">
+               <e id="N1904.Phil.2.21.7" clearId="n50002021007" usfm="PHP 2:21!7">οὐ</e>
+               <e id="N1904.Phil.2.21.8" clearId="n50002021008" usfm="PHP 2:21!8">τὰ</e>
+               <e id="N1904.Phil.2.21.9" clearId="n50002021009" usfm="PHP 2:21!9">Χριστοῦ</e>
+               <e id="N1904.Phil.2.21.10"
+                  clearId="n50002021010"
+                  usfm="PHP 2:21!10"
+                  after=".">Ἰησοῦ</e>
+            </c>
+            <c id="N1904.Phil.2.22.1-15" unit="move">
+               <e id="N1904.Phil.2.22.1" clearId="n50002022001" usfm="PHP 2:22!1">τὴν</e>
+               <e id="N1904.Phil.2.22.2" clearId="n50002022002" usfm="PHP 2:22!2">δὲ</e>
+               <e id="N1904.Phil.2.22.3" clearId="n50002022003" usfm="PHP 2:22!3">δοκιμὴν</e>
+               <e id="N1904.Phil.2.22.4" clearId="n50002022004" usfm="PHP 2:22!4">αὐτοῦ</e>
+               <e id="N1904.Phil.2.22.5"
+                  clearId="n50002022005"
+                  usfm="PHP 2:22!5"
+                  after=",">γινώσκετε</e>
+               <e id="N1904.Phil.2.22.6" clearId="n50002022006" usfm="PHP 2:22!6">ὅτι</e>
+               <e id="N1904.Phil.2.22.7" clearId="n50002022007" usfm="PHP 2:22!7">ὡς</e>
+               <e id="N1904.Phil.2.22.8" clearId="n50002022008" usfm="PHP 2:22!8">πατρὶ</e>
+               <e id="N1904.Phil.2.22.9" clearId="n50002022009" usfm="PHP 2:22!9">τέκνον</e>
+               <e id="N1904.Phil.2.22.10" clearId="n50002022010" usfm="PHP 2:22!10">σὺν</e>
+               <e id="N1904.Phil.2.22.11" clearId="n50002022011" usfm="PHP 2:22!11">ἐμοὶ</e>
+               <e id="N1904.Phil.2.22.12" clearId="n50002022012" usfm="PHP 2:22!12">ἐδούλευσεν</e>
+               <e id="N1904.Phil.2.22.13" clearId="n50002022013" usfm="PHP 2:22!13">εἰς</e>
+               <e id="N1904.Phil.2.22.14" clearId="n50002022014" usfm="PHP 2:22!14">τὸ</e>
+               <e id="N1904.Phil.2.22.15"
+                  clearId="n50002022015"
+                  usfm="PHP 2:22!15"
+                  after=".">εὐαγγέλιον</e>
+            </c>
+            <c id="N1904.Phil.2.23.1-12" unit="move">
+               <e id="N1904.Phil.2.23.1" clearId="n50002023001" usfm="PHP 2:23!1">Τοῦτον</e>
+               <e id="N1904.Phil.2.23.2" clearId="n50002023002" usfm="PHP 2:23!2">μὲν</e>
+               <e id="N1904.Phil.2.23.3" clearId="n50002023003" usfm="PHP 2:23!3">οὖν</e>
+               <e id="N1904.Phil.2.23.4" clearId="n50002023004" usfm="PHP 2:23!4">ἐλπίζω</e>
+               <e id="N1904.Phil.2.23.5" clearId="n50002023005" usfm="PHP 2:23!5">πέμψαι</e>
+               <e id="N1904.Phil.2.23.6" clearId="n50002023006" usfm="PHP 2:23!6">ὡς</e>
+               <e id="N1904.Phil.2.23.7" clearId="n50002023007" usfm="PHP 2:23!7">ἂν</e>
+               <e id="N1904.Phil.2.23.8" clearId="n50002023008" usfm="PHP 2:23!8">ἀφίδω</e>
+               <e id="N1904.Phil.2.23.9" clearId="n50002023009" usfm="PHP 2:23!9">τὰ</e>
+               <e id="N1904.Phil.2.23.10" clearId="n50002023010" usfm="PHP 2:23!10">περὶ</e>
+               <e id="N1904.Phil.2.23.11" clearId="n50002023011" usfm="PHP 2:23!11">ἐμὲ</e>
+               <e id="N1904.Phil.2.23.12"
+                  clearId="n50002023012"
+                  usfm="PHP 2:23!12"
+                  after="·">ἐξαυτῆς</e>
+            </c>
+            <c id="N1904.Phil.2.24.1-9" unit="move">
+               <e id="N1904.Phil.2.24.1" clearId="n50002024001" usfm="PHP 2:24!1">πέποιθα</e>
+               <e id="N1904.Phil.2.24.2" clearId="n50002024002" usfm="PHP 2:24!2">δὲ</e>
+               <e id="N1904.Phil.2.24.3" clearId="n50002024003" usfm="PHP 2:24!3">ἐν</e>
+               <e id="N1904.Phil.2.24.4" clearId="n50002024004" usfm="PHP 2:24!4">Κυρίῳ</e>
+               <e id="N1904.Phil.2.24.5" clearId="n50002024005" usfm="PHP 2:24!5">ὅτι</e>
+               <e id="N1904.Phil.2.24.6" clearId="n50002024006" usfm="PHP 2:24!6">καὶ</e>
+               <e id="N1904.Phil.2.24.7" clearId="n50002024007" usfm="PHP 2:24!7">αὐτὸς</e>
+               <e id="N1904.Phil.2.24.8" clearId="n50002024008" usfm="PHP 2:24!8">ταχέως</e>
+               <e id="N1904.Phil.2.24.9"
+                  clearId="n50002024009"
+                  usfm="PHP 2:24!9"
+                  after=".">ἐλεύσομαι</e>
+            </c>
+            <c id="N1904.Phil.2.25.1-26.11" unit="move">
+               <e id="N1904.Phil.2.25.1" clearId="n50002025001" usfm="PHP 2:25!1">ἀναγκαῖον</e>
+               <e id="N1904.Phil.2.25.2" clearId="n50002025002" usfm="PHP 2:25!2">δὲ</e>
+               <e id="N1904.Phil.2.25.3" clearId="n50002025003" usfm="PHP 2:25!3">ἡγησάμην</e>
+               <e id="N1904.Phil.2.25.4" clearId="n50002025004" usfm="PHP 2:25!4">Ἐπαφρόδιτον</e>
+               <e id="N1904.Phil.2.25.5" clearId="n50002025005" usfm="PHP 2:25!5">τὸν</e>
+               <e id="N1904.Phil.2.25.6" clearId="n50002025006" usfm="PHP 2:25!6">ἀδελφὸν</e>
+               <e id="N1904.Phil.2.25.7" clearId="n50002025007" usfm="PHP 2:25!7">καὶ</e>
+               <e id="N1904.Phil.2.25.8" clearId="n50002025008" usfm="PHP 2:25!8">συνεργὸν</e>
+               <e id="N1904.Phil.2.25.9" clearId="n50002025009" usfm="PHP 2:25!9">καὶ</e>
+               <e id="N1904.Phil.2.25.10" clearId="n50002025010" usfm="PHP 2:25!10">συνστρατιώτην</e>
+               <e id="N1904.Phil.2.25.11"
+                  clearId="n50002025011"
+                  usfm="PHP 2:25!11"
+                  after=",">μου</e>
+               <e id="N1904.Phil.2.25.12" clearId="n50002025012" usfm="PHP 2:25!12">ὑμῶν</e>
+               <e id="N1904.Phil.2.25.13" clearId="n50002025013" usfm="PHP 2:25!13">δὲ</e>
+               <e id="N1904.Phil.2.25.14" clearId="n50002025014" usfm="PHP 2:25!14">ἀπόστολον</e>
+               <e id="N1904.Phil.2.25.15" clearId="n50002025015" usfm="PHP 2:25!15">καὶ</e>
+               <e id="N1904.Phil.2.25.16" clearId="n50002025016" usfm="PHP 2:25!16">λειτουργὸν</e>
+               <e id="N1904.Phil.2.25.17" clearId="n50002025017" usfm="PHP 2:25!17">τῆς</e>
+               <e id="N1904.Phil.2.25.18" clearId="n50002025018" usfm="PHP 2:25!18">χρείας</e>
+               <e id="N1904.Phil.2.25.19"
+                  clearId="n50002025019"
+                  usfm="PHP 2:25!19"
+                  after=",">μου</e>
+               <e id="N1904.Phil.2.25.20" clearId="n50002025020" usfm="PHP 2:25!20">πέμψαι</e>
+               <e id="N1904.Phil.2.25.21" clearId="n50002025021" usfm="PHP 2:25!21">πρὸς</e>
+               <e id="N1904.Phil.2.25.22"
+                  clearId="n50002025022"
+                  usfm="PHP 2:25!22"
+                  after=",">ὑμᾶς</e>
+               <e id="N1904.Phil.2.26.1" clearId="n50002026001" usfm="PHP 2:26!1">ἐπειδὴ</e>
+               <e id="N1904.Phil.2.26.2" clearId="n50002026002" usfm="PHP 2:26!2">ἐπιποθῶν</e>
+               <e id="N1904.Phil.2.26.3" clearId="n50002026003" usfm="PHP 2:26!3">ἦν</e>
+               <e id="N1904.Phil.2.26.4" clearId="n50002026004" usfm="PHP 2:26!4">πάντας</e>
+               <e id="N1904.Phil.2.26.5"
+                  clearId="n50002026005"
+                  usfm="PHP 2:26!5"
+                  after=",">ὑμᾶς</e>
+               <e id="N1904.Phil.2.26.6" clearId="n50002026006" usfm="PHP 2:26!6">καὶ</e>
+               <e id="N1904.Phil.2.26.7"
+                  clearId="n50002026007"
+                  usfm="PHP 2:26!7"
+                  after=",">ἀδημονῶν</e>
+               <e id="N1904.Phil.2.26.8" clearId="n50002026008" usfm="PHP 2:26!8">διότι</e>
+               <e id="N1904.Phil.2.26.9" clearId="n50002026009" usfm="PHP 2:26!9">ἠκούσατε</e>
+               <e id="N1904.Phil.2.26.10" clearId="n50002026010" usfm="PHP 2:26!10">ὅτι</e>
+               <e id="N1904.Phil.2.26.11"
+                  clearId="n50002026011"
+                  usfm="PHP 2:26!11"
+                  after=".">ἠσθένησεν</e>
+            </c>
+            <c id="N1904.Phil.2.27.1-5" unit="move">
+               <e id="N1904.Phil.2.27.1" clearId="n50002027001" usfm="PHP 2:27!1">καὶ</e>
+               <e id="N1904.Phil.2.27.2" clearId="n50002027002" usfm="PHP 2:27!2">γὰρ</e>
+               <e id="N1904.Phil.2.27.3" clearId="n50002027003" usfm="PHP 2:27!3">ἠσθένησεν</e>
+               <e id="N1904.Phil.2.27.4" clearId="n50002027004" usfm="PHP 2:27!4">παραπλήσιον</e>
+               <e id="N1904.Phil.2.27.5"
+                  clearId="n50002027005"
+                  usfm="PHP 2:27!5"
+                  after="·">θανάτῳ</e>
+            </c>
+            <c id="N1904.Phil.2.27.6-23" unit="move">
+               <e id="N1904.Phil.2.27.6" clearId="n50002027006" usfm="PHP 2:27!6">ἀλλὰ</e>
+               <e id="N1904.Phil.2.27.7" clearId="n50002027007" usfm="PHP 2:27!7">ὁ</e>
+               <e id="N1904.Phil.2.27.8" clearId="n50002027008" usfm="PHP 2:27!8">Θεὸς</e>
+               <e id="N1904.Phil.2.27.9" clearId="n50002027009" usfm="PHP 2:27!9">ἠλέησεν</e>
+               <e id="N1904.Phil.2.27.10"
+                  clearId="n50002027010"
+                  usfm="PHP 2:27!10"
+                  after=",">αὐτόν</e>
+               <e id="N1904.Phil.2.27.11" clearId="n50002027011" usfm="PHP 2:27!11">οὐκ</e>
+               <e id="N1904.Phil.2.27.12" clearId="n50002027012" usfm="PHP 2:27!12">αὐτὸν</e>
+               <e id="N1904.Phil.2.27.13" clearId="n50002027013" usfm="PHP 2:27!13">δὲ</e>
+               <e id="N1904.Phil.2.27.14" clearId="n50002027014" usfm="PHP 2:27!14">μόνον</e>
+               <e id="N1904.Phil.2.27.15" clearId="n50002027015" usfm="PHP 2:27!15">ἀλλὰ</e>
+               <e id="N1904.Phil.2.27.16" clearId="n50002027016" usfm="PHP 2:27!16">καὶ</e>
+               <e id="N1904.Phil.2.27.17"
+                  clearId="n50002027017"
+                  usfm="PHP 2:27!17"
+                  after=",">ἐμέ</e>
+               <e id="N1904.Phil.2.27.18" clearId="n50002027018" usfm="PHP 2:27!18">ἵνα</e>
+               <e id="N1904.Phil.2.27.19" clearId="n50002027019" usfm="PHP 2:27!19">μὴ</e>
+               <e id="N1904.Phil.2.27.20" clearId="n50002027020" usfm="PHP 2:27!20">λύπην</e>
+               <e id="N1904.Phil.2.27.21" clearId="n50002027021" usfm="PHP 2:27!21">ἐπὶ</e>
+               <e id="N1904.Phil.2.27.22" clearId="n50002027022" usfm="PHP 2:27!22">λύπην</e>
+               <e id="N1904.Phil.2.27.23"
+                  clearId="n50002027023"
+                  usfm="PHP 2:27!23"
+                  after=".">σχῶ</e>
+            </c>
+            <c id="N1904.Phil.2.28.1-12" unit="move">
+               <e id="N1904.Phil.2.28.1" clearId="n50002028001" usfm="PHP 2:28!1">σπουδαιοτέρως</e>
+               <e id="N1904.Phil.2.28.2" clearId="n50002028002" usfm="PHP 2:28!2">οὖν</e>
+               <e id="N1904.Phil.2.28.3" clearId="n50002028003" usfm="PHP 2:28!3">ἔπεμψα</e>
+               <e id="N1904.Phil.2.28.4"
+                  clearId="n50002028004"
+                  usfm="PHP 2:28!4"
+                  after=",">αὐτὸν</e>
+               <e id="N1904.Phil.2.28.5" clearId="n50002028005" usfm="PHP 2:28!5">ἵνα</e>
+               <e id="N1904.Phil.2.28.6" clearId="n50002028006" usfm="PHP 2:28!6">ἰδόντες</e>
+               <e id="N1904.Phil.2.28.7" clearId="n50002028007" usfm="PHP 2:28!7">αὐτὸν</e>
+               <e id="N1904.Phil.2.28.8" clearId="n50002028008" usfm="PHP 2:28!8">πάλιν</e>
+               <e id="N1904.Phil.2.28.9" clearId="n50002028009" usfm="PHP 2:28!9">χαρῆτε</e>
+               <e id="N1904.Phil.2.28.10" clearId="n50002028010" usfm="PHP 2:28!10">κἀγὼ</e>
+               <e id="N1904.Phil.2.28.11" clearId="n50002028011" usfm="PHP 2:28!11">ἀλυπότερος</e>
+               <e id="N1904.Phil.2.28.12"
+                  clearId="n50002028012"
+                  usfm="PHP 2:28!12"
+                  after=".">ὦ</e>
+            </c>
+            <c id="N1904.Phil.2.29.1-30.20" unit="move">
+               <e id="N1904.Phil.2.29.1" clearId="n50002029001" usfm="PHP 2:29!1">προσδέχεσθε</e>
+               <e id="N1904.Phil.2.29.2" clearId="n50002029002" usfm="PHP 2:29!2">οὖν</e>
+               <e id="N1904.Phil.2.29.3" clearId="n50002029003" usfm="PHP 2:29!3">αὐτὸν</e>
+               <e id="N1904.Phil.2.29.4" clearId="n50002029004" usfm="PHP 2:29!4">ἐν</e>
+               <e id="N1904.Phil.2.29.5" clearId="n50002029005" usfm="PHP 2:29!5">Κυρίῳ</e>
+               <e id="N1904.Phil.2.29.6" clearId="n50002029006" usfm="PHP 2:29!6">μετὰ</e>
+               <e id="N1904.Phil.2.29.7" clearId="n50002029007" usfm="PHP 2:29!7">πάσης</e>
+               <e id="N1904.Phil.2.29.8"
+                  clearId="n50002029008"
+                  usfm="PHP 2:29!8"
+                  after=",">χαρᾶς</e>
+               <e id="N1904.Phil.2.29.9" clearId="n50002029009" usfm="PHP 2:29!9">καὶ</e>
+               <e id="N1904.Phil.2.29.10" clearId="n50002029010" usfm="PHP 2:29!10">τοὺς</e>
+               <e id="N1904.Phil.2.29.11" clearId="n50002029011" usfm="PHP 2:29!11">τοιούτους</e>
+               <e id="N1904.Phil.2.29.12" clearId="n50002029012" usfm="PHP 2:29!12">ἐντίμους</e>
+               <e id="N1904.Phil.2.29.13"
+                  clearId="n50002029013"
+                  usfm="PHP 2:29!13"
+                  after=",">ἔχετε</e>
+               <e id="N1904.Phil.2.30.1" clearId="n50002030001" usfm="PHP 2:30!1">ὅτι</e>
+               <e id="N1904.Phil.2.30.2" clearId="n50002030002" usfm="PHP 2:30!2">διὰ</e>
+               <e id="N1904.Phil.2.30.3" clearId="n50002030003" usfm="PHP 2:30!3">τὸ</e>
+               <e id="N1904.Phil.2.30.4" clearId="n50002030004" usfm="PHP 2:30!4">ἔργον</e>
+               <e id="N1904.Phil.2.30.5" clearId="n50002030005" usfm="PHP 2:30!5">Χριστοῦ</e>
+               <e id="N1904.Phil.2.30.6" clearId="n50002030006" usfm="PHP 2:30!6">μέχρι</e>
+               <e id="N1904.Phil.2.30.7" clearId="n50002030007" usfm="PHP 2:30!7">θανάτου</e>
+               <e id="N1904.Phil.2.30.8" clearId="n50002030008" usfm="PHP 2:30!8">ἤγγισεν</e>
+               <e id="N1904.Phil.2.30.9" clearId="n50002030009" usfm="PHP 2:30!9">παραβολευσάμενος</e>
+               <e id="N1904.Phil.2.30.10" clearId="n50002030010" usfm="PHP 2:30!10">τῇ</e>
+               <e id="N1904.Phil.2.30.11"
+                  clearId="n50002030011"
+                  usfm="PHP 2:30!11"
+                  after=",">ψυχῇ</e>
+               <e id="N1904.Phil.2.30.12" clearId="n50002030012" usfm="PHP 2:30!12">ἵνα</e>
+               <e id="N1904.Phil.2.30.13" clearId="n50002030013" usfm="PHP 2:30!13">ἀναπληρώσῃ</e>
+               <e id="N1904.Phil.2.30.14" clearId="n50002030014" usfm="PHP 2:30!14">τὸ</e>
+               <e id="N1904.Phil.2.30.15" clearId="n50002030015" usfm="PHP 2:30!15">ὑμῶν</e>
+               <e id="N1904.Phil.2.30.16" clearId="n50002030016" usfm="PHP 2:30!16">ὑστέρημα</e>
+               <e id="N1904.Phil.2.30.17" clearId="n50002030017" usfm="PHP 2:30!17">τῆς</e>
+               <e id="N1904.Phil.2.30.18" clearId="n50002030018" usfm="PHP 2:30!18">πρός</e>
+               <e id="N1904.Phil.2.30.19" clearId="n50002030019" usfm="PHP 2:30!19">με</e>
+               <e id="N1904.Phil.2.30.20"
+                  clearId="n50002030020"
+                  usfm="PHP 2:30!20"
+                  after=".">λειτουργίας</e>
+            </c>
+         </c>
+         <c unit="seg" title="The Dangers of Judaistic Teaching">
+            <c id="N1904.Phil.3.1.1-7" unit="move">
+               <e id="N1904.Phil.3.1.1" clearId="n50003001001" usfm="PHP 3:1!1">Τὸ</e>
+               <e id="N1904.Phil.3.1.2"
+                  clearId="n50003001002"
+                  usfm="PHP 3:1!2"
+                  after=",">λοιπόν</e>
+               <e id="N1904.Phil.3.1.3" clearId="n50003001003" usfm="PHP 3:1!3">ἀδελφοί</e>
+               <e id="N1904.Phil.3.1.4"
+                  clearId="n50003001004"
+                  usfm="PHP 3:1!4"
+                  after=",">μου</e>
+               <e id="N1904.Phil.3.1.5" clearId="n50003001005" usfm="PHP 3:1!5">χαίρετε</e>
+               <e id="N1904.Phil.3.1.6" clearId="n50003001006" usfm="PHP 3:1!6">ἐν</e>
+               <e id="N1904.Phil.3.1.7"
+                  clearId="n50003001007"
+                  usfm="PHP 3:1!7"
+                  after=".">Κυρίῳ</e>
+            </c>
+            <c id="N1904.Phil.3.1.8-18" unit="move">
+               <e id="N1904.Phil.3.1.8" clearId="n50003001008" usfm="PHP 3:1!8">τὰ</e>
+               <e id="N1904.Phil.3.1.9" clearId="n50003001009" usfm="PHP 3:1!9">αὐτὰ</e>
+               <e id="N1904.Phil.3.1.10" clearId="n50003001010" usfm="PHP 3:1!10">γράφειν</e>
+               <e id="N1904.Phil.3.1.11" clearId="n50003001011" usfm="PHP 3:1!11">ὑμῖν</e>
+               <e id="N1904.Phil.3.1.12" clearId="n50003001012" usfm="PHP 3:1!12">ἐμοὶ</e>
+               <e id="N1904.Phil.3.1.13" clearId="n50003001013" usfm="PHP 3:1!13">μὲν</e>
+               <e id="N1904.Phil.3.1.14" clearId="n50003001014" usfm="PHP 3:1!14">οὐκ</e>
+               <e id="N1904.Phil.3.1.15"
+                  clearId="n50003001015"
+                  usfm="PHP 3:1!15"
+                  after=",">ὀκνηρόν</e>
+               <e id="N1904.Phil.3.1.16" clearId="n50003001016" usfm="PHP 3:1!16">ὑμῖν</e>
+               <e id="N1904.Phil.3.1.17" clearId="n50003001017" usfm="PHP 3:1!17">δὲ</e>
+               <e id="N1904.Phil.3.1.18"
+                  clearId="n50003001018"
+                  usfm="PHP 3:1!18"
+                  after=".">ἀσφαλές</e>
+            </c>
+            <c id="N1904.Phil.3.2.1-10" unit="move">
+               <e id="N1904.Phil.3.2.1" clearId="n50003002001" usfm="PHP 3:2!1">Βλέπετε</e>
+               <e id="N1904.Phil.3.2.2" clearId="n50003002002" usfm="PHP 3:2!2">τοὺς</e>
+               <e id="N1904.Phil.3.2.3"
+                  clearId="n50003002003"
+                  usfm="PHP 3:2!3"
+                  after=",">κύνας</e>
+               <e id="N1904.Phil.3.2.4" clearId="n50003002004" usfm="PHP 3:2!4">βλέπετε</e>
+               <e id="N1904.Phil.3.2.5" clearId="n50003002005" usfm="PHP 3:2!5">τοὺς</e>
+               <e id="N1904.Phil.3.2.6" clearId="n50003002006" usfm="PHP 3:2!6">κακοὺς</e>
+               <e id="N1904.Phil.3.2.7"
+                  clearId="n50003002007"
+                  usfm="PHP 3:2!7"
+                  after=",">ἐργάτας</e>
+               <e id="N1904.Phil.3.2.8" clearId="n50003002008" usfm="PHP 3:2!8">βλέπετε</e>
+               <e id="N1904.Phil.3.2.9" clearId="n50003002009" usfm="PHP 3:2!9">τὴν</e>
+               <e id="N1904.Phil.3.2.10"
+                  clearId="n50003002010"
+                  usfm="PHP 3:2!10"
+                  after=".">κατατομήν</e>
+            </c>
+            <c id="N1904.Phil.3.3.1-4.7" unit="move">
+               <e id="N1904.Phil.3.3.1" clearId="n50003003001" usfm="PHP 3:3!1">ἡμεῖς</e>
+               <e id="N1904.Phil.3.3.2" clearId="n50003003002" usfm="PHP 3:3!2">γάρ</e>
+               <e id="N1904.Phil.3.3.3" clearId="n50003003003" usfm="PHP 3:3!3">ἐσμεν</e>
+               <e id="N1904.Phil.3.3.4" clearId="n50003003004" usfm="PHP 3:3!4">ἡ</e>
+               <e id="N1904.Phil.3.3.5"
+                  clearId="n50003003005"
+                  usfm="PHP 3:3!5"
+                  after=",">περιτομή</e>
+               <e id="N1904.Phil.3.3.6" clearId="n50003003006" usfm="PHP 3:3!6">οἱ</e>
+               <e id="N1904.Phil.3.3.7" clearId="n50003003007" usfm="PHP 3:3!7">Πνεύματι</e>
+               <e id="N1904.Phil.3.3.8" clearId="n50003003008" usfm="PHP 3:3!8">Θεοῦ</e>
+               <e id="N1904.Phil.3.3.9" clearId="n50003003009" usfm="PHP 3:3!9">λατρεύοντες</e>
+               <e id="N1904.Phil.3.3.10" clearId="n50003003010" usfm="PHP 3:3!10">καὶ</e>
+               <e id="N1904.Phil.3.3.11" clearId="n50003003011" usfm="PHP 3:3!11">καυχώμενοι</e>
+               <e id="N1904.Phil.3.3.12" clearId="n50003003012" usfm="PHP 3:3!12">ἐν</e>
+               <e id="N1904.Phil.3.3.13" clearId="n50003003013" usfm="PHP 3:3!13">Χριστῷ</e>
+               <e id="N1904.Phil.3.3.14" clearId="n50003003014" usfm="PHP 3:3!14">Ἰησοῦ</e>
+               <e id="N1904.Phil.3.3.15" clearId="n50003003015" usfm="PHP 3:3!15">καὶ</e>
+               <e id="N1904.Phil.3.3.16" clearId="n50003003016" usfm="PHP 3:3!16">οὐκ</e>
+               <e id="N1904.Phil.3.3.17" clearId="n50003003017" usfm="PHP 3:3!17">ἐν</e>
+               <e id="N1904.Phil.3.3.18" clearId="n50003003018" usfm="PHP 3:3!18">σαρκὶ</e>
+               <e id="N1904.Phil.3.3.19"
+                  clearId="n50003003019"
+                  usfm="PHP 3:3!19"
+                  after=",">πεποιθότες</e>
+               <e id="N1904.Phil.3.4.1" clearId="n50003004001" usfm="PHP 3:4!1">καίπερ</e>
+               <e id="N1904.Phil.3.4.2" clearId="n50003004002" usfm="PHP 3:4!2">ἐγὼ</e>
+               <e id="N1904.Phil.3.4.3" clearId="n50003004003" usfm="PHP 3:4!3">ἔχων</e>
+               <e id="N1904.Phil.3.4.4" clearId="n50003004004" usfm="PHP 3:4!4">πεποίθησιν</e>
+               <e id="N1904.Phil.3.4.5" clearId="n50003004005" usfm="PHP 3:4!5">καὶ</e>
+               <e id="N1904.Phil.3.4.6" clearId="n50003004006" usfm="PHP 3:4!6">ἐν</e>
+               <e id="N1904.Phil.3.4.7"
+                  clearId="n50003004007"
+                  usfm="PHP 3:4!7"
+                  after=".">σαρκί</e>
+            </c>
+            <c id="N1904.Phil.3.4.8-16" unit="move">
+               <e id="N1904.Phil.3.4.8" clearId="n50003004008" usfm="PHP 3:4!8">Εἴ</e>
+               <e id="N1904.Phil.3.4.9" clearId="n50003004009" usfm="PHP 3:4!9">τις</e>
+               <e id="N1904.Phil.3.4.10" clearId="n50003004010" usfm="PHP 3:4!10">δοκεῖ</e>
+               <e id="N1904.Phil.3.4.11" clearId="n50003004011" usfm="PHP 3:4!11">ἄλλος</e>
+               <e id="N1904.Phil.3.4.12" clearId="n50003004012" usfm="PHP 3:4!12">πεποιθέναι</e>
+               <e id="N1904.Phil.3.4.13" clearId="n50003004013" usfm="PHP 3:4!13">ἐν</e>
+               <e id="N1904.Phil.3.4.14"
+                  clearId="n50003004014"
+                  usfm="PHP 3:4!14"
+                  after=",">σαρκί</e>
+               <e id="N1904.Phil.3.4.15" clearId="n50003004015" usfm="PHP 3:4!15">ἐγὼ</e>
+               <e id="N1904.Phil.3.4.16"
+                  clearId="n50003004016"
+                  usfm="PHP 3:4!16"
+                  after="·">μᾶλλον</e>
+            </c>
+            <c id="N1904.Phil.3.5.1-6.12" unit="move">
+               <e id="N1904.Phil.3.5.1" clearId="n50003005001" usfm="PHP 3:5!1">περιτομῇ</e>
+               <e id="N1904.Phil.3.5.2"
+                  clearId="n50003005002"
+                  usfm="PHP 3:5!2"
+                  after=",">ὀκταήμερος</e>
+               <e id="N1904.Phil.3.5.3" clearId="n50003005003" usfm="PHP 3:5!3">ἐκ</e>
+               <e id="N1904.Phil.3.5.4" clearId="n50003005004" usfm="PHP 3:5!4">γένους</e>
+               <e id="N1904.Phil.3.5.5"
+                  clearId="n50003005005"
+                  usfm="PHP 3:5!5"
+                  after=",">Ἰσραήλ</e>
+               <e id="N1904.Phil.3.5.6" clearId="n50003005006" usfm="PHP 3:5!6">φυλῆς</e>
+               <e id="N1904.Phil.3.5.7"
+                  clearId="n50003005007"
+                  usfm="PHP 3:5!7"
+                  after=",">Βενιαμείν</e>
+               <e id="N1904.Phil.3.5.8" clearId="n50003005008" usfm="PHP 3:5!8">Ἑβραῖος</e>
+               <e id="N1904.Phil.3.5.9" clearId="n50003005009" usfm="PHP 3:5!9">ἐξ</e>
+               <e id="N1904.Phil.3.5.10"
+                  clearId="n50003005010"
+                  usfm="PHP 3:5!10"
+                  after=",">Ἑβραίων</e>
+               <e id="N1904.Phil.3.5.11" clearId="n50003005011" usfm="PHP 3:5!11">κατὰ</e>
+               <e id="N1904.Phil.3.5.12" clearId="n50003005012" usfm="PHP 3:5!12">νόμον</e>
+               <e id="N1904.Phil.3.5.13"
+                  clearId="n50003005013"
+                  usfm="PHP 3:5!13"
+                  after=",">Φαρισαῖος</e>
+               <e id="N1904.Phil.3.6.1" clearId="n50003006001" usfm="PHP 3:6!1">κατὰ</e>
+               <e id="N1904.Phil.3.6.2" clearId="n50003006002" usfm="PHP 3:6!2">ζῆλος</e>
+               <e id="N1904.Phil.3.6.3" clearId="n50003006003" usfm="PHP 3:6!3">διώκων</e>
+               <e id="N1904.Phil.3.6.4" clearId="n50003006004" usfm="PHP 3:6!4">τὴν</e>
+               <e id="N1904.Phil.3.6.5"
+                  clearId="n50003006005"
+                  usfm="PHP 3:6!5"
+                  after=",">ἐκκλησίαν</e>
+               <e id="N1904.Phil.3.6.6" clearId="n50003006006" usfm="PHP 3:6!6">κατὰ</e>
+               <e id="N1904.Phil.3.6.7" clearId="n50003006007" usfm="PHP 3:6!7">δικαιοσύνην</e>
+               <e id="N1904.Phil.3.6.8" clearId="n50003006008" usfm="PHP 3:6!8">τὴν</e>
+               <e id="N1904.Phil.3.6.9" clearId="n50003006009" usfm="PHP 3:6!9">ἐν</e>
+               <e id="N1904.Phil.3.6.10" clearId="n50003006010" usfm="PHP 3:6!10">νόμῳ</e>
+               <e id="N1904.Phil.3.6.11" clearId="n50003006011" usfm="PHP 3:6!11">γενόμενος</e>
+               <e id="N1904.Phil.3.6.12"
+                  clearId="n50003006012"
+                  usfm="PHP 3:6!12"
+                  after=".">ἄμεμπτος</e>
+            </c>
+            <c id="N1904.Phil.3.7.1-11" unit="move">
+               <e id="N1904.Phil.3.7.1" clearId="n50003007001" usfm="PHP 3:7!1">Ἀλλὰ</e>
+               <e id="N1904.Phil.3.7.2" clearId="n50003007002" usfm="PHP 3:7!2">ἅτινα</e>
+               <e id="N1904.Phil.3.7.3" clearId="n50003007003" usfm="PHP 3:7!3">ἦν</e>
+               <e id="N1904.Phil.3.7.4" clearId="n50003007004" usfm="PHP 3:7!4">μοι</e>
+               <e id="N1904.Phil.3.7.5"
+                  clearId="n50003007005"
+                  usfm="PHP 3:7!5"
+                  after=",">κέρδη</e>
+               <e id="N1904.Phil.3.7.6" clearId="n50003007006" usfm="PHP 3:7!6">ταῦτα</e>
+               <e id="N1904.Phil.3.7.7" clearId="n50003007007" usfm="PHP 3:7!7">ἥγημαι</e>
+               <e id="N1904.Phil.3.7.8" clearId="n50003007008" usfm="PHP 3:7!8">διὰ</e>
+               <e id="N1904.Phil.3.7.9" clearId="n50003007009" usfm="PHP 3:7!9">τὸν</e>
+               <e id="N1904.Phil.3.7.10" clearId="n50003007010" usfm="PHP 3:7!10">Χριστὸν</e>
+               <e id="N1904.Phil.3.7.11"
+                  clearId="n50003007011"
+                  usfm="PHP 3:7!11"
+                  after=".">ζημίαν</e>
+            </c>
+            <c id="N1904.Phil.3.8.1-11.9" unit="move">
+               <e id="N1904.Phil.3.8.1" clearId="n50003008001" usfm="PHP 3:8!1">ἀλλὰ</e>
+               <e id="N1904.Phil.3.8.2" clearId="n50003008002" usfm="PHP 3:8!2">μὲν</e>
+               <e id="N1904.Phil.3.8.3" clearId="n50003008003" usfm="PHP 3:8!3">οὖν</e>
+               <e id="N1904.Phil.3.8.4" clearId="n50003008004" usfm="PHP 3:8!4">γε</e>
+               <e id="N1904.Phil.3.8.5" clearId="n50003008005" usfm="PHP 3:8!5">καὶ</e>
+               <e id="N1904.Phil.3.8.6" clearId="n50003008006" usfm="PHP 3:8!6">ἡγοῦμαι</e>
+               <e id="N1904.Phil.3.8.7" clearId="n50003008007" usfm="PHP 3:8!7">πάντα</e>
+               <e id="N1904.Phil.3.8.8" clearId="n50003008008" usfm="PHP 3:8!8">ζημίαν</e>
+               <e id="N1904.Phil.3.8.9" clearId="n50003008009" usfm="PHP 3:8!9">εἶναι</e>
+               <e id="N1904.Phil.3.8.10" clearId="n50003008010" usfm="PHP 3:8!10">διὰ</e>
+               <e id="N1904.Phil.3.8.11" clearId="n50003008011" usfm="PHP 3:8!11">τὸ</e>
+               <e id="N1904.Phil.3.8.12" clearId="n50003008012" usfm="PHP 3:8!12">ὑπερέχον</e>
+               <e id="N1904.Phil.3.8.13" clearId="n50003008013" usfm="PHP 3:8!13">τῆς</e>
+               <e id="N1904.Phil.3.8.14" clearId="n50003008014" usfm="PHP 3:8!14">γνώσεως</e>
+               <e id="N1904.Phil.3.8.15" clearId="n50003008015" usfm="PHP 3:8!15">Χριστοῦ</e>
+               <e id="N1904.Phil.3.8.16" clearId="n50003008016" usfm="PHP 3:8!16">Ἰησοῦ</e>
+               <e id="N1904.Phil.3.8.17" clearId="n50003008017" usfm="PHP 3:8!17">τοῦ</e>
+               <e id="N1904.Phil.3.8.18" clearId="n50003008018" usfm="PHP 3:8!18">Κυρίου</e>
+               <e id="N1904.Phil.3.8.19"
+                  clearId="n50003008019"
+                  usfm="PHP 3:8!19"
+                  after=",">μου</e>
+               <e id="N1904.Phil.3.8.20" clearId="n50003008020" usfm="PHP 3:8!20">δι’</e>
+               <e id="N1904.Phil.3.8.21" clearId="n50003008021" usfm="PHP 3:8!21">ὃν</e>
+               <e id="N1904.Phil.3.8.22" clearId="n50003008022" usfm="PHP 3:8!22">τὰ</e>
+               <e id="N1904.Phil.3.8.23" clearId="n50003008023" usfm="PHP 3:8!23">πάντα</e>
+               <e id="N1904.Phil.3.8.24"
+                  clearId="n50003008024"
+                  usfm="PHP 3:8!24"
+                  after=",">ἐζημιώθην</e>
+               <e id="N1904.Phil.3.8.25" clearId="n50003008025" usfm="PHP 3:8!25">καὶ</e>
+               <e id="N1904.Phil.3.8.26" clearId="n50003008026" usfm="PHP 3:8!26">ἡγοῦμαι</e>
+               <e id="N1904.Phil.3.8.27" clearId="n50003008027" usfm="PHP 3:8!27">σκύβαλα</e>
+               <e id="N1904.Phil.3.8.28" clearId="n50003008028" usfm="PHP 3:8!28">ἵνα</e>
+               <e id="N1904.Phil.3.8.29" clearId="n50003008029" usfm="PHP 3:8!29">Χριστὸν</e>
+               <e id="N1904.Phil.3.8.30" clearId="n50003008030" usfm="PHP 3:8!30">κερδήσω</e>
+               <e id="N1904.Phil.3.9.1" clearId="n50003009001" usfm="PHP 3:9!1">καὶ</e>
+               <e id="N1904.Phil.3.9.2" clearId="n50003009002" usfm="PHP 3:9!2">εὑρεθῶ</e>
+               <e id="N1904.Phil.3.9.3" clearId="n50003009003" usfm="PHP 3:9!3">ἐν</e>
+               <e id="N1904.Phil.3.9.4"
+                  clearId="n50003009004"
+                  usfm="PHP 3:9!4"
+                  after=",">αὐτῷ</e>
+               <e id="N1904.Phil.3.9.5" clearId="n50003009005" usfm="PHP 3:9!5">μὴ</e>
+               <e id="N1904.Phil.3.9.6" clearId="n50003009006" usfm="PHP 3:9!6">ἔχων</e>
+               <e id="N1904.Phil.3.9.7" clearId="n50003009007" usfm="PHP 3:9!7">ἐμὴν</e>
+               <e id="N1904.Phil.3.9.8" clearId="n50003009008" usfm="PHP 3:9!8">δικαιοσύνην</e>
+               <e id="N1904.Phil.3.9.9" clearId="n50003009009" usfm="PHP 3:9!9">τὴν</e>
+               <e id="N1904.Phil.3.9.10" clearId="n50003009010" usfm="PHP 3:9!10">ἐκ</e>
+               <e id="N1904.Phil.3.9.11"
+                  clearId="n50003009011"
+                  usfm="PHP 3:9!11"
+                  after=",">νόμου</e>
+               <e id="N1904.Phil.3.9.12" clearId="n50003009012" usfm="PHP 3:9!12">ἀλλὰ</e>
+               <e id="N1904.Phil.3.9.13" clearId="n50003009013" usfm="PHP 3:9!13">τὴν</e>
+               <e id="N1904.Phil.3.9.14" clearId="n50003009014" usfm="PHP 3:9!14">διὰ</e>
+               <e id="N1904.Phil.3.9.15" clearId="n50003009015" usfm="PHP 3:9!15">πίστεως</e>
+               <e id="N1904.Phil.3.9.16"
+                  clearId="n50003009016"
+                  usfm="PHP 3:9!16"
+                  after=",">Χριστοῦ</e>
+               <e id="N1904.Phil.3.9.17" clearId="n50003009017" usfm="PHP 3:9!17">τὴν</e>
+               <e id="N1904.Phil.3.9.18" clearId="n50003009018" usfm="PHP 3:9!18">ἐκ</e>
+               <e id="N1904.Phil.3.9.19" clearId="n50003009019" usfm="PHP 3:9!19">Θεοῦ</e>
+               <e id="N1904.Phil.3.9.20" clearId="n50003009020" usfm="PHP 3:9!20">δικαιοσύνην</e>
+               <e id="N1904.Phil.3.9.21" clearId="n50003009021" usfm="PHP 3:9!21">ἐπὶ</e>
+               <e id="N1904.Phil.3.9.22" clearId="n50003009022" usfm="PHP 3:9!22">τῇ</e>
+               <e id="N1904.Phil.3.9.23"
+                  clearId="n50003009023"
+                  usfm="PHP 3:9!23"
+                  after=",">πίστει</e>
+               <e id="N1904.Phil.3.10.1" clearId="n50003010001" usfm="PHP 3:10!1">τοῦ</e>
+               <e id="N1904.Phil.3.10.2" clearId="n50003010002" usfm="PHP 3:10!2">γνῶναι</e>
+               <e id="N1904.Phil.3.10.3" clearId="n50003010003" usfm="PHP 3:10!3">αὐτὸν</e>
+               <e id="N1904.Phil.3.10.4" clearId="n50003010004" usfm="PHP 3:10!4">καὶ</e>
+               <e id="N1904.Phil.3.10.5" clearId="n50003010005" usfm="PHP 3:10!5">τὴν</e>
+               <e id="N1904.Phil.3.10.6" clearId="n50003010006" usfm="PHP 3:10!6">δύναμιν</e>
+               <e id="N1904.Phil.3.10.7" clearId="n50003010007" usfm="PHP 3:10!7">τῆς</e>
+               <e id="N1904.Phil.3.10.8" clearId="n50003010008" usfm="PHP 3:10!8">ἀναστάσεως</e>
+               <e id="N1904.Phil.3.10.9" clearId="n50003010009" usfm="PHP 3:10!9">αὐτοῦ</e>
+               <e id="N1904.Phil.3.10.10" clearId="n50003010010" usfm="PHP 3:10!10">καὶ</e>
+               <e id="N1904.Phil.3.10.11" clearId="n50003010011" usfm="PHP 3:10!11">κοινωνίαν</e>
+               <e id="N1904.Phil.3.10.12" clearId="n50003010012" usfm="PHP 3:10!12">παθημάτων</e>
+               <e id="N1904.Phil.3.10.13"
+                  clearId="n50003010013"
+                  usfm="PHP 3:10!13"
+                  after=",">αὐτοῦ</e>
+               <e id="N1904.Phil.3.10.14" clearId="n50003010014" usfm="PHP 3:10!14">συμμορφιζόμενος</e>
+               <e id="N1904.Phil.3.10.15" clearId="n50003010015" usfm="PHP 3:10!15">τῷ</e>
+               <e id="N1904.Phil.3.10.16" clearId="n50003010016" usfm="PHP 3:10!16">θανάτῳ</e>
+               <e id="N1904.Phil.3.10.17"
+                  clearId="n50003010017"
+                  usfm="PHP 3:10!17"
+                  after=",">αὐτοῦ</e>
+               <e id="N1904.Phil.3.11.1" clearId="n50003011001" usfm="PHP 3:11!1">εἴ</e>
+               <e id="N1904.Phil.3.11.2" clearId="n50003011002" usfm="PHP 3:11!2">πως</e>
+               <e id="N1904.Phil.3.11.3" clearId="n50003011003" usfm="PHP 3:11!3">καταντήσω</e>
+               <e id="N1904.Phil.3.11.4" clearId="n50003011004" usfm="PHP 3:11!4">εἰς</e>
+               <e id="N1904.Phil.3.11.5" clearId="n50003011005" usfm="PHP 3:11!5">τὴν</e>
+               <e id="N1904.Phil.3.11.6" clearId="n50003011006" usfm="PHP 3:11!6">ἐξανάστασιν</e>
+               <e id="N1904.Phil.3.11.7" clearId="n50003011007" usfm="PHP 3:11!7">τὴν</e>
+               <e id="N1904.Phil.3.11.8" clearId="n50003011008" usfm="PHP 3:11!8">ἐκ</e>
+               <e id="N1904.Phil.3.11.9"
+                  clearId="n50003011009"
+                  usfm="PHP 3:11!9"
+                  after=".">νεκρῶν</e>
+            </c>
+         </c>
+         <c unit="seg" title="Pursuing the Goal">
+            <c id="N1904.Phil.3.12.1-19" unit="move">
+               <e id="N1904.Phil.3.12.1" clearId="n50003012001" usfm="PHP 3:12!1">οὐχ</e>
+               <e id="N1904.Phil.3.12.2" clearId="n50003012002" usfm="PHP 3:12!2">ὅτι</e>
+               <e id="N1904.Phil.3.12.3" clearId="n50003012003" usfm="PHP 3:12!3">ἤδη</e>
+               <e id="N1904.Phil.3.12.4" clearId="n50003012004" usfm="PHP 3:12!4">ἔλαβον</e>
+               <e id="N1904.Phil.3.12.5" clearId="n50003012005" usfm="PHP 3:12!5">ἢ</e>
+               <e id="N1904.Phil.3.12.6" clearId="n50003012006" usfm="PHP 3:12!6">ἤδη</e>
+               <e id="N1904.Phil.3.12.7"
+                  clearId="n50003012007"
+                  usfm="PHP 3:12!7"
+                  after=",">τετελείωμαι</e>
+               <e id="N1904.Phil.3.12.8" clearId="n50003012008" usfm="PHP 3:12!8">διώκω</e>
+               <e id="N1904.Phil.3.12.9" clearId="n50003012009" usfm="PHP 3:12!9">δὲ</e>
+               <e id="N1904.Phil.3.12.10" clearId="n50003012010" usfm="PHP 3:12!10">εἰ</e>
+               <e id="N1904.Phil.3.12.11" clearId="n50003012011" usfm="PHP 3:12!11">καὶ</e>
+               <e id="N1904.Phil.3.12.12"
+                  clearId="n50003012012"
+                  usfm="PHP 3:12!12"
+                  after=",">καταλάβω</e>
+               <e id="N1904.Phil.3.12.13" clearId="n50003012013" usfm="PHP 3:12!13">ἐφ’</e>
+               <e id="N1904.Phil.3.12.14" clearId="n50003012014" usfm="PHP 3:12!14">ᾧ</e>
+               <e id="N1904.Phil.3.12.15" clearId="n50003012015" usfm="PHP 3:12!15">καὶ</e>
+               <e id="N1904.Phil.3.12.16" clearId="n50003012016" usfm="PHP 3:12!16">κατελήμφθην</e>
+               <e id="N1904.Phil.3.12.17" clearId="n50003012017" usfm="PHP 3:12!17">ὑπὸ</e>
+               <e id="N1904.Phil.3.12.18" clearId="n50003012018" usfm="PHP 3:12!18">Χριστοῦ</e>
+               <e id="N1904.Phil.3.12.19"
+                  clearId="n50003012019"
+                  usfm="PHP 3:12!19"
+                  after=".">Ἰησοῦ</e>
+            </c>
+            <c id="N1904.Phil.3.13.1-6" unit="move">
+               <e id="N1904.Phil.3.13.1"
+                  clearId="n50003013001"
+                  usfm="PHP 3:13!1"
+                  after=",">ἀδελφοί</e>
+               <e id="N1904.Phil.3.13.2" clearId="n50003013002" usfm="PHP 3:13!2">ἐγὼ</e>
+               <e id="N1904.Phil.3.13.3" clearId="n50003013003" usfm="PHP 3:13!3">ἐμαυτὸν</e>
+               <e id="N1904.Phil.3.13.4" clearId="n50003013004" usfm="PHP 3:13!4">οὔπω</e>
+               <e id="N1904.Phil.3.13.5" clearId="n50003013005" usfm="PHP 3:13!5">λογίζομαι</e>
+               <e id="N1904.Phil.3.13.6"
+                  clearId="n50003013006"
+                  usfm="PHP 3:13!6"
+                  after="·">κατειληφέναι</e>
+            </c>
+            <c id="N1904.Phil.3.13.7-8" unit="move">
+               <e id="N1904.Phil.3.13.7" clearId="n50003013007" usfm="PHP 3:13!7">ἓν</e>
+               <e id="N1904.Phil.3.13.8"
+                  clearId="n50003013008"
+                  usfm="PHP 3:13!8"
+                  after=",">δέ</e>
+            </c>
+            <c id="N1904.Phil.3.13.9-14.14" unit="move">
+               <e id="N1904.Phil.3.13.9" clearId="n50003013009" usfm="PHP 3:13!9">τὰ</e>
+               <e id="N1904.Phil.3.13.10" clearId="n50003013010" usfm="PHP 3:13!10">μὲν</e>
+               <e id="N1904.Phil.3.13.11" clearId="n50003013011" usfm="PHP 3:13!11">ὀπίσω</e>
+               <e id="N1904.Phil.3.13.12" clearId="n50003013012" usfm="PHP 3:13!12">ἐπιλανθανόμενος</e>
+               <e id="N1904.Phil.3.13.13" clearId="n50003013013" usfm="PHP 3:13!13">τοῖς</e>
+               <e id="N1904.Phil.3.13.14" clearId="n50003013014" usfm="PHP 3:13!14">δὲ</e>
+               <e id="N1904.Phil.3.13.15" clearId="n50003013015" usfm="PHP 3:13!15">ἔμπροσθεν</e>
+               <e id="N1904.Phil.3.13.16"
+                  clearId="n50003013016"
+                  usfm="PHP 3:13!16"
+                  after=",">ἐπεκτεινόμενος</e>
+               <e id="N1904.Phil.3.14.1" clearId="n50003014001" usfm="PHP 3:14!1">κατὰ</e>
+               <e id="N1904.Phil.3.14.2" clearId="n50003014002" usfm="PHP 3:14!2">σκοπὸν</e>
+               <e id="N1904.Phil.3.14.3" clearId="n50003014003" usfm="PHP 3:14!3">διώκω</e>
+               <e id="N1904.Phil.3.14.4" clearId="n50003014004" usfm="PHP 3:14!4">εἰς</e>
+               <e id="N1904.Phil.3.14.5" clearId="n50003014005" usfm="PHP 3:14!5">τὸ</e>
+               <e id="N1904.Phil.3.14.6" clearId="n50003014006" usfm="PHP 3:14!6">βραβεῖον</e>
+               <e id="N1904.Phil.3.14.7" clearId="n50003014007" usfm="PHP 3:14!7">τῆς</e>
+               <e id="N1904.Phil.3.14.8" clearId="n50003014008" usfm="PHP 3:14!8">ἄνω</e>
+               <e id="N1904.Phil.3.14.9" clearId="n50003014009" usfm="PHP 3:14!9">κλήσεως</e>
+               <e id="N1904.Phil.3.14.10" clearId="n50003014010" usfm="PHP 3:14!10">τοῦ</e>
+               <e id="N1904.Phil.3.14.11" clearId="n50003014011" usfm="PHP 3:14!11">Θεοῦ</e>
+               <e id="N1904.Phil.3.14.12" clearId="n50003014012" usfm="PHP 3:14!12">ἐν</e>
+               <e id="N1904.Phil.3.14.13" clearId="n50003014013" usfm="PHP 3:14!13">Χριστῷ</e>
+               <e id="N1904.Phil.3.14.14"
+                  clearId="n50003014014"
+                  usfm="PHP 3:14!14"
+                  after=".">Ἰησοῦ</e>
+            </c>
+            <c id="N1904.Phil.3.15.1-5" unit="move">
+               <e id="N1904.Phil.3.15.1" clearId="n50003015001" usfm="PHP 3:15!1">Ὅσοι</e>
+               <e id="N1904.Phil.3.15.2" clearId="n50003015002" usfm="PHP 3:15!2">οὖν</e>
+               <e id="N1904.Phil.3.15.3"
+                  clearId="n50003015003"
+                  usfm="PHP 3:15!3"
+                  after=",">τέλειοι</e>
+               <e id="N1904.Phil.3.15.4" clearId="n50003015004" usfm="PHP 3:15!4">τοῦτο</e>
+               <e id="N1904.Phil.3.15.5"
+                  clearId="n50003015005"
+                  usfm="PHP 3:15!5"
+                  after="·">φρονῶμεν</e>
+            </c>
+            <c id="N1904.Phil.3.15.6-16" unit="move">
+               <e id="N1904.Phil.3.15.6" clearId="n50003015006" usfm="PHP 3:15!6">καὶ</e>
+               <e id="N1904.Phil.3.15.7" clearId="n50003015007" usfm="PHP 3:15!7">εἴ</e>
+               <e id="N1904.Phil.3.15.8" clearId="n50003015008" usfm="PHP 3:15!8">τι</e>
+               <e id="N1904.Phil.3.15.9" clearId="n50003015009" usfm="PHP 3:15!9">ἑτέρως</e>
+               <e id="N1904.Phil.3.15.10"
+                  clearId="n50003015010"
+                  usfm="PHP 3:15!10"
+                  after=",">φρονεῖτε</e>
+               <e id="N1904.Phil.3.15.11" clearId="n50003015011" usfm="PHP 3:15!11">καὶ</e>
+               <e id="N1904.Phil.3.15.12" clearId="n50003015012" usfm="PHP 3:15!12">τοῦτο</e>
+               <e id="N1904.Phil.3.15.13" clearId="n50003015013" usfm="PHP 3:15!13">ὁ</e>
+               <e id="N1904.Phil.3.15.14" clearId="n50003015014" usfm="PHP 3:15!14">Θεὸς</e>
+               <e id="N1904.Phil.3.15.15" clearId="n50003015015" usfm="PHP 3:15!15">ὑμῖν</e>
+               <e id="N1904.Phil.3.15.16"
+                  clearId="n50003015016"
+                  usfm="PHP 3:15!16"
+                  after="·">ἀποκαλύψει</e>
+            </c>
+            <c id="N1904.Phil.3.16.1-7" unit="move">
+               <e id="N1904.Phil.3.16.1" clearId="n50003016001" usfm="PHP 3:16!1">πλὴν</e>
+               <e id="N1904.Phil.3.16.2" clearId="n50003016002" usfm="PHP 3:16!2">εἰς</e>
+               <e id="N1904.Phil.3.16.3" clearId="n50003016003" usfm="PHP 3:16!3">ὃ</e>
+               <e id="N1904.Phil.3.16.4"
+                  clearId="n50003016004"
+                  usfm="PHP 3:16!4"
+                  after=",">ἐφθάσαμεν</e>
+               <e id="N1904.Phil.3.16.5" clearId="n50003016005" usfm="PHP 3:16!5">τῷ</e>
+               <e id="N1904.Phil.3.16.6" clearId="n50003016006" usfm="PHP 3:16!6">αὐτῷ</e>
+               <e id="N1904.Phil.3.16.7"
+                  clearId="n50003016007"
+                  usfm="PHP 3:16!7"
+                  after=".">στοιχεῖν</e>
+            </c>
+            <c id="N1904.Phil.3.17.1-13" unit="move">
+               <e id="N1904.Phil.3.17.1" clearId="n50003017001" usfm="PHP 3:17!1">Συνμιμηταί</e>
+               <e id="N1904.Phil.3.17.2" clearId="n50003017002" usfm="PHP 3:17!2">μου</e>
+               <e id="N1904.Phil.3.17.3"
+                  clearId="n50003017003"
+                  usfm="PHP 3:17!3"
+                  after=",">γίνεσθε</e>
+               <e id="N1904.Phil.3.17.4"
+                  clearId="n50003017004"
+                  usfm="PHP 3:17!4"
+                  after=",">ἀδελφοί</e>
+               <e id="N1904.Phil.3.17.5" clearId="n50003017005" usfm="PHP 3:17!5">καὶ</e>
+               <e id="N1904.Phil.3.17.6" clearId="n50003017006" usfm="PHP 3:17!6">σκοπεῖτε</e>
+               <e id="N1904.Phil.3.17.7" clearId="n50003017007" usfm="PHP 3:17!7">τοὺς</e>
+               <e id="N1904.Phil.3.17.8" clearId="n50003017008" usfm="PHP 3:17!8">οὕτως</e>
+               <e id="N1904.Phil.3.17.9" clearId="n50003017009" usfm="PHP 3:17!9">περιπατοῦντας</e>
+               <e id="N1904.Phil.3.17.10" clearId="n50003017010" usfm="PHP 3:17!10">καθὼς</e>
+               <e id="N1904.Phil.3.17.11" clearId="n50003017011" usfm="PHP 3:17!11">ἔχετε</e>
+               <e id="N1904.Phil.3.17.12" clearId="n50003017012" usfm="PHP 3:17!12">τύπον</e>
+               <e id="N1904.Phil.3.17.13"
+                  clearId="n50003017013"
+                  usfm="PHP 3:17!13"
+                  after=".">ἡμᾶς</e>
+            </c>
+            <c id="N1904.Phil.3.18.1-19.16" unit="move">
+               <e id="N1904.Phil.3.18.1" clearId="n50003018001" usfm="PHP 3:18!1">πολλοὶ</e>
+               <e id="N1904.Phil.3.18.2" clearId="n50003018002" usfm="PHP 3:18!2">γὰρ</e>
+               <e id="N1904.Phil.3.18.3" clearId="n50003018003" usfm="PHP 3:18!3">περιπατοῦσιν</e>
+               <e id="N1904.Phil.3.18.4" clearId="n50003018004" usfm="PHP 3:18!4">οὓς</e>
+               <e id="N1904.Phil.3.18.5" clearId="n50003018005" usfm="PHP 3:18!5">πολλάκις</e>
+               <e id="N1904.Phil.3.18.6" clearId="n50003018006" usfm="PHP 3:18!6">ἔλεγον</e>
+               <e id="N1904.Phil.3.18.7"
+                  clearId="n50003018007"
+                  usfm="PHP 3:18!7"
+                  after=",">ὑμῖν</e>
+               <e id="N1904.Phil.3.18.8" clearId="n50003018008" usfm="PHP 3:18!8">νῦν</e>
+               <e id="N1904.Phil.3.18.9" clearId="n50003018009" usfm="PHP 3:18!9">δὲ</e>
+               <e id="N1904.Phil.3.18.10" clearId="n50003018010" usfm="PHP 3:18!10">καὶ</e>
+               <e id="N1904.Phil.3.18.11" clearId="n50003018011" usfm="PHP 3:18!11">κλαίων</e>
+               <e id="N1904.Phil.3.18.12"
+                  clearId="n50003018012"
+                  usfm="PHP 3:18!12"
+                  after=",">λέγω</e>
+               <c unit="turn">
+                  <c id="N1904.Phil.3.18.13-18" unit="move">
+                     <e id="N1904.Phil.3.18.13" clearId="n50003018013" usfm="PHP 3:18!13">τοὺς</e>
+                     <e id="N1904.Phil.3.18.14" clearId="n50003018014" usfm="PHP 3:18!14">ἐχθροὺς</e>
+                     <e id="N1904.Phil.3.18.15" clearId="n50003018015" usfm="PHP 3:18!15">τοῦ</e>
+                     <e id="N1904.Phil.3.18.16" clearId="n50003018016" usfm="PHP 3:18!16">σταυροῦ</e>
+                     <e id="N1904.Phil.3.18.17" clearId="n50003018017" usfm="PHP 3:18!17">τοῦ</e>
+                     <e id="N1904.Phil.3.18.18"
+                        clearId="n50003018018"
+                        usfm="PHP 3:18!18"
+                        after=",">Χριστοῦ</e>
+                  </c>
+               </c>
+               <e id="N1904.Phil.3.19.1" clearId="n50003019001" usfm="PHP 3:19!1">ὧν</e>
+               <e id="N1904.Phil.3.19.2" clearId="n50003019002" usfm="PHP 3:19!2">τὸ</e>
+               <e id="N1904.Phil.3.19.3" clearId="n50003019003" usfm="PHP 3:19!3">τέλος</e>
+               <e id="N1904.Phil.3.19.4"
+                  clearId="n50003019004"
+                  usfm="PHP 3:19!4"
+                  after=",">ἀπώλεια</e>
+               <e id="N1904.Phil.3.19.5" clearId="n50003019005" usfm="PHP 3:19!5">ὧν</e>
+               <e id="N1904.Phil.3.19.6" clearId="n50003019006" usfm="PHP 3:19!6">ὁ</e>
+               <e id="N1904.Phil.3.19.7" clearId="n50003019007" usfm="PHP 3:19!7">θεὸς</e>
+               <e id="N1904.Phil.3.19.8" clearId="n50003019008" usfm="PHP 3:19!8">ἡ</e>
+               <e id="N1904.Phil.3.19.9" clearId="n50003019009" usfm="PHP 3:19!9">κοιλία</e>
+               <e id="N1904.Phil.3.19.10" clearId="n50003019010" usfm="PHP 3:19!10">καὶ</e>
+               <e id="N1904.Phil.3.19.11" clearId="n50003019011" usfm="PHP 3:19!11">ἡ</e>
+               <e id="N1904.Phil.3.19.12" clearId="n50003019012" usfm="PHP 3:19!12">δόξα</e>
+               <e id="N1904.Phil.3.19.13" clearId="n50003019013" usfm="PHP 3:19!13">ἐν</e>
+               <e id="N1904.Phil.3.19.14" clearId="n50003019014" usfm="PHP 3:19!14">τῇ</e>
+               <e id="N1904.Phil.3.19.15" clearId="n50003019015" usfm="PHP 3:19!15">αἰσχύνῃ</e>
+               <e id="N1904.Phil.3.19.16"
+                  clearId="n50003019016"
+                  usfm="PHP 3:19!16"
+                  after=",">αὐτῶν</e>
+            </c>
+            <c id="N1904.Phil.3.19.17-20" unit="move">
+               <e id="N1904.Phil.3.19.17" clearId="n50003019017" usfm="PHP 3:19!17">οἱ</e>
+               <e id="N1904.Phil.3.19.18" clearId="n50003019018" usfm="PHP 3:19!18">τὰ</e>
+               <e id="N1904.Phil.3.19.19" clearId="n50003019019" usfm="PHP 3:19!19">ἐπίγεια</e>
+               <e id="N1904.Phil.3.19.20"
+                  clearId="n50003019020"
+                  usfm="PHP 3:19!20"
+                  after=".">φρονοῦντες</e>
+            </c>
+            <c id="N1904.Phil.3.20.1-21.24" unit="move">
+               <e id="N1904.Phil.3.20.1" clearId="n50003020001" usfm="PHP 3:20!1">ἡμῶν</e>
+               <e id="N1904.Phil.3.20.2" clearId="n50003020002" usfm="PHP 3:20!2">γὰρ</e>
+               <e id="N1904.Phil.3.20.3" clearId="n50003020003" usfm="PHP 3:20!3">τὸ</e>
+               <e id="N1904.Phil.3.20.4" clearId="n50003020004" usfm="PHP 3:20!4">πολίτευμα</e>
+               <e id="N1904.Phil.3.20.5" clearId="n50003020005" usfm="PHP 3:20!5">ἐν</e>
+               <e id="N1904.Phil.3.20.6" clearId="n50003020006" usfm="PHP 3:20!6">οὐρανοῖς</e>
+               <e id="N1904.Phil.3.20.7"
+                  clearId="n50003020007"
+                  usfm="PHP 3:20!7"
+                  after=",">ὑπάρχει</e>
+               <e id="N1904.Phil.3.20.8" clearId="n50003020008" usfm="PHP 3:20!8">ἐξ</e>
+               <e id="N1904.Phil.3.20.9" clearId="n50003020009" usfm="PHP 3:20!9">οὗ</e>
+               <e id="N1904.Phil.3.20.10" clearId="n50003020010" usfm="PHP 3:20!10">καὶ</e>
+               <e id="N1904.Phil.3.20.11" clearId="n50003020011" usfm="PHP 3:20!11">Σωτῆρα</e>
+               <e id="N1904.Phil.3.20.12" clearId="n50003020012" usfm="PHP 3:20!12">ἀπεκδεχόμεθα</e>
+               <e id="N1904.Phil.3.20.13" clearId="n50003020013" usfm="PHP 3:20!13">Κύριον</e>
+               <e id="N1904.Phil.3.20.14" clearId="n50003020014" usfm="PHP 3:20!14">Ἰησοῦν</e>
+               <e id="N1904.Phil.3.20.15"
+                  clearId="n50003020015"
+                  usfm="PHP 3:20!15"
+                  after=",">Χριστόν</e>
+               <e id="N1904.Phil.3.21.1" clearId="n50003021001" usfm="PHP 3:21!1">ὃς</e>
+               <e id="N1904.Phil.3.21.2" clearId="n50003021002" usfm="PHP 3:21!2">μετασχηματίσει</e>
+               <e id="N1904.Phil.3.21.3" clearId="n50003021003" usfm="PHP 3:21!3">τὸ</e>
+               <e id="N1904.Phil.3.21.4" clearId="n50003021004" usfm="PHP 3:21!4">σῶμα</e>
+               <e id="N1904.Phil.3.21.5" clearId="n50003021005" usfm="PHP 3:21!5">τῆς</e>
+               <e id="N1904.Phil.3.21.6" clearId="n50003021006" usfm="PHP 3:21!6">ταπεινώσεως</e>
+               <e id="N1904.Phil.3.21.7" clearId="n50003021007" usfm="PHP 3:21!7">ἡμῶν</e>
+               <e id="N1904.Phil.3.21.8" clearId="n50003021008" usfm="PHP 3:21!8">σύμμορφον</e>
+               <e id="N1904.Phil.3.21.9" clearId="n50003021009" usfm="PHP 3:21!9">τῷ</e>
+               <e id="N1904.Phil.3.21.10" clearId="n50003021010" usfm="PHP 3:21!10">σώματι</e>
+               <e id="N1904.Phil.3.21.11" clearId="n50003021011" usfm="PHP 3:21!11">τῆς</e>
+               <e id="N1904.Phil.3.21.12" clearId="n50003021012" usfm="PHP 3:21!12">δόξης</e>
+               <e id="N1904.Phil.3.21.13"
+                  clearId="n50003021013"
+                  usfm="PHP 3:21!13"
+                  after=",">αὐτοῦ</e>
+               <e id="N1904.Phil.3.21.14" clearId="n50003021014" usfm="PHP 3:21!14">κατὰ</e>
+               <e id="N1904.Phil.3.21.15" clearId="n50003021015" usfm="PHP 3:21!15">τὴν</e>
+               <e id="N1904.Phil.3.21.16" clearId="n50003021016" usfm="PHP 3:21!16">ἐνέργειαν</e>
+               <e id="N1904.Phil.3.21.17" clearId="n50003021017" usfm="PHP 3:21!17">τοῦ</e>
+               <e id="N1904.Phil.3.21.18" clearId="n50003021018" usfm="PHP 3:21!18">δύνασθαι</e>
+               <e id="N1904.Phil.3.21.19" clearId="n50003021019" usfm="PHP 3:21!19">αὐτὸν</e>
+               <e id="N1904.Phil.3.21.20" clearId="n50003021020" usfm="PHP 3:21!20">καὶ</e>
+               <e id="N1904.Phil.3.21.21" clearId="n50003021021" usfm="PHP 3:21!21">ὑποτάξαι</e>
+               <e id="N1904.Phil.3.21.22" clearId="n50003021022" usfm="PHP 3:21!22">αὐτῷ</e>
+               <e id="N1904.Phil.3.21.23" clearId="n50003021023" usfm="PHP 3:21!23">τὰ</e>
+               <e id="N1904.Phil.3.21.24"
+                  clearId="n50003021024"
+                  usfm="PHP 3:21!24"
+                  after=".">πάντα</e>
+            </c>
+         </c>
+         <c unit="seg" title="Firmness and Unanimity Enjoined">
+            <c id="N1904.Phil.4.1.1-15" unit="move">
+               <e id="N1904.Phil.4.1.1"
+                  clearId="n50004001001"
+                  usfm="PHP 4:1!1"
+                  after=",">Ὥστε</e>
+               <e id="N1904.Phil.4.1.2" clearId="n50004001002" usfm="PHP 4:1!2">ἀδελφοί</e>
+               <e id="N1904.Phil.4.1.3" clearId="n50004001003" usfm="PHP 4:1!3">μου</e>
+               <e id="N1904.Phil.4.1.4" clearId="n50004001004" usfm="PHP 4:1!4">ἀγαπητοὶ</e>
+               <e id="N1904.Phil.4.1.5" clearId="n50004001005" usfm="PHP 4:1!5">καὶ</e>
+               <e id="N1904.Phil.4.1.6"
+                  clearId="n50004001006"
+                  usfm="PHP 4:1!6"
+                  after=",">ἐπιπόθητοι</e>
+               <e id="N1904.Phil.4.1.7" clearId="n50004001007" usfm="PHP 4:1!7">χαρὰ</e>
+               <e id="N1904.Phil.4.1.8" clearId="n50004001008" usfm="PHP 4:1!8">καὶ</e>
+               <e id="N1904.Phil.4.1.9" clearId="n50004001009" usfm="PHP 4:1!9">στέφανός</e>
+               <e id="N1904.Phil.4.1.10"
+                  clearId="n50004001010"
+                  usfm="PHP 4:1!10"
+                  after=",">μου</e>
+               <e id="N1904.Phil.4.1.11" clearId="n50004001011" usfm="PHP 4:1!11">οὕτως</e>
+               <e id="N1904.Phil.4.1.12" clearId="n50004001012" usfm="PHP 4:1!12">στήκετε</e>
+               <e id="N1904.Phil.4.1.13" clearId="n50004001013" usfm="PHP 4:1!13">ἐν</e>
+               <e id="N1904.Phil.4.1.14"
+                  clearId="n50004001014"
+                  usfm="PHP 4:1!14"
+                  after=",">Κυρίῳ</e>
+               <e id="N1904.Phil.4.1.15"
+                  clearId="n50004001015"
+                  usfm="PHP 4:1!15"
+                  after=".">ἀγαπητοί</e>
+            </c>
+            <c id="N1904.Phil.4.2.1-10" unit="move">
+               <e id="N1904.Phil.4.2.1" clearId="n50004002001" usfm="PHP 4:2!1">Εὐοδίαν</e>
+               <e id="N1904.Phil.4.2.2" clearId="n50004002002" usfm="PHP 4:2!2">παρακαλῶ</e>
+               <e id="N1904.Phil.4.2.3" clearId="n50004002003" usfm="PHP 4:2!3">καὶ</e>
+               <e id="N1904.Phil.4.2.4" clearId="n50004002004" usfm="PHP 4:2!4">Συντύχην</e>
+               <e id="N1904.Phil.4.2.5" clearId="n50004002005" usfm="PHP 4:2!5">παρακαλῶ</e>
+               <e id="N1904.Phil.4.2.6" clearId="n50004002006" usfm="PHP 4:2!6">τὸ</e>
+               <e id="N1904.Phil.4.2.7" clearId="n50004002007" usfm="PHP 4:2!7">αὐτὸ</e>
+               <e id="N1904.Phil.4.2.8" clearId="n50004002008" usfm="PHP 4:2!8">φρονεῖν</e>
+               <e id="N1904.Phil.4.2.9" clearId="n50004002009" usfm="PHP 4:2!9">ἐν</e>
+               <e id="N1904.Phil.4.2.10"
+                  clearId="n50004002010"
+                  usfm="PHP 4:2!10"
+                  after=".">Κυρίῳ</e>
+            </c>
+            <c id="N1904.Phil.4.3.1-28" unit="move">
+               <e id="N1904.Phil.4.3.1" clearId="n50004003001" usfm="PHP 4:3!1">ναὶ</e>
+               <e id="N1904.Phil.4.3.2" clearId="n50004003002" usfm="PHP 4:3!2">ἐρωτῶ</e>
+               <e id="N1904.Phil.4.3.3" clearId="n50004003003" usfm="PHP 4:3!3">καὶ</e>
+               <e id="N1904.Phil.4.3.4"
+                  clearId="n50004003004"
+                  usfm="PHP 4:3!4"
+                  after=",">σέ</e>
+               <e id="N1904.Phil.4.3.5" clearId="n50004003005" usfm="PHP 4:3!5">γνήσιε</e>
+               <e id="N1904.Phil.4.3.6"
+                  clearId="n50004003006"
+                  usfm="PHP 4:3!6"
+                  after=",">σύνζυγε</e>
+               <e id="N1904.Phil.4.3.7" clearId="n50004003007" usfm="PHP 4:3!7">συνλαμβάνου</e>
+               <e id="N1904.Phil.4.3.8"
+                  clearId="n50004003008"
+                  usfm="PHP 4:3!8"
+                  after=",">αὐταῖς</e>
+               <e id="N1904.Phil.4.3.9" clearId="n50004003009" usfm="PHP 4:3!9">αἵτινες</e>
+               <e id="N1904.Phil.4.3.10" clearId="n50004003010" usfm="PHP 4:3!10">ἐν</e>
+               <e id="N1904.Phil.4.3.11" clearId="n50004003011" usfm="PHP 4:3!11">τῷ</e>
+               <e id="N1904.Phil.4.3.12" clearId="n50004003012" usfm="PHP 4:3!12">εὐαγγελίῳ</e>
+               <e id="N1904.Phil.4.3.13" clearId="n50004003013" usfm="PHP 4:3!13">συνήθλησάν</e>
+               <e id="N1904.Phil.4.3.14" clearId="n50004003014" usfm="PHP 4:3!14">μοι</e>
+               <e id="N1904.Phil.4.3.15" clearId="n50004003015" usfm="PHP 4:3!15">μετὰ</e>
+               <e id="N1904.Phil.4.3.16" clearId="n50004003016" usfm="PHP 4:3!16">καὶ</e>
+               <e id="N1904.Phil.4.3.17" clearId="n50004003017" usfm="PHP 4:3!17">Κλήμεντος</e>
+               <e id="N1904.Phil.4.3.18" clearId="n50004003018" usfm="PHP 4:3!18">καὶ</e>
+               <e id="N1904.Phil.4.3.19" clearId="n50004003019" usfm="PHP 4:3!19">τῶν</e>
+               <e id="N1904.Phil.4.3.20" clearId="n50004003020" usfm="PHP 4:3!20">λοιπῶν</e>
+               <e id="N1904.Phil.4.3.21" clearId="n50004003021" usfm="PHP 4:3!21">συνεργῶν</e>
+               <e id="N1904.Phil.4.3.22"
+                  clearId="n50004003022"
+                  usfm="PHP 4:3!22"
+                  after=",">μου</e>
+               <e id="N1904.Phil.4.3.23" clearId="n50004003023" usfm="PHP 4:3!23">ὧν</e>
+               <e id="N1904.Phil.4.3.24" clearId="n50004003024" usfm="PHP 4:3!24">τὰ</e>
+               <e id="N1904.Phil.4.3.25" clearId="n50004003025" usfm="PHP 4:3!25">ὀνόματα</e>
+               <e id="N1904.Phil.4.3.26" clearId="n50004003026" usfm="PHP 4:3!26">ἐν</e>
+               <e id="N1904.Phil.4.3.27" clearId="n50004003027" usfm="PHP 4:3!27">βίβλῳ</e>
+               <e id="N1904.Phil.4.3.28"
+                  clearId="n50004003028"
+                  usfm="PHP 4:3!28"
+                  after=".">ζωῆς</e>
+            </c>
+         </c>
+         <c unit="seg"
+            title="The Rejoicing of the Christians Especially in Their Fellowship with Christ">
+            <c id="N1904.Phil.4.4.1-4" unit="move">
+               <e id="N1904.Phil.4.4.1" clearId="n50004004001" usfm="PHP 4:4!1">Χαίρετε</e>
+               <e id="N1904.Phil.4.4.2" clearId="n50004004002" usfm="PHP 4:4!2">ἐν</e>
+               <e id="N1904.Phil.4.4.3" clearId="n50004004003" usfm="PHP 4:4!3">Κυρίῳ</e>
+               <e id="N1904.Phil.4.4.4"
+                  clearId="n50004004004"
+                  usfm="PHP 4:4!4"
+                  after="·">πάντοτε</e>
+            </c>
+            <c id="N1904.Phil.4.4.5-7" unit="move">
+               <e id="N1904.Phil.4.4.5" clearId="n50004004005" usfm="PHP 4:4!5">πάλιν</e>
+               <e id="N1904.Phil.4.4.6"
+                  clearId="n50004004006"
+                  usfm="PHP 4:4!6"
+                  after=",">ἐρῶ</e>
+               <c unit="turn">
+                  <c id="N1904.Phil.4.4.7" unit="move">
+                     <e id="N1904.Phil.4.4.7"
+                        clearId="n50004004007"
+                        usfm="PHP 4:4!7"
+                        after=".">χαίρετε</e>
+                  </c>
+               </c>
+            </c>
+            <c id="N1904.Phil.4.5.1-6" unit="move">
+               <e id="N1904.Phil.4.5.1" clearId="n50004005001" usfm="PHP 4:5!1">τὸ</e>
+               <e id="N1904.Phil.4.5.2" clearId="n50004005002" usfm="PHP 4:5!2">ἐπιεικὲς</e>
+               <e id="N1904.Phil.4.5.3" clearId="n50004005003" usfm="PHP 4:5!3">ὑμῶν</e>
+               <e id="N1904.Phil.4.5.4" clearId="n50004005004" usfm="PHP 4:5!4">γνωσθήτω</e>
+               <e id="N1904.Phil.4.5.5" clearId="n50004005005" usfm="PHP 4:5!5">πᾶσιν</e>
+               <e id="N1904.Phil.4.5.6"
+                  clearId="n50004005006"
+                  usfm="PHP 4:5!6"
+                  after=".">ἀνθρώποις</e>
+            </c>
+            <c id="N1904.Phil.4.5.7-9" unit="move">
+               <e id="N1904.Phil.4.5.7" clearId="n50004005007" usfm="PHP 4:5!7">ὁ</e>
+               <e id="N1904.Phil.4.5.8" clearId="n50004005008" usfm="PHP 4:5!8">Κύριος</e>
+               <e id="N1904.Phil.4.5.9"
+                  clearId="n50004005009"
+                  usfm="PHP 4:5!9"
+                  after="·">ἐγγύς</e>
+            </c>
+            <c id="N1904.Phil.4.6.1-19" unit="move">
+               <e id="N1904.Phil.4.6.1" clearId="n50004006001" usfm="PHP 4:6!1">μηδὲν</e>
+               <e id="N1904.Phil.4.6.2"
+                  clearId="n50004006002"
+                  usfm="PHP 4:6!2"
+                  after=",">μεριμνᾶτε</e>
+               <e id="N1904.Phil.4.6.3" clearId="n50004006003" usfm="PHP 4:6!3">ἀλλ’</e>
+               <e id="N1904.Phil.4.6.4" clearId="n50004006004" usfm="PHP 4:6!4">ἐν</e>
+               <e id="N1904.Phil.4.6.5" clearId="n50004006005" usfm="PHP 4:6!5">παντὶ</e>
+               <e id="N1904.Phil.4.6.6" clearId="n50004006006" usfm="PHP 4:6!6">τῇ</e>
+               <e id="N1904.Phil.4.6.7" clearId="n50004006007" usfm="PHP 4:6!7">προσευχῇ</e>
+               <e id="N1904.Phil.4.6.8" clearId="n50004006008" usfm="PHP 4:6!8">καὶ</e>
+               <e id="N1904.Phil.4.6.9" clearId="n50004006009" usfm="PHP 4:6!9">τῇ</e>
+               <e id="N1904.Phil.4.6.10" clearId="n50004006010" usfm="PHP 4:6!10">δεήσει</e>
+               <e id="N1904.Phil.4.6.11" clearId="n50004006011" usfm="PHP 4:6!11">μετὰ</e>
+               <e id="N1904.Phil.4.6.12" clearId="n50004006012" usfm="PHP 4:6!12">εὐχαριστίας</e>
+               <e id="N1904.Phil.4.6.13" clearId="n50004006013" usfm="PHP 4:6!13">τὰ</e>
+               <e id="N1904.Phil.4.6.14" clearId="n50004006014" usfm="PHP 4:6!14">αἰτήματα</e>
+               <e id="N1904.Phil.4.6.15" clearId="n50004006015" usfm="PHP 4:6!15">ὑμῶν</e>
+               <e id="N1904.Phil.4.6.16" clearId="n50004006016" usfm="PHP 4:6!16">γνωριζέσθω</e>
+               <e id="N1904.Phil.4.6.17" clearId="n50004006017" usfm="PHP 4:6!17">πρὸς</e>
+               <e id="N1904.Phil.4.6.18" clearId="n50004006018" usfm="PHP 4:6!18">τὸν</e>
+               <e id="N1904.Phil.4.6.19"
+                  clearId="n50004006019"
+                  usfm="PHP 4:6!19"
+                  after=".">Θεόν</e>
+            </c>
+            <c id="N1904.Phil.4.7.1-20" unit="move">
+               <e id="N1904.Phil.4.7.1" clearId="n50004007001" usfm="PHP 4:7!1">καὶ</e>
+               <e id="N1904.Phil.4.7.2" clearId="n50004007002" usfm="PHP 4:7!2">ἡ</e>
+               <e id="N1904.Phil.4.7.3" clearId="n50004007003" usfm="PHP 4:7!3">εἰρήνη</e>
+               <e id="N1904.Phil.4.7.4" clearId="n50004007004" usfm="PHP 4:7!4">τοῦ</e>
+               <e id="N1904.Phil.4.7.5" clearId="n50004007005" usfm="PHP 4:7!5">Θεοῦ</e>
+               <e id="N1904.Phil.4.7.6" clearId="n50004007006" usfm="PHP 4:7!6">ἡ</e>
+               <e id="N1904.Phil.4.7.7" clearId="n50004007007" usfm="PHP 4:7!7">ὑπερέχουσα</e>
+               <e id="N1904.Phil.4.7.8" clearId="n50004007008" usfm="PHP 4:7!8">πάντα</e>
+               <e id="N1904.Phil.4.7.9" clearId="n50004007009" usfm="PHP 4:7!9">νοῦν</e>
+               <e id="N1904.Phil.4.7.10" clearId="n50004007010" usfm="PHP 4:7!10">φρουρήσει</e>
+               <e id="N1904.Phil.4.7.11" clearId="n50004007011" usfm="PHP 4:7!11">τὰς</e>
+               <e id="N1904.Phil.4.7.12" clearId="n50004007012" usfm="PHP 4:7!12">καρδίας</e>
+               <e id="N1904.Phil.4.7.13" clearId="n50004007013" usfm="PHP 4:7!13">ὑμῶν</e>
+               <e id="N1904.Phil.4.7.14" clearId="n50004007014" usfm="PHP 4:7!14">καὶ</e>
+               <e id="N1904.Phil.4.7.15" clearId="n50004007015" usfm="PHP 4:7!15">τὰ</e>
+               <e id="N1904.Phil.4.7.16" clearId="n50004007016" usfm="PHP 4:7!16">νοήματα</e>
+               <e id="N1904.Phil.4.7.17" clearId="n50004007017" usfm="PHP 4:7!17">ὑμῶν</e>
+               <e id="N1904.Phil.4.7.18" clearId="n50004007018" usfm="PHP 4:7!18">ἐν</e>
+               <e id="N1904.Phil.4.7.19" clearId="n50004007019" usfm="PHP 4:7!19">Χριστῷ</e>
+               <e id="N1904.Phil.4.7.20"
+                  clearId="n50004007020"
+                  usfm="PHP 4:7!20"
+                  after=".">Ἰησοῦ</e>
+            </c>
+            <c id="N1904.Phil.4.8.1-25" unit="move">
+               <e id="N1904.Phil.4.8.1" clearId="n50004008001" usfm="PHP 4:8!1">Τὸ</e>
+               <e id="N1904.Phil.4.8.2"
+                  clearId="n50004008002"
+                  usfm="PHP 4:8!2"
+                  after=",">λοιπόν</e>
+               <e id="N1904.Phil.4.8.3"
+                  clearId="n50004008003"
+                  usfm="PHP 4:8!3"
+                  after=",">ἀδελφοί</e>
+               <e id="N1904.Phil.4.8.4" clearId="n50004008004" usfm="PHP 4:8!4">ὅσα</e>
+               <e id="N1904.Phil.4.8.5" clearId="n50004008005" usfm="PHP 4:8!5">ἐστὶν</e>
+               <e id="N1904.Phil.4.8.6"
+                  clearId="n50004008006"
+                  usfm="PHP 4:8!6"
+                  after=",">ἀληθῆ</e>
+               <e id="N1904.Phil.4.8.7" clearId="n50004008007" usfm="PHP 4:8!7">ὅσα</e>
+               <e id="N1904.Phil.4.8.8"
+                  clearId="n50004008008"
+                  usfm="PHP 4:8!8"
+                  after=",">σεμνά</e>
+               <e id="N1904.Phil.4.8.9" clearId="n50004008009" usfm="PHP 4:8!9">ὅσα</e>
+               <e id="N1904.Phil.4.8.10"
+                  clearId="n50004008010"
+                  usfm="PHP 4:8!10"
+                  after=",">δίκαια</e>
+               <e id="N1904.Phil.4.8.11" clearId="n50004008011" usfm="PHP 4:8!11">ὅσα</e>
+               <e id="N1904.Phil.4.8.12"
+                  clearId="n50004008012"
+                  usfm="PHP 4:8!12"
+                  after=",">ἁγνά</e>
+               <e id="N1904.Phil.4.8.13" clearId="n50004008013" usfm="PHP 4:8!13">ὅσα</e>
+               <e id="N1904.Phil.4.8.14"
+                  clearId="n50004008014"
+                  usfm="PHP 4:8!14"
+                  after=",">προσφιλῆ</e>
+               <e id="N1904.Phil.4.8.15" clearId="n50004008015" usfm="PHP 4:8!15">ὅσα</e>
+               <e id="N1904.Phil.4.8.16"
+                  clearId="n50004008016"
+                  usfm="PHP 4:8!16"
+                  after=",">εὔφημα</e>
+               <e id="N1904.Phil.4.8.17" clearId="n50004008017" usfm="PHP 4:8!17">εἴ</e>
+               <e id="N1904.Phil.4.8.18" clearId="n50004008018" usfm="PHP 4:8!18">τις</e>
+               <e id="N1904.Phil.4.8.19" clearId="n50004008019" usfm="PHP 4:8!19">ἀρετὴ</e>
+               <e id="N1904.Phil.4.8.20" clearId="n50004008020" usfm="PHP 4:8!20">καὶ</e>
+               <e id="N1904.Phil.4.8.21" clearId="n50004008021" usfm="PHP 4:8!21">εἴ</e>
+               <e id="N1904.Phil.4.8.22" clearId="n50004008022" usfm="PHP 4:8!22">τις</e>
+               <e id="N1904.Phil.4.8.23"
+                  clearId="n50004008023"
+                  usfm="PHP 4:8!23"
+                  after=",">ἔπαινος</e>
+               <e id="N1904.Phil.4.8.24" clearId="n50004008024" usfm="PHP 4:8!24">ταῦτα</e>
+               <e id="N1904.Phil.4.8.25"
+                  clearId="n50004008025"
+                  usfm="PHP 4:8!25"
+                  after="·">λογίζεσθε</e>
+            </c>
+            <c id="N1904.Phil.4.9.1-13" unit="move">
+               <e id="N1904.Phil.4.9.1" clearId="n50004009001" usfm="PHP 4:9!1">ἃ</e>
+               <e id="N1904.Phil.4.9.2" clearId="n50004009002" usfm="PHP 4:9!2">καὶ</e>
+               <e id="N1904.Phil.4.9.3" clearId="n50004009003" usfm="PHP 4:9!3">ἐμάθετε</e>
+               <e id="N1904.Phil.4.9.4" clearId="n50004009004" usfm="PHP 4:9!4">καὶ</e>
+               <e id="N1904.Phil.4.9.5" clearId="n50004009005" usfm="PHP 4:9!5">παρελάβετε</e>
+               <e id="N1904.Phil.4.9.6" clearId="n50004009006" usfm="PHP 4:9!6">καὶ</e>
+               <e id="N1904.Phil.4.9.7" clearId="n50004009007" usfm="PHP 4:9!7">ἠκούσατε</e>
+               <e id="N1904.Phil.4.9.8" clearId="n50004009008" usfm="PHP 4:9!8">καὶ</e>
+               <e id="N1904.Phil.4.9.9" clearId="n50004009009" usfm="PHP 4:9!9">εἴδετε</e>
+               <e id="N1904.Phil.4.9.10" clearId="n50004009010" usfm="PHP 4:9!10">ἐν</e>
+               <e id="N1904.Phil.4.9.11"
+                  clearId="n50004009011"
+                  usfm="PHP 4:9!11"
+                  after=",">ἐμοί</e>
+               <e id="N1904.Phil.4.9.12" clearId="n50004009012" usfm="PHP 4:9!12">ταῦτα</e>
+               <e id="N1904.Phil.4.9.13"
+                  clearId="n50004009013"
+                  usfm="PHP 4:9!13"
+                  after="·">πράσσετε</e>
+            </c>
+            <c id="N1904.Phil.4.9.14-21" unit="move">
+               <e id="N1904.Phil.4.9.14" clearId="n50004009014" usfm="PHP 4:9!14">καὶ</e>
+               <e id="N1904.Phil.4.9.15" clearId="n50004009015" usfm="PHP 4:9!15">ὁ</e>
+               <e id="N1904.Phil.4.9.16" clearId="n50004009016" usfm="PHP 4:9!16">Θεὸς</e>
+               <e id="N1904.Phil.4.9.17" clearId="n50004009017" usfm="PHP 4:9!17">τῆς</e>
+               <e id="N1904.Phil.4.9.18" clearId="n50004009018" usfm="PHP 4:9!18">εἰρήνης</e>
+               <e id="N1904.Phil.4.9.19" clearId="n50004009019" usfm="PHP 4:9!19">ἔσται</e>
+               <e id="N1904.Phil.4.9.20" clearId="n50004009020" usfm="PHP 4:9!20">μεθ’</e>
+               <e id="N1904.Phil.4.9.21"
+                  clearId="n50004009021"
+                  usfm="PHP 4:9!21"
+                  after=".">ὑμῶν</e>
+            </c>
+         </c>
+         <c unit="seg" title="Acknowledgment of the Kindness of the Philippians">
+            <c id="N1904.Phil.4.10.1-19" unit="move">
+               <e id="N1904.Phil.4.10.1" clearId="n50004010001" usfm="PHP 4:10!1">Ἐχάρην</e>
+               <e id="N1904.Phil.4.10.2" clearId="n50004010002" usfm="PHP 4:10!2">δὲ</e>
+               <e id="N1904.Phil.4.10.3" clearId="n50004010003" usfm="PHP 4:10!3">ἐν</e>
+               <e id="N1904.Phil.4.10.4" clearId="n50004010004" usfm="PHP 4:10!4">Κυρίῳ</e>
+               <e id="N1904.Phil.4.10.5" clearId="n50004010005" usfm="PHP 4:10!5">μεγάλως</e>
+               <e id="N1904.Phil.4.10.6" clearId="n50004010006" usfm="PHP 4:10!6">ὅτι</e>
+               <e id="N1904.Phil.4.10.7" clearId="n50004010007" usfm="PHP 4:10!7">ἤδη</e>
+               <e id="N1904.Phil.4.10.8" clearId="n50004010008" usfm="PHP 4:10!8">ποτὲ</e>
+               <e id="N1904.Phil.4.10.9" clearId="n50004010009" usfm="PHP 4:10!9">ἀνεθάλετε</e>
+               <e id="N1904.Phil.4.10.10" clearId="n50004010010" usfm="PHP 4:10!10">τὸ</e>
+               <e id="N1904.Phil.4.10.11" clearId="n50004010011" usfm="PHP 4:10!11">ὑπὲρ</e>
+               <e id="N1904.Phil.4.10.12" clearId="n50004010012" usfm="PHP 4:10!12">ἐμοῦ</e>
+               <e id="N1904.Phil.4.10.13"
+                  clearId="n50004010013"
+                  usfm="PHP 4:10!13"
+                  after="·">φρονεῖν</e>
+               <e id="N1904.Phil.4.10.14" clearId="n50004010014" usfm="PHP 4:10!14">ἐφ’</e>
+               <e id="N1904.Phil.4.10.15" clearId="n50004010015" usfm="PHP 4:10!15">ᾧ</e>
+               <e id="N1904.Phil.4.10.16" clearId="n50004010016" usfm="PHP 4:10!16">καὶ</e>
+               <e id="N1904.Phil.4.10.17"
+                  clearId="n50004010017"
+                  usfm="PHP 4:10!17"
+                  after=",">ἐφρονεῖτε</e>
+               <e id="N1904.Phil.4.10.18" clearId="n50004010018" usfm="PHP 4:10!18">ἠκαιρεῖσθε</e>
+               <e id="N1904.Phil.4.10.19"
+                  clearId="n50004010019"
+                  usfm="PHP 4:10!19"
+                  after=".">δέ</e>
+            </c>
+            <c id="N1904.Phil.4.11.1-5" unit="move">
+               <e id="N1904.Phil.4.11.1" clearId="n50004011001" usfm="PHP 4:11!1">οὐχ</e>
+               <e id="N1904.Phil.4.11.2" clearId="n50004011002" usfm="PHP 4:11!2">ὅτι</e>
+               <e id="N1904.Phil.4.11.3" clearId="n50004011003" usfm="PHP 4:11!3">καθ’</e>
+               <e id="N1904.Phil.4.11.4" clearId="n50004011004" usfm="PHP 4:11!4">ὑστέρησιν</e>
+               <e id="N1904.Phil.4.11.5"
+                  clearId="n50004011005"
+                  usfm="PHP 4:11!5"
+                  after="·">λέγω</e>
+            </c>
+            <c id="N1904.Phil.4.11.6-13" unit="move">
+               <e id="N1904.Phil.4.11.6" clearId="n50004011006" usfm="PHP 4:11!6">ἐγὼ</e>
+               <e id="N1904.Phil.4.11.7" clearId="n50004011007" usfm="PHP 4:11!7">γὰρ</e>
+               <e id="N1904.Phil.4.11.8" clearId="n50004011008" usfm="PHP 4:11!8">ἔμαθον</e>
+               <e id="N1904.Phil.4.11.9" clearId="n50004011009" usfm="PHP 4:11!9">ἐν</e>
+               <e id="N1904.Phil.4.11.10" clearId="n50004011010" usfm="PHP 4:11!10">οἷς</e>
+               <e id="N1904.Phil.4.11.11" clearId="n50004011011" usfm="PHP 4:11!11">εἰμι</e>
+               <e id="N1904.Phil.4.11.12" clearId="n50004011012" usfm="PHP 4:11!12">αὐτάρκης</e>
+               <e id="N1904.Phil.4.11.13"
+                  clearId="n50004011013"
+                  usfm="PHP 4:11!13"
+                  after=".">εἶναι</e>
+            </c>
+            <c id="N1904.Phil.4.12.1-6" unit="move">
+               <e id="N1904.Phil.4.12.1" clearId="n50004012001" usfm="PHP 4:12!1">οἶδα</e>
+               <e id="N1904.Phil.4.12.2" clearId="n50004012002" usfm="PHP 4:12!2">καὶ</e>
+               <e id="N1904.Phil.4.12.3"
+                  clearId="n50004012003"
+                  usfm="PHP 4:12!3"
+                  after=",">ταπεινοῦσθαι</e>
+               <e id="N1904.Phil.4.12.4" clearId="n50004012004" usfm="PHP 4:12!4">οἶδα</e>
+               <e id="N1904.Phil.4.12.5" clearId="n50004012005" usfm="PHP 4:12!5">καὶ</e>
+               <e id="N1904.Phil.4.12.6"
+                  clearId="n50004012006"
+                  usfm="PHP 4:12!6"
+                  after="·">περισσεύειν</e>
+            </c>
+            <c id="N1904.Phil.4.12.7-20" unit="move">
+               <e id="N1904.Phil.4.12.7" clearId="n50004012007" usfm="PHP 4:12!7">ἐν</e>
+               <e id="N1904.Phil.4.12.8" clearId="n50004012008" usfm="PHP 4:12!8">παντὶ</e>
+               <e id="N1904.Phil.4.12.9" clearId="n50004012009" usfm="PHP 4:12!9">καὶ</e>
+               <e id="N1904.Phil.4.12.10" clearId="n50004012010" usfm="PHP 4:12!10">ἐν</e>
+               <e id="N1904.Phil.4.12.11" clearId="n50004012011" usfm="PHP 4:12!11">πᾶσιν</e>
+               <e id="N1904.Phil.4.12.12"
+                  clearId="n50004012012"
+                  usfm="PHP 4:12!12"
+                  after=",">μεμύημαι</e>
+               <e id="N1904.Phil.4.12.13" clearId="n50004012013" usfm="PHP 4:12!13">καὶ</e>
+               <e id="N1904.Phil.4.12.14" clearId="n50004012014" usfm="PHP 4:12!14">χορτάζεσθαι</e>
+               <e id="N1904.Phil.4.12.15" clearId="n50004012015" usfm="PHP 4:12!15">καὶ</e>
+               <e id="N1904.Phil.4.12.16"
+                  clearId="n50004012016"
+                  usfm="PHP 4:12!16"
+                  after=",">πεινᾶν</e>
+               <e id="N1904.Phil.4.12.17" clearId="n50004012017" usfm="PHP 4:12!17">καὶ</e>
+               <e id="N1904.Phil.4.12.18" clearId="n50004012018" usfm="PHP 4:12!18">περισσεύειν</e>
+               <e id="N1904.Phil.4.12.19" clearId="n50004012019" usfm="PHP 4:12!19">καὶ</e>
+               <e id="N1904.Phil.4.12.20"
+                  clearId="n50004012020"
+                  usfm="PHP 4:12!20"
+                  after=".">ὑστερεῖσθαι</e>
+            </c>
+            <c id="N1904.Phil.4.13.1-6" unit="move">
+               <e id="N1904.Phil.4.13.1" clearId="n50004013001" usfm="PHP 4:13!1">πάντα</e>
+               <e id="N1904.Phil.4.13.2" clearId="n50004013002" usfm="PHP 4:13!2">ἰσχύω</e>
+               <e id="N1904.Phil.4.13.3" clearId="n50004013003" usfm="PHP 4:13!3">ἐν</e>
+               <e id="N1904.Phil.4.13.4" clearId="n50004013004" usfm="PHP 4:13!4">τῷ</e>
+               <e id="N1904.Phil.4.13.5" clearId="n50004013005" usfm="PHP 4:13!5">ἐνδυναμοῦντί</e>
+               <e id="N1904.Phil.4.13.6"
+                  clearId="n50004013006"
+                  usfm="PHP 4:13!6"
+                  after=".">με</e>
+            </c>
+            <c id="N1904.Phil.4.14.1-7" unit="move">
+               <e id="N1904.Phil.4.14.1" clearId="n50004014001" usfm="PHP 4:14!1">πλὴν</e>
+               <e id="N1904.Phil.4.14.2" clearId="n50004014002" usfm="PHP 4:14!2">καλῶς</e>
+               <e id="N1904.Phil.4.14.3" clearId="n50004014003" usfm="PHP 4:14!3">ἐποιήσατε</e>
+               <e id="N1904.Phil.4.14.4" clearId="n50004014004" usfm="PHP 4:14!4">συνκοινωνήσαντές</e>
+               <e id="N1904.Phil.4.14.5" clearId="n50004014005" usfm="PHP 4:14!5">μου</e>
+               <e id="N1904.Phil.4.14.6" clearId="n50004014006" usfm="PHP 4:14!6">τῇ</e>
+               <e id="N1904.Phil.4.14.7"
+                  clearId="n50004014007"
+                  usfm="PHP 4:14!7"
+                  after=".">θλίψει</e>
+            </c>
+            <c id="N1904.Phil.4.15.1-16.13" unit="move">
+               <e id="N1904.Phil.4.15.1" clearId="n50004015001" usfm="PHP 4:15!1">οἴδατε</e>
+               <e id="N1904.Phil.4.15.2" clearId="n50004015002" usfm="PHP 4:15!2">δὲ</e>
+               <e id="N1904.Phil.4.15.3" clearId="n50004015003" usfm="PHP 4:15!3">καὶ</e>
+               <e id="N1904.Phil.4.15.4"
+                  clearId="n50004015004"
+                  usfm="PHP 4:15!4"
+                  after=",">ὑμεῖς</e>
+               <e id="N1904.Phil.4.15.5"
+                  clearId="n50004015005"
+                  usfm="PHP 4:15!5"
+                  after=",">Φιλιππήσιοι</e>
+               <e id="N1904.Phil.4.15.6" clearId="n50004015006" usfm="PHP 4:15!6">ὅτι</e>
+               <e id="N1904.Phil.4.15.7" clearId="n50004015007" usfm="PHP 4:15!7">ἐν</e>
+               <e id="N1904.Phil.4.15.8" clearId="n50004015008" usfm="PHP 4:15!8">ἀρχῇ</e>
+               <e id="N1904.Phil.4.15.9" clearId="n50004015009" usfm="PHP 4:15!9">τοῦ</e>
+               <e id="N1904.Phil.4.15.10"
+                  clearId="n50004015010"
+                  usfm="PHP 4:15!10"
+                  after=",">εὐαγγελίου</e>
+               <e id="N1904.Phil.4.15.11" clearId="n50004015011" usfm="PHP 4:15!11">ὅτε</e>
+               <e id="N1904.Phil.4.15.12" clearId="n50004015012" usfm="PHP 4:15!12">ἐξῆλθον</e>
+               <e id="N1904.Phil.4.15.13" clearId="n50004015013" usfm="PHP 4:15!13">ἀπὸ</e>
+               <e id="N1904.Phil.4.15.14"
+                  clearId="n50004015014"
+                  usfm="PHP 4:15!14"
+                  after=",">Μακεδονίας</e>
+               <e id="N1904.Phil.4.15.15" clearId="n50004015015" usfm="PHP 4:15!15">οὐδεμία</e>
+               <e id="N1904.Phil.4.15.16" clearId="n50004015016" usfm="PHP 4:15!16">μοι</e>
+               <e id="N1904.Phil.4.15.17" clearId="n50004015017" usfm="PHP 4:15!17">ἐκκλησία</e>
+               <e id="N1904.Phil.4.15.18" clearId="n50004015018" usfm="PHP 4:15!18">ἐκοινώνησεν</e>
+               <e id="N1904.Phil.4.15.19" clearId="n50004015019" usfm="PHP 4:15!19">εἰς</e>
+               <e id="N1904.Phil.4.15.20" clearId="n50004015020" usfm="PHP 4:15!20">λόγον</e>
+               <e id="N1904.Phil.4.15.21" clearId="n50004015021" usfm="PHP 4:15!21">δόσεως</e>
+               <e id="N1904.Phil.4.15.22" clearId="n50004015022" usfm="PHP 4:15!22">καὶ</e>
+               <e id="N1904.Phil.4.15.23" clearId="n50004015023" usfm="PHP 4:15!23">λήμψεως</e>
+               <e id="N1904.Phil.4.15.24" clearId="n50004015024" usfm="PHP 4:15!24">εἰ</e>
+               <e id="N1904.Phil.4.15.25" clearId="n50004015025" usfm="PHP 4:15!25">μὴ</e>
+               <e id="N1904.Phil.4.15.26" clearId="n50004015026" usfm="PHP 4:15!26">ὑμεῖς</e>
+               <e id="N1904.Phil.4.15.27"
+                  clearId="n50004015027"
+                  usfm="PHP 4:15!27"
+                  after=",">μόνοι</e>
+               <e id="N1904.Phil.4.16.1" clearId="n50004016001" usfm="PHP 4:16!1">ὅτι</e>
+               <e id="N1904.Phil.4.16.2" clearId="n50004016002" usfm="PHP 4:16!2">καὶ</e>
+               <e id="N1904.Phil.4.16.3" clearId="n50004016003" usfm="PHP 4:16!3">ἐν</e>
+               <e id="N1904.Phil.4.16.4" clearId="n50004016004" usfm="PHP 4:16!4">Θεσσαλονίκῃ</e>
+               <e id="N1904.Phil.4.16.5" clearId="n50004016005" usfm="PHP 4:16!5">καὶ</e>
+               <e id="N1904.Phil.4.16.6" clearId="n50004016006" usfm="PHP 4:16!6">ἅπαξ</e>
+               <e id="N1904.Phil.4.16.7" clearId="n50004016007" usfm="PHP 4:16!7">καὶ</e>
+               <e id="N1904.Phil.4.16.8" clearId="n50004016008" usfm="PHP 4:16!8">δὶς</e>
+               <e id="N1904.Phil.4.16.9" clearId="n50004016009" usfm="PHP 4:16!9">εἰς</e>
+               <e id="N1904.Phil.4.16.10" clearId="n50004016010" usfm="PHP 4:16!10">τὴν</e>
+               <e id="N1904.Phil.4.16.11" clearId="n50004016011" usfm="PHP 4:16!11">χρείαν</e>
+               <e id="N1904.Phil.4.16.12" clearId="n50004016012" usfm="PHP 4:16!12">μοι</e>
+               <e id="N1904.Phil.4.16.13"
+                  clearId="n50004016013"
+                  usfm="PHP 4:16!13"
+                  after=".">ἐπέμψατε</e>
+            </c>
+            <c id="N1904.Phil.4.17.1-14" unit="move">
+               <e id="N1904.Phil.4.17.1" clearId="n50004017001" usfm="PHP 4:17!1">οὐχ</e>
+               <e id="N1904.Phil.4.17.2" clearId="n50004017002" usfm="PHP 4:17!2">ὅτι</e>
+               <e id="N1904.Phil.4.17.3" clearId="n50004017003" usfm="PHP 4:17!3">ἐπιζητῶ</e>
+               <e id="N1904.Phil.4.17.4" clearId="n50004017004" usfm="PHP 4:17!4">τὸ</e>
+               <e id="N1904.Phil.4.17.5"
+                  clearId="n50004017005"
+                  usfm="PHP 4:17!5"
+                  after=",">δόμα</e>
+               <e id="N1904.Phil.4.17.6" clearId="n50004017006" usfm="PHP 4:17!6">ἀλλὰ</e>
+               <e id="N1904.Phil.4.17.7" clearId="n50004017007" usfm="PHP 4:17!7">ἐπιζητῶ</e>
+               <e id="N1904.Phil.4.17.8" clearId="n50004017008" usfm="PHP 4:17!8">τὸν</e>
+               <e id="N1904.Phil.4.17.9" clearId="n50004017009" usfm="PHP 4:17!9">καρπὸν</e>
+               <e id="N1904.Phil.4.17.10" clearId="n50004017010" usfm="PHP 4:17!10">τὸν</e>
+               <e id="N1904.Phil.4.17.11" clearId="n50004017011" usfm="PHP 4:17!11">πλεονάζοντα</e>
+               <e id="N1904.Phil.4.17.12" clearId="n50004017012" usfm="PHP 4:17!12">εἰς</e>
+               <e id="N1904.Phil.4.17.13" clearId="n50004017013" usfm="PHP 4:17!13">λόγον</e>
+               <e id="N1904.Phil.4.17.14"
+                  clearId="n50004017014"
+                  usfm="PHP 4:17!14"
+                  after=".">ὑμῶν</e>
+            </c>
+            <c id="N1904.Phil.4.18.1-3" unit="move">
+               <e id="N1904.Phil.4.18.1" clearId="n50004018001" usfm="PHP 4:18!1">ἀπέχω</e>
+               <e id="N1904.Phil.4.18.2" clearId="n50004018002" usfm="PHP 4:18!2">δὲ</e>
+               <e id="N1904.Phil.4.18.3" clearId="n50004018003" usfm="PHP 4:18!3">πάντα</e>
+            </c>
+            <c id="N1904.Phil.4.18.4-5" unit="move">
+               <e id="N1904.Phil.4.18.4" clearId="n50004018004" usfm="PHP 4:18!4">καὶ</e>
+               <e id="N1904.Phil.4.18.5"
+                  clearId="n50004018005"
+                  usfm="PHP 4:18!5"
+                  after="·">περισσεύω</e>
+            </c>
+            <c id="N1904.Phil.4.18.6-19" unit="move">
+               <e id="N1904.Phil.4.18.6" clearId="n50004018006" usfm="PHP 4:18!6">πεπλήρωμαι</e>
+               <e id="N1904.Phil.4.18.7" clearId="n50004018007" usfm="PHP 4:18!7">δεξάμενος</e>
+               <e id="N1904.Phil.4.18.8" clearId="n50004018008" usfm="PHP 4:18!8">παρὰ</e>
+               <e id="N1904.Phil.4.18.9" clearId="n50004018009" usfm="PHP 4:18!9">Ἐπαφροδίτου</e>
+               <e id="N1904.Phil.4.18.10" clearId="n50004018010" usfm="PHP 4:18!10">τὰ</e>
+               <e id="N1904.Phil.4.18.11" clearId="n50004018011" usfm="PHP 4:18!11">παρ’</e>
+               <e id="N1904.Phil.4.18.12"
+                  clearId="n50004018012"
+                  usfm="PHP 4:18!12"
+                  after=",">ὑμῶν</e>
+               <e id="N1904.Phil.4.18.13" clearId="n50004018013" usfm="PHP 4:18!13">ὀσμὴν</e>
+               <e id="N1904.Phil.4.18.14"
+                  clearId="n50004018014"
+                  usfm="PHP 4:18!14"
+                  after=",">εὐωδίας</e>
+               <e id="N1904.Phil.4.18.15" clearId="n50004018015" usfm="PHP 4:18!15">θυσίαν</e>
+               <e id="N1904.Phil.4.18.16"
+                  clearId="n50004018016"
+                  usfm="PHP 4:18!16"
+                  after=",">δεκτήν</e>
+               <e id="N1904.Phil.4.18.17" clearId="n50004018017" usfm="PHP 4:18!17">εὐάρεστον</e>
+               <e id="N1904.Phil.4.18.18" clearId="n50004018018" usfm="PHP 4:18!18">τῷ</e>
+               <e id="N1904.Phil.4.18.19"
+                  clearId="n50004018019"
+                  usfm="PHP 4:18!19"
+                  after=".">Θεῷ</e>
+            </c>
+            <c id="N1904.Phil.4.19.1-17" unit="move">
+               <e id="N1904.Phil.4.19.1" clearId="n50004019001" usfm="PHP 4:19!1">ὁ</e>
+               <e id="N1904.Phil.4.19.2" clearId="n50004019002" usfm="PHP 4:19!2">δὲ</e>
+               <e id="N1904.Phil.4.19.3" clearId="n50004019003" usfm="PHP 4:19!3">Θεός</e>
+               <e id="N1904.Phil.4.19.4" clearId="n50004019004" usfm="PHP 4:19!4">μου</e>
+               <e id="N1904.Phil.4.19.5" clearId="n50004019005" usfm="PHP 4:19!5">πληρώσει</e>
+               <e id="N1904.Phil.4.19.6" clearId="n50004019006" usfm="PHP 4:19!6">πᾶσαν</e>
+               <e id="N1904.Phil.4.19.7" clearId="n50004019007" usfm="PHP 4:19!7">χρείαν</e>
+               <e id="N1904.Phil.4.19.8" clearId="n50004019008" usfm="PHP 4:19!8">ὑμῶν</e>
+               <e id="N1904.Phil.4.19.9" clearId="n50004019009" usfm="PHP 4:19!9">κατὰ</e>
+               <e id="N1904.Phil.4.19.10" clearId="n50004019010" usfm="PHP 4:19!10">τὸ</e>
+               <e id="N1904.Phil.4.19.11" clearId="n50004019011" usfm="PHP 4:19!11">πλοῦτος</e>
+               <e id="N1904.Phil.4.19.12" clearId="n50004019012" usfm="PHP 4:19!12">αὐτοῦ</e>
+               <e id="N1904.Phil.4.19.13" clearId="n50004019013" usfm="PHP 4:19!13">ἐν</e>
+               <e id="N1904.Phil.4.19.14" clearId="n50004019014" usfm="PHP 4:19!14">δόξῃ</e>
+               <e id="N1904.Phil.4.19.15" clearId="n50004019015" usfm="PHP 4:19!15">ἐν</e>
+               <e id="N1904.Phil.4.19.16" clearId="n50004019016" usfm="PHP 4:19!16">Χριστῷ</e>
+               <e id="N1904.Phil.4.19.17"
+                  clearId="n50004019017"
+                  usfm="PHP 4:19!17"
+                  after=".">Ἰησοῦ</e>
+            </c>
+            <c id="N1904.Phil.4.20.1-14" unit="move">
+               <e id="N1904.Phil.4.20.1" clearId="n50004020001" usfm="PHP 4:20!1">τῷ</e>
+               <e id="N1904.Phil.4.20.2" clearId="n50004020002" usfm="PHP 4:20!2">δὲ</e>
+               <e id="N1904.Phil.4.20.3" clearId="n50004020003" usfm="PHP 4:20!3">Θεῷ</e>
+               <e id="N1904.Phil.4.20.4" clearId="n50004020004" usfm="PHP 4:20!4">καὶ</e>
+               <e id="N1904.Phil.4.20.5" clearId="n50004020005" usfm="PHP 4:20!5">Πατρὶ</e>
+               <e id="N1904.Phil.4.20.6" clearId="n50004020006" usfm="PHP 4:20!6">ἡμῶν</e>
+               <e id="N1904.Phil.4.20.7" clearId="n50004020007" usfm="PHP 4:20!7">ἡ</e>
+               <e id="N1904.Phil.4.20.8" clearId="n50004020008" usfm="PHP 4:20!8">δόξα</e>
+               <e id="N1904.Phil.4.20.9" clearId="n50004020009" usfm="PHP 4:20!9">εἰς</e>
+               <e id="N1904.Phil.4.20.10" clearId="n50004020010" usfm="PHP 4:20!10">τοὺς</e>
+               <e id="N1904.Phil.4.20.11" clearId="n50004020011" usfm="PHP 4:20!11">αἰῶνας</e>
+               <e id="N1904.Phil.4.20.12" clearId="n50004020012" usfm="PHP 4:20!12">τῶν</e>
+               <e id="N1904.Phil.4.20.13"
+                  clearId="n50004020013"
+                  usfm="PHP 4:20!13"
+                  after="·">αἰώνων</e>
+               <e id="N1904.Phil.4.20.14"
+                  clearId="n50004020014"
+                  usfm="PHP 4:20!14"
+                  after=".">ἀμήν</e>
+            </c>
+         </c>
+         <c unit="seg" title="Greetings and Conclusion">
+            <c id="N1904.Phil.4.21.1-6" unit="move">
+               <e id="N1904.Phil.4.21.1" clearId="n50004021001" usfm="PHP 4:21!1">Ἀσπάσασθε</e>
+               <e id="N1904.Phil.4.21.2" clearId="n50004021002" usfm="PHP 4:21!2">πάντα</e>
+               <e id="N1904.Phil.4.21.3" clearId="n50004021003" usfm="PHP 4:21!3">ἅγιον</e>
+               <e id="N1904.Phil.4.21.4" clearId="n50004021004" usfm="PHP 4:21!4">ἐν</e>
+               <e id="N1904.Phil.4.21.5" clearId="n50004021005" usfm="PHP 4:21!5">Χριστῷ</e>
+               <e id="N1904.Phil.4.21.6"
+                  clearId="n50004021006"
+                  usfm="PHP 4:21!6"
+                  after=".">Ἰησοῦ</e>
+            </c>
+            <c id="N1904.Phil.4.21.7-12" unit="move">
+               <e id="N1904.Phil.4.21.7" clearId="n50004021007" usfm="PHP 4:21!7">ἀσπάζονται</e>
+               <e id="N1904.Phil.4.21.8" clearId="n50004021008" usfm="PHP 4:21!8">ὑμᾶς</e>
+               <e id="N1904.Phil.4.21.9" clearId="n50004021009" usfm="PHP 4:21!9">οἱ</e>
+               <e id="N1904.Phil.4.21.10" clearId="n50004021010" usfm="PHP 4:21!10">σὺν</e>
+               <e id="N1904.Phil.4.21.11" clearId="n50004021011" usfm="PHP 4:21!11">ἐμοὶ</e>
+               <e id="N1904.Phil.4.21.12"
+                  clearId="n50004021012"
+                  usfm="PHP 4:21!12"
+                  after=".">ἀδελφοί</e>
+            </c>
+            <c id="N1904.Phil.4.22.1-12" unit="move">
+               <e id="N1904.Phil.4.22.1" clearId="n50004022001" usfm="PHP 4:22!1">ἀσπάζονται</e>
+               <e id="N1904.Phil.4.22.2" clearId="n50004022002" usfm="PHP 4:22!2">ὑμᾶς</e>
+               <e id="N1904.Phil.4.22.3" clearId="n50004022003" usfm="PHP 4:22!3">πάντες</e>
+               <e id="N1904.Phil.4.22.4" clearId="n50004022004" usfm="PHP 4:22!4">οἱ</e>
+               <e id="N1904.Phil.4.22.5"
+                  clearId="n50004022005"
+                  usfm="PHP 4:22!5"
+                  after=",">ἅγιοι</e>
+               <e id="N1904.Phil.4.22.6" clearId="n50004022006" usfm="PHP 4:22!6">μάλιστα</e>
+               <e id="N1904.Phil.4.22.7" clearId="n50004022007" usfm="PHP 4:22!7">δὲ</e>
+               <e id="N1904.Phil.4.22.8" clearId="n50004022008" usfm="PHP 4:22!8">οἱ</e>
+               <e id="N1904.Phil.4.22.9" clearId="n50004022009" usfm="PHP 4:22!9">ἐκ</e>
+               <e id="N1904.Phil.4.22.10" clearId="n50004022010" usfm="PHP 4:22!10">τῆς</e>
+               <e id="N1904.Phil.4.22.11" clearId="n50004022011" usfm="PHP 4:22!11">Καίσαρος</e>
+               <e id="N1904.Phil.4.22.12"
+                  clearId="n50004022012"
+                  usfm="PHP 4:22!12"
+                  after=".">οἰκίας</e>
+            </c>
+            <c id="N1904.Phil.4.23.1-10" unit="move">
+               <e id="N1904.Phil.4.23.1" clearId="n50004023001" usfm="PHP 4:23!1">Ἠ</e>
+               <e id="N1904.Phil.4.23.2" clearId="n50004023002" usfm="PHP 4:23!2">χάρις</e>
+               <e id="N1904.Phil.4.23.3" clearId="n50004023003" usfm="PHP 4:23!3">τοῦ</e>
+               <e id="N1904.Phil.4.23.4" clearId="n50004023004" usfm="PHP 4:23!4">Κυρίου</e>
+               <e id="N1904.Phil.4.23.5" clearId="n50004023005" usfm="PHP 4:23!5">Ἰησοῦ</e>
+               <e id="N1904.Phil.4.23.6" clearId="n50004023006" usfm="PHP 4:23!6">Χριστοῦ</e>
+               <e id="N1904.Phil.4.23.7" clearId="n50004023007" usfm="PHP 4:23!7">μετὰ</e>
+               <e id="N1904.Phil.4.23.8" clearId="n50004023008" usfm="PHP 4:23!8">τοῦ</e>
+               <e id="N1904.Phil.4.23.9" clearId="n50004023009" usfm="PHP 4:23!9">πνεύματος</e>
+               <e id="N1904.Phil.4.23.10"
+                  clearId="n50004023010"
+                  usfm="PHP 4:23!10"
+                  after=".">ὑμῶν</e>
+            </c>
+         </c>
+      </c>
+   </text>
+</OpenText>

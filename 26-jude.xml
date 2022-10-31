@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../Display_Files/styles/context.css"?>
+<OpenText xmlns:cblte="http://www.cblte.org"
+          xmlns:fn="http://www.w3.org/2005/xpath-functions"
+          xmlns:xs="http://www.w3.org/2001/XMLSchema">
+   <header>
+      <fileDesc>
+         <titleStmt>
+            <title>OpenText Contextual Annotation</title>
+            <editor>Christopher D. Land</editor>
+            <editor>Ryder A. Wishart</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>1.00</edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>www.opentext.org</authority>
+            <availability>
+               <p>Greek text transcribed by Diego Renato dos Santos. Available at https://sites.google.com/site/nestle1904/.</p>
+               <p>Context annotation is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Available at https://github.com/OpenText-org/context-annotation.</p>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note>Corrections are welcome either through GitHub, the project website (www.opentext.org), or a direct email to Christopher D. Land or Ryder A. Wishart.</note>
+         </notesStmt>
+         <sourceDesc>
+            <p>The text is that of Eberhard Nestle, published as ̔Η Καινη Διαθηκη, Text with Critical Apparatus (London: British and Foreign Bible Society, 1904).</p>
+            <p>Contextual speaking turns were derived by Christopher D. Land using projection data in the original [OpenText annotation](https://github.com/OpenText-org/GNT_annotation_v1.0) together with the capitalization of the Nestle 1904 edition. Manual error correction was then carried
+                        out by Christopher D. Land and Doosuk Kim.</p>
+            <p>Turn segments were derived by Ryder A. Wishart by modifying the pericope headings of Robinson and Pierpont's Greek New Testament, which is in the public domain. Differences can be identified by comparing this data to the start and end tokens compiled by [James
+                        Tauber](https://github.com/jtauber/vocabulary-tools/blob/master/gnt_data/pericopes.txt).</p>
+            <p>Move segments were derived by Christopher D. Land from syntax markup copyright 2014-2017 by the Global Bible Initiative, made available under under a [CC-BY-SA License] (http://creativecommons.org/licenses/by-sa/3.0/). Available at
+                        https://github.com/biblicalhumanities/greek-new-testament/syntax-trees/nestle1904.</p>
+         </sourceDesc>
+      </fileDesc>
+   </header>
+   <text id="Jude">
+      <c unit="turn">
+         <c unit="seg" title="Introductory Salutation">
+            <c id="N1904.Jude.1.1.1-17" unit="move">
+               <e id="N1904.Jude.1.1.1" clearId="n65001001001" usfm="JUD 1:1!1">Ἰούδας</e>
+               <e id="N1904.Jude.1.1.2" clearId="n65001001002" usfm="JUD 1:1!2">Ἰησοῦ</e>
+               <e id="N1904.Jude.1.1.3" clearId="n65001001003" usfm="JUD 1:1!3">Χριστοῦ</e>
+               <e id="N1904.Jude.1.1.4"
+                  clearId="n65001001004"
+                  usfm="JUD 1:1!4"
+                  after=",">δοῦλος</e>
+               <e id="N1904.Jude.1.1.5" clearId="n65001001005" usfm="JUD 1:1!5">ἀδελφὸς</e>
+               <e id="N1904.Jude.1.1.6" clearId="n65001001006" usfm="JUD 1:1!6">δὲ</e>
+               <e id="N1904.Jude.1.1.7"
+                  clearId="n65001001007"
+                  usfm="JUD 1:1!7"
+                  after=",">Ἰακώβου</e>
+               <e id="N1904.Jude.1.1.8" clearId="n65001001008" usfm="JUD 1:1!8">τοῖς</e>
+               <e id="N1904.Jude.1.1.9" clearId="n65001001009" usfm="JUD 1:1!9">ἐν</e>
+               <e id="N1904.Jude.1.1.10" clearId="n65001001010" usfm="JUD 1:1!10">Θεῷ</e>
+               <e id="N1904.Jude.1.1.11" clearId="n65001001011" usfm="JUD 1:1!11">Πατρὶ</e>
+               <e id="N1904.Jude.1.1.12" clearId="n65001001012" usfm="JUD 1:1!12">ἠγαπημένοις</e>
+               <e id="N1904.Jude.1.1.13" clearId="n65001001013" usfm="JUD 1:1!13">καὶ</e>
+               <e id="N1904.Jude.1.1.14" clearId="n65001001014" usfm="JUD 1:1!14">Ἰησοῦ</e>
+               <e id="N1904.Jude.1.1.15" clearId="n65001001015" usfm="JUD 1:1!15">Χριστῷ</e>
+               <e id="N1904.Jude.1.1.16" clearId="n65001001016" usfm="JUD 1:1!16">τετηρημένοις</e>
+               <e id="N1904.Jude.1.1.17"
+                  clearId="n65001001017"
+                  usfm="JUD 1:1!17"
+                  after=".">κλητοῖς</e>
+            </c>
+            <c id="N1904.Jude.1.2.1-7" unit="move">
+               <e id="N1904.Jude.1.2.1" clearId="n65001002001" usfm="JUD 1:2!1">ἔλεος</e>
+               <e id="N1904.Jude.1.2.2" clearId="n65001002002" usfm="JUD 1:2!2">ὑμῖν</e>
+               <e id="N1904.Jude.1.2.3" clearId="n65001002003" usfm="JUD 1:2!3">καὶ</e>
+               <e id="N1904.Jude.1.2.4" clearId="n65001002004" usfm="JUD 1:2!4">εἰρήνη</e>
+               <e id="N1904.Jude.1.2.5" clearId="n65001002005" usfm="JUD 1:2!5">καὶ</e>
+               <e id="N1904.Jude.1.2.6" clearId="n65001002006" usfm="JUD 1:2!6">ἀγάπη</e>
+               <e id="N1904.Jude.1.2.7"
+                  clearId="n65001002007"
+                  usfm="JUD 1:2!7"
+                  after=".">πληθυνθείη</e>
+            </c>
+         </c>
+         <c unit="seg" title="An Exhortation to Constancy in Faith">
+            <c id="N1904.Jude.1.3.1-23" unit="move">
+               <e id="N1904.Jude.1.3.1"
+                  clearId="n65001003001"
+                  usfm="JUD 1:3!1"
+                  after=",">Ἀγαπητοί</e>
+               <e id="N1904.Jude.1.3.2" clearId="n65001003002" usfm="JUD 1:3!2">πᾶσαν</e>
+               <e id="N1904.Jude.1.3.3" clearId="n65001003003" usfm="JUD 1:3!3">σπουδὴν</e>
+               <e id="N1904.Jude.1.3.4" clearId="n65001003004" usfm="JUD 1:3!4">ποιούμενος</e>
+               <e id="N1904.Jude.1.3.5" clearId="n65001003005" usfm="JUD 1:3!5">γράφειν</e>
+               <e id="N1904.Jude.1.3.6" clearId="n65001003006" usfm="JUD 1:3!6">ὑμῖν</e>
+               <e id="N1904.Jude.1.3.7" clearId="n65001003007" usfm="JUD 1:3!7">περὶ</e>
+               <e id="N1904.Jude.1.3.8" clearId="n65001003008" usfm="JUD 1:3!8">τῆς</e>
+               <e id="N1904.Jude.1.3.9" clearId="n65001003009" usfm="JUD 1:3!9">κοινῆς</e>
+               <e id="N1904.Jude.1.3.10" clearId="n65001003010" usfm="JUD 1:3!10">ἡμῶν</e>
+               <e id="N1904.Jude.1.3.11"
+                  clearId="n65001003011"
+                  usfm="JUD 1:3!11"
+                  after=",">σωτηρίας</e>
+               <e id="N1904.Jude.1.3.12" clearId="n65001003012" usfm="JUD 1:3!12">ἀνάγκην</e>
+               <e id="N1904.Jude.1.3.13" clearId="n65001003013" usfm="JUD 1:3!13">ἔσχον</e>
+               <e id="N1904.Jude.1.3.14" clearId="n65001003014" usfm="JUD 1:3!14">γράψαι</e>
+               <e id="N1904.Jude.1.3.15" clearId="n65001003015" usfm="JUD 1:3!15">ὑμῖν</e>
+               <e id="N1904.Jude.1.3.16" clearId="n65001003016" usfm="JUD 1:3!16">παρακαλῶν</e>
+               <e id="N1904.Jude.1.3.17" clearId="n65001003017" usfm="JUD 1:3!17">ἐπαγωνίζεσθαι</e>
+               <e id="N1904.Jude.1.3.18" clearId="n65001003018" usfm="JUD 1:3!18">τῇ</e>
+               <e id="N1904.Jude.1.3.19" clearId="n65001003019" usfm="JUD 1:3!19">ἅπαξ</e>
+               <e id="N1904.Jude.1.3.20" clearId="n65001003020" usfm="JUD 1:3!20">παραδοθείσῃ</e>
+               <e id="N1904.Jude.1.3.21" clearId="n65001003021" usfm="JUD 1:3!21">τοῖς</e>
+               <e id="N1904.Jude.1.3.22" clearId="n65001003022" usfm="JUD 1:3!22">ἁγίοις</e>
+               <e id="N1904.Jude.1.3.23"
+                  clearId="n65001003023"
+                  usfm="JUD 1:3!23"
+                  after=".">πίστει</e>
+            </c>
+            <c id="N1904.Jude.1.4.1-30" unit="move">
+               <e id="N1904.Jude.1.4.1" clearId="n65001004001" usfm="JUD 1:4!1">παρεισεδύησαν</e>
+               <e id="N1904.Jude.1.4.2" clearId="n65001004002" usfm="JUD 1:4!2">γάρ</e>
+               <e id="N1904.Jude.1.4.3" clearId="n65001004003" usfm="JUD 1:4!3">τινες</e>
+               <e id="N1904.Jude.1.4.4"
+                  clearId="n65001004004"
+                  usfm="JUD 1:4!4"
+                  after=",">ἄνθρωποι</e>
+               <e id="N1904.Jude.1.4.5" clearId="n65001004005" usfm="JUD 1:4!5">οἱ</e>
+               <e id="N1904.Jude.1.4.6" clearId="n65001004006" usfm="JUD 1:4!6">πάλαι</e>
+               <e id="N1904.Jude.1.4.7" clearId="n65001004007" usfm="JUD 1:4!7">προγεγραμμένοι</e>
+               <e id="N1904.Jude.1.4.8" clearId="n65001004008" usfm="JUD 1:4!8">εἰς</e>
+               <e id="N1904.Jude.1.4.9" clearId="n65001004009" usfm="JUD 1:4!9">τοῦτο</e>
+               <e id="N1904.Jude.1.4.10" clearId="n65001004010" usfm="JUD 1:4!10">τὸ</e>
+               <e id="N1904.Jude.1.4.11"
+                  clearId="n65001004011"
+                  usfm="JUD 1:4!11"
+                  after=",">κρίμα</e>
+               <e id="N1904.Jude.1.4.12"
+                  clearId="n65001004012"
+                  usfm="JUD 1:4!12"
+                  after=",">ἀσεβεῖς</e>
+               <e id="N1904.Jude.1.4.13" clearId="n65001004013" usfm="JUD 1:4!13">τὴν</e>
+               <e id="N1904.Jude.1.4.14" clearId="n65001004014" usfm="JUD 1:4!14">τοῦ</e>
+               <e id="N1904.Jude.1.4.15" clearId="n65001004015" usfm="JUD 1:4!15">Θεοῦ</e>
+               <e id="N1904.Jude.1.4.16" clearId="n65001004016" usfm="JUD 1:4!16">ἡμῶν</e>
+               <e id="N1904.Jude.1.4.17" clearId="n65001004017" usfm="JUD 1:4!17">χάριτα</e>
+               <e id="N1904.Jude.1.4.18" clearId="n65001004018" usfm="JUD 1:4!18">μετατιθέντες</e>
+               <e id="N1904.Jude.1.4.19" clearId="n65001004019" usfm="JUD 1:4!19">εἰς</e>
+               <e id="N1904.Jude.1.4.20" clearId="n65001004020" usfm="JUD 1:4!20">ἀσέλγειαν</e>
+               <e id="N1904.Jude.1.4.21" clearId="n65001004021" usfm="JUD 1:4!21">καὶ</e>
+               <e id="N1904.Jude.1.4.22" clearId="n65001004022" usfm="JUD 1:4!22">τὸν</e>
+               <e id="N1904.Jude.1.4.23" clearId="n65001004023" usfm="JUD 1:4!23">μόνον</e>
+               <e id="N1904.Jude.1.4.24" clearId="n65001004024" usfm="JUD 1:4!24">Δεσπότην</e>
+               <e id="N1904.Jude.1.4.25" clearId="n65001004025" usfm="JUD 1:4!25">καὶ</e>
+               <e id="N1904.Jude.1.4.26" clearId="n65001004026" usfm="JUD 1:4!26">Κύριον</e>
+               <e id="N1904.Jude.1.4.27" clearId="n65001004027" usfm="JUD 1:4!27">ἡμῶν</e>
+               <e id="N1904.Jude.1.4.28" clearId="n65001004028" usfm="JUD 1:4!28">Ἰησοῦν</e>
+               <e id="N1904.Jude.1.4.29" clearId="n65001004029" usfm="JUD 1:4!29">Χριστὸν</e>
+               <e id="N1904.Jude.1.4.30"
+                  clearId="n65001004030"
+                  usfm="JUD 1:4!30"
+                  after=".">ἀρνούμενοι</e>
+            </c>
+         </c>
+         <c unit="seg" title="Examples of the Judgment of God">
+            <c id="N1904.Jude.1.5.1-7.25" unit="move">
+               <e id="N1904.Jude.1.5.1" clearId="n65001005001" usfm="JUD 1:5!1">Ὑπομνῆσαι</e>
+               <e id="N1904.Jude.1.5.2" clearId="n65001005002" usfm="JUD 1:5!2">δὲ</e>
+               <e id="N1904.Jude.1.5.3" clearId="n65001005003" usfm="JUD 1:5!3">ὑμᾶς</e>
+               <e id="N1904.Jude.1.5.4"
+                  clearId="n65001005004"
+                  usfm="JUD 1:5!4"
+                  after=",">βούλομαι</e>
+               <e id="N1904.Jude.1.5.5" clearId="n65001005005" usfm="JUD 1:5!5">εἰδότας</e>
+               <e id="N1904.Jude.1.5.6" clearId="n65001005006" usfm="JUD 1:5!6">ἅπαξ</e>
+               <e id="N1904.Jude.1.5.7"
+                  clearId="n65001005007"
+                  usfm="JUD 1:5!7"
+                  after=",">πάντα</e>
+               <e id="N1904.Jude.1.5.8" clearId="n65001005008" usfm="JUD 1:5!8">ὅτι</e>
+               <e id="N1904.Jude.1.5.9" clearId="n65001005009" usfm="JUD 1:5!9">Κύριος</e>
+               <e id="N1904.Jude.1.5.10" clearId="n65001005010" usfm="JUD 1:5!10">λαὸν</e>
+               <e id="N1904.Jude.1.5.11" clearId="n65001005011" usfm="JUD 1:5!11">ἐκ</e>
+               <e id="N1904.Jude.1.5.12" clearId="n65001005012" usfm="JUD 1:5!12">γῆς</e>
+               <e id="N1904.Jude.1.5.13" clearId="n65001005013" usfm="JUD 1:5!13">Αἰγύπτου</e>
+               <e id="N1904.Jude.1.5.14" clearId="n65001005014" usfm="JUD 1:5!14">σώσας</e>
+               <e id="N1904.Jude.1.5.15" clearId="n65001005015" usfm="JUD 1:5!15">τὸ</e>
+               <e id="N1904.Jude.1.5.16" clearId="n65001005016" usfm="JUD 1:5!16">δεύτερον</e>
+               <e id="N1904.Jude.1.5.17" clearId="n65001005017" usfm="JUD 1:5!17">τοὺς</e>
+               <e id="N1904.Jude.1.5.18" clearId="n65001005018" usfm="JUD 1:5!18">μὴ</e>
+               <e id="N1904.Jude.1.5.19" clearId="n65001005019" usfm="JUD 1:5!19">πιστεύσαντας</e>
+               <e id="N1904.Jude.1.5.20"
+                  clearId="n65001005020"
+                  usfm="JUD 1:5!20"
+                  after=",">ἀπώλεσεν</e>
+               <e id="N1904.Jude.1.6.1" clearId="n65001006001" usfm="JUD 1:6!1">ἀγγέλους</e>
+               <e id="N1904.Jude.1.6.2" clearId="n65001006002" usfm="JUD 1:6!2">τε</e>
+               <e id="N1904.Jude.1.6.3" clearId="n65001006003" usfm="JUD 1:6!3">τοὺς</e>
+               <e id="N1904.Jude.1.6.4" clearId="n65001006004" usfm="JUD 1:6!4">μὴ</e>
+               <e id="N1904.Jude.1.6.5" clearId="n65001006005" usfm="JUD 1:6!5">τηρήσαντας</e>
+               <e id="N1904.Jude.1.6.6" clearId="n65001006006" usfm="JUD 1:6!6">τὴν</e>
+               <e id="N1904.Jude.1.6.7" clearId="n65001006007" usfm="JUD 1:6!7">ἑαυτῶν</e>
+               <e id="N1904.Jude.1.6.8" clearId="n65001006008" usfm="JUD 1:6!8">ἀρχὴν</e>
+               <e id="N1904.Jude.1.6.9" clearId="n65001006009" usfm="JUD 1:6!9">ἀλλὰ</e>
+               <e id="N1904.Jude.1.6.10" clearId="n65001006010" usfm="JUD 1:6!10">ἀπολιπόντας</e>
+               <e id="N1904.Jude.1.6.11" clearId="n65001006011" usfm="JUD 1:6!11">τὸ</e>
+               <e id="N1904.Jude.1.6.12" clearId="n65001006012" usfm="JUD 1:6!12">ἴδιον</e>
+               <e id="N1904.Jude.1.6.13" clearId="n65001006013" usfm="JUD 1:6!13">οἰκητήριον</e>
+               <e id="N1904.Jude.1.6.14" clearId="n65001006014" usfm="JUD 1:6!14">εἰς</e>
+               <e id="N1904.Jude.1.6.15" clearId="n65001006015" usfm="JUD 1:6!15">κρίσιν</e>
+               <e id="N1904.Jude.1.6.16" clearId="n65001006016" usfm="JUD 1:6!16">μεγάλης</e>
+               <e id="N1904.Jude.1.6.17" clearId="n65001006017" usfm="JUD 1:6!17">ἡμέρας</e>
+               <e id="N1904.Jude.1.6.18" clearId="n65001006018" usfm="JUD 1:6!18">δεσμοῖς</e>
+               <e id="N1904.Jude.1.6.19" clearId="n65001006019" usfm="JUD 1:6!19">ἀϊδίοις</e>
+               <e id="N1904.Jude.1.6.20" clearId="n65001006020" usfm="JUD 1:6!20">ὑπὸ</e>
+               <e id="N1904.Jude.1.6.21" clearId="n65001006021" usfm="JUD 1:6!21">ζόφον</e>
+               <e id="N1904.Jude.1.6.22"
+                  clearId="n65001006022"
+                  usfm="JUD 1:6!22"
+                  after="·">τετήρηκεν</e>
+               <e id="N1904.Jude.1.7.1" clearId="n65001007001" usfm="JUD 1:7!1">ὡς</e>
+               <e id="N1904.Jude.1.7.2" clearId="n65001007002" usfm="JUD 1:7!2">Σόδομα</e>
+               <e id="N1904.Jude.1.7.3" clearId="n65001007003" usfm="JUD 1:7!3">καὶ</e>
+               <e id="N1904.Jude.1.7.4" clearId="n65001007004" usfm="JUD 1:7!4">Γόμορρα</e>
+               <e id="N1904.Jude.1.7.5" clearId="n65001007005" usfm="JUD 1:7!5">καὶ</e>
+               <e id="N1904.Jude.1.7.6" clearId="n65001007006" usfm="JUD 1:7!6">αἱ</e>
+               <e id="N1904.Jude.1.7.7" clearId="n65001007007" usfm="JUD 1:7!7">περὶ</e>
+               <e id="N1904.Jude.1.7.8" clearId="n65001007008" usfm="JUD 1:7!8">αὐτὰς</e>
+               <e id="N1904.Jude.1.7.9"
+                  clearId="n65001007009"
+                  usfm="JUD 1:7!9"
+                  after=",">πόλεις</e>
+               <e id="N1904.Jude.1.7.10" clearId="n65001007010" usfm="JUD 1:7!10">τὸν</e>
+               <e id="N1904.Jude.1.7.11" clearId="n65001007011" usfm="JUD 1:7!11">ὅμοιον</e>
+               <e id="N1904.Jude.1.7.12" clearId="n65001007012" usfm="JUD 1:7!12">τρόπον</e>
+               <e id="N1904.Jude.1.7.13" clearId="n65001007013" usfm="JUD 1:7!13">τούτοις</e>
+               <e id="N1904.Jude.1.7.14" clearId="n65001007014" usfm="JUD 1:7!14">ἐκπορνεύσασαι</e>
+               <e id="N1904.Jude.1.7.15" clearId="n65001007015" usfm="JUD 1:7!15">καὶ</e>
+               <e id="N1904.Jude.1.7.16" clearId="n65001007016" usfm="JUD 1:7!16">ἀπελθοῦσαι</e>
+               <e id="N1904.Jude.1.7.17" clearId="n65001007017" usfm="JUD 1:7!17">ὀπίσω</e>
+               <e id="N1904.Jude.1.7.18" clearId="n65001007018" usfm="JUD 1:7!18">σαρκὸς</e>
+               <e id="N1904.Jude.1.7.19"
+                  clearId="n65001007019"
+                  usfm="JUD 1:7!19"
+                  after=",">ἑτέρας</e>
+               <e id="N1904.Jude.1.7.20" clearId="n65001007020" usfm="JUD 1:7!20">πρόκεινται</e>
+               <e id="N1904.Jude.1.7.21" clearId="n65001007021" usfm="JUD 1:7!21">δεῖγμα</e>
+               <e id="N1904.Jude.1.7.22" clearId="n65001007022" usfm="JUD 1:7!22">πυρὸς</e>
+               <e id="N1904.Jude.1.7.23" clearId="n65001007023" usfm="JUD 1:7!23">αἰωνίου</e>
+               <e id="N1904.Jude.1.7.24" clearId="n65001007024" usfm="JUD 1:7!24">δίκην</e>
+               <e id="N1904.Jude.1.7.25"
+                  clearId="n65001007025"
+                  usfm="JUD 1:7!25"
+                  after=".">ὑπέχουσαι</e>
+            </c>
+         </c>
+         <c unit="seg" title="The Character of the Seducing Teachers">
+            <c id="N1904.Jude.1.8.1-14" unit="move">
+               <e id="N1904.Jude.1.8.1" clearId="n65001008001" usfm="JUD 1:8!1">Ὁμοίως</e>
+               <e id="N1904.Jude.1.8.2" clearId="n65001008002" usfm="JUD 1:8!2">μέντοι</e>
+               <e id="N1904.Jude.1.8.3" clearId="n65001008003" usfm="JUD 1:8!3">καὶ</e>
+               <e id="N1904.Jude.1.8.4" clearId="n65001008004" usfm="JUD 1:8!4">οὗτοι</e>
+               <e id="N1904.Jude.1.8.5" clearId="n65001008005" usfm="JUD 1:8!5">ἐνυπνιαζόμενοι</e>
+               <e id="N1904.Jude.1.8.6" clearId="n65001008006" usfm="JUD 1:8!6">σάρκα</e>
+               <e id="N1904.Jude.1.8.7" clearId="n65001008007" usfm="JUD 1:8!7">μὲν</e>
+               <e id="N1904.Jude.1.8.8"
+                  clearId="n65001008008"
+                  usfm="JUD 1:8!8"
+                  after=",">μιαίνουσιν</e>
+               <e id="N1904.Jude.1.8.9" clearId="n65001008009" usfm="JUD 1:8!9">κυριότητα</e>
+               <e id="N1904.Jude.1.8.10" clearId="n65001008010" usfm="JUD 1:8!10">δὲ</e>
+               <e id="N1904.Jude.1.8.11"
+                  clearId="n65001008011"
+                  usfm="JUD 1:8!11"
+                  after=",">ἀθετοῦσιν</e>
+               <e id="N1904.Jude.1.8.12" clearId="n65001008012" usfm="JUD 1:8!12">δόξας</e>
+               <e id="N1904.Jude.1.8.13" clearId="n65001008013" usfm="JUD 1:8!13">δὲ</e>
+               <e id="N1904.Jude.1.8.14"
+                  clearId="n65001008014"
+                  usfm="JUD 1:8!14"
+                  after=".">βλασφημοῦσιν</e>
+            </c>
+            <c id="N1904.Jude.1.9.1-24" unit="move">
+               <e id="N1904.Jude.1.9.1" clearId="n65001009001" usfm="JUD 1:9!1">ὁ</e>
+               <e id="N1904.Jude.1.9.2" clearId="n65001009002" usfm="JUD 1:9!2">δὲ</e>
+               <e id="N1904.Jude.1.9.3" clearId="n65001009003" usfm="JUD 1:9!3">Μιχαὴλ</e>
+               <e id="N1904.Jude.1.9.4" clearId="n65001009004" usfm="JUD 1:9!4">ὁ</e>
+               <e id="N1904.Jude.1.9.5"
+                  clearId="n65001009005"
+                  usfm="JUD 1:9!5"
+                  after=",">ἀρχάγγελος</e>
+               <e id="N1904.Jude.1.9.6" clearId="n65001009006" usfm="JUD 1:9!6">ὅτε</e>
+               <e id="N1904.Jude.1.9.7" clearId="n65001009007" usfm="JUD 1:9!7">τῷ</e>
+               <e id="N1904.Jude.1.9.8" clearId="n65001009008" usfm="JUD 1:9!8">διαβόλῳ</e>
+               <e id="N1904.Jude.1.9.9" clearId="n65001009009" usfm="JUD 1:9!9">διακρινόμενος</e>
+               <e id="N1904.Jude.1.9.10" clearId="n65001009010" usfm="JUD 1:9!10">διελέγετο</e>
+               <e id="N1904.Jude.1.9.11" clearId="n65001009011" usfm="JUD 1:9!11">περὶ</e>
+               <e id="N1904.Jude.1.9.12" clearId="n65001009012" usfm="JUD 1:9!12">τοῦ</e>
+               <e id="N1904.Jude.1.9.13" clearId="n65001009013" usfm="JUD 1:9!13">Μωϋσέως</e>
+               <e id="N1904.Jude.1.9.14"
+                  clearId="n65001009014"
+                  usfm="JUD 1:9!14"
+                  after=",">σώματος</e>
+               <e id="N1904.Jude.1.9.15" clearId="n65001009015" usfm="JUD 1:9!15">οὐκ</e>
+               <e id="N1904.Jude.1.9.16" clearId="n65001009016" usfm="JUD 1:9!16">ἐτόλμησεν</e>
+               <e id="N1904.Jude.1.9.17" clearId="n65001009017" usfm="JUD 1:9!17">κρίσιν</e>
+               <e id="N1904.Jude.1.9.18" clearId="n65001009018" usfm="JUD 1:9!18">ἐπενεγκεῖν</e>
+               <e id="N1904.Jude.1.9.19"
+                  clearId="n65001009019"
+                  usfm="JUD 1:9!19"
+                  after=",">βλασφημίας</e>
+               <e id="N1904.Jude.1.9.20" clearId="n65001009020" usfm="JUD 1:9!20">ἀλλὰ</e>
+               <e id="N1904.Jude.1.9.21" clearId="n65001009021" usfm="JUD 1:9!21">εἶπεν</e>
+               <c unit="turn">
+                  <c id="N1904.Jude.1.9.22-24" unit="move">
+                     <e id="N1904.Jude.1.9.22" clearId="n65001009022" usfm="JUD 1:9!22">Ἐπιτιμήσαι</e>
+                     <e id="N1904.Jude.1.9.23" clearId="n65001009023" usfm="JUD 1:9!23">σοι</e>
+                     <e id="N1904.Jude.1.9.24"
+                        clearId="n65001009024"
+                        usfm="JUD 1:9!24"
+                        after=".">Κύριος</e>
+                  </c>
+               </c>
+            </c>
+            <c id="N1904.Jude.1.10.1-7" unit="move">
+               <e id="N1904.Jude.1.10.1" clearId="n65001010001" usfm="JUD 1:10!1">οὗτοι</e>
+               <e id="N1904.Jude.1.10.2" clearId="n65001010002" usfm="JUD 1:10!2">δὲ</e>
+               <e id="N1904.Jude.1.10.3" clearId="n65001010003" usfm="JUD 1:10!3">ὅσα</e>
+               <e id="N1904.Jude.1.10.4" clearId="n65001010004" usfm="JUD 1:10!4">μὲν</e>
+               <e id="N1904.Jude.1.10.5" clearId="n65001010005" usfm="JUD 1:10!5">οὐκ</e>
+               <e id="N1904.Jude.1.10.6" clearId="n65001010006" usfm="JUD 1:10!6">οἴδασιν</e>
+               <e id="N1904.Jude.1.10.7"
+                  clearId="n65001010007"
+                  usfm="JUD 1:10!7"
+                  after=",">βλασφημοῦσιν</e>
+            </c>
+            <c id="N1904.Jude.1.10.8-18" unit="move">
+               <e id="N1904.Jude.1.10.8" clearId="n65001010008" usfm="JUD 1:10!8">ὅσα</e>
+               <e id="N1904.Jude.1.10.9" clearId="n65001010009" usfm="JUD 1:10!9">δὲ</e>
+               <e id="N1904.Jude.1.10.10" clearId="n65001010010" usfm="JUD 1:10!10">φυσικῶς</e>
+               <e id="N1904.Jude.1.10.11" clearId="n65001010011" usfm="JUD 1:10!11">ὡς</e>
+               <e id="N1904.Jude.1.10.12" clearId="n65001010012" usfm="JUD 1:10!12">τὰ</e>
+               <e id="N1904.Jude.1.10.13" clearId="n65001010013" usfm="JUD 1:10!13">ἄλογα</e>
+               <e id="N1904.Jude.1.10.14" clearId="n65001010014" usfm="JUD 1:10!14">ζῷα</e>
+               <e id="N1904.Jude.1.10.15"
+                  clearId="n65001010015"
+                  usfm="JUD 1:10!15"
+                  after=",">ἐπίστανται</e>
+               <e id="N1904.Jude.1.10.16" clearId="n65001010016" usfm="JUD 1:10!16">ἐν</e>
+               <e id="N1904.Jude.1.10.17" clearId="n65001010017" usfm="JUD 1:10!17">τούτοις</e>
+               <e id="N1904.Jude.1.10.18"
+                  clearId="n65001010018"
+                  usfm="JUD 1:10!18"
+                  after=".">φθείρονται</e>
+            </c>
+            <c id="N1904.Jude.1.11.1-21" unit="move">
+               <e id="N1904.Jude.1.11.1" clearId="n65001011001" usfm="JUD 1:11!1">οὐαὶ</e>
+               <e id="N1904.Jude.1.11.2"
+                  clearId="n65001011002"
+                  usfm="JUD 1:11!2"
+                  after=",">αὐτοῖς</e>
+               <e id="N1904.Jude.1.11.3" clearId="n65001011003" usfm="JUD 1:11!3">ὅτι</e>
+               <e id="N1904.Jude.1.11.4" clearId="n65001011004" usfm="JUD 1:11!4">τῇ</e>
+               <e id="N1904.Jude.1.11.5" clearId="n65001011005" usfm="JUD 1:11!5">ὁδῷ</e>
+               <e id="N1904.Jude.1.11.6" clearId="n65001011006" usfm="JUD 1:11!6">τοῦ</e>
+               <e id="N1904.Jude.1.11.7" clearId="n65001011007" usfm="JUD 1:11!7">Κάϊν</e>
+               <e id="N1904.Jude.1.11.8"
+                  clearId="n65001011008"
+                  usfm="JUD 1:11!8"
+                  after=",">ἐπορεύθησαν</e>
+               <e id="N1904.Jude.1.11.9" clearId="n65001011009" usfm="JUD 1:11!9">καὶ</e>
+               <e id="N1904.Jude.1.11.10" clearId="n65001011010" usfm="JUD 1:11!10">τῇ</e>
+               <e id="N1904.Jude.1.11.11" clearId="n65001011011" usfm="JUD 1:11!11">πλάνῃ</e>
+               <e id="N1904.Jude.1.11.12" clearId="n65001011012" usfm="JUD 1:11!12">τοῦ</e>
+               <e id="N1904.Jude.1.11.13" clearId="n65001011013" usfm="JUD 1:11!13">Βαλαὰμ</e>
+               <e id="N1904.Jude.1.11.14" clearId="n65001011014" usfm="JUD 1:11!14">μισθοῦ</e>
+               <e id="N1904.Jude.1.11.15"
+                  clearId="n65001011015"
+                  usfm="JUD 1:11!15"
+                  after=",">ἐξεχύθησαν</e>
+               <e id="N1904.Jude.1.11.16" clearId="n65001011016" usfm="JUD 1:11!16">καὶ</e>
+               <e id="N1904.Jude.1.11.17" clearId="n65001011017" usfm="JUD 1:11!17">τῇ</e>
+               <e id="N1904.Jude.1.11.18" clearId="n65001011018" usfm="JUD 1:11!18">ἀντιλογίᾳ</e>
+               <e id="N1904.Jude.1.11.19" clearId="n65001011019" usfm="JUD 1:11!19">τοῦ</e>
+               <e id="N1904.Jude.1.11.20" clearId="n65001011020" usfm="JUD 1:11!20">Κόρε</e>
+               <e id="N1904.Jude.1.11.21"
+                  clearId="n65001011021"
+                  usfm="JUD 1:11!21"
+                  after=".">ἀπώλοντο</e>
+            </c>
+            <c id="N1904.Jude.1.12.1-13.17" unit="move">
+               <e id="N1904.Jude.1.12.1" clearId="n65001012001" usfm="JUD 1:12!1">Οὗτοί</e>
+               <e id="N1904.Jude.1.12.2" clearId="n65001012002" usfm="JUD 1:12!2">εἰσιν</e>
+               <e id="N1904.Jude.1.12.3" clearId="n65001012003" usfm="JUD 1:12!3">οἱ</e>
+               <e id="N1904.Jude.1.12.4" clearId="n65001012004" usfm="JUD 1:12!4">ἐν</e>
+               <e id="N1904.Jude.1.12.5" clearId="n65001012005" usfm="JUD 1:12!5">ταῖς</e>
+               <e id="N1904.Jude.1.12.6" clearId="n65001012006" usfm="JUD 1:12!6">ἀγάπαις</e>
+               <e id="N1904.Jude.1.12.7" clearId="n65001012007" usfm="JUD 1:12!7">ὑμῶν</e>
+               <e id="N1904.Jude.1.12.8" clearId="n65001012008" usfm="JUD 1:12!8">σπιλάδες</e>
+               <e id="N1904.Jude.1.12.9" clearId="n65001012009" usfm="JUD 1:12!9">συνευωχούμενοι</e>
+               <e id="N1904.Jude.1.12.10"
+                  clearId="n65001012010"
+                  usfm="JUD 1:12!10"
+                  after=",">ἀφόβως</e>
+               <e id="N1904.Jude.1.12.11" clearId="n65001012011" usfm="JUD 1:12!11">ἑαυτοὺς</e>
+               <e id="N1904.Jude.1.12.12"
+                  clearId="n65001012012"
+                  usfm="JUD 1:12!12"
+                  after=",">ποιμαίνοντες</e>
+               <e id="N1904.Jude.1.12.13" clearId="n65001012013" usfm="JUD 1:12!13">νεφέλαι</e>
+               <e id="N1904.Jude.1.12.14" clearId="n65001012014" usfm="JUD 1:12!14">ἄνυδροι</e>
+               <e id="N1904.Jude.1.12.15" clearId="n65001012015" usfm="JUD 1:12!15">ὑπὸ</e>
+               <e id="N1904.Jude.1.12.16" clearId="n65001012016" usfm="JUD 1:12!16">ἀνέμων</e>
+               <e id="N1904.Jude.1.12.17"
+                  clearId="n65001012017"
+                  usfm="JUD 1:12!17"
+                  after=",">παραφερόμεναι</e>
+               <e id="N1904.Jude.1.12.18" clearId="n65001012018" usfm="JUD 1:12!18">δένδρα</e>
+               <e id="N1904.Jude.1.12.19" clearId="n65001012019" usfm="JUD 1:12!19">φθινοπωρινὰ</e>
+               <e id="N1904.Jude.1.12.20" clearId="n65001012020" usfm="JUD 1:12!20">ἄκαρπα</e>
+               <e id="N1904.Jude.1.12.21" clearId="n65001012021" usfm="JUD 1:12!21">δὶς</e>
+               <e id="N1904.Jude.1.12.22" clearId="n65001012022" usfm="JUD 1:12!22">ἀποθανόντα</e>
+               <e id="N1904.Jude.1.12.23"
+                  clearId="n65001012023"
+                  usfm="JUD 1:12!23"
+                  after=",">ἐκριζωθέντα</e>
+               <e id="N1904.Jude.1.13.1" clearId="n65001013001" usfm="JUD 1:13!1">κύματα</e>
+               <e id="N1904.Jude.1.13.2" clearId="n65001013002" usfm="JUD 1:13!2">ἄγρια</e>
+               <e id="N1904.Jude.1.13.3" clearId="n65001013003" usfm="JUD 1:13!3">θαλάσσης</e>
+               <e id="N1904.Jude.1.13.4" clearId="n65001013004" usfm="JUD 1:13!4">ἐπαφρίζοντα</e>
+               <e id="N1904.Jude.1.13.5" clearId="n65001013005" usfm="JUD 1:13!5">τὰς</e>
+               <e id="N1904.Jude.1.13.6" clearId="n65001013006" usfm="JUD 1:13!6">ἑαυτῶν</e>
+               <e id="N1904.Jude.1.13.7"
+                  clearId="n65001013007"
+                  usfm="JUD 1:13!7"
+                  after=",">αἰσχύνας</e>
+               <e id="N1904.Jude.1.13.8" clearId="n65001013008" usfm="JUD 1:13!8">ἀστέρες</e>
+               <e id="N1904.Jude.1.13.9"
+                  clearId="n65001013009"
+                  usfm="JUD 1:13!9"
+                  after=",">πλανῆται</e>
+               <e id="N1904.Jude.1.13.10" clearId="n65001013010" usfm="JUD 1:13!10">οἷς</e>
+               <e id="N1904.Jude.1.13.11" clearId="n65001013011" usfm="JUD 1:13!11">ὁ</e>
+               <e id="N1904.Jude.1.13.12" clearId="n65001013012" usfm="JUD 1:13!12">ζόφος</e>
+               <e id="N1904.Jude.1.13.13" clearId="n65001013013" usfm="JUD 1:13!13">τοῦ</e>
+               <e id="N1904.Jude.1.13.14" clearId="n65001013014" usfm="JUD 1:13!14">σκότους</e>
+               <e id="N1904.Jude.1.13.15" clearId="n65001013015" usfm="JUD 1:13!15">εἰς</e>
+               <e id="N1904.Jude.1.13.16" clearId="n65001013016" usfm="JUD 1:13!16">αἰῶνα</e>
+               <e id="N1904.Jude.1.13.17"
+                  clearId="n65001013017"
+                  usfm="JUD 1:13!17"
+                  after=".">τετήρηται</e>
+            </c>
+         </c>
+         <c unit="seg" title="God's Coming Judgment Upon the False Teachers">
+            <c id="N1904.Jude.1.14.1-15.28" unit="move">
+               <e id="N1904.Jude.1.14.1" clearId="n65001014001" usfm="JUD 1:14!1">Ἐπροφήτευσεν</e>
+               <e id="N1904.Jude.1.14.2" clearId="n65001014002" usfm="JUD 1:14!2">δὲ</e>
+               <e id="N1904.Jude.1.14.3" clearId="n65001014003" usfm="JUD 1:14!3">καὶ</e>
+               <e id="N1904.Jude.1.14.4" clearId="n65001014004" usfm="JUD 1:14!4">τούτοις</e>
+               <e id="N1904.Jude.1.14.5" clearId="n65001014005" usfm="JUD 1:14!5">ἕβδομος</e>
+               <e id="N1904.Jude.1.14.6" clearId="n65001014006" usfm="JUD 1:14!6">ἀπὸ</e>
+               <e id="N1904.Jude.1.14.7" clearId="n65001014007" usfm="JUD 1:14!7">Ἀδὰμ</e>
+               <e id="N1904.Jude.1.14.8" clearId="n65001014008" usfm="JUD 1:14!8">Ἑνὼχ</e>
+               <e id="N1904.Jude.1.14.9" clearId="n65001014009" usfm="JUD 1:14!9">λέγων</e>
+               <c unit="turn">
+                  <c id="N1904.Jude.1.14.10-15.28" unit="move">
+                     <e id="N1904.Jude.1.14.10" clearId="n65001014010" usfm="JUD 1:14!10">Ἰδοὺ</e>
+                     <e id="N1904.Jude.1.14.11" clearId="n65001014011" usfm="JUD 1:14!11">ἦλθεν</e>
+                     <e id="N1904.Jude.1.14.12" clearId="n65001014012" usfm="JUD 1:14!12">Κύριος</e>
+                     <e id="N1904.Jude.1.14.13" clearId="n65001014013" usfm="JUD 1:14!13">ἐν</e>
+                     <e id="N1904.Jude.1.14.14" clearId="n65001014014" usfm="JUD 1:14!14">ἁγίαις</e>
+                     <e id="N1904.Jude.1.14.15" clearId="n65001014015" usfm="JUD 1:14!15">μυριάσιν</e>
+                     <e id="N1904.Jude.1.14.16"
+                        clearId="n65001014016"
+                        usfm="JUD 1:14!16"
+                        after=",">αὐτοῦ</e>
+                     <e id="N1904.Jude.1.15.1" clearId="n65001015001" usfm="JUD 1:15!1">ποιῆσαι</e>
+                     <e id="N1904.Jude.1.15.2" clearId="n65001015002" usfm="JUD 1:15!2">κρίσιν</e>
+                     <e id="N1904.Jude.1.15.3" clearId="n65001015003" usfm="JUD 1:15!3">κατὰ</e>
+                     <e id="N1904.Jude.1.15.4" clearId="n65001015004" usfm="JUD 1:15!4">πάντων</e>
+                     <e id="N1904.Jude.1.15.5" clearId="n65001015005" usfm="JUD 1:15!5">καὶ</e>
+                     <e id="N1904.Jude.1.15.6" clearId="n65001015006" usfm="JUD 1:15!6">ἐλέγξαι</e>
+                     <e id="N1904.Jude.1.15.7" clearId="n65001015007" usfm="JUD 1:15!7">πάντας</e>
+                     <e id="N1904.Jude.1.15.8" clearId="n65001015008" usfm="JUD 1:15!8">τοὺς</e>
+                     <e id="N1904.Jude.1.15.9" clearId="n65001015009" usfm="JUD 1:15!9">ἀσεβεῖς</e>
+                     <e id="N1904.Jude.1.15.10" clearId="n65001015010" usfm="JUD 1:15!10">περὶ</e>
+                     <e id="N1904.Jude.1.15.11" clearId="n65001015011" usfm="JUD 1:15!11">πάντων</e>
+                     <e id="N1904.Jude.1.15.12" clearId="n65001015012" usfm="JUD 1:15!12">τῶν</e>
+                     <e id="N1904.Jude.1.15.13" clearId="n65001015013" usfm="JUD 1:15!13">ἔργων</e>
+                     <e id="N1904.Jude.1.15.14" clearId="n65001015014" usfm="JUD 1:15!14">ἀσεβείας</e>
+                     <e id="N1904.Jude.1.15.15" clearId="n65001015015" usfm="JUD 1:15!15">αὐτῶν</e>
+                     <e id="N1904.Jude.1.15.16" clearId="n65001015016" usfm="JUD 1:15!16">ὧν</e>
+                     <e id="N1904.Jude.1.15.17" clearId="n65001015017" usfm="JUD 1:15!17">ἠσέβησαν</e>
+                     <e id="N1904.Jude.1.15.18" clearId="n65001015018" usfm="JUD 1:15!18">καὶ</e>
+                     <e id="N1904.Jude.1.15.19" clearId="n65001015019" usfm="JUD 1:15!19">περὶ</e>
+                     <e id="N1904.Jude.1.15.20" clearId="n65001015020" usfm="JUD 1:15!20">πάντων</e>
+                     <e id="N1904.Jude.1.15.21" clearId="n65001015021" usfm="JUD 1:15!21">τῶν</e>
+                     <e id="N1904.Jude.1.15.22" clearId="n65001015022" usfm="JUD 1:15!22">σκληρῶν</e>
+                     <e id="N1904.Jude.1.15.23" clearId="n65001015023" usfm="JUD 1:15!23">ὧν</e>
+                     <e id="N1904.Jude.1.15.24" clearId="n65001015024" usfm="JUD 1:15!24">ἐλάλησαν</e>
+                     <e id="N1904.Jude.1.15.25" clearId="n65001015025" usfm="JUD 1:15!25">κατ’</e>
+                     <e id="N1904.Jude.1.15.26" clearId="n65001015026" usfm="JUD 1:15!26">αὐτοῦ</e>
+                     <e id="N1904.Jude.1.15.27" clearId="n65001015027" usfm="JUD 1:15!27">ἁμαρτωλοὶ</e>
+                     <e id="N1904.Jude.1.15.28"
+                        clearId="n65001015028"
+                        usfm="JUD 1:15!28"
+                        after=".">ἀσεβεῖς</e>
+                  </c>
+               </c>
+            </c>
+            <c id="N1904.Jude.1.16.1-19" unit="move">
+               <e id="N1904.Jude.1.16.1" clearId="n65001016001" usfm="JUD 1:16!1">Οὗτοί</e>
+               <e id="N1904.Jude.1.16.2" clearId="n65001016002" usfm="JUD 1:16!2">εἰσιν</e>
+               <e id="N1904.Jude.1.16.3"
+                  clearId="n65001016003"
+                  usfm="JUD 1:16!3"
+                  after=",">γογγυσταί</e>
+               <e id="N1904.Jude.1.16.4"
+                  clearId="n65001016004"
+                  usfm="JUD 1:16!4"
+                  after=",">μεμψίμοιροι</e>
+               <e id="N1904.Jude.1.16.5" clearId="n65001016005" usfm="JUD 1:16!5">κατὰ</e>
+               <e id="N1904.Jude.1.16.6" clearId="n65001016006" usfm="JUD 1:16!6">τὰς</e>
+               <e id="N1904.Jude.1.16.7" clearId="n65001016007" usfm="JUD 1:16!7">ἐπιθυμίας</e>
+               <e id="N1904.Jude.1.16.8" clearId="n65001016008" usfm="JUD 1:16!8">αὐτῶν</e>
+               <e id="N1904.Jude.1.16.9"
+                  clearId="n65001016009"
+                  usfm="JUD 1:16!9"
+                  after=",">πορευόμενοι</e>
+               <e id="N1904.Jude.1.16.10" clearId="n65001016010" usfm="JUD 1:16!10">καὶ</e>
+               <e id="N1904.Jude.1.16.11" clearId="n65001016011" usfm="JUD 1:16!11">τὸ</e>
+               <e id="N1904.Jude.1.16.12" clearId="n65001016012" usfm="JUD 1:16!12">στόμα</e>
+               <e id="N1904.Jude.1.16.13" clearId="n65001016013" usfm="JUD 1:16!13">αὐτῶν</e>
+               <e id="N1904.Jude.1.16.14" clearId="n65001016014" usfm="JUD 1:16!14">λαλεῖ</e>
+               <e id="N1904.Jude.1.16.15"
+                  clearId="n65001016015"
+                  usfm="JUD 1:16!15"
+                  after=",">ὑπέρογκα</e>
+               <e id="N1904.Jude.1.16.16" clearId="n65001016016" usfm="JUD 1:16!16">θαυμάζοντες</e>
+               <e id="N1904.Jude.1.16.17" clearId="n65001016017" usfm="JUD 1:16!17">πρόσωπα</e>
+               <e id="N1904.Jude.1.16.18" clearId="n65001016018" usfm="JUD 1:16!18">ὠφελείας</e>
+               <e id="N1904.Jude.1.16.19"
+                  clearId="n65001016019"
+                  usfm="JUD 1:16!19"
+                  after=".">χάριν</e>
+            </c>
+         </c>
+         <c unit="seg" title="An Admonition to Holy Steadfastness">
+            <c id="N1904.Jude.1.17.1-16" unit="move">
+               <e id="N1904.Jude.1.17.1" clearId="n65001017001" usfm="JUD 1:17!1">Ὑμεῖς</e>
+               <e id="N1904.Jude.1.17.2"
+                  clearId="n65001017002"
+                  usfm="JUD 1:17!2"
+                  after=",">δέ</e>
+               <e id="N1904.Jude.1.17.3"
+                  clearId="n65001017003"
+                  usfm="JUD 1:17!3"
+                  after=",">ἀγαπητοί</e>
+               <e id="N1904.Jude.1.17.4" clearId="n65001017004" usfm="JUD 1:17!4">μνήσθητε</e>
+               <e id="N1904.Jude.1.17.5" clearId="n65001017005" usfm="JUD 1:17!5">τῶν</e>
+               <e id="N1904.Jude.1.17.6" clearId="n65001017006" usfm="JUD 1:17!6">ῥημάτων</e>
+               <e id="N1904.Jude.1.17.7" clearId="n65001017007" usfm="JUD 1:17!7">τῶν</e>
+               <e id="N1904.Jude.1.17.8" clearId="n65001017008" usfm="JUD 1:17!8">προειρημένων</e>
+               <e id="N1904.Jude.1.17.9" clearId="n65001017009" usfm="JUD 1:17!9">ὑπὸ</e>
+               <e id="N1904.Jude.1.17.10" clearId="n65001017010" usfm="JUD 1:17!10">τῶν</e>
+               <e id="N1904.Jude.1.17.11" clearId="n65001017011" usfm="JUD 1:17!11">ἀποστόλων</e>
+               <e id="N1904.Jude.1.17.12" clearId="n65001017012" usfm="JUD 1:17!12">τοῦ</e>
+               <e id="N1904.Jude.1.17.13" clearId="n65001017013" usfm="JUD 1:17!13">Κυρίου</e>
+               <e id="N1904.Jude.1.17.14" clearId="n65001017014" usfm="JUD 1:17!14">ἡμῶν</e>
+               <e id="N1904.Jude.1.17.15" clearId="n65001017015" usfm="JUD 1:17!15">Ἰησοῦ</e>
+               <e id="N1904.Jude.1.17.16"
+                  clearId="n65001017016"
+                  usfm="JUD 1:17!16"
+                  after=",">Χριστοῦ</e>
+            </c>
+            <c id="N1904.Jude.1.18.1-16" unit="move">
+               <e id="N1904.Jude.1.18.1" clearId="n65001018001" usfm="JUD 1:18!1">ὅτι</e>
+               <e id="N1904.Jude.1.18.2" clearId="n65001018002" usfm="JUD 1:18!2">ἔλεγον</e>
+               <e id="N1904.Jude.1.18.3" clearId="n65001018003" usfm="JUD 1:18!3">ὑμῖν</e>
+               <c unit="turn">
+                  <c id="N1904.Jude.1.18.4-16" unit="move">
+                     <e id="N1904.Jude.1.18.4" clearId="n65001018004" usfm="JUD 1:18!4">Ἐπ’</e>
+                     <e id="N1904.Jude.1.18.5" clearId="n65001018005" usfm="JUD 1:18!5">ἐσχάτου</e>
+                     <e id="N1904.Jude.1.18.6" clearId="n65001018006" usfm="JUD 1:18!6">τοῦ</e>
+                     <e id="N1904.Jude.1.18.7" clearId="n65001018007" usfm="JUD 1:18!7">χρόνου</e>
+                     <e id="N1904.Jude.1.18.8" clearId="n65001018008" usfm="JUD 1:18!8">ἔσονται</e>
+                     <e id="N1904.Jude.1.18.9" clearId="n65001018009" usfm="JUD 1:18!9">ἐμπαῖκται</e>
+                     <e id="N1904.Jude.1.18.10" clearId="n65001018010" usfm="JUD 1:18!10">κατὰ</e>
+                     <e id="N1904.Jude.1.18.11" clearId="n65001018011" usfm="JUD 1:18!11">τὰς</e>
+                     <e id="N1904.Jude.1.18.12" clearId="n65001018012" usfm="JUD 1:18!12">ἑαυτῶν</e>
+                     <e id="N1904.Jude.1.18.13" clearId="n65001018013" usfm="JUD 1:18!13">ἐπιθυμίας</e>
+                     <e id="N1904.Jude.1.18.14" clearId="n65001018014" usfm="JUD 1:18!14">πορευόμενοι</e>
+                     <e id="N1904.Jude.1.18.15" clearId="n65001018015" usfm="JUD 1:18!15">τῶν</e>
+                     <e id="N1904.Jude.1.18.16"
+                        clearId="n65001018016"
+                        usfm="JUD 1:18!16"
+                        after=".">ἀσεβειῶν</e>
+                  </c>
+               </c>
+            </c>
+            <c id="N1904.Jude.1.19.1-8" unit="move">
+               <e id="N1904.Jude.1.19.1" clearId="n65001019001" usfm="JUD 1:19!1">Οὗτοί</e>
+               <e id="N1904.Jude.1.19.2" clearId="n65001019002" usfm="JUD 1:19!2">εἰσιν</e>
+               <e id="N1904.Jude.1.19.3" clearId="n65001019003" usfm="JUD 1:19!3">οἱ</e>
+               <e id="N1904.Jude.1.19.4"
+                  clearId="n65001019004"
+                  usfm="JUD 1:19!4"
+                  after=",">ἀποδιορίζοντες</e>
+               <e id="N1904.Jude.1.19.5"
+                  clearId="n65001019005"
+                  usfm="JUD 1:19!5"
+                  after=",">ψυχικοί</e>
+               <e id="N1904.Jude.1.19.6" clearId="n65001019006" usfm="JUD 1:19!6">Πνεῦμα</e>
+               <e id="N1904.Jude.1.19.7" clearId="n65001019007" usfm="JUD 1:19!7">μὴ</e>
+               <e id="N1904.Jude.1.19.8"
+                  clearId="n65001019008"
+                  usfm="JUD 1:19!8"
+                  after=".">ἔχοντες</e>
+            </c>
+            <c id="N1904.Jude.1.20.1-21.16" unit="move">
+               <e id="N1904.Jude.1.20.1" clearId="n65001020001" usfm="JUD 1:20!1">ὑμεῖς</e>
+               <e id="N1904.Jude.1.20.2"
+                  clearId="n65001020002"
+                  usfm="JUD 1:20!2"
+                  after=",">δέ</e>
+               <e id="N1904.Jude.1.20.3"
+                  clearId="n65001020003"
+                  usfm="JUD 1:20!3"
+                  after=",">ἀγαπητοί</e>
+               <e id="N1904.Jude.1.20.4" clearId="n65001020004" usfm="JUD 1:20!4">ἐποικοδομοῦντες</e>
+               <e id="N1904.Jude.1.20.5" clearId="n65001020005" usfm="JUD 1:20!5">ἑαυτοὺς</e>
+               <e id="N1904.Jude.1.20.6" clearId="n65001020006" usfm="JUD 1:20!6">τῇ</e>
+               <e id="N1904.Jude.1.20.7" clearId="n65001020007" usfm="JUD 1:20!7">ἁγιωτάτῃ</e>
+               <e id="N1904.Jude.1.20.8" clearId="n65001020008" usfm="JUD 1:20!8">ὑμῶν</e>
+               <e id="N1904.Jude.1.20.9"
+                  clearId="n65001020009"
+                  usfm="JUD 1:20!9"
+                  after=",">πίστει</e>
+               <e id="N1904.Jude.1.20.10" clearId="n65001020010" usfm="JUD 1:20!10">ἐν</e>
+               <e id="N1904.Jude.1.20.11" clearId="n65001020011" usfm="JUD 1:20!11">Πνεύματι</e>
+               <e id="N1904.Jude.1.20.12" clearId="n65001020012" usfm="JUD 1:20!12">Ἁγίῳ</e>
+               <e id="N1904.Jude.1.20.13"
+                  clearId="n65001020013"
+                  usfm="JUD 1:20!13"
+                  after=",">προσευχόμενοι</e>
+               <e id="N1904.Jude.1.21.1" clearId="n65001021001" usfm="JUD 1:21!1">ἑαυτοὺς</e>
+               <e id="N1904.Jude.1.21.2" clearId="n65001021002" usfm="JUD 1:21!2">ἐν</e>
+               <e id="N1904.Jude.1.21.3" clearId="n65001021003" usfm="JUD 1:21!3">ἀγάπῃ</e>
+               <e id="N1904.Jude.1.21.4" clearId="n65001021004" usfm="JUD 1:21!4">Θεοῦ</e>
+               <e id="N1904.Jude.1.21.5"
+                  clearId="n65001021005"
+                  usfm="JUD 1:21!5"
+                  after=",">τηρήσατε</e>
+               <e id="N1904.Jude.1.21.6" clearId="n65001021006" usfm="JUD 1:21!6">προσδεχόμενοι</e>
+               <e id="N1904.Jude.1.21.7" clearId="n65001021007" usfm="JUD 1:21!7">τὸ</e>
+               <e id="N1904.Jude.1.21.8" clearId="n65001021008" usfm="JUD 1:21!8">ἔλεος</e>
+               <e id="N1904.Jude.1.21.9" clearId="n65001021009" usfm="JUD 1:21!9">τοῦ</e>
+               <e id="N1904.Jude.1.21.10" clearId="n65001021010" usfm="JUD 1:21!10">Κυρίου</e>
+               <e id="N1904.Jude.1.21.11" clearId="n65001021011" usfm="JUD 1:21!11">ἡμῶν</e>
+               <e id="N1904.Jude.1.21.12" clearId="n65001021012" usfm="JUD 1:21!12">Ἰησοῦ</e>
+               <e id="N1904.Jude.1.21.13" clearId="n65001021013" usfm="JUD 1:21!13">Χριστοῦ</e>
+               <e id="N1904.Jude.1.21.14" clearId="n65001021014" usfm="JUD 1:21!14">εἰς</e>
+               <e id="N1904.Jude.1.21.15" clearId="n65001021015" usfm="JUD 1:21!15">ζωὴν</e>
+               <e id="N1904.Jude.1.21.16"
+                  clearId="n65001021016"
+                  usfm="JUD 1:21!16"
+                  after=".">αἰώνιον</e>
+            </c>
+            <c id="N1904.Jude.1.22.1-23.4" unit="move">
+               <e id="N1904.Jude.1.22.1" clearId="n65001022001" usfm="JUD 1:22!1">καὶ</e>
+               <e id="N1904.Jude.1.22.2" clearId="n65001022002" usfm="JUD 1:22!2">οὓς</e>
+               <e id="N1904.Jude.1.22.3" clearId="n65001022003" usfm="JUD 1:22!3">μὲν</e>
+               <e id="N1904.Jude.1.22.4" clearId="n65001022004" usfm="JUD 1:22!4">ἐλεᾶτε</e>
+               <e id="N1904.Jude.1.22.5" clearId="n65001022005" usfm="JUD 1:22!5">διακρινομένους</e>
+               <e id="N1904.Jude.1.23.1" clearId="n65001023001" usfm="JUD 1:23!1">σῴζετε</e>
+               <e id="N1904.Jude.1.23.2" clearId="n65001023002" usfm="JUD 1:23!2">ἐκ</e>
+               <e id="N1904.Jude.1.23.3" clearId="n65001023003" usfm="JUD 1:23!3">πυρὸς</e>
+               <e id="N1904.Jude.1.23.4"
+                  clearId="n65001023004"
+                  usfm="JUD 1:23!4"
+                  after=",">ἁρπάζοντες</e>
+            </c>
+            <c id="N1904.Jude.1.23.5-17" unit="move">
+               <e id="N1904.Jude.1.23.5" clearId="n65001023005" usfm="JUD 1:23!5">οὓς</e>
+               <e id="N1904.Jude.1.23.6" clearId="n65001023006" usfm="JUD 1:23!6">δὲ</e>
+               <e id="N1904.Jude.1.23.7" clearId="n65001023007" usfm="JUD 1:23!7">ἐλεᾶτε</e>
+               <e id="N1904.Jude.1.23.8" clearId="n65001023008" usfm="JUD 1:23!8">ἐν</e>
+               <e id="N1904.Jude.1.23.9"
+                  clearId="n65001023009"
+                  usfm="JUD 1:23!9"
+                  after=",">φόβῳ</e>
+               <e id="N1904.Jude.1.23.10" clearId="n65001023010" usfm="JUD 1:23!10">μισοῦντες</e>
+               <e id="N1904.Jude.1.23.11" clearId="n65001023011" usfm="JUD 1:23!11">καὶ</e>
+               <e id="N1904.Jude.1.23.12" clearId="n65001023012" usfm="JUD 1:23!12">τὸν</e>
+               <e id="N1904.Jude.1.23.13" clearId="n65001023013" usfm="JUD 1:23!13">ἀπὸ</e>
+               <e id="N1904.Jude.1.23.14" clearId="n65001023014" usfm="JUD 1:23!14">τῆς</e>
+               <e id="N1904.Jude.1.23.15" clearId="n65001023015" usfm="JUD 1:23!15">σαρκὸς</e>
+               <e id="N1904.Jude.1.23.16" clearId="n65001023016" usfm="JUD 1:23!16">ἐσπιλωμένον</e>
+               <e id="N1904.Jude.1.23.17"
+                  clearId="n65001023017"
+                  usfm="JUD 1:23!17"
+                  after=".">χιτῶνα</e>
+            </c>
+         </c>
+         <c unit="seg" title="Concluding Doxology">
+            <c id="N1904.Jude.1.24.1-25.27" unit="move">
+               <e id="N1904.Jude.1.24.1" clearId="n65001024001" usfm="JUD 1:24!1">Τῷ</e>
+               <e id="N1904.Jude.1.24.2" clearId="n65001024002" usfm="JUD 1:24!2">δὲ</e>
+               <e id="N1904.Jude.1.24.3" clearId="n65001024003" usfm="JUD 1:24!3">δυναμένῳ</e>
+               <e id="N1904.Jude.1.24.4" clearId="n65001024004" usfm="JUD 1:24!4">φυλάξαι</e>
+               <e id="N1904.Jude.1.24.5" clearId="n65001024005" usfm="JUD 1:24!5">ὑμᾶς</e>
+               <e id="N1904.Jude.1.24.6" clearId="n65001024006" usfm="JUD 1:24!6">ἀπταίστους</e>
+               <e id="N1904.Jude.1.24.7" clearId="n65001024007" usfm="JUD 1:24!7">καὶ</e>
+               <e id="N1904.Jude.1.24.8" clearId="n65001024008" usfm="JUD 1:24!8">στῆσαι</e>
+               <e id="N1904.Jude.1.24.9" clearId="n65001024009" usfm="JUD 1:24!9">κατενώπιον</e>
+               <e id="N1904.Jude.1.24.10" clearId="n65001024010" usfm="JUD 1:24!10">τῆς</e>
+               <e id="N1904.Jude.1.24.11" clearId="n65001024011" usfm="JUD 1:24!11">δόξης</e>
+               <e id="N1904.Jude.1.24.12" clearId="n65001024012" usfm="JUD 1:24!12">αὐτοῦ</e>
+               <e id="N1904.Jude.1.24.13" clearId="n65001024013" usfm="JUD 1:24!13">ἀμώμους</e>
+               <e id="N1904.Jude.1.24.14" clearId="n65001024014" usfm="JUD 1:24!14">ἐν</e>
+               <e id="N1904.Jude.1.24.15"
+                  clearId="n65001024015"
+                  usfm="JUD 1:24!15"
+                  after=",">ἀγαλλιάσει</e>
+               <e id="N1904.Jude.1.25.1" clearId="n65001025001" usfm="JUD 1:25!1">μόνῳ</e>
+               <e id="N1904.Jude.1.25.2" clearId="n65001025002" usfm="JUD 1:25!2">Θεῷ</e>
+               <e id="N1904.Jude.1.25.3" clearId="n65001025003" usfm="JUD 1:25!3">Σωτῆρι</e>
+               <e id="N1904.Jude.1.25.4" clearId="n65001025004" usfm="JUD 1:25!4">ἡμῶν</e>
+               <e id="N1904.Jude.1.25.5" clearId="n65001025005" usfm="JUD 1:25!5">διὰ</e>
+               <e id="N1904.Jude.1.25.6" clearId="n65001025006" usfm="JUD 1:25!6">Ἰησοῦ</e>
+               <e id="N1904.Jude.1.25.7" clearId="n65001025007" usfm="JUD 1:25!7">Χριστοῦ</e>
+               <e id="N1904.Jude.1.25.8" clearId="n65001025008" usfm="JUD 1:25!8">τοῦ</e>
+               <e id="N1904.Jude.1.25.9" clearId="n65001025009" usfm="JUD 1:25!9">Κυρίου</e>
+               <e id="N1904.Jude.1.25.10" clearId="n65001025010" usfm="JUD 1:25!10">ἡμῶν</e>
+               <e id="N1904.Jude.1.25.11" clearId="n65001025011" usfm="JUD 1:25!11">δόξα</e>
+               <e id="N1904.Jude.1.25.12" clearId="n65001025012" usfm="JUD 1:25!12">μεγαλωσύνη</e>
+               <e id="N1904.Jude.1.25.13" clearId="n65001025013" usfm="JUD 1:25!13">κράτος</e>
+               <e id="N1904.Jude.1.25.14" clearId="n65001025014" usfm="JUD 1:25!14">καὶ</e>
+               <e id="N1904.Jude.1.25.15" clearId="n65001025015" usfm="JUD 1:25!15">ἐξουσία</e>
+               <e id="N1904.Jude.1.25.16" clearId="n65001025016" usfm="JUD 1:25!16">πρὸ</e>
+               <e id="N1904.Jude.1.25.17" clearId="n65001025017" usfm="JUD 1:25!17">παντὸς</e>
+               <e id="N1904.Jude.1.25.18" clearId="n65001025018" usfm="JUD 1:25!18">τοῦ</e>
+               <e id="N1904.Jude.1.25.19" clearId="n65001025019" usfm="JUD 1:25!19">αἰῶνος</e>
+               <e id="N1904.Jude.1.25.20" clearId="n65001025020" usfm="JUD 1:25!20">καὶ</e>
+               <e id="N1904.Jude.1.25.21" clearId="n65001025021" usfm="JUD 1:25!21">νῦν</e>
+               <e id="N1904.Jude.1.25.22" clearId="n65001025022" usfm="JUD 1:25!22">καὶ</e>
+               <e id="N1904.Jude.1.25.23" clearId="n65001025023" usfm="JUD 1:25!23">εἰς</e>
+               <e id="N1904.Jude.1.25.24" clearId="n65001025024" usfm="JUD 1:25!24">πάντας</e>
+               <e id="N1904.Jude.1.25.25" clearId="n65001025025" usfm="JUD 1:25!25">τοὺς</e>
+               <e id="N1904.Jude.1.25.26"
+                  clearId="n65001025026"
+                  usfm="JUD 1:25!26"
+                  after="·">αἰῶνας</e>
+               <e id="N1904.Jude.1.25.27"
+                  clearId="n65001025027"
+                  usfm="JUD 1:25!27"
+                  after=".">ἀμήν</e>
+            </c>
+         </c>
+      </c>
+   </text>
+</OpenText>
