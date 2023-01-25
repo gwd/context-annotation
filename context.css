@@ -3,71 +3,71 @@
  ***************/
 
 OpenText {
-    background-color: #ffffff;
-    color: #000000;
-    font-family: sbl_greekregular, serif;    
+  background-color: #ffffff;
+  color: #000000;
+  font-family: sbl_greekregular, serif;
 }
 
 header {
-    display: none;
+  display: none;
 }
 
 c {
-    display: flex;    
-    padding: 15px;    
+  display: flex;
+  padding: 15px;
 }
 
-c[unit = turn] {
-    flex-direction: column;
-    align-items: flex-start !important;
+c[unit='turn'] {
+  flex-direction: column;
+  align-items: flex-start !important;
 }
 
-c[unit = turn] c[unit = turn] {
-    border: 2px solid orange;    
-    border-radius: 35px;
+c[unit='turn'] c[unit='turn'] {
+  border: 2px solid orange;
+  border-radius: 35px;
 }
 
-c[unit = seg] {
-    flex-direction: column;
-    align-items: flex-start !important;
-    margin-bottom: 15px;
-    border: 2px solid black;    
-    border-radius: 35px;
+c[unit='seg'] {
+  flex-direction: column;
+  align-items: flex-start !important;
+  margin-bottom: 15px;
+  border: 2px solid black;
+  border-radius: 35px;
 }
 
-c[unit = seg]::before {
-    align-self: flex-start;
-    width: 200px;
-    margin-top: 15px;
-    content: attr(title);
-    padding: 10px;
-    border: 2px solid black;  
-    border-radius: 10px;
-    background: white;
-    color: black;
-    text-align: center;
+c[unit='seg']::before {
+  align-self: flex-start;
+  width: 200px;
+  margin-top: 15px;
+  content: attr(title);
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 10px;
+  background: white;
+  color: black;
+  text-align: center;
 }
 
-c[unit = move] {
-    flex-direction: row;
-    align-items: flex-start;
-    padding: 25px 0px !important;
+c[unit='move'] {
+  flex-direction: row;
+  align-items: flex-start;
   flex-wrap: wrap;
+  padding: 25px 0px !important;
 }
 
-c[unit = move]:not(:last-child) {
-    border-bottom: 1px solid black;
+c[unit='move']:not(:last-child) {
+  border-bottom: 1px solid black;
 }
 
-c[unit = move]::before {
-    width: 200px;
-    margin-right: 15px;
-    content: attr(id);
-    padding: 10px;
-    border-radius: 10px;
-    background: black;
-    color: white;
-    text-align: center;
+c[unit='move']::before {
+  width: 200px;
+  margin-right: 15px;
+  content: attr(id);
+  padding: 10px;
+  border-radius: 10px;
+  background: black;
+  color: white;
+  text-align: center;
 }
 
 /************
@@ -75,18 +75,18 @@ c[unit = move]::before {
  ************/
 
 e {
-    flex-direction: row;
-    justify-content: center;
-    display: inline-flex;
-    margin: 0px 5px;
-    padding: 2px;
-    white-space: nowrap;    
+  flex-direction: row;
+  justify-content: center;
+  display: inline-flex;
+  margin: 0px 5px;
+  padding: 2px;
+  white-space: nowrap;
 }
 
 e::before {
-    content: attr(before)
+  content: attr(before);
 }
 
 e::after {
-    content: attr(after)
+  content: attr(after);
 }
