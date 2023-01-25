@@ -25,6 +25,7 @@ c[unit='turn'] {
 c[unit='turn'] c[unit='turn'] {
   border: 2px solid orange;
   border-radius: 35px;
+  margin: 1rem;
 }
 
 c[unit='seg'] {
