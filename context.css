@@ -52,6 +52,7 @@ c[unit = move] {
     flex-direction: row;
     align-items: flex-start;
     padding: 25px 0px !important;
+  flex-wrap: wrap;
 }
 
 c[unit = move]:not(:last-child) {
