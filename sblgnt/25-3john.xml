@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="context.css"?>
+<OpenText>
+ <header>
+  <fileDesc>
+   <titleStmt>
+    <title>OpenText Contextual Annotation</title>
+    <editor>Christopher D. Land</editor>
+    <editor>Ryder A. Wishart</editor>
+   </titleStmt>
+   <editionStmt>
+    <edition>1.00</edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>www.opentext.org</authority>
+    <availability>
+     <p>Context annotation is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Available at https://github.com/OpenText-org/context-annotation.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note>Corrections are welcome either through GitHub, the project website (www.opentext.org), or a direct email to Christopher D. Land or Ryder A. Wishart.</note>
+   </notesStmt>
+   <sourceDesc>
+    <p>The SBL Greek New Testament (SBLGNT) is a critically edited edition of the Greek New Testament produced by the Society of Biblical Literature and Logos Bible Software, made available under a [CC-BY License] (https://creativecommons.org/licenses/by/4.0/). Available at https://github.com/LogosBible/SBLGNT.</p>
+    <p>Contextual speaking turns were derived by Christopher D. Land using projection data in the original [OpenText annotation](https://github.com/OpenText-org/GNT_annotation_v1.0) together with the capitalization of the SBLGNT edition. Manual error correction was then carried out by Christopher D. Land and Doosuk Kim.</p>
+    <p>Turn segments were derived by Ryder A. Wishart by modifying the pericope headings of Robinson and Pierpont's Greek New Testament, which is in the public domain. Differences can be identified by comparing this data to the start and end tokens compiled by [James Tauber](https://github.com/jtauber/vocabulary-tools/blob/master/gnt_data/pericopes.txt).</p>
+    <p>Move segments were derived by Christopher D. Land from syntax markup copyright 2014-2017 by the Global Bible Initiative, made available under under a [CC-BY-SA License] (http://creativecommons.org/licenses/by-sa/3.0/). Available at https://github.com/biblicalhumanities/greek-new-testament/tree/master/syntax-trees/sblgnt.</p>
+   </sourceDesc>
+  </fileDesc>
+ </header>
+ <text id="3John">
+  <turn depth="1" id="t.SBL.3John" chStart="1" vStart="1" chEnd="1" vEnd="15">
+   <seg id="s.SBL.3John.1.1-4" title="Address and Commendation">
+    <move id="m.SBL.3John.1.1" chStart="1" vStart="1" chEnd="1" vEnd="1">
+     <token id="SBL.3John.1.1.1.1" clear_id="n64001001001" n="1">Ὁ</token>
+     <token id="SBL.3John.1.1.2.1" clear_id="n64001001002" n="2">πρεσβύτερος</token>
+     <token id="SBL.3John.1.1.3.1" clear_id="n64001001003" n="3">Γαΐῳ</token>
+     <token id="SBL.3John.1.1.4.1" clear_id="n64001001004" n="4">τῷ</token>
+     <token id="SBL.3John.1.1.5.1" clear_id="n64001001005" n="5" after=",">ἀγαπητῷ</token>
+     <token id="SBL.3John.1.1.6.1" clear_id="n64001001006" n="6">ὃν</token>
+     <token id="SBL.3John.1.1.7.1" clear_id="n64001001007" n="7">ἐγὼ</token>
+     <token id="SBL.3John.1.1.8.1" clear_id="n64001001008" n="8">ἀγαπῶ</token>
+     <token id="SBL.3John.1.1.9.1" clear_id="n64001001009" n="9">ἐν</token>
+     <token id="SBL.3John.1.1.10.1" clear_id="n64001001010" n="10" after=".">ἀληθείᾳ</token>
+    </move>
+    <move id="m.SBL.3John.1.2" chStart="1" vStart="2" chEnd="1" vEnd="2">
+     <token id="SBL.3John.1.2.1.1" clear_id="n64001002001" n="11" after=",">Ἀγαπητέ</token>
+     <token id="SBL.3John.1.2.2.1" clear_id="n64001002002" n="12">περὶ</token>
+     <token id="SBL.3John.1.2.3.1" clear_id="n64001002003" n="13">πάντων</token>
+     <token id="SBL.3John.1.2.4.1" clear_id="n64001002004" n="14">εὔχομαί</token>
+     <token id="SBL.3John.1.2.5.1" clear_id="n64001002005" n="15">σε</token>
+     <token id="SBL.3John.1.2.6.1" clear_id="n64001002006" n="16">εὐοδοῦσθαι</token>
+     <token id="SBL.3John.1.2.7.1" clear_id="n64001002007" n="17">καὶ</token>
+     <token id="SBL.3John.1.2.8.1" clear_id="n64001002008" n="18" after=",">ὑγιαίνειν</token>
+     <token id="SBL.3John.1.2.9.1" clear_id="n64001002009" n="19">καθὼς</token>
+     <token id="SBL.3John.1.2.10.1" clear_id="n64001002010" n="20">εὐοδοῦταί</token>
+     <token id="SBL.3John.1.2.11.1" clear_id="n64001002011" n="21">σου</token>
+     <token id="SBL.3John.1.2.12.1" clear_id="n64001002012" n="22">ἡ</token>
+     <token id="SBL.3John.1.2.13.1" clear_id="n64001002013" n="23" after=".">ψυχή</token>
+    </move>
+    <move id="m.SBL.3John.1.3.1-3" chStart="1" vStart="3" chEnd="1" vEnd="3">
+     <token id="SBL.3John.1.3.1.1" clear_id="n64001003001" n="24">ἐχάρην</token>
+     <token id="SBL.3John.1.3.2.1" clear_id="n64001003002" n="25">γὰρ</token>
+     <token id="SBL.3John.1.3.3.1" clear_id="n64001003003" n="26">λίαν</token>
+    </move>
+    <move id="m.SBL.3John.1.3.4-15" chStart="1" vStart="3" chEnd="1" vEnd="3">
+     <token id="SBL.3John.1.3.4.1" clear_id="n64001003004" n="27">ἐρχομένων</token>
+     <token id="SBL.3John.1.3.5.1" clear_id="n64001003005" n="28">ἀδελφῶν</token>
+     <token id="SBL.3John.1.3.6.1" clear_id="n64001003006" n="29">καὶ</token>
+     <token id="SBL.3John.1.3.7.1" clear_id="n64001003007" n="30">μαρτυρούντων</token>
+     <token id="SBL.3John.1.3.8.1" clear_id="n64001003008" n="31">σου</token>
+     <token id="SBL.3John.1.3.9.1" clear_id="n64001003009" n="32">τῇ</token>
+     <token id="SBL.3John.1.3.10.1" clear_id="n64001003010" n="33" after=",">ἀληθείᾳ</token>
+     <token id="SBL.3John.1.3.11.1" clear_id="n64001003011" n="34">καθὼς</token>
+     <token id="SBL.3John.1.3.12.1" clear_id="n64001003012" n="35">σὺ</token>
+     <token id="SBL.3John.1.3.13.1" clear_id="n64001003013" n="36">ἐν</token>
+     <token id="SBL.3John.1.3.14.1" clear_id="n64001003014" n="37">ἀληθείᾳ</token>
+     <token id="SBL.3John.1.3.15.1" clear_id="n64001003015" n="38" after=".">περιπατεῖς</token>
+    </move>
+    <move id="m.SBL.3John.1.4" chStart="1" vStart="4" chEnd="1" vEnd="4">
+     <token id="SBL.3John.1.4.1.1" clear_id="n64001004001" n="39">μειζοτέραν</token>
+     <token id="SBL.3John.1.4.2.1" clear_id="n64001004002" n="40">τούτων</token>
+     <token id="SBL.3John.1.4.3.1" clear_id="n64001004003" n="41">οὐκ</token>
+     <token id="SBL.3John.1.4.4.1" clear_id="n64001004004" n="42">ἔχω</token>
+     <token id="SBL.3John.1.4.5.1" clear_id="n64001004005" n="43" after=",">χαράν</token>
+     <token id="SBL.3John.1.4.6.1" clear_id="n64001004006" n="44">ἵνα</token>
+     <token id="SBL.3John.1.4.7.1" clear_id="n64001004007" n="45">ἀκούω</token>
+     <token id="SBL.3John.1.4.8.1" clear_id="n64001004008" n="46">τὰ</token>
+     <token id="SBL.3John.1.4.9.1" clear_id="n64001004009" n="47">ἐμὰ</token>
+     <token id="SBL.3John.1.4.10.1" clear_id="n64001004010" n="48">τέκνα</token>
+     <token id="SBL.3John.1.4.11.1" clear_id="n64001004011" n="49">ἐν</token>
+     <token id="SBL.3John.1.4.12.1" clear_id="n64001004012" n="50">τῇ</token>
+     <token id="SBL.3John.1.4.13.1" clear_id="n64001004013" n="51">ἀληθείᾳ</token>
+     <token id="SBL.3John.1.4.14.1" clear_id="n64001004014" n="52" after=".">περιπατοῦντα</token>
+    </move>
+   </seg>
+   <seg id="s.SBL.3John.1.5-8" title="The Hospitality of Gaius">
+    <move id="m.SBL.3John.1.5-6" chStart="1" vStart="5" chEnd="1" vEnd="6">
+     <token id="SBL.3John.1.5.1.1" clear_id="n64001005001" n="53" after=",">Ἀγαπητέ</token>
+     <token id="SBL.3John.1.5.2.1" clear_id="n64001005002" n="54">πιστὸν</token>
+     <token id="SBL.3John.1.5.3.1" clear_id="n64001005003" n="55">ποιεῖς</token>
+     <token id="SBL.3John.1.5.4.1" clear_id="n64001005004" n="56">ὃ</token>
+     <token id="SBL.3John.1.5.5.1" clear_id="n64001005005" n="57">ἐὰν</token>
+     <token id="SBL.3John.1.5.6.1" clear_id="n64001005006" n="58">ἐργάσῃ</token>
+     <token id="SBL.3John.1.5.7.1" clear_id="n64001005007" n="59">εἰς</token>
+     <token id="SBL.3John.1.5.8.1" clear_id="n64001005008" n="60">τοὺς</token>
+     <token id="SBL.3John.1.5.9.1" clear_id="n64001005009" n="61">ἀδελφοὺς</token>
+     <token id="SBL.3John.1.5.10.1" clear_id="n64001005010" n="62">καὶ</token>
+     <token id="SBL.3John.1.5.11.1" clear_id="n64001005011" n="63">τοῦτο</token>
+     <token id="SBL.3John.1.5.12.1" clear_id="n64001005012" n="64" after=",">ξένους</token>
+     <token id="SBL.3John.1.6.1.1" clear_id="n64001006001" n="65">οἳ</token>
+     <token id="SBL.3John.1.6.2.1" clear_id="n64001006002" n="66">ἐμαρτύρησάν</token>
+     <token id="SBL.3John.1.6.3.1" clear_id="n64001006003" n="67">σου</token>
+     <token id="SBL.3John.1.6.4.1" clear_id="n64001006004" n="68">τῇ</token>
+     <token id="SBL.3John.1.6.5.1" clear_id="n64001006005" n="69">ἀγάπῃ</token>
+     <token id="SBL.3John.1.6.6.1" clear_id="n64001006006" n="70">ἐνώπιον</token>
+     <token id="SBL.3John.1.6.7.1" clear_id="n64001006007" n="71" after=",">ἐκκλησίας</token>
+     <token id="SBL.3John.1.6.8.1" clear_id="n64001006008" n="72">οὓς</token>
+     <token id="SBL.3John.1.6.9.1" clear_id="n64001006009" n="73">καλῶς</token>
+     <token id="SBL.3John.1.6.10.1" clear_id="n64001006010" n="74">ποιήσεις</token>
+     <token id="SBL.3John.1.6.11.1" clear_id="n64001006011" n="75">προπέμψας</token>
+     <token id="SBL.3John.1.6.12.1" clear_id="n64001006012" n="76">ἀξίως</token>
+     <token id="SBL.3John.1.6.13.1" clear_id="n64001006013" n="77">τοῦ</token>
+     <token id="SBL.3John.1.6.14.1" clear_id="n64001006014" n="78" after="·">θεοῦ</token>
+    </move>
+    <move id="m.SBL.3John.1.7" chStart="1" vStart="7" chEnd="1" vEnd="7">
+     <token id="SBL.3John.1.7.1.1" clear_id="n64001007001" n="79">ὑπὲρ</token>
+     <token id="SBL.3John.1.7.2.1" clear_id="n64001007002" n="80">γὰρ</token>
+     <token id="SBL.3John.1.7.3.1" clear_id="n64001007003" n="81">τοῦ</token>
+     <token id="SBL.3John.1.7.4.1" clear_id="n64001007004" n="82">ὀνόματος</token>
+     <token id="SBL.3John.1.7.5.1" clear_id="n64001007005" n="83">ἐξῆλθον</token>
+     <token id="SBL.3John.1.7.6.1" clear_id="n64001007006" n="84">μηδὲν</token>
+     <token id="SBL.3John.1.7.7.1" clear_id="n64001007007" n="85">λαμβάνοντες</token>
+     <token id="SBL.3John.1.7.8.1" clear_id="n64001007008" n="86">ἀπὸ</token>
+     <token id="SBL.3John.1.7.9.1" clear_id="n64001007009" n="87">τῶν</token>
+     <token id="SBL.3John.1.7.10.1" clear_id="n64001007010" n="88" after=".">ἐθνικῶν</token>
+    </move>
+    <move id="m.SBL.3John.1.8" chStart="1" vStart="8" chEnd="1" vEnd="8">
+     <token id="SBL.3John.1.8.1.1" clear_id="n64001008001" n="89">ἡμεῖς</token>
+     <token id="SBL.3John.1.8.2.1" clear_id="n64001008002" n="90">οὖν</token>
+     <token id="SBL.3John.1.8.3.1" clear_id="n64001008003" n="91">ὀφείλομεν</token>
+     <token id="SBL.3John.1.8.4.1" clear_id="n64001008004" n="92">ὑπολαμβάνειν</token>
+     <token id="SBL.3John.1.8.5.1" clear_id="n64001008005" n="93">τοὺς</token>
+     <token id="SBL.3John.1.8.6.1" clear_id="n64001008006" n="94" after=",">τοιούτους</token>
+     <token id="SBL.3John.1.8.7.1" clear_id="n64001008007" n="95">ἵνα</token>
+     <token id="SBL.3John.1.8.8.1" clear_id="n64001008008" n="96">συνεργοὶ</token>
+     <token id="SBL.3John.1.8.9.1" clear_id="n64001008009" n="97">γινώμεθα</token>
+     <token id="SBL.3John.1.8.10.1" clear_id="n64001008010" n="98">τῇ</token>
+     <token id="SBL.3John.1.8.11.1" clear_id="n64001008011" n="99" after=".">ἀληθείᾳ</token>
+    </move>
+   </seg>
+   <seg id="s.SBL.3John.1.9-11" title="The Insolence of Diotrephes">
+    <move id="m.SBL.3John.1.9.1-4" chStart="1" vStart="9" chEnd="1" vEnd="9">
+     <token id="SBL.3John.1.9.1.1" clear_id="n64001009001" n="100">Ἔγραψά</token>
+     <token id="SBL.3John.1.9.2.1" clear_id="n64001009002" n="101">τι</token>
+     <token id="SBL.3John.1.9.3.1" clear_id="n64001009003" n="102">τῇ</token>
+     <token id="SBL.3John.1.9.4.1" clear_id="n64001009004" n="103" after="·">ἐκκλησίᾳ</token>
+    </move>
+    <move id="m.SBL.3John.1.9.5-12" chStart="1" vStart="9" chEnd="1" vEnd="9">
+     <token id="SBL.3John.1.9.5.1" clear_id="n64001009005" n="104">ἀλλ’</token>
+     <token id="SBL.3John.1.9.6.1" clear_id="n64001009006" n="105">ὁ</token>
+     <token id="SBL.3John.1.9.7.1" clear_id="n64001009007" n="106">φιλοπρωτεύων</token>
+     <token id="SBL.3John.1.9.8.1" clear_id="n64001009008" n="107">αὐτῶν</token>
+     <token id="SBL.3John.1.9.9.1" clear_id="n64001009009" n="108">Διοτρέφης</token>
+     <token id="SBL.3John.1.9.10.1" clear_id="n64001009010" n="109">οὐκ</token>
+     <token id="SBL.3John.1.9.11.1" clear_id="n64001009011" n="110">ἐπιδέχεται</token>
+     <token id="SBL.3John.1.9.12.1" clear_id="n64001009012" n="111" after=".">ἡμᾶς</token>
+    </move>
+    <move id="m.SBL.3John.1.10.1-14" chStart="1" vStart="10" chEnd="1" vEnd="10">
+     <token id="SBL.3John.1.10.1.1" clear_id="n64001010001" n="112">διὰ</token>
+     <token id="SBL.3John.1.10.2.1" clear_id="n64001010002" n="113" after=",">τοῦτο</token>
+     <token id="SBL.3John.1.10.3.1" clear_id="n64001010003" n="114">ἐὰν</token>
+     <token id="SBL.3John.1.10.4.1" clear_id="n64001010004" n="115" after=",">ἔλθω</token>
+     <token id="SBL.3John.1.10.5.1" clear_id="n64001010005" n="116">ὑπομνήσω</token>
+     <token id="SBL.3John.1.10.6.1" clear_id="n64001010006" n="117">αὐτοῦ</token>
+     <token id="SBL.3John.1.10.7.1" clear_id="n64001010007" n="118">τὰ</token>
+     <token id="SBL.3John.1.10.8.1" clear_id="n64001010008" n="119">ἔργα</token>
+     <token id="SBL.3John.1.10.9.1" clear_id="n64001010009" n="120">ἃ</token>
+     <token id="SBL.3John.1.10.10.1" clear_id="n64001010010" n="121" after=",">ποιεῖ</token>
+     <token id="SBL.3John.1.10.11.1" clear_id="n64001010011" n="122">λόγοις</token>
+     <token id="SBL.3John.1.10.12.1" clear_id="n64001010012" n="123">πονηροῖς</token>
+     <token id="SBL.3John.1.10.13.1" clear_id="n64001010013" n="124">φλυαρῶν</token>
+     <token id="SBL.3John.1.10.14.1" clear_id="n64001010014" n="125" after=",">ἡμᾶς</token>
+    </move>
+    <move id="m.SBL.3John.1.10.15-33" chStart="1" vStart="10" chEnd="1" vEnd="10">
+     <token id="SBL.3John.1.10.15.1" clear_id="n64001010015" n="126">καὶ</token>
+     <token id="SBL.3John.1.10.16.1" clear_id="n64001010016" n="127">μὴ</token>
+     <token id="SBL.3John.1.10.17.1" clear_id="n64001010017" n="128">ἀρκούμενος</token>
+     <token id="SBL.3John.1.10.18.1" clear_id="n64001010018" n="129">ἐπὶ</token>
+     <token id="SBL.3John.1.10.19.1" clear_id="n64001010019" n="130">τούτοις</token>
+     <token id="SBL.3John.1.10.20.1" clear_id="n64001010020" n="131">οὔτε</token>
+     <token id="SBL.3John.1.10.21.1" clear_id="n64001010021" n="132">αὐτὸς</token>
+     <token id="SBL.3John.1.10.22.1" clear_id="n64001010022" n="133">ἐπιδέχεται</token>
+     <token id="SBL.3John.1.10.23.1" clear_id="n64001010023" n="134">τοὺς</token>
+     <token id="SBL.3John.1.10.24.1" clear_id="n64001010024" n="135">ἀδελφοὺς</token>
+     <token id="SBL.3John.1.10.25.1" clear_id="n64001010025" n="136">καὶ</token>
+     <token id="SBL.3John.1.10.26.1" clear_id="n64001010026" n="137">τοὺς</token>
+     <token id="SBL.3John.1.10.27.1" clear_id="n64001010027" n="138">βουλομένους</token>
+     <token id="SBL.3John.1.10.28.1" clear_id="n64001010028" n="139">κωλύει</token>
+     <token id="SBL.3John.1.10.29.1" clear_id="n64001010029" n="140">καὶ</token>
+     <token id="SBL.3John.1.10.30.1" clear_id="n64001010030" n="141">ἐκ</token>
+     <token id="SBL.3John.1.10.31.1" clear_id="n64001010031" n="142">τῆς</token>
+     <token id="SBL.3John.1.10.32.1" clear_id="n64001010032" n="143">ἐκκλησίας</token>
+     <token id="SBL.3John.1.10.33.1" clear_id="n64001010033" n="144" after=".">ἐκβάλλει</token>
+    </move>
+    <move id="m.SBL.3John.1.11.1-8" chStart="1" vStart="11" chEnd="1" vEnd="11">
+     <token id="SBL.3John.1.11.1.1" clear_id="n64001011001" n="145" after=",">Ἀγαπητέ</token>
+     <token id="SBL.3John.1.11.2.1" clear_id="n64001011002" n="146">μὴ</token>
+     <token id="SBL.3John.1.11.3.1" clear_id="n64001011003" n="147">μιμοῦ</token>
+     <token id="SBL.3John.1.11.4.1" clear_id="n64001011004" n="148">τὸ</token>
+     <token id="SBL.3John.1.11.5.1" clear_id="n64001011005" n="149">κακὸν</token>
+     <token id="SBL.3John.1.11.6.1" clear_id="n64001011006" n="150">ἀλλὰ</token>
+     <token id="SBL.3John.1.11.7.1" clear_id="n64001011007" n="151">τὸ</token>
+     <token id="SBL.3John.1.11.8.1" clear_id="n64001011008" n="152" after=".">ἀγαθόν</token>
+    </move>
+    <move id="m.SBL.3John.1.11.9-14" chStart="1" vStart="11" chEnd="1" vEnd="11">
+     <token id="SBL.3John.1.11.9.1" clear_id="n64001011009" n="153">ὁ</token>
+     <token id="SBL.3John.1.11.10.1" clear_id="n64001011010" n="154">ἀγαθοποιῶν</token>
+     <token id="SBL.3John.1.11.11.1" clear_id="n64001011011" n="155">ἐκ</token>
+     <token id="SBL.3John.1.11.12.1" clear_id="n64001011012" n="156">τοῦ</token>
+     <token id="SBL.3John.1.11.13.1" clear_id="n64001011013" n="157">θεοῦ</token>
+     <token id="SBL.3John.1.11.14.1" clear_id="n64001011014" n="158" after="·">ἐστιν</token>
+    </move>
+    <move id="m.SBL.3John.1.11.15-20" chStart="1" vStart="11" chEnd="1" vEnd="11">
+     <token id="SBL.3John.1.11.15.1" clear_id="n64001011015" n="159">ὁ</token>
+     <token id="SBL.3John.1.11.16.1" clear_id="n64001011016" n="160">κακοποιῶν</token>
+     <token id="SBL.3John.1.11.17.1" clear_id="n64001011017" n="161">οὐχ</token>
+     <token id="SBL.3John.1.11.18.1" clear_id="n64001011018" n="162">ἑώρακεν</token>
+     <token id="SBL.3John.1.11.19.1" clear_id="n64001011019" n="163">τὸν</token>
+     <token id="SBL.3John.1.11.20.1" clear_id="n64001011020" n="164" after=".">θεόν</token>
+    </move>
+   </seg>
+   <seg id="s.SBL.3John.1.12-15" title="Commendation of Demetrius and Conclusion">
+    <move id="m.SBL.3John.1.12.1-9" chStart="1" vStart="12" chEnd="1" vEnd="12">
+     <token id="SBL.3John.1.12.1.1" clear_id="n64001012001" n="165">Δημητρίῳ</token>
+     <token id="SBL.3John.1.12.2.1" clear_id="n64001012002" n="166">μεμαρτύρηται</token>
+     <token id="SBL.3John.1.12.3.1" clear_id="n64001012003" n="167">ὑπὸ</token>
+     <token id="SBL.3John.1.12.4.1" clear_id="n64001012004" n="168">πάντων</token>
+     <token id="SBL.3John.1.12.5.1" clear_id="n64001012005" n="169">καὶ</token>
+     <token id="SBL.3John.1.12.6.1" clear_id="n64001012006" n="170">ὑπὸ</token>
+     <token id="SBL.3John.1.12.7.1" clear_id="n64001012007" n="171">αὐτῆς</token>
+     <token id="SBL.3John.1.12.8.1" clear_id="n64001012008" n="172">τῆς</token>
+     <token id="SBL.3John.1.12.9.1" clear_id="n64001012009" n="173" after="·">ἀληθείας</token>
+    </move>
+    <move id="m.SBL.3John.1.12.10-13" chStart="1" vStart="12" chEnd="1" vEnd="12">
+     <token id="SBL.3John.1.12.10.1" clear_id="n64001012010" n="174">καὶ</token>
+     <token id="SBL.3John.1.12.11.1" clear_id="n64001012011" n="175">ἡμεῖς</token>
+     <token id="SBL.3John.1.12.12.1" clear_id="n64001012012" n="176">δὲ</token>
+     <token id="SBL.3John.1.12.13.1" clear_id="n64001012013" n="177" after=",">μαρτυροῦμεν</token>
+    </move>
+    <move id="m.SBL.3John.1.12.14-21" chStart="1" vStart="12" chEnd="1" vEnd="12">
+     <token id="SBL.3John.1.12.14.1" clear_id="n64001012014" n="178">καὶ</token>
+     <token id="SBL.3John.1.12.15.1" clear_id="n64001012015" n="179">οἶδας</token>
+     <token id="SBL.3John.1.12.16.1" clear_id="n64001012016" n="180">ὅτι</token>
+     <token id="SBL.3John.1.12.17.1" clear_id="n64001012017" n="181">ἡ</token>
+     <token id="SBL.3John.1.12.18.1" clear_id="n64001012018" n="182">μαρτυρία</token>
+     <token id="SBL.3John.1.12.19.1" clear_id="n64001012019" n="183">ἡμῶν</token>
+     <token id="SBL.3John.1.12.20.1" clear_id="n64001012020" n="184">ἀληθής</token>
+     <token id="SBL.3John.1.12.21.1" clear_id="n64001012021" n="185" after=".">ἐστιν</token>
+    </move>
+    <move id="m.SBL.3John.1.13" chStart="1" vStart="13" chEnd="1" vEnd="13">
+     <token id="SBL.3John.1.13.1.1" clear_id="n64001013001" n="186">Πολλὰ</token>
+     <token id="SBL.3John.1.13.2.1" clear_id="n64001013002" n="187">εἶχον</token>
+     <token id="SBL.3John.1.13.3.1" clear_id="n64001013003" n="188">γράψαι</token>
+     <token id="SBL.3John.1.13.4.1" clear_id="n64001013004" n="189" after=",">σοι</token>
+     <token id="SBL.3John.1.13.5.1" clear_id="n64001013005" n="190">ἀλλ’</token>
+     <token id="SBL.3John.1.13.6.1" clear_id="n64001013006" n="191">οὐ</token>
+     <token id="SBL.3John.1.13.7.1" clear_id="n64001013007" n="192">θέλω</token>
+     <token id="SBL.3John.1.13.8.1" clear_id="n64001013008" n="193">διὰ</token>
+     <token id="SBL.3John.1.13.9.1" clear_id="n64001013009" n="194">μέλανος</token>
+     <token id="SBL.3John.1.13.10.1" clear_id="n64001013010" n="195">καὶ</token>
+     <token id="SBL.3John.1.13.11.1" clear_id="n64001013011" n="196">καλάμου</token>
+     <token id="SBL.3John.1.13.12.1" clear_id="n64001013012" n="197">σοι</token>
+     <token id="SBL.3John.1.13.13.1" clear_id="n64001013013" n="198" after="·">γράφειν</token>
+    </move>
+    <move id="m.SBL.3John.1.14.1-5" chStart="1" vStart="14" chEnd="1" vEnd="14">
+     <token id="SBL.3John.1.14.1.1" clear_id="n64001014001" n="199">ἐλπίζω</token>
+     <token id="SBL.3John.1.14.2.1" clear_id="n64001014002" n="200">δὲ</token>
+     <token id="SBL.3John.1.14.3.1" clear_id="n64001014003" n="201">εὐθέως</token>
+     <token id="SBL.3John.1.14.4.1" clear_id="n64001014004" n="202">σε</token>
+     <token id="SBL.3John.1.14.5.1" clear_id="n64001014005" n="203" after=",">ἰδεῖν</token>
+    </move>
+    <move id="m.SBL.3John.1.14.6-10" chStart="1" vStart="14" chEnd="1" vEnd="14">
+     <token id="SBL.3John.1.14.6.1" clear_id="n64001014006" n="204">καὶ</token>
+     <token id="SBL.3John.1.14.7.1" clear_id="n64001014007" n="205">στόμα</token>
+     <token id="SBL.3John.1.14.8.1" clear_id="n64001014008" n="206">πρὸς</token>
+     <token id="SBL.3John.1.14.9.1" clear_id="n64001014009" n="207">στόμα</token>
+     <token id="SBL.3John.1.14.10.1" clear_id="n64001014010" n="208" after=".">λαλήσομεν</token>
+    </move>
+    <move id="m.SBL.3John.1.15.1-2" chStart="1" vStart="15" chEnd="1" vEnd="15">
+     <token id="SBL.3John.1.15.1.1" clear_id="n64001015001" n="209">Εἰρήνη</token>
+     <token id="SBL.3John.1.15.2.1" clear_id="n64001015002" n="210" after=".">σοι</token>
+    </move>
+    <move id="m.SBL.3John.1.15.3-6" chStart="1" vStart="15" chEnd="1" vEnd="15">
+     <token id="SBL.3John.1.15.3.1" clear_id="n64001015003" n="211">ἀσπάζονταί</token>
+     <token id="SBL.3John.1.15.4.1" clear_id="n64001015004" n="212">σε</token>
+     <token id="SBL.3John.1.15.5.1" clear_id="n64001015005" n="213">οἱ</token>
+     <token id="SBL.3John.1.15.6.1" clear_id="n64001015006" n="214" after=".">φίλοι</token>
+    </move>
+    <move id="m.SBL.3John.1.15.7-11" chStart="1" vStart="15" chEnd="1" vEnd="15">
+     <token id="SBL.3John.1.15.7.1" clear_id="n64001015007" n="215">ἀσπάζου</token>
+     <token id="SBL.3John.1.15.8.1" clear_id="n64001015008" n="216">τοὺς</token>
+     <token id="SBL.3John.1.15.9.1" clear_id="n64001015009" n="217">φίλους</token>
+     <token id="SBL.3John.1.15.10.1" clear_id="n64001015010" n="218">κατ’</token>
+     <token id="SBL.3John.1.15.11.1" clear_id="n64001015011" n="219" after=".">ὄνομα</token>
+    </move>
+   </seg>
+  </turn>
+ </text>
+</OpenText>

@@ -1,0 +1,1899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="context.css"?>
+<OpenText>
+ <header>
+  <fileDesc>
+   <titleStmt>
+    <title>OpenText Contextual Annotation</title>
+    <editor>Christopher D. Land</editor>
+    <editor>Ryder A. Wishart</editor>
+   </titleStmt>
+   <editionStmt>
+    <edition>1.00</edition>
+   </editionStmt>
+   <publicationStmt>
+    <authority>www.opentext.org</authority>
+    <availability>
+     <p>Context annotation is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Available at https://github.com/OpenText-org/context-annotation.</p>
+    </availability>
+   </publicationStmt>
+   <notesStmt>
+    <note>Corrections are welcome either through GitHub, the project website (www.opentext.org), or a direct email to Christopher D. Land or Ryder A. Wishart.</note>
+   </notesStmt>
+   <sourceDesc>
+    <p>The SBL Greek New Testament (SBLGNT) is a critically edited edition of the Greek New Testament produced by the Society of Biblical Literature and Logos Bible Software, made available under a [CC-BY License] (https://creativecommons.org/licenses/by/4.0/). Available at https://github.com/LogosBible/SBLGNT.</p>
+    <p>Contextual speaking turns were derived by Christopher D. Land using projection data in the original [OpenText annotation](https://github.com/OpenText-org/GNT_annotation_v1.0) together with the capitalization of the SBLGNT edition. Manual error correction was then carried out by Christopher D. Land and Doosuk Kim.</p>
+    <p>Turn segments were derived by Ryder A. Wishart by modifying the pericope headings of Robinson and Pierpont's Greek New Testament, which is in the public domain. Differences can be identified by comparing this data to the start and end tokens compiled by [James Tauber](https://github.com/jtauber/vocabulary-tools/blob/master/gnt_data/pericopes.txt).</p>
+    <p>Move segments were derived by Christopher D. Land from syntax markup copyright 2014-2017 by the Global Bible Initiative, made available under under a [CC-BY-SA License] (http://creativecommons.org/licenses/by-sa/3.0/). Available at https://github.com/biblicalhumanities/greek-new-testament/tree/master/syntax-trees/sblgnt.</p>
+   </sourceDesc>
+  </fileDesc>
+ </header>
+ <text id="1Pet">
+  <turn depth="1" id="t.SBL.1Pet" chStart="1" vStart="1" chEnd="5" vEnd="14">
+   <seg id="s.SBL.1Pet.1.1-2" title="Address and Salutation">
+    <move id="m.SBL.1Pet.1.1.1-2.14" chStart="1" vStart="1" chEnd="1" vEnd="2">
+     <token id="SBL.1Pet.1.1.1.1" clear_id="n60001001001" n="1">Πέτρος</token>
+     <token id="SBL.1Pet.1.1.2.1" clear_id="n60001001002" n="2">ἀπόστολος</token>
+     <token id="SBL.1Pet.1.1.3.1" clear_id="n60001001003" n="3">Ἰησοῦ</token>
+     <token id="SBL.1Pet.1.1.4.1" clear_id="n60001001004" n="4">Χριστοῦ</token>
+     <token id="SBL.1Pet.1.1.5.1" clear_id="n60001001005" n="5">ἐκλεκτοῖς</token>
+     <token id="SBL.1Pet.1.1.6.1" clear_id="n60001001006" n="6">παρεπιδήμοις</token>
+     <token id="SBL.1Pet.1.1.7.1" clear_id="n60001001007" n="7">διασπορᾶς</token>
+     <token id="SBL.1Pet.1.1.8.1" clear_id="n60001001008" n="8" after=",">Πόντου</token>
+     <token id="SBL.1Pet.1.1.9.1" clear_id="n60001001009" n="9" after=",">Γαλατίας</token>
+     <token id="SBL.1Pet.1.1.10.1" clear_id="n60001001010" n="10" after=",">Καππαδοκίας</token>
+     <token id="SBL.1Pet.1.1.11.1" clear_id="n60001001011" n="11" after=",">Ἀσίας</token>
+     <token id="SBL.1Pet.1.1.12.1" clear_id="n60001001012" n="12">καὶ</token>
+     <token id="SBL.1Pet.1.1.13.1" clear_id="n60001001013" n="13" after=",">Βιθυνίας</token>
+     <token id="SBL.1Pet.1.2.1.1" clear_id="n60001002001" n="14">κατὰ</token>
+     <token id="SBL.1Pet.1.2.2.1" clear_id="n60001002002" n="15">πρόγνωσιν</token>
+     <token id="SBL.1Pet.1.2.3.1" clear_id="n60001002003" n="16">θεοῦ</token>
+     <token id="SBL.1Pet.1.2.4.1" clear_id="n60001002004" n="17" after=",">πατρός</token>
+     <token id="SBL.1Pet.1.2.5.1" clear_id="n60001002005" n="18">ἐν</token>
+     <token id="SBL.1Pet.1.2.6.1" clear_id="n60001002006" n="19">ἁγιασμῷ</token>
+     <token id="SBL.1Pet.1.2.7.1" clear_id="n60001002007" n="20" after=",">πνεύματος</token>
+     <token id="SBL.1Pet.1.2.8.1" clear_id="n60001002008" n="21">εἰς</token>
+     <token id="SBL.1Pet.1.2.9.1" clear_id="n60001002009" n="22">ὑπακοὴν</token>
+     <token id="SBL.1Pet.1.2.10.1" clear_id="n60001002010" n="23">καὶ</token>
+     <token id="SBL.1Pet.1.2.11.1" clear_id="n60001002011" n="24">ῥαντισμὸν</token>
+     <token id="SBL.1Pet.1.2.12.1" clear_id="n60001002012" n="25">αἵματος</token>
+     <token id="SBL.1Pet.1.2.13.1" clear_id="n60001002013" n="26">Ἰησοῦ</token>
+     <token id="SBL.1Pet.1.2.14.1" clear_id="n60001002014" n="27" after="·">Χριστοῦ</token>
+    </move>
+    <move id="m.SBL.1Pet.1.2.15-19" chStart="1" vStart="2" chEnd="1" vEnd="2">
+     <token id="SBL.1Pet.1.2.15.1" clear_id="n60001002015" n="28">χάρις</token>
+     <token id="SBL.1Pet.1.2.16.1" clear_id="n60001002016" n="29">ὑμῖν</token>
+     <token id="SBL.1Pet.1.2.17.1" clear_id="n60001002017" n="30">καὶ</token>
+     <token id="SBL.1Pet.1.2.18.1" clear_id="n60001002018" n="31">εἰρήνη</token>
+     <token id="SBL.1Pet.1.2.19.1" clear_id="n60001002019" n="32" after=".">πληθυνθείη</token>
+    </move>
+   </seg>
+   <seg id="s.SBL.1Pet.1.3-12" title="A Praise of God for His Manifold Blessings">
+    <move id="m.SBL.1Pet.1.3-5" chStart="1" vStart="3" chEnd="1" vEnd="5">
+     <token id="SBL.1Pet.1.3.1.1" clear_id="n60001003001" n="33">Εὐλογητὸς</token>
+     <token id="SBL.1Pet.1.3.2.1" clear_id="n60001003002" n="34">ὁ</token>
+     <token id="SBL.1Pet.1.3.3.1" clear_id="n60001003003" n="35">θεὸς</token>
+     <token id="SBL.1Pet.1.3.4.1" clear_id="n60001003004" n="36">καὶ</token>
+     <token id="SBL.1Pet.1.3.5.1" clear_id="n60001003005" n="37">πατὴρ</token>
+     <token id="SBL.1Pet.1.3.6.1" clear_id="n60001003006" n="38">τοῦ</token>
+     <token id="SBL.1Pet.1.3.7.1" clear_id="n60001003007" n="39">κυρίου</token>
+     <token id="SBL.1Pet.1.3.8.1" clear_id="n60001003008" n="40">ἡμῶν</token>
+     <token id="SBL.1Pet.1.3.9.1" clear_id="n60001003009" n="41">Ἰησοῦ</token>
+     <token id="SBL.1Pet.1.3.10.1" clear_id="n60001003010" n="42" after=",">Χριστοῦ</token>
+     <token id="SBL.1Pet.1.3.11.1" clear_id="n60001003011" n="43">ὁ</token>
+     <token id="SBL.1Pet.1.3.12.1" clear_id="n60001003012" n="44">κατὰ</token>
+     <token id="SBL.1Pet.1.3.13.1" clear_id="n60001003013" n="45">τὸ</token>
+     <token id="SBL.1Pet.1.3.14.1" clear_id="n60001003014" n="46">πολὺ</token>
+     <token id="SBL.1Pet.1.3.15.1" clear_id="n60001003015" n="47">αὐτοῦ</token>
+     <token id="SBL.1Pet.1.3.16.1" clear_id="n60001003016" n="48">ἔλεος</token>
+     <token id="SBL.1Pet.1.3.17.1" clear_id="n60001003017" n="49">ἀναγεννήσας</token>
+     <token id="SBL.1Pet.1.3.18.1" clear_id="n60001003018" n="50">ἡμᾶς</token>
+     <token id="SBL.1Pet.1.3.19.1" clear_id="n60001003019" n="51">εἰς</token>
+     <token id="SBL.1Pet.1.3.20.1" clear_id="n60001003020" n="52">ἐλπίδα</token>
+     <token id="SBL.1Pet.1.3.21.1" clear_id="n60001003021" n="53">ζῶσαν</token>
+     <token id="SBL.1Pet.1.3.22.1" clear_id="n60001003022" n="54">δι’</token>
+     <token id="SBL.1Pet.1.3.23.1" clear_id="n60001003023" n="55">ἀναστάσεως</token>
+     <token id="SBL.1Pet.1.3.24.1" clear_id="n60001003024" n="56">Ἰησοῦ</token>
+     <token id="SBL.1Pet.1.3.25.1" clear_id="n60001003025" n="57">Χριστοῦ</token>
+     <token id="SBL.1Pet.1.3.26.1" clear_id="n60001003026" n="58">ἐκ</token>
+     <token id="SBL.1Pet.1.3.27.1" clear_id="n60001003027" n="59" after=",">νεκρῶν</token>
+     <token id="SBL.1Pet.1.4.1.1" clear_id="n60001004001" n="60">εἰς</token>
+     <token id="SBL.1Pet.1.4.2.1" clear_id="n60001004002" n="61">κληρονομίαν</token>
+     <token id="SBL.1Pet.1.4.3.1" clear_id="n60001004003" n="62">ἄφθαρτον</token>
+     <token id="SBL.1Pet.1.4.4.1" clear_id="n60001004004" n="63">καὶ</token>
+     <token id="SBL.1Pet.1.4.5.1" clear_id="n60001004005" n="64">ἀμίαντον</token>
+     <token id="SBL.1Pet.1.4.6.1" clear_id="n60001004006" n="65">καὶ</token>
+     <token id="SBL.1Pet.1.4.7.1" clear_id="n60001004007" n="66" after=",">ἀμάραντον</token>
+     <token id="SBL.1Pet.1.4.8.1" clear_id="n60001004008" n="67">τετηρημένην</token>
+     <token id="SBL.1Pet.1.4.9.1" clear_id="n60001004009" n="68">ἐν</token>
+     <token id="SBL.1Pet.1.4.10.1" clear_id="n60001004010" n="69">οὐρανοῖς</token>
+     <token id="SBL.1Pet.1.4.11.1" clear_id="n60001004011" n="70">εἰς</token>
+     <token id="SBL.1Pet.1.4.12.1" clear_id="n60001004012" n="71">ὑμᾶς</token>
+     <token id="SBL.1Pet.1.5.1.1" clear_id="n60001005001" n="72">τοὺς</token>
+     <token id="SBL.1Pet.1.5.2.1" clear_id="n60001005002" n="73">ἐν</token>
+     <token id="SBL.1Pet.1.5.3.1" clear_id="n60001005003" n="74">δυνάμει</token>
+     <token id="SBL.1Pet.1.5.4.1" clear_id="n60001005004" n="75">θεοῦ</token>
+     <token id="SBL.1Pet.1.5.5.1" clear_id="n60001005005" n="76">φρουρουμένους</token>
+     <token id="SBL.1Pet.1.5.6.1" clear_id="n60001005006" n="77">διὰ</token>
+     <token id="SBL.1Pet.1.5.7.1" clear_id="n60001005007" n="78">πίστεως</token>
+     <token id="SBL.1Pet.1.5.8.1" clear_id="n60001005008" n="79">εἰς</token>
+     <token id="SBL.1Pet.1.5.9.1" clear_id="n60001005009" n="80">σωτηρίαν</token>
+     <token id="SBL.1Pet.1.5.10.1" clear_id="n60001005010" n="81">ἑτοίμην</token>
+     <token id="SBL.1Pet.1.5.11.1" clear_id="n60001005011" n="82">ἀποκαλυφθῆναι</token>
+     <token id="SBL.1Pet.1.5.12.1" clear_id="n60001005012" n="83">ἐν</token>
+     <token id="SBL.1Pet.1.5.13.1" clear_id="n60001005013" n="84">καιρῷ</token>
+     <token id="SBL.1Pet.1.5.14.1" clear_id="n60001005014" n="85" after=".">ἐσχάτῳ</token>
+    </move>
+    <move id="m.SBL.1Pet.1.6-7" chStart="1" vStart="6" chEnd="1" vEnd="7">
+     <token id="SBL.1Pet.1.6.1.1" clear_id="n60001006001" n="86">ἐν</token>
+     <token id="SBL.1Pet.1.6.2.1" clear_id="n60001006002" n="87">ᾧ</token>
+     <token id="SBL.1Pet.1.6.3.1" clear_id="n60001006003" n="88" after=",">ἀγαλλιᾶσθε</token>
+     <token id="SBL.1Pet.1.6.4.1" clear_id="n60001006004" n="89">ὀλίγον</token>
+     <token id="SBL.1Pet.1.6.5.1" clear_id="n60001006005" n="90">ἄρτι</token>
+     <token id="SBL.1Pet.1.6.6.1" clear_id="n60001006006" n="91">εἰ</token>
+     <token id="SBL.1Pet.1.6.7.1" clear_id="n60001006007" n="92">δέον</token>
+     <token id="SBL.1Pet.1.6.8.1" clear_id="n60001006008" n="93">λυπηθέντες</token>
+     <token id="SBL.1Pet.1.6.9.1" clear_id="n60001006009" n="94">ἐν</token>
+     <token id="SBL.1Pet.1.6.10.1" clear_id="n60001006010" n="95">ποικίλοις</token>
+     <token id="SBL.1Pet.1.6.11.1" clear_id="n60001006011" n="96" after=",">πειρασμοῖς</token>
+     <token id="SBL.1Pet.1.7.1.1" clear_id="n60001007001" n="97">ἵνα</token>
+     <token id="SBL.1Pet.1.7.2.1" clear_id="n60001007002" n="98">τὸ</token>
+     <token id="SBL.1Pet.1.7.3.1" clear_id="n60001007003" n="99">δοκίμιον</token>
+     <token id="SBL.1Pet.1.7.4.1" clear_id="n60001007004" n="100">ὑμῶν</token>
+     <token id="SBL.1Pet.1.7.5.1" clear_id="n60001007005" n="101">τῆς</token>
+     <token id="SBL.1Pet.1.7.6.1" clear_id="n60001007006" n="102">πίστεως</token>
+     <token id="SBL.1Pet.1.7.7.1" clear_id="n60001007007" n="103">πολυτιμότερον</token>
+     <token id="SBL.1Pet.1.7.8.1" clear_id="n60001007008" n="104">χρυσίου</token>
+     <token id="SBL.1Pet.1.7.9.1" clear_id="n60001007009" n="105">τοῦ</token>
+     <token id="SBL.1Pet.1.7.10.1" clear_id="n60001007010" n="106">ἀπολλυμένου</token>
+     <token id="SBL.1Pet.1.7.11.1" clear_id="n60001007011" n="107">διὰ</token>
+     <token id="SBL.1Pet.1.7.12.1" clear_id="n60001007012" n="108">πυρὸς</token>
+     <token id="SBL.1Pet.1.7.13.1" clear_id="n60001007013" n="109">δὲ</token>
+     <token id="SBL.1Pet.1.7.14.1" clear_id="n60001007014" n="110">δοκιμαζομένου</token>
+     <token id="SBL.1Pet.1.7.15.1" clear_id="n60001007015" n="111">εὑρεθῇ</token>
+     <token id="SBL.1Pet.1.7.16.1" clear_id="n60001007016" n="112">εἰς</token>
+     <token id="SBL.1Pet.1.7.17.1" clear_id="n60001007017" n="113">ἔπαινον</token>
+     <token id="SBL.1Pet.1.7.18.1" clear_id="n60001007018" n="114">καὶ</token>
+     <token id="SBL.1Pet.1.7.19.1" clear_id="n60001007019" n="115">δόξαν</token>
+     <token id="SBL.1Pet.1.7.20.1" clear_id="n60001007020" n="116">καὶ</token>
+     <token id="SBL.1Pet.1.7.21.1" clear_id="n60001007021" n="117">τιμὴν</token>
+     <token id="SBL.1Pet.1.7.22.1" clear_id="n60001007022" n="118">ἐν</token>
+     <token id="SBL.1Pet.1.7.23.1" clear_id="n60001007023" n="119">ἀποκαλύψει</token>
+     <token id="SBL.1Pet.1.7.24.1" clear_id="n60001007024" n="120">Ἰησοῦ</token>
+     <token id="SBL.1Pet.1.7.25.1" clear_id="n60001007025" n="121" after=".">Χριστοῦ</token>
+    </move>
+    <move id="m.SBL.1Pet.1.8-9" chStart="1" vStart="8" chEnd="1" vEnd="9">
+     <token id="SBL.1Pet.1.8.1.1" clear_id="n60001008001" n="122">ὃν</token>
+     <token id="SBL.1Pet.1.8.2.1" clear_id="n60001008002" n="123">οὐκ</token>
+     <token id="SBL.1Pet.1.8.3.1" clear_id="n60001008003" n="124">ἰδόντες</token>
+     <token id="SBL.1Pet.1.8.4.1" clear_id="n60001008004" n="125" after=",">ἀγαπᾶτε</token>
+     <token id="SBL.1Pet.1.8.5.1" clear_id="n60001008005" n="126">εἰς</token>
+     <token id="SBL.1Pet.1.8.6.1" clear_id="n60001008006" n="127">ὃν</token>
+     <token id="SBL.1Pet.1.8.7.1" clear_id="n60001008007" n="128">ἄρτι</token>
+     <token id="SBL.1Pet.1.8.8.1" clear_id="n60001008008" n="129">μὴ</token>
+     <token id="SBL.1Pet.1.8.9.1" clear_id="n60001008009" n="130">ὁρῶντες</token>
+     <token id="SBL.1Pet.1.8.10.1" clear_id="n60001008010" n="131">πιστεύοντες</token>
+     <token id="SBL.1Pet.1.8.11.1" clear_id="n60001008011" n="132">δὲ</token>
+     <token id="SBL.1Pet.1.8.12.1" clear_id="n60001008012" n="133">ἀγαλλιᾶσθε</token>
+     <token id="SBL.1Pet.1.8.13.1" clear_id="n60001008013" n="134">χαρᾷ</token>
+     <token id="SBL.1Pet.1.8.14.1" clear_id="n60001008014" n="135">ἀνεκλαλήτῳ</token>
+     <token id="SBL.1Pet.1.8.15.1" clear_id="n60001008015" n="136">καὶ</token>
+     <token id="SBL.1Pet.1.8.16.1" clear_id="n60001008016" n="137" after=",">δεδοξασμένῃ</token>
+     <token id="SBL.1Pet.1.9.1.1" clear_id="n60001009001" n="138">κομιζόμενοι</token>
+     <token id="SBL.1Pet.1.9.2.1" clear_id="n60001009002" n="139">τὸ</token>
+     <token id="SBL.1Pet.1.9.3.1" clear_id="n60001009003" n="140">τέλος</token>
+     <token id="SBL.1Pet.1.9.4.1" clear_id="n60001009004" n="141">τῆς</token>
+     <token id="SBL.1Pet.1.9.5.1" clear_id="n60001009005" n="142">πίστεως</token>
+     <token id="SBL.1Pet.1.9.6.1" clear_id="n60001009006" n="143">ὑμῶν</token>
+     <token id="SBL.1Pet.1.9.7.1" clear_id="n60001009007" n="144">σωτηρίαν</token>
+     <token id="SBL.1Pet.1.9.8.1" clear_id="n60001009008" n="145" after=".">ψυχῶν</token>
+    </move>
+    <move id="m.SBL.1Pet.1.10-11" chStart="1" vStart="10" chEnd="1" vEnd="11">
+     <token id="SBL.1Pet.1.10.1.1" clear_id="n60001010001" n="146">Περὶ</token>
+     <token id="SBL.1Pet.1.10.2.1" clear_id="n60001010002" n="147">ἧς</token>
+     <token id="SBL.1Pet.1.10.3.1" clear_id="n60001010003" n="148">σωτηρίας</token>
+     <token id="SBL.1Pet.1.10.4.1" clear_id="n60001010004" n="149">ἐξεζήτησαν</token>
+     <token id="SBL.1Pet.1.10.5.1" clear_id="n60001010005" n="150">καὶ</token>
+     <token id="SBL.1Pet.1.10.6.1" clear_id="n60001010006" n="151">ἐξηραύνησαν</token>
+     <token id="SBL.1Pet.1.10.7.1" clear_id="n60001010007" n="152">προφῆται</token>
+     <token id="SBL.1Pet.1.10.8.1" clear_id="n60001010008" n="153">οἱ</token>
+     <token id="SBL.1Pet.1.10.9.1" clear_id="n60001010009" n="154">περὶ</token>
+     <token id="SBL.1Pet.1.10.10.1" clear_id="n60001010010" n="155">τῆς</token>
+     <token id="SBL.1Pet.1.10.11.1" clear_id="n60001010011" n="156">εἰς</token>
+     <token id="SBL.1Pet.1.10.12.1" clear_id="n60001010012" n="157">ὑμᾶς</token>
+     <token id="SBL.1Pet.1.10.13.1" clear_id="n60001010013" n="158">χάριτος</token>
+     <token id="SBL.1Pet.1.10.14.1" clear_id="n60001010014" n="159" after=",">προφητεύσαντες</token>
+     <token id="SBL.1Pet.1.11.1.1" clear_id="n60001011001" n="160">ἐραυνῶντες</token>
+     <token id="SBL.1Pet.1.11.2.1" clear_id="n60001011002" n="161">εἰς</token>
+     <token id="SBL.1Pet.1.11.3.1" clear_id="n60001011003" n="162">τίνα</token>
+     <token id="SBL.1Pet.1.11.4.1" clear_id="n60001011004" n="163">ἢ</token>
+     <token id="SBL.1Pet.1.11.5.1" clear_id="n60001011005" n="164">ποῖον</token>
+     <token id="SBL.1Pet.1.11.6.1" clear_id="n60001011006" n="165">καιρὸν</token>
+     <token id="SBL.1Pet.1.11.7.1" clear_id="n60001011007" n="166">ἐδήλου</token>
+     <token id="SBL.1Pet.1.11.8.1" clear_id="n60001011008" n="167">τὸ</token>
+     <token id="SBL.1Pet.1.11.9.1" clear_id="n60001011009" n="168">ἐν</token>
+     <token id="SBL.1Pet.1.11.10.1" clear_id="n60001011010" n="169">αὐτοῖς</token>
+     <token id="SBL.1Pet.1.11.11.1" clear_id="n60001011011" n="170">πνεῦμα</token>
+     <token id="SBL.1Pet.1.11.12.1" clear_id="n60001011012" n="171">Χριστοῦ</token>
+     <token id="SBL.1Pet.1.11.13.1" clear_id="n60001011013" n="172">προμαρτυρόμενον</token>
+     <token id="SBL.1Pet.1.11.14.1" clear_id="n60001011014" n="173">τὰ</token>
+     <token id="SBL.1Pet.1.11.15.1" clear_id="n60001011015" n="174">εἰς</token>
+     <token id="SBL.1Pet.1.11.16.1" clear_id="n60001011016" n="175">Χριστὸν</token>
+     <token id="SBL.1Pet.1.11.17.1" clear_id="n60001011017" n="176">παθήματα</token>
+     <token id="SBL.1Pet.1.11.18.1" clear_id="n60001011018" n="177">καὶ</token>
+     <token id="SBL.1Pet.1.11.19.1" clear_id="n60001011019" n="178">τὰς</token>
+     <token id="SBL.1Pet.1.11.20.1" clear_id="n60001011020" n="179">μετὰ</token>
+     <token id="SBL.1Pet.1.11.21.1" clear_id="n60001011021" n="180">ταῦτα</token>
+     <token id="SBL.1Pet.1.11.22.1" clear_id="n60001011022" n="181" after="·">δόξας</token>
+    </move>
+    <move id="m.SBL.1Pet.1.12" chStart="1" vStart="12" chEnd="1" vEnd="12">
+     <token id="SBL.1Pet.1.12.1.1" clear_id="n60001012001" n="182">οἷς</token>
+     <token id="SBL.1Pet.1.12.2.1" clear_id="n60001012002" n="183">ἀπεκαλύφθη</token>
+     <token id="SBL.1Pet.1.12.3.1" clear_id="n60001012003" n="184">ὅτι</token>
+     <token id="SBL.1Pet.1.12.4.1" clear_id="n60001012004" n="185">οὐχ</token>
+     <token id="SBL.1Pet.1.12.5.1" clear_id="n60001012005" n="186">ἑαυτοῖς</token>
+     <token id="SBL.1Pet.1.12.6.1" clear_id="n60001012006" n="187">ὑμῖν</token>
+     <token id="SBL.1Pet.1.12.7.1" clear_id="n60001012007" n="188">δὲ</token>
+     <token id="SBL.1Pet.1.12.8.1" clear_id="n60001012008" n="189">διηκόνουν</token>
+     <token id="SBL.1Pet.1.12.9.1" clear_id="n60001012009" n="190" after=",">αὐτά</token>
+     <token id="SBL.1Pet.1.12.10.1" clear_id="n60001012010" n="191">ἃ</token>
+     <token id="SBL.1Pet.1.12.11.1" clear_id="n60001012011" n="192">νῦν</token>
+     <token id="SBL.1Pet.1.12.12.1" clear_id="n60001012012" n="193">ἀνηγγέλη</token>
+     <token id="SBL.1Pet.1.12.13.1" clear_id="n60001012013" n="194">ὑμῖν</token>
+     <token id="SBL.1Pet.1.12.14.1" clear_id="n60001012014" n="195">διὰ</token>
+     <token id="SBL.1Pet.1.12.15.1" clear_id="n60001012015" n="196">τῶν</token>
+     <token id="SBL.1Pet.1.12.16.1" clear_id="n60001012016" n="197">εὐαγγελισαμένων</token>
+     <token id="SBL.1Pet.1.12.17.1" clear_id="n60001012017" n="198">ὑμᾶς</token>
+     <token id="SBL.1Pet.1.12.18.1" clear_id="n60001012018" n="199">πνεύματι</token>
+     <token id="SBL.1Pet.1.12.19.1" clear_id="n60001012019" n="200">ἁγίῳ</token>
+     <token id="SBL.1Pet.1.12.20.1" clear_id="n60001012020" n="201">ἀποσταλέντι</token>
+     <token id="SBL.1Pet.1.12.21.1" clear_id="n60001012021" n="202">ἀπ’</token>
+     <token id="SBL.1Pet.1.12.22.1" clear_id="n60001012022" n="203" after=",">οὐρανοῦ</token>
+     <token id="SBL.1Pet.1.12.23.1" clear_id="n60001012023" n="204">εἰς</token>
+     <token id="SBL.1Pet.1.12.24.1" clear_id="n60001012024" n="205">ἃ</token>
+     <token id="SBL.1Pet.1.12.25.1" clear_id="n60001012025" n="206">ἐπιθυμοῦσιν</token>
+     <token id="SBL.1Pet.1.12.26.1" clear_id="n60001012026" n="207">ἄγγελοι</token>
+     <token id="SBL.1Pet.1.12.27.1" clear_id="n60001012027" n="208" after=".">παρακύψαι</token>
+    </move>
+   </seg>
+   <seg id="s.SBL.1Pet.1.13-25" title="An Admonition to Lead a Godly Life">
+    <move id="m.SBL.1Pet.1.13" chStart="1" vStart="13" chEnd="1" vEnd="13">
+     <token id="SBL.1Pet.1.13.1.1" clear_id="n60001013001" n="209">Διὸ</token>
+     <token id="SBL.1Pet.1.13.2.1" clear_id="n60001013002" n="210">ἀναζωσάμενοι</token>
+     <token id="SBL.1Pet.1.13.3.1" clear_id="n60001013003" n="211">τὰς</token>
+     <token id="SBL.1Pet.1.13.4.1" clear_id="n60001013004" n="212">ὀσφύας</token>
+     <token id="SBL.1Pet.1.13.5.1" clear_id="n60001013005" n="213">τῆς</token>
+     <token id="SBL.1Pet.1.13.6.1" clear_id="n60001013006" n="214">διανοίας</token>
+     <token id="SBL.1Pet.1.13.7.1" clear_id="n60001013007" n="215" after=",">ὑμῶν</token>
+     <token id="SBL.1Pet.1.13.8.1" clear_id="n60001013008" n="216">νήφοντες</token>
+     <token id="SBL.1Pet.1.13.9.1" clear_id="n60001013009" n="217" after=",">τελείως</token>
+     <token id="SBL.1Pet.1.13.10.1" clear_id="n60001013010" n="218">ἐλπίσατε</token>
+     <token id="SBL.1Pet.1.13.11.1" clear_id="n60001013011" n="219">ἐπὶ</token>
+     <token id="SBL.1Pet.1.13.12.1" clear_id="n60001013012" n="220">τὴν</token>
+     <token id="SBL.1Pet.1.13.13.1" clear_id="n60001013013" n="221">φερομένην</token>
+     <token id="SBL.1Pet.1.13.14.1" clear_id="n60001013014" n="222">ὑμῖν</token>
+     <token id="SBL.1Pet.1.13.15.1" clear_id="n60001013015" n="223">χάριν</token>
+     <token id="SBL.1Pet.1.13.16.1" clear_id="n60001013016" n="224">ἐν</token>
+     <token id="SBL.1Pet.1.13.17.1" clear_id="n60001013017" n="225">ἀποκαλύψει</token>
+     <token id="SBL.1Pet.1.13.18.1" clear_id="n60001013018" n="226">Ἰησοῦ</token>
+     <token id="SBL.1Pet.1.13.19.1" clear_id="n60001013019" n="227" after=".">Χριστοῦ</token>
+    </move>
+    <move id="m.SBL.1Pet.1.14-16" chStart="1" vStart="14" chEnd="1" vEnd="16">
+     <token id="SBL.1Pet.1.14.1.1" clear_id="n60001014001" n="228">ὡς</token>
+     <token id="SBL.1Pet.1.14.2.1" clear_id="n60001014002" n="229">τέκνα</token>
+     <token id="SBL.1Pet.1.14.3.1" clear_id="n60001014003" n="230" after=",">ὑπακοῆς</token>
+     <token id="SBL.1Pet.1.14.4.1" clear_id="n60001014004" n="231">μὴ</token>
+     <token id="SBL.1Pet.1.14.5.1" clear_id="n60001014005" n="232">συσχηματιζόμενοι</token>
+     <token id="SBL.1Pet.1.14.6.1" clear_id="n60001014006" n="233">ταῖς</token>
+     <token id="SBL.1Pet.1.14.7.1" clear_id="n60001014007" n="234">πρότερον</token>
+     <token id="SBL.1Pet.1.14.8.1" clear_id="n60001014008" n="235">ἐν</token>
+     <token id="SBL.1Pet.1.14.9.1" clear_id="n60001014009" n="236">τῇ</token>
+     <token id="SBL.1Pet.1.14.10.1" clear_id="n60001014010" n="237">ἀγνοίᾳ</token>
+     <token id="SBL.1Pet.1.14.11.1" clear_id="n60001014011" n="238">ὑμῶν</token>
+     <token id="SBL.1Pet.1.14.12.1" clear_id="n60001014012" n="239" after=",">ἐπιθυμίαις</token>
+     <token id="SBL.1Pet.1.15.1.1" clear_id="n60001015001" n="240">ἀλλὰ</token>
+     <token id="SBL.1Pet.1.15.2.1" clear_id="n60001015002" n="241">κατὰ</token>
+     <token id="SBL.1Pet.1.15.3.1" clear_id="n60001015003" n="242">τὸν</token>
+     <token id="SBL.1Pet.1.15.4.1" clear_id="n60001015004" n="243">καλέσαντα</token>
+     <token id="SBL.1Pet.1.15.5.1" clear_id="n60001015005" n="244">ὑμᾶς</token>
+     <token id="SBL.1Pet.1.15.6.1" clear_id="n60001015006" n="245">ἅγιον</token>
+     <token id="SBL.1Pet.1.15.7.1" clear_id="n60001015007" n="246">καὶ</token>
+     <token id="SBL.1Pet.1.15.8.1" clear_id="n60001015008" n="247">αὐτοὶ</token>
+     <token id="SBL.1Pet.1.15.9.1" clear_id="n60001015009" n="248">ἅγιοι</token>
+     <token id="SBL.1Pet.1.15.10.1" clear_id="n60001015010" n="249">ἐν</token>
+     <token id="SBL.1Pet.1.15.11.1" clear_id="n60001015011" n="250">πάσῃ</token>
+     <token id="SBL.1Pet.1.15.12.1" clear_id="n60001015012" n="251">ἀναστροφῇ</token>
+     <token id="SBL.1Pet.1.15.13.1" clear_id="n60001015013" n="252" after=",">γενήθητε</token>
+     <token id="SBL.1Pet.1.16.1.1" clear_id="n60001016001" n="253">διότι</token>
+     <token id="SBL.1Pet.1.16.2.1" clear_id="n60001016002" n="254">γέγραπται</token>
+     <token id="SBL.1Pet.1.16.3.1" clear_id="n60001016003" n="255">ὅτι</token>
+     <turn depth="2" id="t.SBL.1Pet.1.16.4-8" chStart="1" vStart="16" chEnd="1" vEnd="16">
+      <move id="m.SBL.1Pet.1.16.4-8" chStart="1" vStart="16" chEnd="1" vEnd="16">
+       <token id="SBL.1Pet.1.16.4.1" clear_id="n60001016004" n="256">Ἅγιοι</token>
+       <token id="SBL.1Pet.1.16.5.1" clear_id="n60001016005" n="257" after=",">ἔσεσθε</token>
+       <token id="SBL.1Pet.1.16.6.1" clear_id="n60001016006" n="258">ὅτι</token>
+       <token id="SBL.1Pet.1.16.7.1" clear_id="n60001016007" n="259">ἐγὼ</token>
+       <token id="SBL.1Pet.1.16.8.1" clear_id="n60001016008" n="260" after=".">ἅγιος</token>
+      </move>
+     </turn>
+    </move>
+    <move id="m.SBL.1Pet.1.17-21" chStart="1" vStart="17" chEnd="1" vEnd="21">
+     <token id="SBL.1Pet.1.17.1.1" clear_id="n60001017001" n="261">Καὶ</token>
+     <token id="SBL.1Pet.1.17.2.1" clear_id="n60001017002" n="262">εἰ</token>
+     <token id="SBL.1Pet.1.17.3.1" clear_id="n60001017003" n="263">πατέρα</token>
+     <token id="SBL.1Pet.1.17.4.1" clear_id="n60001017004" n="264">ἐπικαλεῖσθε</token>
+     <token id="SBL.1Pet.1.17.5.1" clear_id="n60001017005" n="265">τὸν</token>
+     <token id="SBL.1Pet.1.17.6.1" clear_id="n60001017006" n="266">ἀπροσωπολήμπτως</token>
+     <token id="SBL.1Pet.1.17.7.1" clear_id="n60001017007" n="267">κρίνοντα</token>
+     <token id="SBL.1Pet.1.17.8.1" clear_id="n60001017008" n="268">κατὰ</token>
+     <token id="SBL.1Pet.1.17.9.1" clear_id="n60001017009" n="269">τὸ</token>
+     <token id="SBL.1Pet.1.17.10.1" clear_id="n60001017010" n="270">ἑκάστου</token>
+     <token id="SBL.1Pet.1.17.11.1" clear_id="n60001017011" n="271" after=",">ἔργον</token>
+     <token id="SBL.1Pet.1.17.12.1" clear_id="n60001017012" n="272">ἐν</token>
+     <token id="SBL.1Pet.1.17.13.1" clear_id="n60001017013" n="273">φόβῳ</token>
+     <token id="SBL.1Pet.1.17.14.1" clear_id="n60001017014" n="274">τὸν</token>
+     <token id="SBL.1Pet.1.17.15.1" clear_id="n60001017015" n="275">τῆς</token>
+     <token id="SBL.1Pet.1.17.16.1" clear_id="n60001017016" n="276">παροικίας</token>
+     <token id="SBL.1Pet.1.17.17.1" clear_id="n60001017017" n="277">ὑμῶν</token>
+     <token id="SBL.1Pet.1.17.18.1" clear_id="n60001017018" n="278">χρόνον</token>
+     <token id="SBL.1Pet.1.17.19.1" clear_id="n60001017019" n="279" after="·">ἀναστράφητε</token>
+     <token id="SBL.1Pet.1.18.1.1" clear_id="n60001018001" n="280">εἰδότες</token>
+     <token id="SBL.1Pet.1.18.2.1" clear_id="n60001018002" n="281">ὅτι</token>
+     <token id="SBL.1Pet.1.18.3.1" clear_id="n60001018003" n="282">οὐ</token>
+     <token id="SBL.1Pet.1.18.4.1" clear_id="n60001018004" n="283" after=",">φθαρτοῖς</token>
+     <token id="SBL.1Pet.1.18.5.1" clear_id="n60001018005" n="284">ἀργυρίῳ</token>
+     <token id="SBL.1Pet.1.18.6.1" clear_id="n60001018006" n="285">ἢ</token>
+     <token id="SBL.1Pet.1.18.7.1" clear_id="n60001018007" n="286" after=",">χρυσίῳ</token>
+     <token id="SBL.1Pet.1.18.8.1" clear_id="n60001018008" n="287">ἐλυτρώθητε</token>
+     <token id="SBL.1Pet.1.18.9.1" clear_id="n60001018009" n="288">ἐκ</token>
+     <token id="SBL.1Pet.1.18.10.1" clear_id="n60001018010" n="289">τῆς</token>
+     <token id="SBL.1Pet.1.18.11.1" clear_id="n60001018011" n="290">ματαίας</token>
+     <token id="SBL.1Pet.1.18.12.1" clear_id="n60001018012" n="291">ὑμῶν</token>
+     <token id="SBL.1Pet.1.18.13.1" clear_id="n60001018013" n="292">ἀναστροφῆς</token>
+     <token id="SBL.1Pet.1.18.14.1" clear_id="n60001018014" n="293" after=",">πατροπαραδότου</token>
+     <token id="SBL.1Pet.1.19.1.1" clear_id="n60001019001" n="294">ἀλλὰ</token>
+     <token id="SBL.1Pet.1.19.2.1" clear_id="n60001019002" n="295">τιμίῳ</token>
+     <token id="SBL.1Pet.1.19.3.1" clear_id="n60001019003" n="296">αἵματι</token>
+     <token id="SBL.1Pet.1.19.4.1" clear_id="n60001019004" n="297">ὡς</token>
+     <token id="SBL.1Pet.1.19.5.1" clear_id="n60001019005" n="298">ἀμνοῦ</token>
+     <token id="SBL.1Pet.1.19.6.1" clear_id="n60001019006" n="299">ἀμώμου</token>
+     <token id="SBL.1Pet.1.19.7.1" clear_id="n60001019007" n="300">καὶ</token>
+     <token id="SBL.1Pet.1.19.8.1" clear_id="n60001019008" n="301">ἀσπίλου</token>
+     <token id="SBL.1Pet.1.19.9.1" clear_id="n60001019009" n="302" after=",">Χριστοῦ</token>
+     <token id="SBL.1Pet.1.20.1.1" clear_id="n60001020001" n="303">προεγνωσμένου</token>
+     <token id="SBL.1Pet.1.20.2.1" clear_id="n60001020002" n="304">μὲν</token>
+     <token id="SBL.1Pet.1.20.3.1" clear_id="n60001020003" n="305">πρὸ</token>
+     <token id="SBL.1Pet.1.20.4.1" clear_id="n60001020004" n="306">καταβολῆς</token>
+     <token id="SBL.1Pet.1.20.5.1" clear_id="n60001020005" n="307" after=",">κόσμου</token>
+     <token id="SBL.1Pet.1.20.6.1" clear_id="n60001020006" n="308">φανερωθέντος</token>
+     <token id="SBL.1Pet.1.20.7.1" clear_id="n60001020007" n="309">δὲ</token>
+     <token id="SBL.1Pet.1.20.8.1" clear_id="n60001020008" n="310">ἐπ’</token>
+     <token id="SBL.1Pet.1.20.9.1" clear_id="n60001020009" n="311">ἐσχάτου</token>
+     <token id="SBL.1Pet.1.20.10.1" clear_id="n60001020010" n="312">τῶν</token>
+     <token id="SBL.1Pet.1.20.11.1" clear_id="n60001020011" n="313">χρόνων</token>
+     <token id="SBL.1Pet.1.20.12.1" clear_id="n60001020012" n="314">δι’</token>
+     <token id="SBL.1Pet.1.20.13.1" clear_id="n60001020013" n="315">ὑμᾶς</token>
+     <token id="SBL.1Pet.1.21.1.1" clear_id="n60001021001" n="316">τοὺς</token>
+     <token id="SBL.1Pet.1.21.2.1" clear_id="n60001021002" n="317">δι’</token>
+     <token id="SBL.1Pet.1.21.3.1" clear_id="n60001021003" n="318">αὐτοῦ</token>
+     <token id="SBL.1Pet.1.21.4.1" clear_id="n60001021004" n="319">πιστοὺς</token>
+     <token id="SBL.1Pet.1.21.5.1" clear_id="n60001021005" n="320">εἰς</token>
+     <token id="SBL.1Pet.1.21.6.1" clear_id="n60001021006" n="321">θεὸν</token>
+     <token id="SBL.1Pet.1.21.7.1" clear_id="n60001021007" n="322">τὸν</token>
+     <token id="SBL.1Pet.1.21.8.1" clear_id="n60001021008" n="323">ἐγείραντα</token>
+     <token id="SBL.1Pet.1.21.9.1" clear_id="n60001021009" n="324">αὐτὸν</token>
+     <token id="SBL.1Pet.1.21.10.1" clear_id="n60001021010" n="325">ἐκ</token>
+     <token id="SBL.1Pet.1.21.11.1" clear_id="n60001021011" n="326">νεκρῶν</token>
+     <token id="SBL.1Pet.1.21.12.1" clear_id="n60001021012" n="327">καὶ</token>
+     <token id="SBL.1Pet.1.21.13.1" clear_id="n60001021013" n="328">δόξαν</token>
+     <token id="SBL.1Pet.1.21.14.1" clear_id="n60001021014" n="329">αὐτῷ</token>
+     <token id="SBL.1Pet.1.21.15.1" clear_id="n60001021015" n="330" after=",">δόντα</token>
+     <token id="SBL.1Pet.1.21.16.1" clear_id="n60001021016" n="331">ὥστε</token>
+     <token id="SBL.1Pet.1.21.17.1" clear_id="n60001021017" n="332">τὴν</token>
+     <token id="SBL.1Pet.1.21.18.1" clear_id="n60001021018" n="333">πίστιν</token>
+     <token id="SBL.1Pet.1.21.19.1" clear_id="n60001021019" n="334">ὑμῶν</token>
+     <token id="SBL.1Pet.1.21.20.1" clear_id="n60001021020" n="335">καὶ</token>
+     <token id="SBL.1Pet.1.21.21.1" clear_id="n60001021021" n="336">ἐλπίδα</token>
+     <token id="SBL.1Pet.1.21.22.1" clear_id="n60001021022" n="337">εἶναι</token>
+     <token id="SBL.1Pet.1.21.23.1" clear_id="n60001021023" n="338">εἰς</token>
+     <token id="SBL.1Pet.1.21.24.1" clear_id="n60001021024" n="339" after=".">θεόν</token>
+    </move>
+    <move id="m.SBL.1Pet.1.22-23" chStart="1" vStart="22" chEnd="1" vEnd="23">
+     <token id="SBL.1Pet.1.22.1.1" clear_id="n60001022001" n="340">Τὰς</token>
+     <token id="SBL.1Pet.1.22.2.1" clear_id="n60001022002" n="341">ψυχὰς</token>
+     <token id="SBL.1Pet.1.22.3.1" clear_id="n60001022003" n="342">ὑμῶν</token>
+     <token id="SBL.1Pet.1.22.4.1" clear_id="n60001022004" n="343">ἡγνικότες</token>
+     <token id="SBL.1Pet.1.22.5.1" clear_id="n60001022005" n="344">ἐν</token>
+     <token id="SBL.1Pet.1.22.6.1" clear_id="n60001022006" n="345">τῇ</token>
+     <token id="SBL.1Pet.1.22.7.1" clear_id="n60001022007" n="346">ὑπακοῇ</token>
+     <token id="SBL.1Pet.1.22.8.1" clear_id="n60001022008" n="347">τῆς</token>
+     <token id="SBL.1Pet.1.22.9.1" clear_id="n60001022009" n="348">ἀληθείας</token>
+     <token id="SBL.1Pet.1.22.10.1" clear_id="n60001022010" n="349">εἰς</token>
+     <token id="SBL.1Pet.1.22.11.1" clear_id="n60001022011" n="350">φιλαδελφίαν</token>
+     <token id="SBL.1Pet.1.22.12.1" clear_id="n60001022012" n="351">ἀνυπόκριτον</token>
+     <token id="SBL.1Pet.1.22.13.1" clear_id="n60001022013" n="352">ἐκ</token>
+     <token id="SBL.1Pet.1.22.14.1" clear_id="n60001022014" n="353">καρδίας</token>
+     <token id="SBL.1Pet.1.22.15.1" clear_id="n60001022015" n="354">ἀλλήλους</token>
+     <token id="SBL.1Pet.1.22.16.1" clear_id="n60001022016" n="355">ἀγαπήσατε</token>
+     <token id="SBL.1Pet.1.22.17.1" clear_id="n60001022017" n="356" after=",">ἐκτενῶς</token>
+     <token id="SBL.1Pet.1.23.1.1" clear_id="n60001023001" n="357">ἀναγεγεννημένοι</token>
+     <token id="SBL.1Pet.1.23.2.1" clear_id="n60001023002" n="358">οὐκ</token>
+     <token id="SBL.1Pet.1.23.3.1" clear_id="n60001023003" n="359">ἐκ</token>
+     <token id="SBL.1Pet.1.23.4.1" clear_id="n60001023004" n="360">σπορᾶς</token>
+     <token id="SBL.1Pet.1.23.5.1" clear_id="n60001023005" n="361">φθαρτῆς</token>
+     <token id="SBL.1Pet.1.23.6.1" clear_id="n60001023006" n="362">ἀλλὰ</token>
+     <token id="SBL.1Pet.1.23.7.1" clear_id="n60001023007" n="363" after=",">ἀφθάρτου</token>
+     <token id="SBL.1Pet.1.23.8.1" clear_id="n60001023008" n="364">διὰ</token>
+     <token id="SBL.1Pet.1.23.9.1" clear_id="n60001023009" n="365">λόγου</token>
+     <token id="SBL.1Pet.1.23.10.1" clear_id="n60001023010" n="366">ζῶντος</token>
+     <token id="SBL.1Pet.1.23.11.1" clear_id="n60001023011" n="367">θεοῦ</token>
+     <token id="SBL.1Pet.1.23.12.1" clear_id="n60001023012" n="368">καὶ</token>
+     <token id="SBL.1Pet.1.23.13.1" clear_id="n60001023013" n="369" after="·">μένοντος</token>
+    </move>
+    <move id="m.SBL.1Pet.1.24.1-25.8" chStart="1" vStart="24" chEnd="1" vEnd="25">
+     <token id="SBL.1Pet.1.24.1.1" clear_id="n60001024001" n="370">διότι</token>
+     <token id="SBL.1Pet.1.24.2.1" clear_id="n60001024002" n="371">πᾶσα</token>
+     <token id="SBL.1Pet.1.24.3.1" clear_id="n60001024003" n="372">σὰρξ</token>
+     <token id="SBL.1Pet.1.24.4.1" clear_id="n60001024004" n="373">ὡς</token>
+     <token id="SBL.1Pet.1.24.5.1" clear_id="n60001024005" n="374" after=",">χόρτος</token>
+     <token id="SBL.1Pet.1.24.6.1" clear_id="n60001024006" n="375">καὶ</token>
+     <token id="SBL.1Pet.1.24.7.1" clear_id="n60001024007" n="376">πᾶσα</token>
+     <token id="SBL.1Pet.1.24.8.1" clear_id="n60001024008" n="377">δόξα</token>
+     <token id="SBL.1Pet.1.24.9.1" clear_id="n60001024009" n="378">αὐτῆς</token>
+     <token id="SBL.1Pet.1.24.10.1" clear_id="n60001024010" n="379">ὡς</token>
+     <token id="SBL.1Pet.1.24.11.1" clear_id="n60001024011" n="380">ἄνθος</token>
+     <token id="SBL.1Pet.1.24.12.1" clear_id="n60001024012" n="381" after="·">χόρτου</token>
+     <token id="SBL.1Pet.1.24.13.1" clear_id="n60001024013" n="382">ἐξηράνθη</token>
+     <token id="SBL.1Pet.1.24.14.1" clear_id="n60001024014" n="383">ὁ</token>
+     <token id="SBL.1Pet.1.24.15.1" clear_id="n60001024015" n="384" after=",">χόρτος</token>
+     <token id="SBL.1Pet.1.24.16.1" clear_id="n60001024016" n="385">καὶ</token>
+     <token id="SBL.1Pet.1.24.17.1" clear_id="n60001024017" n="386">τὸ</token>
+     <token id="SBL.1Pet.1.24.18.1" clear_id="n60001024018" n="387">ἄνθος</token>
+     <token id="SBL.1Pet.1.24.19.1" clear_id="n60001024019" n="388" after="·">ἐξέπεσεν</token>
+     <token id="SBL.1Pet.1.25.1.1" clear_id="n60001025001" n="389">τὸ</token>
+     <token id="SBL.1Pet.1.25.2.1" clear_id="n60001025002" n="390">δὲ</token>
+     <token id="SBL.1Pet.1.25.3.1" clear_id="n60001025003" n="391">ῥῆμα</token>
+     <token id="SBL.1Pet.1.25.4.1" clear_id="n60001025004" n="392">κυρίου</token>
+     <token id="SBL.1Pet.1.25.5.1" clear_id="n60001025005" n="393">μένει</token>
+     <token id="SBL.1Pet.1.25.6.1" clear_id="n60001025006" n="394">εἰς</token>
+     <token id="SBL.1Pet.1.25.7.1" clear_id="n60001025007" n="395">τὸν</token>
+     <token id="SBL.1Pet.1.25.8.1" clear_id="n60001025008" n="396" after=".">αἰῶνα</token>
+    </move>
+    <move id="m.SBL.1Pet.1.25.9-17" chStart="1" vStart="25" chEnd="1" vEnd="25">
+     <token id="SBL.1Pet.1.25.9.1" clear_id="n60001025009" n="397">τοῦτο</token>
+     <token id="SBL.1Pet.1.25.10.1" clear_id="n60001025010" n="398">δέ</token>
+     <token id="SBL.1Pet.1.25.11.1" clear_id="n60001025011" n="399">ἐστιν</token>
+     <token id="SBL.1Pet.1.25.12.1" clear_id="n60001025012" n="400">τὸ</token>
+     <token id="SBL.1Pet.1.25.13.1" clear_id="n60001025013" n="401">ῥῆμα</token>
+     <token id="SBL.1Pet.1.25.14.1" clear_id="n60001025014" n="402">τὸ</token>
+     <token id="SBL.1Pet.1.25.15.1" clear_id="n60001025015" n="403">εὐαγγελισθὲν</token>
+     <token id="SBL.1Pet.1.25.16.1" clear_id="n60001025016" n="404">εἰς</token>
+     <token id="SBL.1Pet.1.25.17.1" clear_id="n60001025017" n="405" after=".">ὑμᾶς</token>
+    </move>
+   </seg>
+   <seg id="s.SBL.1Pet.2.1-10" title="Further Practical Admonitions">
+    <move id="m.SBL.1Pet.2.1-3" chStart="2" vStart="1" chEnd="2" vEnd="3">
+     <token id="SBL.1Pet.2.1.1.1" clear_id="n60002001001" n="406">Ἀποθέμενοι</token>
+     <token id="SBL.1Pet.2.1.2.1" clear_id="n60002001002" n="407">οὖν</token>
+     <token id="SBL.1Pet.2.1.3.1" clear_id="n60002001003" n="408">πᾶσαν</token>
+     <token id="SBL.1Pet.2.1.4.1" clear_id="n60002001004" n="409">κακίαν</token>
+     <token id="SBL.1Pet.2.1.5.1" clear_id="n60002001005" n="410">καὶ</token>
+     <token id="SBL.1Pet.2.1.6.1" clear_id="n60002001006" n="411">πάντα</token>
+     <token id="SBL.1Pet.2.1.7.1" clear_id="n60002001007" n="412">δόλον</token>
+     <token id="SBL.1Pet.2.1.8.1" clear_id="n60002001008" n="413">καὶ</token>
+     <token id="SBL.1Pet.2.1.9.1" clear_id="n60002001009" n="414">ὑποκρίσεις</token>
+     <token id="SBL.1Pet.2.1.10.1" clear_id="n60002001010" n="415">καὶ</token>
+     <token id="SBL.1Pet.2.1.11.1" clear_id="n60002001011" n="416">φθόνους</token>
+     <token id="SBL.1Pet.2.1.12.1" clear_id="n60002001012" n="417">καὶ</token>
+     <token id="SBL.1Pet.2.1.13.1" clear_id="n60002001013" n="418">πάσας</token>
+     <token id="SBL.1Pet.2.1.14.1" clear_id="n60002001014" n="419" after=",">καταλαλιάς</token>
+     <token id="SBL.1Pet.2.2.1.1" clear_id="n60002002001" n="420">ὡς</token>
+     <token id="SBL.1Pet.2.2.2.1" clear_id="n60002002002" n="421">ἀρτιγέννητα</token>
+     <token id="SBL.1Pet.2.2.3.1" clear_id="n60002002003" n="422">βρέφη</token>
+     <token id="SBL.1Pet.2.2.4.1" clear_id="n60002002004" n="423">τὸ</token>
+     <token id="SBL.1Pet.2.2.5.1" clear_id="n60002002005" n="424">λογικὸν</token>
+     <token id="SBL.1Pet.2.2.6.1" clear_id="n60002002006" n="425">ἄδολον</token>
+     <token id="SBL.1Pet.2.2.7.1" clear_id="n60002002007" n="426">γάλα</token>
+     <token id="SBL.1Pet.2.2.8.1" clear_id="n60002002008" n="427" after=",">ἐπιποθήσατε</token>
+     <token id="SBL.1Pet.2.2.9.1" clear_id="n60002002009" n="428">ἵνα</token>
+     <token id="SBL.1Pet.2.2.10.1" clear_id="n60002002010" n="429">ἐν</token>
+     <token id="SBL.1Pet.2.2.11.1" clear_id="n60002002011" n="430">αὐτῷ</token>
+     <token id="SBL.1Pet.2.2.12.1" clear_id="n60002002012" n="431">αὐξηθῆτε</token>
+     <token id="SBL.1Pet.2.2.13.1" clear_id="n60002002013" n="432">εἰς</token>
+     <token id="SBL.1Pet.2.2.14.1" clear_id="n60002002014" n="433" after=",">σωτηρίαν</token>
+     <token id="SBL.1Pet.2.3.1.1" clear_id="n60002003001" n="434">εἰ</token>
+     <token id="SBL.1Pet.2.3.2.1" clear_id="n60002003002" n="435">ἐγεύσασθε</token>
+     <token id="SBL.1Pet.2.3.3.1" clear_id="n60002003003" n="436">ὅτι</token>
+     <token id="SBL.1Pet.2.3.4.1" clear_id="n60002003004" n="437">χρηστὸς</token>
+     <token id="SBL.1Pet.2.3.5.1" clear_id="n60002003005" n="438">ὁ</token>
+     <token id="SBL.1Pet.2.3.6.1" clear_id="n60002003006" n="439" after=".">κύριος</token>
+    </move>
+    <move id="m.SBL.1Pet.2.4-5" chStart="2" vStart="4" chEnd="2" vEnd="5">
+     <token id="SBL.1Pet.2.4.1.1" clear_id="n60002004001" n="440">Πρὸς</token>
+     <token id="SBL.1Pet.2.4.2.1" clear_id="n60002004002" n="441">ὃν</token>
+     <token id="SBL.1Pet.2.4.3.1" clear_id="n60002004003" n="442" after=",">προσερχόμενοι</token>
+     <token id="SBL.1Pet.2.4.4.1" clear_id="n60002004004" n="443">λίθον</token>
+     <token id="SBL.1Pet.2.4.5.1" clear_id="n60002004005" n="444" after=",">ζῶντα</token>
+     <token id="SBL.1Pet.2.4.6.1" clear_id="n60002004006" n="445">ὑπὸ</token>
+     <token id="SBL.1Pet.2.4.7.1" clear_id="n60002004007" n="446">ἀνθρώπων</token>
+     <token id="SBL.1Pet.2.4.8.1" clear_id="n60002004008" n="447">μὲν</token>
+     <token id="SBL.1Pet.2.4.9.1" clear_id="n60002004009" n="448">ἀποδεδοκιμασμένον</token>
+     <token id="SBL.1Pet.2.4.10.1" clear_id="n60002004010" n="449">παρὰ</token>
+     <token id="SBL.1Pet.2.4.11.1" clear_id="n60002004011" n="450">δὲ</token>
+     <token id="SBL.1Pet.2.4.12.1" clear_id="n60002004012" n="451">θεῷ</token>
+     <token id="SBL.1Pet.2.4.13.1" clear_id="n60002004013" n="452">ἐκλεκτὸν</token>
+     <token id="SBL.1Pet.2.4.14.1" clear_id="n60002004014" n="453">ἔντιμον</token>
+     <token id="SBL.1Pet.2.5.1.1" clear_id="n60002005001" n="454">καὶ</token>
+     <token id="SBL.1Pet.2.5.2.1" clear_id="n60002005002" n="455">αὐτοὶ</token>
+     <token id="SBL.1Pet.2.5.3.1" clear_id="n60002005003" n="456">ὡς</token>
+     <token id="SBL.1Pet.2.5.4.1" clear_id="n60002005004" n="457">λίθοι</token>
+     <token id="SBL.1Pet.2.5.5.1" clear_id="n60002005005" n="458">ζῶντες</token>
+     <token id="SBL.1Pet.2.5.6.1" clear_id="n60002005006" n="459">οἰκοδομεῖσθε</token>
+     <token id="SBL.1Pet.2.5.7.1" clear_id="n60002005007" n="460">οἶκος</token>
+     <token id="SBL.1Pet.2.5.8.1" clear_id="n60002005008" n="461">πνευματικὸς</token>
+     <token id="SBL.1Pet.2.5.9.1" clear_id="n60002005009" n="462">εἰς</token>
+     <token id="SBL.1Pet.2.5.10.1" clear_id="n60002005010" n="463">ἱεράτευμα</token>
+     <token id="SBL.1Pet.2.5.11.1" clear_id="n60002005011" n="464" after=",">ἅγιον</token>
+     <token id="SBL.1Pet.2.5.12.1" clear_id="n60002005012" n="465">ἀνενέγκαι</token>
+     <token id="SBL.1Pet.2.5.13.1" clear_id="n60002005013" n="466">πνευματικὰς</token>
+     <token id="SBL.1Pet.2.5.14.1" clear_id="n60002005014" n="467">θυσίας</token>
+     <token id="SBL.1Pet.2.5.15.1" clear_id="n60002005015" n="468">εὐπροσδέκτους</token>
+     <token id="SBL.1Pet.2.5.16.1" clear_id="n60002005016" n="469">θεῷ</token>
+     <token id="SBL.1Pet.2.5.17.1" clear_id="n60002005017" n="470">διὰ</token>
+     <token id="SBL.1Pet.2.5.18.1" clear_id="n60002005018" n="471">Ἰησοῦ</token>
+     <token id="SBL.1Pet.2.5.19.1" clear_id="n60002005019" n="472" after="·">Χριστοῦ</token>
+    </move>
+    <move id="m.SBL.1Pet.2.6" chStart="2" vStart="6" chEnd="2" vEnd="6">
+     <token id="SBL.1Pet.2.6.1.1" clear_id="n60002006001" n="473">διότι</token>
+     <token id="SBL.1Pet.2.6.2.1" clear_id="n60002006002" n="474">περιέχει</token>
+     <token id="SBL.1Pet.2.6.3.1" clear_id="n60002006003" n="475">ἐν</token>
+     <token id="SBL.1Pet.2.6.4.1" clear_id="n60002006004" n="476" after="·">γραφῇ</token>
+     <turn depth="2" id="t.SBL.1Pet.2.6.5-20" chStart="2" vStart="6" chEnd="2" vEnd="6">
+      <move id="m.SBL.1Pet.2.6.5-20" chStart="2" vStart="6" chEnd="2" vEnd="6">
+       <token id="SBL.1Pet.2.6.5.1" clear_id="n60002006005" n="477">Ἰδοὺ</token>
+       <token id="SBL.1Pet.2.6.6.1" clear_id="n60002006006" n="478">τίθημι</token>
+       <token id="SBL.1Pet.2.6.7.1" clear_id="n60002006007" n="479">ἐν</token>
+       <token id="SBL.1Pet.2.6.8.1" clear_id="n60002006008" n="480">Σιὼν</token>
+       <token id="SBL.1Pet.2.6.9.1" clear_id="n60002006009" n="481">λίθον</token>
+       <token id="SBL.1Pet.2.6.10.1" clear_id="n60002006010" n="482">ἀκρογωνιαῖον</token>
+       <token id="SBL.1Pet.2.6.11.1" clear_id="n60002006011" n="483">ἐκλεκτὸν</token>
+       <token id="SBL.1Pet.2.6.12.1" clear_id="n60002006012" n="484" after=",">ἔντιμον</token>
+       <token id="SBL.1Pet.2.6.13.1" clear_id="n60002006013" n="485">καὶ</token>
+       <token id="SBL.1Pet.2.6.14.1" clear_id="n60002006014" n="486">ὁ</token>
+       <token id="SBL.1Pet.2.6.15.1" clear_id="n60002006015" n="487">πιστεύων</token>
+       <token id="SBL.1Pet.2.6.16.1" clear_id="n60002006016" n="488">ἐπ’</token>
+       <token id="SBL.1Pet.2.6.17.1" clear_id="n60002006017" n="489">αὐτῷ</token>
+       <token id="SBL.1Pet.2.6.18.1" clear_id="n60002006018" n="490">οὐ</token>
+       <token id="SBL.1Pet.2.6.19.1" clear_id="n60002006019" n="491">μὴ</token>
+       <token id="SBL.1Pet.2.6.20.1" clear_id="n60002006020" n="492" after=".">καταισχυνθῇ</token>
+      </move>
+     </turn>
+    </move>
+    <move id="m.SBL.1Pet.2.7.1-6" chStart="2" vStart="7" chEnd="2" vEnd="7">
+     <token id="SBL.1Pet.2.7.1.1" clear_id="n60002007001" n="493">ὑμῖν</token>
+     <token id="SBL.1Pet.2.7.2.1" clear_id="n60002007002" n="494">οὖν</token>
+     <token id="SBL.1Pet.2.7.3.1" clear_id="n60002007003" n="495">ἡ</token>
+     <token id="SBL.1Pet.2.7.4.1" clear_id="n60002007004" n="496">τιμὴ</token>
+     <token id="SBL.1Pet.2.7.5.1" clear_id="n60002007005" n="497">τοῖς</token>
+     <token id="SBL.1Pet.2.7.6.1" clear_id="n60002007006" n="498" after="·">πιστεύουσιν</token>
+    </move>
+    <move id="m.SBL.1Pet.2.7.7-8.15" chStart="2" vStart="7" chEnd="2" vEnd="8">
+     <token id="SBL.1Pet.2.7.7.1" clear_id="n60002007007" n="499">ἀπιστοῦσιν</token>
+     <token id="SBL.1Pet.2.7.8.1" clear_id="n60002007008" n="500">δὲ</token>
+     <token id="SBL.1Pet.2.7.9.1" clear_id="n60002007009" n="501">λίθος</token>
+     <token id="SBL.1Pet.2.7.10.1" clear_id="n60002007010" n="502">ὃν</token>
+     <token id="SBL.1Pet.2.7.11.1" clear_id="n60002007011" n="503">ἀπεδοκίμασαν</token>
+     <token id="SBL.1Pet.2.7.12.1" clear_id="n60002007012" n="504">οἱ</token>
+     <token id="SBL.1Pet.2.7.13.1" clear_id="n60002007013" n="505">οἰκοδομοῦντες</token>
+     <token id="SBL.1Pet.2.7.14.1" clear_id="n60002007014" n="506">οὗτος</token>
+     <token id="SBL.1Pet.2.7.15.1" clear_id="n60002007015" n="507">ἐγενήθη</token>
+     <token id="SBL.1Pet.2.7.16.1" clear_id="n60002007016" n="508">εἰς</token>
+     <token id="SBL.1Pet.2.7.17.1" clear_id="n60002007017" n="509">κεφαλὴν</token>
+     <token id="SBL.1Pet.2.7.18.1" clear_id="n60002007018" n="510">γωνίας</token>
+     <token id="SBL.1Pet.2.8.1.1" clear_id="n60002008001" n="511">καὶ</token>
+     <token id="SBL.1Pet.2.8.2.1" clear_id="n60002008002" n="512">λίθος</token>
+     <token id="SBL.1Pet.2.8.3.1" clear_id="n60002008003" n="513">προσκόμματος</token>
+     <token id="SBL.1Pet.2.8.4.1" clear_id="n60002008004" n="514">καὶ</token>
+     <token id="SBL.1Pet.2.8.5.1" clear_id="n60002008005" n="515">πέτρα</token>
+     <token id="SBL.1Pet.2.8.6.1" clear_id="n60002008006" n="516" after="·">σκανδάλου</token>
+     <token id="SBL.1Pet.2.8.7.1" clear_id="n60002008007" n="517">οἳ</token>
+     <token id="SBL.1Pet.2.8.8.1" clear_id="n60002008008" n="518">προσκόπτουσιν</token>
+     <token id="SBL.1Pet.2.8.9.1" clear_id="n60002008009" n="519">τῷ</token>
+     <token id="SBL.1Pet.2.8.10.1" clear_id="n60002008010" n="520">λόγῳ</token>
+     <token id="SBL.1Pet.2.8.11.1" clear_id="n60002008011" n="521" after="·">ἀπειθοῦντες</token>
+     <token id="SBL.1Pet.2.8.12.1" clear_id="n60002008012" n="522">εἰς</token>
+     <token id="SBL.1Pet.2.8.13.1" clear_id="n60002008013" n="523">ὃ</token>
+     <token id="SBL.1Pet.2.8.14.1" clear_id="n60002008014" n="524">καὶ</token>
+     <token id="SBL.1Pet.2.8.15.1" clear_id="n60002008015" n="525" after=".">ἐτέθησαν</token>
+    </move>
+    <move id="m.SBL.1Pet.2.9.1-10.8" chStart="2" vStart="9" chEnd="2" vEnd="10">
+     <token id="SBL.1Pet.2.9.1.1" clear_id="n60002009001" n="526">Ὑμεῖς</token>
+     <token id="SBL.1Pet.2.9.2.1" clear_id="n60002009002" n="527">δὲ</token>
+     <token id="SBL.1Pet.2.9.3.1" clear_id="n60002009003" n="528">γένος</token>
+     <token id="SBL.1Pet.2.9.4.1" clear_id="n60002009004" n="529" after=",">ἐκλεκτόν</token>
+     <token id="SBL.1Pet.2.9.5.1" clear_id="n60002009005" n="530">βασίλειον</token>
+     <token id="SBL.1Pet.2.9.6.1" clear_id="n60002009006" n="531" after=",">ἱεράτευμα</token>
+     <token id="SBL.1Pet.2.9.7.1" clear_id="n60002009007" n="532">ἔθνος</token>
+     <token id="SBL.1Pet.2.9.8.1" clear_id="n60002009008" n="533" after=",">ἅγιον</token>
+     <token id="SBL.1Pet.2.9.9.1" clear_id="n60002009009" n="534">λαὸς</token>
+     <token id="SBL.1Pet.2.9.10.1" clear_id="n60002009010" n="535">εἰς</token>
+     <token id="SBL.1Pet.2.9.11.1" clear_id="n60002009011" n="536" after=",">περιποίησιν</token>
+     <token id="SBL.1Pet.2.9.12.1" clear_id="n60002009012" n="537">ὅπως</token>
+     <token id="SBL.1Pet.2.9.13.1" clear_id="n60002009013" n="538">τὰς</token>
+     <token id="SBL.1Pet.2.9.14.1" clear_id="n60002009014" n="539">ἀρετὰς</token>
+     <token id="SBL.1Pet.2.9.15.1" clear_id="n60002009015" n="540">ἐξαγγείλητε</token>
+     <token id="SBL.1Pet.2.9.16.1" clear_id="n60002009016" n="541">τοῦ</token>
+     <token id="SBL.1Pet.2.9.17.1" clear_id="n60002009017" n="542">ἐκ</token>
+     <token id="SBL.1Pet.2.9.18.1" clear_id="n60002009018" n="543">σκότους</token>
+     <token id="SBL.1Pet.2.9.19.1" clear_id="n60002009019" n="544">ὑμᾶς</token>
+     <token id="SBL.1Pet.2.9.20.1" clear_id="n60002009020" n="545">καλέσαντος</token>
+     <token id="SBL.1Pet.2.9.21.1" clear_id="n60002009021" n="546">εἰς</token>
+     <token id="SBL.1Pet.2.9.22.1" clear_id="n60002009022" n="547">τὸ</token>
+     <token id="SBL.1Pet.2.9.23.1" clear_id="n60002009023" n="548">θαυμαστὸν</token>
+     <token id="SBL.1Pet.2.9.24.1" clear_id="n60002009024" n="549">αὐτοῦ</token>
+     <token id="SBL.1Pet.2.9.25.1" clear_id="n60002009025" n="550" after="·">φῶς</token>
+     <token id="SBL.1Pet.2.10.1.1" clear_id="n60002010001" n="551">οἵ</token>
+     <token id="SBL.1Pet.2.10.2.1" clear_id="n60002010002" n="552">ποτε</token>
+     <token id="SBL.1Pet.2.10.3.1" clear_id="n60002010003" n="553">οὐ</token>
+     <token id="SBL.1Pet.2.10.4.1" clear_id="n60002010004" n="554">λαὸς</token>
+     <token id="SBL.1Pet.2.10.5.1" clear_id="n60002010005" n="555">νῦν</token>
+     <token id="SBL.1Pet.2.10.6.1" clear_id="n60002010006" n="556">δὲ</token>
+     <token id="SBL.1Pet.2.10.7.1" clear_id="n60002010007" n="557">λαὸς</token>
+     <token id="SBL.1Pet.2.10.8.1" clear_id="n60002010008" n="558" after=",">θεοῦ</token>
+    </move>
+    <move id="m.SBL.1Pet.2.10.9-14" chStart="2" vStart="10" chEnd="2" vEnd="10">
+     <token id="SBL.1Pet.2.10.9.1" clear_id="n60002010009" n="559">οἱ</token>
+     <token id="SBL.1Pet.2.10.10.1" clear_id="n60002010010" n="560">οὐκ</token>
+     <token id="SBL.1Pet.2.10.11.1" clear_id="n60002010011" n="561">ἠλεημένοι</token>
+     <token id="SBL.1Pet.2.10.12.1" clear_id="n60002010012" n="562">νῦν</token>
+     <token id="SBL.1Pet.2.10.13.1" clear_id="n60002010013" n="563">δὲ</token>
+     <token id="SBL.1Pet.2.10.14.1" clear_id="n60002010014" n="564" after=".">ἐλεηθέντες</token>
+    </move>
+   </seg>
+   <seg id="s.SBL.1Pet.2.11-25" title="Specific Admonitions Concerning the Station of the Christians">
+    <move id="m.SBL.1Pet.2.11" chStart="2" vStart="11" chEnd="2" vEnd="11">
+     <token id="SBL.1Pet.2.11.1.1" clear_id="n60002011001" n="565" after=",">Ἀγαπητοί</token>
+     <token id="SBL.1Pet.2.11.2.1" clear_id="n60002011002" n="566">παρακαλῶ</token>
+     <token id="SBL.1Pet.2.11.3.1" clear_id="n60002011003" n="567">ὡς</token>
+     <token id="SBL.1Pet.2.11.4.1" clear_id="n60002011004" n="568">παροίκους</token>
+     <token id="SBL.1Pet.2.11.5.1" clear_id="n60002011005" n="569">καὶ</token>
+     <token id="SBL.1Pet.2.11.6.1" clear_id="n60002011006" n="570">παρεπιδήμους</token>
+     <token id="SBL.1Pet.2.11.7.1" clear_id="n60002011007" n="571">ἀπέχεσθαι</token>
+     <token id="SBL.1Pet.2.11.8.1" clear_id="n60002011008" n="572">τῶν</token>
+     <token id="SBL.1Pet.2.11.9.1" clear_id="n60002011009" n="573">σαρκικῶν</token>
+     <token id="SBL.1Pet.2.11.10.1" clear_id="n60002011010" n="574" after=",">ἐπιθυμιῶν</token>
+     <token id="SBL.1Pet.2.11.11.1" clear_id="n60002011011" n="575">αἵτινες</token>
+     <token id="SBL.1Pet.2.11.12.1" clear_id="n60002011012" n="576">στρατεύονται</token>
+     <token id="SBL.1Pet.2.11.13.1" clear_id="n60002011013" n="577">κατὰ</token>
+     <token id="SBL.1Pet.2.11.14.1" clear_id="n60002011014" n="578">τῆς</token>
+     <token id="SBL.1Pet.2.11.15.1" clear_id="n60002011015" n="579" after="·">ψυχῆς</token>
+    </move>
+    <move id="m.SBL.1Pet.2.12" chStart="2" vStart="12" chEnd="2" vEnd="12">
+     <token id="SBL.1Pet.2.12.1.1" clear_id="n60002012001" n="580">τὴν</token>
+     <token id="SBL.1Pet.2.12.2.1" clear_id="n60002012002" n="581">ἀναστροφὴν</token>
+     <token id="SBL.1Pet.2.12.3.1" clear_id="n60002012003" n="582">ὑμῶν</token>
+     <token id="SBL.1Pet.2.12.4.1" clear_id="n60002012004" n="583">ἐν</token>
+     <token id="SBL.1Pet.2.12.5.1" clear_id="n60002012005" n="584">τοῖς</token>
+     <token id="SBL.1Pet.2.12.6.1" clear_id="n60002012006" n="585">ἔθνεσιν</token>
+     <token id="SBL.1Pet.2.12.7.1" clear_id="n60002012007" n="586">ἔχοντες</token>
+     <token id="SBL.1Pet.2.12.8.1" clear_id="n60002012008" n="587" after=",">καλήν</token>
+     <token id="SBL.1Pet.2.12.9.1" clear_id="n60002012009" n="588" after=",">ἵνα</token>
+     <token id="SBL.1Pet.2.12.10.1" clear_id="n60002012010" n="589">ἐν</token>
+     <token id="SBL.1Pet.2.12.11.1" clear_id="n60002012011" n="590">ᾧ</token>
+     <token id="SBL.1Pet.2.12.12.1" clear_id="n60002012012" n="591">καταλαλοῦσιν</token>
+     <token id="SBL.1Pet.2.12.13.1" clear_id="n60002012013" n="592">ὑμῶν</token>
+     <token id="SBL.1Pet.2.12.14.1" clear_id="n60002012014" n="593">ὡς</token>
+     <token id="SBL.1Pet.2.12.15.1" clear_id="n60002012015" n="594" after=",">κακοποιῶν</token>
+     <token id="SBL.1Pet.2.12.16.1" clear_id="n60002012016" n="595">ἐκ</token>
+     <token id="SBL.1Pet.2.12.17.1" clear_id="n60002012017" n="596">τῶν</token>
+     <token id="SBL.1Pet.2.12.18.1" clear_id="n60002012018" n="597">καλῶν</token>
+     <token id="SBL.1Pet.2.12.19.1" clear_id="n60002012019" n="598">ἔργων</token>
+     <token id="SBL.1Pet.2.12.20.1" clear_id="n60002012020" n="599">ἐποπτεύοντες</token>
+     <token id="SBL.1Pet.2.12.21.1" clear_id="n60002012021" n="600">δοξάσωσι</token>
+     <token id="SBL.1Pet.2.12.22.1" clear_id="n60002012022" n="601">τὸν</token>
+     <token id="SBL.1Pet.2.12.23.1" clear_id="n60002012023" n="602">θεὸν</token>
+     <token id="SBL.1Pet.2.12.24.1" clear_id="n60002012024" n="603">ἐν</token>
+     <token id="SBL.1Pet.2.12.25.1" clear_id="n60002012025" n="604">ἡμέρᾳ</token>
+     <token id="SBL.1Pet.2.12.26.1" clear_id="n60002012026" n="605" after=".">ἐπισκοπῆς</token>
+    </move>
+    <move id="m.SBL.1Pet.2.13-14" chStart="2" vStart="13" chEnd="2" vEnd="14">
+     <token id="SBL.1Pet.2.13.1.1" clear_id="n60002013001" n="606">Ὑποτάγητε</token>
+     <token id="SBL.1Pet.2.13.2.1" clear_id="n60002013002" n="607">πάσῃ</token>
+     <token id="SBL.1Pet.2.13.3.1" clear_id="n60002013003" n="608">ἀνθρωπίνῃ</token>
+     <token id="SBL.1Pet.2.13.4.1" clear_id="n60002013004" n="609">κτίσει</token>
+     <token id="SBL.1Pet.2.13.5.1" clear_id="n60002013005" n="610">διὰ</token>
+     <token id="SBL.1Pet.2.13.6.1" clear_id="n60002013006" n="611">τὸν</token>
+     <token id="SBL.1Pet.2.13.7.1" clear_id="n60002013007" n="612" after="·">κύριον</token>
+     <token id="SBL.1Pet.2.13.8.1" clear_id="n60002013008" n="613">εἴτε</token>
+     <token id="SBL.1Pet.2.13.9.1" clear_id="n60002013009" n="614">βασιλεῖ</token>
+     <token id="SBL.1Pet.2.13.10.1" clear_id="n60002013010" n="615">ὡς</token>
+     <token id="SBL.1Pet.2.13.11.1" clear_id="n60002013011" n="616" after=",">ὑπερέχοντι</token>
+     <token id="SBL.1Pet.2.14.1.1" clear_id="n60002014001" n="617">εἴτε</token>
+     <token id="SBL.1Pet.2.14.2.1" clear_id="n60002014002" n="618">ἡγεμόσιν</token>
+     <token id="SBL.1Pet.2.14.3.1" clear_id="n60002014003" n="619">ὡς</token>
+     <token id="SBL.1Pet.2.14.4.1" clear_id="n60002014004" n="620">δι’</token>
+     <token id="SBL.1Pet.2.14.5.1" clear_id="n60002014005" n="621">αὐτοῦ</token>
+     <token id="SBL.1Pet.2.14.6.1" clear_id="n60002014006" n="622">πεμπομένοις</token>
+     <token id="SBL.1Pet.2.14.7.1" clear_id="n60002014007" n="623">εἰς</token>
+     <token id="SBL.1Pet.2.14.8.1" clear_id="n60002014008" n="624">ἐκδίκησιν</token>
+     <token id="SBL.1Pet.2.14.9.1" clear_id="n60002014009" n="625">κακοποιῶν</token>
+     <token id="SBL.1Pet.2.14.10.1" clear_id="n60002014010" n="626">ἔπαινον</token>
+     <token id="SBL.1Pet.2.14.11.1" clear_id="n60002014011" n="627">δὲ</token>
+     <token id="SBL.1Pet.2.14.12.1" clear_id="n60002014012" n="628">ἀγαθοποιῶν</token>
+    </move>
+    <move id="m.SBL.1Pet.2.15" chStart="2" vStart="15" chEnd="2" vEnd="15">
+     <token id="SBL.1Pet.2.15.1.1" clear_id="n60002015001" n="629" before="(">ὅτι</token>
+     <token id="SBL.1Pet.2.15.2.1" clear_id="n60002015002" n="630">οὕτως</token>
+     <token id="SBL.1Pet.2.15.3.1" clear_id="n60002015003" n="631">ἐστὶν</token>
+     <token id="SBL.1Pet.2.15.4.1" clear_id="n60002015004" n="632">τὸ</token>
+     <token id="SBL.1Pet.2.15.5.1" clear_id="n60002015005" n="633">θέλημα</token>
+     <token id="SBL.1Pet.2.15.6.1" clear_id="n60002015006" n="634">τοῦ</token>
+     <token id="SBL.1Pet.2.15.7.1" clear_id="n60002015007" n="635" after=",">θεοῦ</token>
+     <token id="SBL.1Pet.2.15.8.1" clear_id="n60002015008" n="636">ἀγαθοποιοῦντας</token>
+     <token id="SBL.1Pet.2.15.9.1" clear_id="n60002015009" n="637">φιμοῦν</token>
+     <token id="SBL.1Pet.2.15.10.1" clear_id="n60002015010" n="638">τὴν</token>
+     <token id="SBL.1Pet.2.15.11.1" clear_id="n60002015011" n="639">τῶν</token>
+     <token id="SBL.1Pet.2.15.12.1" clear_id="n60002015012" n="640">ἀφρόνων</token>
+     <token id="SBL.1Pet.2.15.13.1" clear_id="n60002015013" n="641">ἀνθρώπων</token>
+     <token id="SBL.1Pet.2.15.14.1" clear_id="n60002015014" n="642" after=")·">ἀγνωσίαν</token>
+    </move>
+    <move id="m.SBL.1Pet.2.16" chStart="2" vStart="16" chEnd="2" vEnd="16">
+     <token id="SBL.1Pet.2.16.1.1" clear_id="n60002016001" n="643">ὡς</token>
+     <token id="SBL.1Pet.2.16.2.1" clear_id="n60002016002" n="644" after=",">ἐλεύθεροι</token>
+     <token id="SBL.1Pet.2.16.3.1" clear_id="n60002016003" n="645">καὶ</token>
+     <token id="SBL.1Pet.2.16.4.1" clear_id="n60002016004" n="646">μὴ</token>
+     <token id="SBL.1Pet.2.16.5.1" clear_id="n60002016005" n="647">ὡς</token>
+     <token id="SBL.1Pet.2.16.6.1" clear_id="n60002016006" n="648">ἐπικάλυμμα</token>
+     <token id="SBL.1Pet.2.16.7.1" clear_id="n60002016007" n="649">ἔχοντες</token>
+     <token id="SBL.1Pet.2.16.8.1" clear_id="n60002016008" n="650">τῆς</token>
+     <token id="SBL.1Pet.2.16.9.1" clear_id="n60002016009" n="651">κακίας</token>
+     <token id="SBL.1Pet.2.16.10.1" clear_id="n60002016010" n="652">τὴν</token>
+     <token id="SBL.1Pet.2.16.11.1" clear_id="n60002016011" n="653" after=",">ἐλευθερίαν</token>
+     <token id="SBL.1Pet.2.16.12.1" clear_id="n60002016012" n="654">ἀλλ’</token>
+     <token id="SBL.1Pet.2.16.13.1" clear_id="n60002016013" n="655">ὡς</token>
+     <token id="SBL.1Pet.2.16.14.1" clear_id="n60002016014" n="656">θεοῦ</token>
+     <token id="SBL.1Pet.2.16.15.1" clear_id="n60002016015" n="657" after=".">δοῦλοι</token>
+    </move>
+    <move id="m.SBL.1Pet.2.17" chStart="2" vStart="17" chEnd="2" vEnd="17">
+     <token id="SBL.1Pet.2.17.1.1" clear_id="n60002017001" n="658">πάντας</token>
+     <token id="SBL.1Pet.2.17.2.1" clear_id="n60002017002" n="659" after=",">τιμήσατε</token>
+     <token id="SBL.1Pet.2.17.3.1" clear_id="n60002017003" n="660">τὴν</token>
+     <token id="SBL.1Pet.2.17.4.1" clear_id="n60002017004" n="661">ἀδελφότητα</token>
+     <token id="SBL.1Pet.2.17.5.1" clear_id="n60002017005" n="662" after=",">ἀγαπᾶτε</token>
+     <token id="SBL.1Pet.2.17.6.1" clear_id="n60002017006" n="663">τὸν</token>
+     <token id="SBL.1Pet.2.17.7.1" clear_id="n60002017007" n="664">θεὸν</token>
+     <token id="SBL.1Pet.2.17.8.1" clear_id="n60002017008" n="665" after=",">φοβεῖσθε</token>
+     <token id="SBL.1Pet.2.17.9.1" clear_id="n60002017009" n="666">τὸν</token>
+     <token id="SBL.1Pet.2.17.10.1" clear_id="n60002017010" n="667">βασιλέα</token>
+     <token id="SBL.1Pet.2.17.11.1" clear_id="n60002017011" n="668" after=".">τιμᾶτε</token>
+    </move>
+    <move id="m.SBL.1Pet.2.18" chStart="2" vStart="18" chEnd="2" vEnd="18">
+     <token id="SBL.1Pet.2.18.1.1" clear_id="n60002018001" n="669">Οἱ</token>
+     <token id="SBL.1Pet.2.18.2.1" clear_id="n60002018002" n="670">οἰκέται</token>
+     <token id="SBL.1Pet.2.18.3.1" clear_id="n60002018003" n="671">ὑποτασσόμενοι</token>
+     <token id="SBL.1Pet.2.18.4.1" clear_id="n60002018004" n="672">ἐν</token>
+     <token id="SBL.1Pet.2.18.5.1" clear_id="n60002018005" n="673">παντὶ</token>
+     <token id="SBL.1Pet.2.18.6.1" clear_id="n60002018006" n="674">φόβῳ</token>
+     <token id="SBL.1Pet.2.18.7.1" clear_id="n60002018007" n="675">τοῖς</token>
+     <token id="SBL.1Pet.2.18.8.1" clear_id="n60002018008" n="676" after=",">δεσπόταις</token>
+     <token id="SBL.1Pet.2.18.9.1" clear_id="n60002018009" n="677">οὐ</token>
+     <token id="SBL.1Pet.2.18.10.1" clear_id="n60002018010" n="678">μόνον</token>
+     <token id="SBL.1Pet.2.18.11.1" clear_id="n60002018011" n="679">τοῖς</token>
+     <token id="SBL.1Pet.2.18.12.1" clear_id="n60002018012" n="680">ἀγαθοῖς</token>
+     <token id="SBL.1Pet.2.18.13.1" clear_id="n60002018013" n="681">καὶ</token>
+     <token id="SBL.1Pet.2.18.14.1" clear_id="n60002018014" n="682">ἐπιεικέσιν</token>
+     <token id="SBL.1Pet.2.18.15.1" clear_id="n60002018015" n="683">ἀλλὰ</token>
+     <token id="SBL.1Pet.2.18.16.1" clear_id="n60002018016" n="684">καὶ</token>
+     <token id="SBL.1Pet.2.18.17.1" clear_id="n60002018017" n="685">τοῖς</token>
+     <token id="SBL.1Pet.2.18.18.1" clear_id="n60002018018" n="686" after=".">σκολιοῖς</token>
+    </move>
+    <move id="m.SBL.1Pet.2.19" chStart="2" vStart="19" chEnd="2" vEnd="19">
+     <token id="SBL.1Pet.2.19.1.1" clear_id="n60002019001" n="687">τοῦτο</token>
+     <token id="SBL.1Pet.2.19.2.1" clear_id="n60002019002" n="688">γὰρ</token>
+     <token id="SBL.1Pet.2.19.3.1" clear_id="n60002019003" n="689">χάρις</token>
+     <token id="SBL.1Pet.2.19.4.1" clear_id="n60002019004" n="690">εἰ</token>
+     <token id="SBL.1Pet.2.19.5.1" clear_id="n60002019005" n="691">διὰ</token>
+     <token id="SBL.1Pet.2.19.6.1" clear_id="n60002019006" n="692">συνείδησιν</token>
+     <token id="SBL.1Pet.2.19.7.1" clear_id="n60002019007" n="693">θεοῦ</token>
+     <token id="SBL.1Pet.2.19.8.1" clear_id="n60002019008" n="694">ὑποφέρει</token>
+     <token id="SBL.1Pet.2.19.9.1" clear_id="n60002019009" n="695">τις</token>
+     <token id="SBL.1Pet.2.19.10.1" clear_id="n60002019010" n="696">λύπας</token>
+     <token id="SBL.1Pet.2.19.11.1" clear_id="n60002019011" n="697">πάσχων</token>
+     <token id="SBL.1Pet.2.19.12.1" clear_id="n60002019012" n="698" after="·">ἀδίκως</token>
+    </move>
+    <move id="m.SBL.1Pet.2.20.1-8" chStart="2" vStart="20" chEnd="2" vEnd="20">
+     <token id="SBL.1Pet.2.20.1.1" clear_id="n60002020001" n="699">ποῖον</token>
+     <token id="SBL.1Pet.2.20.2.1" clear_id="n60002020002" n="700">γὰρ</token>
+     <token id="SBL.1Pet.2.20.3.1" clear_id="n60002020003" n="701">κλέος</token>
+     <token id="SBL.1Pet.2.20.4.1" clear_id="n60002020004" n="702">εἰ</token>
+     <token id="SBL.1Pet.2.20.5.1" clear_id="n60002020005" n="703">ἁμαρτάνοντες</token>
+     <token id="SBL.1Pet.2.20.6.1" clear_id="n60002020006" n="704">καὶ</token>
+     <token id="SBL.1Pet.2.20.7.1" clear_id="n60002020007" n="705">κολαφιζόμενοι</token>
+     <token id="SBL.1Pet.2.20.8.1" clear_id="n60002020008" n="706" after=";">ὑπομενεῖτε</token>
+    </move>
+    <move id="m.SBL.1Pet.2.20.9-18" chStart="2" vStart="20" chEnd="2" vEnd="20">
+     <token id="SBL.1Pet.2.20.9.1" clear_id="n60002020009" n="707">ἀλλ’</token>
+     <token id="SBL.1Pet.2.20.10.1" clear_id="n60002020010" n="708">εἰ</token>
+     <token id="SBL.1Pet.2.20.11.1" clear_id="n60002020011" n="709">ἀγαθοποιοῦντες</token>
+     <token id="SBL.1Pet.2.20.12.1" clear_id="n60002020012" n="710">καὶ</token>
+     <token id="SBL.1Pet.2.20.13.1" clear_id="n60002020013" n="711">πάσχοντες</token>
+     <token id="SBL.1Pet.2.20.14.1" clear_id="n60002020014" n="712" after=",">ὑπομενεῖτε</token>
+     <token id="SBL.1Pet.2.20.15.1" clear_id="n60002020015" n="713">τοῦτο</token>
+     <token id="SBL.1Pet.2.20.16.1" clear_id="n60002020016" n="714">χάρις</token>
+     <token id="SBL.1Pet.2.20.17.1" clear_id="n60002020017" n="715">παρὰ</token>
+     <token id="SBL.1Pet.2.20.18.1" clear_id="n60002020018" n="716" after=".">θεῷ</token>
+    </move>
+    <move id="m.SBL.1Pet.2.21" chStart="2" vStart="21" chEnd="2" vEnd="21">
+     <token id="SBL.1Pet.2.21.1.1" clear_id="n60002021001" n="717">εἰς</token>
+     <token id="SBL.1Pet.2.21.2.1" clear_id="n60002021002" n="718">τοῦτο</token>
+     <token id="SBL.1Pet.2.21.3.1" clear_id="n60002021003" n="719">γὰρ</token>
+     <token id="SBL.1Pet.2.21.4.1" clear_id="n60002021004" n="720" after=",">ἐκλήθητε</token>
+     <token id="SBL.1Pet.2.21.5.1" clear_id="n60002021005" n="721">ὅτι</token>
+     <token id="SBL.1Pet.2.21.6.1" clear_id="n60002021006" n="722">καὶ</token>
+     <token id="SBL.1Pet.2.21.7.1" clear_id="n60002021007" n="723">Χριστὸς</token>
+     <token id="SBL.1Pet.2.21.8.1" clear_id="n60002021008" n="724">ἔπαθεν</token>
+     <token id="SBL.1Pet.2.21.9.1" clear_id="n60002021009" n="725">ὑπὲρ</token>
+     <token id="SBL.1Pet.2.21.10.1" clear_id="n60002021010" n="726" after=",">ὑμῶν</token>
+     <token id="SBL.1Pet.2.21.11.1" clear_id="n60002021011" n="727">ὑμῖν</token>
+     <token id="SBL.1Pet.2.21.12.1" clear_id="n60002021012" n="728">ὑπολιμπάνων</token>
+     <token id="SBL.1Pet.2.21.13.1" clear_id="n60002021013" n="729">ὑπογραμμὸν</token>
+     <token id="SBL.1Pet.2.21.14.1" clear_id="n60002021014" n="730">ἵνα</token>
+     <token id="SBL.1Pet.2.21.15.1" clear_id="n60002021015" n="731">ἐπακολουθήσητε</token>
+     <token id="SBL.1Pet.2.21.16.1" clear_id="n60002021016" n="732">τοῖς</token>
+     <token id="SBL.1Pet.2.21.17.1" clear_id="n60002021017" n="733">ἴχνεσιν</token>
+     <token id="SBL.1Pet.2.21.18.1" clear_id="n60002021018" n="734" after="·">αὐτοῦ</token>
+    </move>
+    <move id="m.SBL.1Pet.2.22" chStart="2" vStart="22" chEnd="2" vEnd="22">
+     <token id="SBL.1Pet.2.22.1.1" clear_id="n60002022001" n="735">ὃς</token>
+     <token id="SBL.1Pet.2.22.2.1" clear_id="n60002022002" n="736">ἁμαρτίαν</token>
+     <token id="SBL.1Pet.2.22.3.1" clear_id="n60002022003" n="737">οὐκ</token>
+     <token id="SBL.1Pet.2.22.4.1" clear_id="n60002022004" n="738">ἐποίησεν</token>
+     <token id="SBL.1Pet.2.22.5.1" clear_id="n60002022005" n="739">οὐδὲ</token>
+     <token id="SBL.1Pet.2.22.6.1" clear_id="n60002022006" n="740">εὑρέθη</token>
+     <token id="SBL.1Pet.2.22.7.1" clear_id="n60002022007" n="741">δόλος</token>
+     <token id="SBL.1Pet.2.22.8.1" clear_id="n60002022008" n="742">ἐν</token>
+     <token id="SBL.1Pet.2.22.9.1" clear_id="n60002022009" n="743">τῷ</token>
+     <token id="SBL.1Pet.2.22.10.1" clear_id="n60002022010" n="744">στόματι</token>
+     <token id="SBL.1Pet.2.22.11.1" clear_id="n60002022011" n="745" after="·">αὐτοῦ</token>
+    </move>
+    <move id="m.SBL.1Pet.2.23" chStart="2" vStart="23" chEnd="2" vEnd="23">
+     <token id="SBL.1Pet.2.23.1.1" clear_id="n60002023001" n="746">ὃς</token>
+     <token id="SBL.1Pet.2.23.2.1" clear_id="n60002023002" n="747">λοιδορούμενος</token>
+     <token id="SBL.1Pet.2.23.3.1" clear_id="n60002023003" n="748">οὐκ</token>
+     <token id="SBL.1Pet.2.23.4.1" clear_id="n60002023004" n="749" after=",">ἀντελοιδόρει</token>
+     <token id="SBL.1Pet.2.23.5.1" clear_id="n60002023005" n="750">πάσχων</token>
+     <token id="SBL.1Pet.2.23.6.1" clear_id="n60002023006" n="751">οὐκ</token>
+     <token id="SBL.1Pet.2.23.7.1" clear_id="n60002023007" n="752" after=",">ἠπείλει</token>
+     <token id="SBL.1Pet.2.23.8.1" clear_id="n60002023008" n="753">παρεδίδου</token>
+     <token id="SBL.1Pet.2.23.9.1" clear_id="n60002023009" n="754">δὲ</token>
+     <token id="SBL.1Pet.2.23.10.1" clear_id="n60002023010" n="755">τῷ</token>
+     <token id="SBL.1Pet.2.23.11.1" clear_id="n60002023011" n="756">κρίνοντι</token>
+     <token id="SBL.1Pet.2.23.12.1" clear_id="n60002023012" n="757" after="·">δικαίως</token>
+    </move>
+    <move id="m.SBL.1Pet.2.24.1-20" chStart="2" vStart="24" chEnd="2" vEnd="24">
+     <token id="SBL.1Pet.2.24.1.1" clear_id="n60002024001" n="758">ὃς</token>
+     <token id="SBL.1Pet.2.24.2.1" clear_id="n60002024002" n="759">τὰς</token>
+     <token id="SBL.1Pet.2.24.3.1" clear_id="n60002024003" n="760">ἁμαρτίας</token>
+     <token id="SBL.1Pet.2.24.4.1" clear_id="n60002024004" n="761">ἡμῶν</token>
+     <token id="SBL.1Pet.2.24.5.1" clear_id="n60002024005" n="762">αὐτὸς</token>
+     <token id="SBL.1Pet.2.24.6.1" clear_id="n60002024006" n="763">ἀνήνεγκεν</token>
+     <token id="SBL.1Pet.2.24.7.1" clear_id="n60002024007" n="764">ἐν</token>
+     <token id="SBL.1Pet.2.24.8.1" clear_id="n60002024008" n="765">τῷ</token>
+     <token id="SBL.1Pet.2.24.9.1" clear_id="n60002024009" n="766">σώματι</token>
+     <token id="SBL.1Pet.2.24.10.1" clear_id="n60002024010" n="767">αὐτοῦ</token>
+     <token id="SBL.1Pet.2.24.11.1" clear_id="n60002024011" n="768">ἐπὶ</token>
+     <token id="SBL.1Pet.2.24.12.1" clear_id="n60002024012" n="769">τὸ</token>
+     <token id="SBL.1Pet.2.24.13.1" clear_id="n60002024013" n="770" after=",">ξύλον</token>
+     <token id="SBL.1Pet.2.24.14.1" clear_id="n60002024014" n="771">ἵνα</token>
+     <token id="SBL.1Pet.2.24.15.1" clear_id="n60002024015" n="772">ταῖς</token>
+     <token id="SBL.1Pet.2.24.16.1" clear_id="n60002024016" n="773">ἁμαρτίαις</token>
+     <token id="SBL.1Pet.2.24.17.1" clear_id="n60002024017" n="774">ἀπογενόμενοι</token>
+     <token id="SBL.1Pet.2.24.18.1" clear_id="n60002024018" n="775">τῇ</token>
+     <token id="SBL.1Pet.2.24.19.1" clear_id="n60002024019" n="776">δικαιοσύνῃ</token>
+     <token id="SBL.1Pet.2.24.20.1" clear_id="n60002024020" n="777" after="·">ζήσωμεν</token>
+    </move>
+    <move id="m.SBL.1Pet.2.24.21-24" chStart="2" vStart="24" chEnd="2" vEnd="24">
+     <token id="SBL.1Pet.2.24.21.1" clear_id="n60002024021" n="778">οὗ</token>
+     <token id="SBL.1Pet.2.24.22.1" clear_id="n60002024022" n="779">τῷ</token>
+     <token id="SBL.1Pet.2.24.23.1" clear_id="n60002024023" n="780">μώλωπι</token>
+     <token id="SBL.1Pet.2.24.24.1" clear_id="n60002024024" n="781" after=".">ἰάθητε</token>
+    </move>
+    <move id="m.SBL.1Pet.2.25.1-5" chStart="2" vStart="25" chEnd="2" vEnd="25">
+     <token id="SBL.1Pet.2.25.1.1" clear_id="n60002025001" n="782">ἦτε</token>
+     <token id="SBL.1Pet.2.25.2.1" clear_id="n60002025002" n="783">γὰρ</token>
+     <token id="SBL.1Pet.2.25.3.1" clear_id="n60002025003" n="784">ὡς</token>
+     <token id="SBL.1Pet.2.25.4.1" clear_id="n60002025004" n="785">πρόβατα</token>
+     <token id="SBL.1Pet.2.25.5.1" clear_id="n60002025005" n="786" after=",">πλανώμενοι</token>
+    </move>
+    <move id="m.SBL.1Pet.2.25.6-16" chStart="2" vStart="25" chEnd="2" vEnd="25">
+     <token id="SBL.1Pet.2.25.6.1" clear_id="n60002025006" n="787">ἀλλὰ</token>
+     <token id="SBL.1Pet.2.25.7.1" clear_id="n60002025007" n="788">ἐπεστράφητε</token>
+     <token id="SBL.1Pet.2.25.8.1" clear_id="n60002025008" n="789">νῦν</token>
+     <token id="SBL.1Pet.2.25.9.1" clear_id="n60002025009" n="790">ἐπὶ</token>
+     <token id="SBL.1Pet.2.25.10.1" clear_id="n60002025010" n="791">τὸν</token>
+     <token id="SBL.1Pet.2.25.11.1" clear_id="n60002025011" n="792">ποιμένα</token>
+     <token id="SBL.1Pet.2.25.12.1" clear_id="n60002025012" n="793">καὶ</token>
+     <token id="SBL.1Pet.2.25.13.1" clear_id="n60002025013" n="794">ἐπίσκοπον</token>
+     <token id="SBL.1Pet.2.25.14.1" clear_id="n60002025014" n="795">τῶν</token>
+     <token id="SBL.1Pet.2.25.15.1" clear_id="n60002025015" n="796">ψυχῶν</token>
+     <token id="SBL.1Pet.2.25.16.1" clear_id="n60002025016" n="797" after=".">ὑμῶν</token>
+    </move>
+   </seg>
+   <seg id="s.SBL.1Pet.3.1-7" title="Exhortations to the Married">
+    <move id="m.SBL.1Pet.3.1-2" chStart="3" vStart="1" chEnd="3" vEnd="2">
+     <token id="SBL.1Pet.3.1.1.1" clear_id="n60003001001" n="798">Ὁμοίως</token>
+     <token id="SBL.1Pet.3.1.2.1" clear_id="n60003001002" n="799">γυναῖκες</token>
+     <token id="SBL.1Pet.3.1.3.1" clear_id="n60003001003" n="800">ὑποτασσόμεναι</token>
+     <token id="SBL.1Pet.3.1.4.1" clear_id="n60003001004" n="801">τοῖς</token>
+     <token id="SBL.1Pet.3.1.5.1" clear_id="n60003001005" n="802">ἰδίοις</token>
+     <token id="SBL.1Pet.3.1.6.1" clear_id="n60003001006" n="803" after=",">ἀνδράσιν</token>
+     <token id="SBL.1Pet.3.1.7.1" clear_id="n60003001007" n="804">ἵνα</token>
+     <token id="SBL.1Pet.3.1.8.1" clear_id="n60003001008" n="805">καὶ</token>
+     <token id="SBL.1Pet.3.1.9.1" clear_id="n60003001009" n="806">εἴ</token>
+     <token id="SBL.1Pet.3.1.10.1" clear_id="n60003001010" n="807">τινες</token>
+     <token id="SBL.1Pet.3.1.11.1" clear_id="n60003001011" n="808">ἀπειθοῦσιν</token>
+     <token id="SBL.1Pet.3.1.12.1" clear_id="n60003001012" n="809">τῷ</token>
+     <token id="SBL.1Pet.3.1.13.1" clear_id="n60003001013" n="810">λόγῳ</token>
+     <token id="SBL.1Pet.3.1.14.1" clear_id="n60003001014" n="811">διὰ</token>
+     <token id="SBL.1Pet.3.1.15.1" clear_id="n60003001015" n="812">τῆς</token>
+     <token id="SBL.1Pet.3.1.16.1" clear_id="n60003001016" n="813">τῶν</token>
+     <token id="SBL.1Pet.3.1.17.1" clear_id="n60003001017" n="814">γυναικῶν</token>
+     <token id="SBL.1Pet.3.1.18.1" clear_id="n60003001018" n="815">ἀναστροφῆς</token>
+     <token id="SBL.1Pet.3.1.19.1" clear_id="n60003001019" n="816">ἄνευ</token>
+     <token id="SBL.1Pet.3.1.20.1" clear_id="n60003001020" n="817">λόγου</token>
+     <token id="SBL.1Pet.3.1.21.1" clear_id="n60003001021" n="818">κερδηθήσονται</token>
+     <token id="SBL.1Pet.3.2.1.1" clear_id="n60003002001" n="819">ἐποπτεύσαντες</token>
+     <token id="SBL.1Pet.3.2.2.1" clear_id="n60003002002" n="820">τὴν</token>
+     <token id="SBL.1Pet.3.2.3.1" clear_id="n60003002003" n="821">ἐν</token>
+     <token id="SBL.1Pet.3.2.4.1" clear_id="n60003002004" n="822">φόβῳ</token>
+     <token id="SBL.1Pet.3.2.5.1" clear_id="n60003002005" n="823">ἁγνὴν</token>
+     <token id="SBL.1Pet.3.2.6.1" clear_id="n60003002006" n="824">ἀναστροφὴν</token>
+     <token id="SBL.1Pet.3.2.7.1" clear_id="n60003002007" n="825" after=".">ὑμῶν</token>
+    </move>
+    <move id="m.SBL.1Pet.3.3-4" chStart="3" vStart="3" chEnd="3" vEnd="4">
+     <token id="SBL.1Pet.3.3.1.1" clear_id="n60003003001" n="826">ὧν</token>
+     <token id="SBL.1Pet.3.3.2.1" clear_id="n60003003002" n="827">ἔστω</token>
+     <token id="SBL.1Pet.3.3.3.1" clear_id="n60003003003" n="828">οὐχ</token>
+     <token id="SBL.1Pet.3.3.4.1" clear_id="n60003003004" n="829">ὁ</token>
+     <token id="SBL.1Pet.3.3.5.1" clear_id="n60003003005" n="830">ἔξωθεν</token>
+     <token id="SBL.1Pet.3.3.6.1" clear_id="n60003003006" n="831">ἐμπλοκῆς</token>
+     <token id="SBL.1Pet.3.3.7.1" clear_id="n60003003007" n="832">τριχῶν</token>
+     <token id="SBL.1Pet.3.3.8.1" clear_id="n60003003008" n="833">καὶ</token>
+     <token id="SBL.1Pet.3.3.9.1" clear_id="n60003003009" n="834">περιθέσεως</token>
+     <token id="SBL.1Pet.3.3.10.1" clear_id="n60003003010" n="835">χρυσίων</token>
+     <token id="SBL.1Pet.3.3.11.1" clear_id="n60003003011" n="836">ἢ</token>
+     <token id="SBL.1Pet.3.3.12.1" clear_id="n60003003012" n="837">ἐνδύσεως</token>
+     <token id="SBL.1Pet.3.3.13.1" clear_id="n60003003013" n="838">ἱματίων</token>
+     <token id="SBL.1Pet.3.3.14.1" clear_id="n60003003014" n="839" after=",">κόσμος</token>
+     <token id="SBL.1Pet.3.4.1.1" clear_id="n60003004001" n="840">ἀλλ’</token>
+     <token id="SBL.1Pet.3.4.2.1" clear_id="n60003004002" n="841">ὁ</token>
+     <token id="SBL.1Pet.3.4.3.1" clear_id="n60003004003" n="842">κρυπτὸς</token>
+     <token id="SBL.1Pet.3.4.4.1" clear_id="n60003004004" n="843">τῆς</token>
+     <token id="SBL.1Pet.3.4.5.1" clear_id="n60003004005" n="844">καρδίας</token>
+     <token id="SBL.1Pet.3.4.6.1" clear_id="n60003004006" n="845">ἄνθρωπος</token>
+     <token id="SBL.1Pet.3.4.7.1" clear_id="n60003004007" n="846">ἐν</token>
+     <token id="SBL.1Pet.3.4.8.1" clear_id="n60003004008" n="847">τῷ</token>
+     <token id="SBL.1Pet.3.4.9.1" clear_id="n60003004009" n="848">ἀφθάρτῳ</token>
+     <token id="SBL.1Pet.3.4.10.1" clear_id="n60003004010" n="849">τοῦ</token>
+     <token id="SBL.1Pet.3.4.11.1" clear_id="n60003004011" n="850">πραέως</token>
+     <token id="SBL.1Pet.3.4.12.1" clear_id="n60003004012" n="851">καὶ</token>
+     <token id="SBL.1Pet.3.4.13.1" clear_id="n60003004013" n="852">ἡσυχίου</token>
+     <token id="SBL.1Pet.3.4.14.1" clear_id="n60003004014" n="853" after=",">πνεύματος</token>
+     <token id="SBL.1Pet.3.4.15.1" clear_id="n60003004015" n="854">ὅ</token>
+     <token id="SBL.1Pet.3.4.16.1" clear_id="n60003004016" n="855">ἐστιν</token>
+     <token id="SBL.1Pet.3.4.17.1" clear_id="n60003004017" n="856">ἐνώπιον</token>
+     <token id="SBL.1Pet.3.4.18.1" clear_id="n60003004018" n="857">τοῦ</token>
+     <token id="SBL.1Pet.3.4.19.1" clear_id="n60003004019" n="858">θεοῦ</token>
+     <token id="SBL.1Pet.3.4.20.1" clear_id="n60003004020" n="859" after=".">πολυτελές</token>
+    </move>
+    <move id="m.SBL.1Pet.3.5-6" chStart="3" vStart="5" chEnd="3" vEnd="6">
+     <token id="SBL.1Pet.3.5.1.1" clear_id="n60003005001" n="860">οὕτως</token>
+     <token id="SBL.1Pet.3.5.2.1" clear_id="n60003005002" n="861">γάρ</token>
+     <token id="SBL.1Pet.3.5.3.1" clear_id="n60003005003" n="862">ποτε</token>
+     <token id="SBL.1Pet.3.5.4.1" clear_id="n60003005004" n="863">καὶ</token>
+     <token id="SBL.1Pet.3.5.5.1" clear_id="n60003005005" n="864">αἱ</token>
+     <token id="SBL.1Pet.3.5.6.1" clear_id="n60003005006" n="865">ἅγιαι</token>
+     <token id="SBL.1Pet.3.5.7.1" clear_id="n60003005007" n="866">γυναῖκες</token>
+     <token id="SBL.1Pet.3.5.8.1" clear_id="n60003005008" n="867">αἱ</token>
+     <token id="SBL.1Pet.3.5.9.1" clear_id="n60003005009" n="868">ἐλπίζουσαι</token>
+     <token id="SBL.1Pet.3.5.10.1" clear_id="n60003005010" n="869">εἰς</token>
+     <token id="SBL.1Pet.3.5.11.1" clear_id="n60003005011" n="870">θεὸν</token>
+     <token id="SBL.1Pet.3.5.12.1" clear_id="n60003005012" n="871">ἐκόσμουν</token>
+     <token id="SBL.1Pet.3.5.13.1" clear_id="n60003005013" n="872" after=",">ἑαυτάς</token>
+     <token id="SBL.1Pet.3.5.14.1" clear_id="n60003005014" n="873">ὑποτασσόμεναι</token>
+     <token id="SBL.1Pet.3.5.15.1" clear_id="n60003005015" n="874">τοῖς</token>
+     <token id="SBL.1Pet.3.5.16.1" clear_id="n60003005016" n="875">ἰδίοις</token>
+     <token id="SBL.1Pet.3.5.17.1" clear_id="n60003005017" n="876" after=",">ἀνδράσιν</token>
+     <token id="SBL.1Pet.3.6.1.1" clear_id="n60003006001" n="877">ὡς</token>
+     <token id="SBL.1Pet.3.6.2.1" clear_id="n60003006002" n="878">Σάρρα</token>
+     <token id="SBL.1Pet.3.6.3.1" clear_id="n60003006003" n="879">ὑπήκουσεν</token>
+     <token id="SBL.1Pet.3.6.4.1" clear_id="n60003006004" n="880">τῷ</token>
+     <token id="SBL.1Pet.3.6.5.1" clear_id="n60003006005" n="881" after=",">Ἀβραάμ</token>
+     <token id="SBL.1Pet.3.6.6.1" clear_id="n60003006006" n="882">κύριον</token>
+     <token id="SBL.1Pet.3.6.7.1" clear_id="n60003006007" n="883">αὐτὸν</token>
+     <token id="SBL.1Pet.3.6.8.1" clear_id="n60003006008" n="884" after="·">καλοῦσα</token>
+     <token id="SBL.1Pet.3.6.9.1" clear_id="n60003006009" n="885">ἧς</token>
+     <token id="SBL.1Pet.3.6.10.1" clear_id="n60003006010" n="886">ἐγενήθητε</token>
+     <token id="SBL.1Pet.3.6.11.1" clear_id="n60003006011" n="887">τέκνα</token>
+     <token id="SBL.1Pet.3.6.12.1" clear_id="n60003006012" n="888">ἀγαθοποιοῦσαι</token>
+     <token id="SBL.1Pet.3.6.13.1" clear_id="n60003006013" n="889">καὶ</token>
+     <token id="SBL.1Pet.3.6.14.1" clear_id="n60003006014" n="890">μὴ</token>
+     <token id="SBL.1Pet.3.6.15.1" clear_id="n60003006015" n="891">φοβούμεναι</token>
+     <token id="SBL.1Pet.3.6.16.1" clear_id="n60003006016" n="892">μηδεμίαν</token>
+     <token id="SBL.1Pet.3.6.17.1" clear_id="n60003006017" n="893" after=".">πτόησιν</token>
+    </move>
+    <move id="m.SBL.1Pet.3.7" chStart="3" vStart="7" chEnd="3" vEnd="7">
+     <token id="SBL.1Pet.3.7.1.1" clear_id="n60003007001" n="894">Οἱ</token>
+     <token id="SBL.1Pet.3.7.2.1" clear_id="n60003007002" n="895">ἄνδρες</token>
+     <token id="SBL.1Pet.3.7.3.1" clear_id="n60003007003" n="896">ὁμοίως</token>
+     <token id="SBL.1Pet.3.7.4.1" clear_id="n60003007004" n="897">συνοικοῦντες</token>
+     <token id="SBL.1Pet.3.7.5.1" clear_id="n60003007005" n="898">κατὰ</token>
+     <token id="SBL.1Pet.3.7.6.1" clear_id="n60003007006" n="899" after=",">γνῶσιν</token>
+     <token id="SBL.1Pet.3.7.7.1" clear_id="n60003007007" n="900">ὡς</token>
+     <token id="SBL.1Pet.3.7.8.1" clear_id="n60003007008" n="901">ἀσθενεστέρῳ</token>
+     <token id="SBL.1Pet.3.7.9.1" clear_id="n60003007009" n="902">σκεύει</token>
+     <token id="SBL.1Pet.3.7.10.1" clear_id="n60003007010" n="903">τῷ</token>
+     <token id="SBL.1Pet.3.7.11.1" clear_id="n60003007011" n="904">γυναικείῳ</token>
+     <token id="SBL.1Pet.3.7.12.1" clear_id="n60003007012" n="905">ἀπονέμοντες</token>
+     <token id="SBL.1Pet.3.7.13.1" clear_id="n60003007013" n="906" after=",">τιμήν</token>
+     <token id="SBL.1Pet.3.7.14.1" clear_id="n60003007014" n="907">ὡς</token>
+     <token id="SBL.1Pet.3.7.15.1" clear_id="n60003007015" n="908">καὶ</token>
+     <token id="SBL.1Pet.3.7.16.1" clear_id="n60003007016" n="909">συγκληρονόμοις</token>
+     <token id="SBL.1Pet.3.7.17.1" clear_id="n60003007017" n="910">χάριτος</token>
+     <token id="SBL.1Pet.3.7.18.1" clear_id="n60003007018" n="911" after=",">ζωῆς</token>
+     <token id="SBL.1Pet.3.7.19.1" clear_id="n60003007019" n="912">εἰς</token>
+     <token id="SBL.1Pet.3.7.20.1" clear_id="n60003007020" n="913">τὸ</token>
+     <token id="SBL.1Pet.3.7.21.1" clear_id="n60003007021" n="914">μὴ</token>
+     <token id="SBL.1Pet.3.7.22.1" clear_id="n60003007022" n="915">ἐγκόπτεσθαι</token>
+     <token id="SBL.1Pet.3.7.23.1" clear_id="n60003007023" n="916">τὰς</token>
+     <token id="SBL.1Pet.3.7.24.1" clear_id="n60003007024" n="917">προσευχὰς</token>
+     <token id="SBL.1Pet.3.7.25.1" clear_id="n60003007025" n="918" after=".">ὑμῶν</token>
+    </move>
+   </seg>
+   <seg id="s.SBL.1Pet.3.8-22" title="Exhortations to Christians in General">
+    <move id="m.SBL.1Pet.3.8-9" chStart="3" vStart="8" chEnd="3" vEnd="9">
+     <token id="SBL.1Pet.3.8.1.1" clear_id="n60003008001" n="919">Τὸ</token>
+     <token id="SBL.1Pet.3.8.2.1" clear_id="n60003008002" n="920">δὲ</token>
+     <token id="SBL.1Pet.3.8.3.1" clear_id="n60003008003" n="921">τέλος</token>
+     <token id="SBL.1Pet.3.8.4.1" clear_id="n60003008004" n="922">πάντες</token>
+     <token id="SBL.1Pet.3.8.5.1" clear_id="n60003008005" n="923" after=",">ὁμόφρονες</token>
+     <token id="SBL.1Pet.3.8.6.1" clear_id="n60003008006" n="924" after=",">συμπαθεῖς</token>
+     <token id="SBL.1Pet.3.8.7.1" clear_id="n60003008007" n="925" after=",">φιλάδελφοι</token>
+     <token id="SBL.1Pet.3.8.8.1" clear_id="n60003008008" n="926" after=",">εὔσπλαγχνοι</token>
+     <token id="SBL.1Pet.3.8.9.1" clear_id="n60003008009" n="927" after=",">ταπεινόφρονες</token>
+     <token id="SBL.1Pet.3.9.1.1" clear_id="n60003009001" n="928">μὴ</token>
+     <token id="SBL.1Pet.3.9.2.1" clear_id="n60003009002" n="929">ἀποδιδόντες</token>
+     <token id="SBL.1Pet.3.9.3.1" clear_id="n60003009003" n="930">κακὸν</token>
+     <token id="SBL.1Pet.3.9.4.1" clear_id="n60003009004" n="931">ἀντὶ</token>
+     <token id="SBL.1Pet.3.9.5.1" clear_id="n60003009005" n="932">κακοῦ</token>
+     <token id="SBL.1Pet.3.9.6.1" clear_id="n60003009006" n="933">ἢ</token>
+     <token id="SBL.1Pet.3.9.7.1" clear_id="n60003009007" n="934">λοιδορίαν</token>
+     <token id="SBL.1Pet.3.9.8.1" clear_id="n60003009008" n="935">ἀντὶ</token>
+     <token id="SBL.1Pet.3.9.9.1" clear_id="n60003009009" n="936">λοιδορίας</token>
+     <token id="SBL.1Pet.3.9.10.1" clear_id="n60003009010" n="937">τοὐναντίον</token>
+     <token id="SBL.1Pet.3.9.11.1" clear_id="n60003009011" n="938">δὲ</token>
+     <token id="SBL.1Pet.3.9.12.1" clear_id="n60003009012" n="939" after=",">εὐλογοῦντες</token>
+     <token id="SBL.1Pet.3.9.13.1" clear_id="n60003009013" n="940">ὅτι</token>
+     <token id="SBL.1Pet.3.9.14.1" clear_id="n60003009014" n="941">εἰς</token>
+     <token id="SBL.1Pet.3.9.15.1" clear_id="n60003009015" n="942">τοῦτο</token>
+     <token id="SBL.1Pet.3.9.16.1" clear_id="n60003009016" n="943">ἐκλήθητε</token>
+     <token id="SBL.1Pet.3.9.17.1" clear_id="n60003009017" n="944">ἵνα</token>
+     <token id="SBL.1Pet.3.9.18.1" clear_id="n60003009018" n="945">εὐλογίαν</token>
+     <token id="SBL.1Pet.3.9.19.1" clear_id="n60003009019" n="946" after=".">κληρονομήσητε</token>
+    </move>
+    <move id="m.SBL.1Pet.3.10" chStart="3" vStart="10" chEnd="3" vEnd="10">
+     <token id="SBL.1Pet.3.10.1.1" clear_id="n60003010001" n="947">ὁ</token>
+     <token id="SBL.1Pet.3.10.2.1" clear_id="n60003010002" n="948">γὰρ</token>
+     <token id="SBL.1Pet.3.10.3.1" clear_id="n60003010003" n="949">θέλων</token>
+     <token id="SBL.1Pet.3.10.4.1" clear_id="n60003010004" n="950">ζωὴν</token>
+     <token id="SBL.1Pet.3.10.5.1" clear_id="n60003010005" n="951">ἀγαπᾶν</token>
+     <token id="SBL.1Pet.3.10.6.1" clear_id="n60003010006" n="952">καὶ</token>
+     <token id="SBL.1Pet.3.10.7.1" clear_id="n60003010007" n="953">ἰδεῖν</token>
+     <token id="SBL.1Pet.3.10.8.1" clear_id="n60003010008" n="954">ἡμέρας</token>
+     <token id="SBL.1Pet.3.10.9.1" clear_id="n60003010009" n="955">ἀγαθὰς</token>
+     <token id="SBL.1Pet.3.10.10.1" clear_id="n60003010010" n="956">παυσάτω</token>
+     <token id="SBL.1Pet.3.10.11.1" clear_id="n60003010011" n="957">τὴν</token>
+     <token id="SBL.1Pet.3.10.12.1" clear_id="n60003010012" n="958">γλῶσσαν</token>
+     <token id="SBL.1Pet.3.10.13.1" clear_id="n60003010013" n="959">ἀπὸ</token>
+     <token id="SBL.1Pet.3.10.14.1" clear_id="n60003010014" n="960">κακοῦ</token>
+     <token id="SBL.1Pet.3.10.15.1" clear_id="n60003010015" n="961">καὶ</token>
+     <token id="SBL.1Pet.3.10.16.1" clear_id="n60003010016" n="962">χείλη</token>
+     <token id="SBL.1Pet.3.10.17.1" clear_id="n60003010017" n="963">τοῦ</token>
+     <token id="SBL.1Pet.3.10.18.1" clear_id="n60003010018" n="964">μὴ</token>
+     <token id="SBL.1Pet.3.10.19.1" clear_id="n60003010019" n="965">λαλῆσαι</token>
+     <token id="SBL.1Pet.3.10.20.1" clear_id="n60003010020" n="966" after=",">δόλον</token>
+    </move>
+    <move id="m.SBL.1Pet.3.11.1-7" chStart="3" vStart="11" chEnd="3" vEnd="11">
+     <token id="SBL.1Pet.3.11.1.1" clear_id="n60003011001" n="967">ἐκκλινάτω</token>
+     <token id="SBL.1Pet.3.11.2.1" clear_id="n60003011002" n="968">δὲ</token>
+     <token id="SBL.1Pet.3.11.3.1" clear_id="n60003011003" n="969">ἀπὸ</token>
+     <token id="SBL.1Pet.3.11.4.1" clear_id="n60003011004" n="970">κακοῦ</token>
+     <token id="SBL.1Pet.3.11.5.1" clear_id="n60003011005" n="971">καὶ</token>
+     <token id="SBL.1Pet.3.11.6.1" clear_id="n60003011006" n="972">ποιησάτω</token>
+     <token id="SBL.1Pet.3.11.7.1" clear_id="n60003011007" n="973" after=",">ἀγαθόν</token>
+    </move>
+    <move id="m.SBL.1Pet.3.11.8-12" chStart="3" vStart="11" chEnd="3" vEnd="11">
+     <token id="SBL.1Pet.3.11.8.1" clear_id="n60003011008" n="974">ζητησάτω</token>
+     <token id="SBL.1Pet.3.11.9.1" clear_id="n60003011009" n="975">εἰρήνην</token>
+     <token id="SBL.1Pet.3.11.10.1" clear_id="n60003011010" n="976">καὶ</token>
+     <token id="SBL.1Pet.3.11.11.1" clear_id="n60003011011" n="977">διωξάτω</token>
+     <token id="SBL.1Pet.3.11.12.1" clear_id="n60003011012" n="978" after="·">αὐτήν</token>
+    </move>
+    <move id="m.SBL.1Pet.3.12" chStart="3" vStart="12" chEnd="3" vEnd="12">
+     <token id="SBL.1Pet.3.12.1.1" clear_id="n60003012001" n="979">ὅτι</token>
+     <token id="SBL.1Pet.3.12.2.1" clear_id="n60003012002" n="980">ὀφθαλμοὶ</token>
+     <token id="SBL.1Pet.3.12.3.1" clear_id="n60003012003" n="981">κυρίου</token>
+     <token id="SBL.1Pet.3.12.4.1" clear_id="n60003012004" n="982">ἐπὶ</token>
+     <token id="SBL.1Pet.3.12.5.1" clear_id="n60003012005" n="983">δικαίους</token>
+     <token id="SBL.1Pet.3.12.6.1" clear_id="n60003012006" n="984">καὶ</token>
+     <token id="SBL.1Pet.3.12.7.1" clear_id="n60003012007" n="985">ὦτα</token>
+     <token id="SBL.1Pet.3.12.8.1" clear_id="n60003012008" n="986">αὐτοῦ</token>
+     <token id="SBL.1Pet.3.12.9.1" clear_id="n60003012009" n="987">εἰς</token>
+     <token id="SBL.1Pet.3.12.10.1" clear_id="n60003012010" n="988">δέησιν</token>
+     <token id="SBL.1Pet.3.12.11.1" clear_id="n60003012011" n="989" after=",">αὐτῶν</token>
+     <token id="SBL.1Pet.3.12.12.1" clear_id="n60003012012" n="990">πρόσωπον</token>
+     <token id="SBL.1Pet.3.12.13.1" clear_id="n60003012013" n="991">δὲ</token>
+     <token id="SBL.1Pet.3.12.14.1" clear_id="n60003012014" n="992">κυρίου</token>
+     <token id="SBL.1Pet.3.12.15.1" clear_id="n60003012015" n="993">ἐπὶ</token>
+     <token id="SBL.1Pet.3.12.16.1" clear_id="n60003012016" n="994">ποιοῦντας</token>
+     <token id="SBL.1Pet.3.12.17.1" clear_id="n60003012017" n="995" after=".">κακά</token>
+    </move>
+    <move id="m.SBL.1Pet.3.13" chStart="3" vStart="13" chEnd="3" vEnd="13">
+     <token id="SBL.1Pet.3.13.1.1" clear_id="n60003013001" n="996">Καὶ</token>
+     <token id="SBL.1Pet.3.13.2.1" clear_id="n60003013002" n="997">τίς</token>
+     <token id="SBL.1Pet.3.13.3.1" clear_id="n60003013003" n="998">ὁ</token>
+     <token id="SBL.1Pet.3.13.4.1" clear_id="n60003013004" n="999">κακώσων</token>
+     <token id="SBL.1Pet.3.13.5.1" clear_id="n60003013005" n="1000">ὑμᾶς</token>
+     <token id="SBL.1Pet.3.13.6.1" clear_id="n60003013006" n="1001">ἐὰν</token>
+     <token id="SBL.1Pet.3.13.7.1" clear_id="n60003013007" n="1002">τοῦ</token>
+     <token id="SBL.1Pet.3.13.8.1" clear_id="n60003013008" n="1003">ἀγαθοῦ</token>
+     <token id="SBL.1Pet.3.13.9.1" clear_id="n60003013009" n="1004">ζηλωταὶ</token>
+     <token id="SBL.1Pet.3.13.10.1" clear_id="n60003013010" n="1005" after=";">γένησθε</token>
+    </move>
+    <move id="m.SBL.1Pet.3.14.1-7" chStart="3" vStart="14" chEnd="3" vEnd="14">
+     <token id="SBL.1Pet.3.14.1.1" clear_id="n60003014001" n="1006">ἀλλ’</token>
+     <token id="SBL.1Pet.3.14.2.1" clear_id="n60003014002" n="1007">εἰ</token>
+     <token id="SBL.1Pet.3.14.3.1" clear_id="n60003014003" n="1008">καὶ</token>
+     <token id="SBL.1Pet.3.14.4.1" clear_id="n60003014004" n="1009">πάσχοιτε</token>
+     <token id="SBL.1Pet.3.14.5.1" clear_id="n60003014005" n="1010">διὰ</token>
+     <token id="SBL.1Pet.3.14.6.1" clear_id="n60003014006" n="1011" after=",">δικαιοσύνην</token>
+     <token id="SBL.1Pet.3.14.7.1" clear_id="n60003014007" n="1012" after=".">μακάριοι</token>
+    </move>
+    <move id="m.SBL.1Pet.3.14.8-16.21" chStart="3" vStart="14" chEnd="3" vEnd="16">
+     <token id="SBL.1Pet.3.14.8.1" clear_id="n60003014008" n="1013">τὸν</token>
+     <token id="SBL.1Pet.3.14.9.1" clear_id="n60003014009" n="1014">δὲ</token>
+     <token id="SBL.1Pet.3.14.10.1" clear_id="n60003014010" n="1015">φόβον</token>
+     <token id="SBL.1Pet.3.14.11.1" clear_id="n60003014011" n="1016">αὐτῶν</token>
+     <token id="SBL.1Pet.3.14.12.1" clear_id="n60003014012" n="1017">μὴ</token>
+     <token id="SBL.1Pet.3.14.13.1" clear_id="n60003014013" n="1018">φοβηθῆτε</token>
+     <token id="SBL.1Pet.3.14.14.1" clear_id="n60003014014" n="1019">μηδὲ</token>
+     <token id="SBL.1Pet.3.14.15.1" clear_id="n60003014015" n="1020" after=",">ταραχθῆτε</token>
+     <token id="SBL.1Pet.3.15.1.1" clear_id="n60003015001" n="1021">κύριον</token>
+     <token id="SBL.1Pet.3.15.2.1" clear_id="n60003015002" n="1022">δὲ</token>
+     <token id="SBL.1Pet.3.15.3.1" clear_id="n60003015003" n="1023">τὸν</token>
+     <token id="SBL.1Pet.3.15.4.1" clear_id="n60003015004" n="1024">Χριστὸν</token>
+     <token id="SBL.1Pet.3.15.5.1" clear_id="n60003015005" n="1025">ἁγιάσατε</token>
+     <token id="SBL.1Pet.3.15.6.1" clear_id="n60003015006" n="1026">ἐν</token>
+     <token id="SBL.1Pet.3.15.7.1" clear_id="n60003015007" n="1027">ταῖς</token>
+     <token id="SBL.1Pet.3.15.8.1" clear_id="n60003015008" n="1028">καρδίαις</token>
+     <token id="SBL.1Pet.3.15.9.1" clear_id="n60003015009" n="1029" after=",">ὑμῶν</token>
+     <token id="SBL.1Pet.3.15.10.1" clear_id="n60003015010" n="1030">ἕτοιμοι</token>
+     <token id="SBL.1Pet.3.15.11.1" clear_id="n60003015011" n="1031">ἀεὶ</token>
+     <token id="SBL.1Pet.3.15.12.1" clear_id="n60003015012" n="1032">πρὸς</token>
+     <token id="SBL.1Pet.3.15.13.1" clear_id="n60003015013" n="1033">ἀπολογίαν</token>
+     <token id="SBL.1Pet.3.15.14.1" clear_id="n60003015014" n="1034">παντὶ</token>
+     <token id="SBL.1Pet.3.15.15.1" clear_id="n60003015015" n="1035">τῷ</token>
+     <token id="SBL.1Pet.3.15.16.1" clear_id="n60003015016" n="1036">αἰτοῦντι</token>
+     <token id="SBL.1Pet.3.15.17.1" clear_id="n60003015017" n="1037">ὑμᾶς</token>
+     <token id="SBL.1Pet.3.15.18.1" clear_id="n60003015018" n="1038">λόγον</token>
+     <token id="SBL.1Pet.3.15.19.1" clear_id="n60003015019" n="1039">περὶ</token>
+     <token id="SBL.1Pet.3.15.20.1" clear_id="n60003015020" n="1040">τῆς</token>
+     <token id="SBL.1Pet.3.15.21.1" clear_id="n60003015021" n="1041">ἐν</token>
+     <token id="SBL.1Pet.3.15.22.1" clear_id="n60003015022" n="1042">ὑμῖν</token>
+     <token id="SBL.1Pet.3.15.23.1" clear_id="n60003015023" n="1043" after=",">ἐλπίδος</token>
+     <token id="SBL.1Pet.3.16.1.1" clear_id="n60003016001" n="1044">ἀλλὰ</token>
+     <token id="SBL.1Pet.3.16.2.1" clear_id="n60003016002" n="1045">μετὰ</token>
+     <token id="SBL.1Pet.3.16.3.1" clear_id="n60003016003" n="1046">πραΰτητος</token>
+     <token id="SBL.1Pet.3.16.4.1" clear_id="n60003016004" n="1047">καὶ</token>
+     <token id="SBL.1Pet.3.16.5.1" clear_id="n60003016005" n="1048" after=",">φόβου</token>
+     <token id="SBL.1Pet.3.16.6.1" clear_id="n60003016006" n="1049">συνείδησιν</token>
+     <token id="SBL.1Pet.3.16.7.1" clear_id="n60003016007" n="1050">ἔχοντες</token>
+     <token id="SBL.1Pet.3.16.8.1" clear_id="n60003016008" n="1051" after=",">ἀγαθήν</token>
+     <token id="SBL.1Pet.3.16.9.1" clear_id="n60003016009" n="1052">ἵνα</token>
+     <token id="SBL.1Pet.3.16.10.1" clear_id="n60003016010" n="1053">ἐν</token>
+     <token id="SBL.1Pet.3.16.11.1" clear_id="n60003016011" n="1054">ᾧ</token>
+     <token id="SBL.1Pet.3.16.12.1" clear_id="n60003016012" n="1055">καταλαλεῖσθε</token>
+     <token id="SBL.1Pet.3.16.13.1" clear_id="n60003016013" n="1056">καταισχυνθῶσιν</token>
+     <token id="SBL.1Pet.3.16.14.1" clear_id="n60003016014" n="1057">οἱ</token>
+     <token id="SBL.1Pet.3.16.15.1" clear_id="n60003016015" n="1058">ἐπηρεάζοντες</token>
+     <token id="SBL.1Pet.3.16.16.1" clear_id="n60003016016" n="1059">ὑμῶν</token>
+     <token id="SBL.1Pet.3.16.17.1" clear_id="n60003016017" n="1060">τὴν</token>
+     <token id="SBL.1Pet.3.16.18.1" clear_id="n60003016018" n="1061">ἀγαθὴν</token>
+     <token id="SBL.1Pet.3.16.19.1" clear_id="n60003016019" n="1062">ἐν</token>
+     <token id="SBL.1Pet.3.16.20.1" clear_id="n60003016020" n="1063">Χριστῷ</token>
+     <token id="SBL.1Pet.3.16.21.1" clear_id="n60003016021" n="1064" after=".">ἀναστροφήν</token>
+    </move>
+    <move id="m.SBL.1Pet.3.17-18" chStart="3" vStart="17" chEnd="3" vEnd="18">
+     <token id="SBL.1Pet.3.17.1.1" clear_id="n60003017001" n="1065">κρεῖττον</token>
+     <token id="SBL.1Pet.3.17.2.1" clear_id="n60003017002" n="1066">γὰρ</token>
+     <token id="SBL.1Pet.3.17.3.1" clear_id="n60003017003" n="1067" after=",">ἀγαθοποιοῦντας</token>
+     <token id="SBL.1Pet.3.17.4.1" clear_id="n60003017004" n="1068">εἰ</token>
+     <token id="SBL.1Pet.3.17.5.1" clear_id="n60003017005" n="1069">θέλοι</token>
+     <token id="SBL.1Pet.3.17.6.1" clear_id="n60003017006" n="1070">τὸ</token>
+     <token id="SBL.1Pet.3.17.7.1" clear_id="n60003017007" n="1071">θέλημα</token>
+     <token id="SBL.1Pet.3.17.8.1" clear_id="n60003017008" n="1072">τοῦ</token>
+     <token id="SBL.1Pet.3.17.9.1" clear_id="n60003017009" n="1073" after=",">θεοῦ</token>
+     <token id="SBL.1Pet.3.17.10.1" clear_id="n60003017010" n="1074">πάσχειν</token>
+     <token id="SBL.1Pet.3.17.11.1" clear_id="n60003017011" n="1075">ἢ</token>
+     <token id="SBL.1Pet.3.17.12.1" clear_id="n60003017012" n="1076" after=".">κακοποιοῦντας</token>
+     <token id="SBL.1Pet.3.18.1.1" clear_id="n60003018001" n="1077">ὅτι</token>
+     <token id="SBL.1Pet.3.18.2.1" clear_id="n60003018002" n="1078">καὶ</token>
+     <token id="SBL.1Pet.3.18.3.1" clear_id="n60003018003" n="1079">Χριστὸς</token>
+     <token id="SBL.1Pet.3.18.4.1" clear_id="n60003018004" n="1080">ἅπαξ</token>
+     <token id="SBL.1Pet.3.18.5.1" clear_id="n60003018005" n="1081">περὶ</token>
+     <token id="SBL.1Pet.3.18.6.1" clear_id="n60003018006" n="1082">ἁμαρτιῶν</token>
+     <token id="SBL.1Pet.3.18.7.1" clear_id="n60003018007" n="1083" after=",">ἔπαθεν</token>
+     <token id="SBL.1Pet.3.18.8.1" clear_id="n60003018008" n="1084">δίκαιος</token>
+     <token id="SBL.1Pet.3.18.9.1" clear_id="n60003018009" n="1085">ὑπὲρ</token>
+     <token id="SBL.1Pet.3.18.10.1" clear_id="n60003018010" n="1086" after=",">ἀδίκων</token>
+     <token id="SBL.1Pet.3.18.11.1" clear_id="n60003018011" n="1087">ἵνα</token>
+     <token id="SBL.1Pet.3.18.12.1" clear_id="n60003018012" n="1088">ὑμᾶς</token>
+     <token id="SBL.1Pet.3.18.13.1" clear_id="n60003018013" n="1089">προσαγάγῃ</token>
+     <token id="SBL.1Pet.3.18.14.1" clear_id="n60003018014" n="1090">τῷ</token>
+     <token id="SBL.1Pet.3.18.15.1" clear_id="n60003018015" n="1091" after=",">θεῷ</token>
+     <token id="SBL.1Pet.3.18.16.1" clear_id="n60003018016" n="1092">θανατωθεὶς</token>
+     <token id="SBL.1Pet.3.18.17.1" clear_id="n60003018017" n="1093">μὲν</token>
+     <token id="SBL.1Pet.3.18.18.1" clear_id="n60003018018" n="1094">σαρκὶ</token>
+     <token id="SBL.1Pet.3.18.19.1" clear_id="n60003018019" n="1095">ζῳοποιηθεὶς</token>
+     <token id="SBL.1Pet.3.18.20.1" clear_id="n60003018020" n="1096">δὲ</token>
+     <token id="SBL.1Pet.3.18.21.1" clear_id="n60003018021" n="1097" after="·">πνεύματι</token>
+    </move>
+    <move id="m.SBL.1Pet.3.19-20" chStart="3" vStart="19" chEnd="3" vEnd="20">
+     <token id="SBL.1Pet.3.19.1.1" clear_id="n60003019001" n="1098">ἐν</token>
+     <token id="SBL.1Pet.3.19.2.1" clear_id="n60003019002" n="1099">ᾧ</token>
+     <token id="SBL.1Pet.3.19.3.1" clear_id="n60003019003" n="1100">καὶ</token>
+     <token id="SBL.1Pet.3.19.4.1" clear_id="n60003019004" n="1101">τοῖς</token>
+     <token id="SBL.1Pet.3.19.5.1" clear_id="n60003019005" n="1102">ἐν</token>
+     <token id="SBL.1Pet.3.19.6.1" clear_id="n60003019006" n="1103">φυλακῇ</token>
+     <token id="SBL.1Pet.3.19.7.1" clear_id="n60003019007" n="1104">πνεύμασιν</token>
+     <token id="SBL.1Pet.3.19.8.1" clear_id="n60003019008" n="1105">πορευθεὶς</token>
+     <token id="SBL.1Pet.3.19.9.1" clear_id="n60003019009" n="1106" after=",">ἐκήρυξεν</token>
+     <token id="SBL.1Pet.3.20.1.1" clear_id="n60003020001" n="1107">ἀπειθήσασίν</token>
+     <token id="SBL.1Pet.3.20.2.1" clear_id="n60003020002" n="1108">ποτε</token>
+     <token id="SBL.1Pet.3.20.3.1" clear_id="n60003020003" n="1109">ὅτε</token>
+     <token id="SBL.1Pet.3.20.4.1" clear_id="n60003020004" n="1110">ἀπεξεδέχετο</token>
+     <token id="SBL.1Pet.3.20.5.1" clear_id="n60003020005" n="1111">ἡ</token>
+     <token id="SBL.1Pet.3.20.6.1" clear_id="n60003020006" n="1112">τοῦ</token>
+     <token id="SBL.1Pet.3.20.7.1" clear_id="n60003020007" n="1113">θεοῦ</token>
+     <token id="SBL.1Pet.3.20.8.1" clear_id="n60003020008" n="1114">μακροθυμία</token>
+     <token id="SBL.1Pet.3.20.9.1" clear_id="n60003020009" n="1115">ἐν</token>
+     <token id="SBL.1Pet.3.20.10.1" clear_id="n60003020010" n="1116">ἡμέραις</token>
+     <token id="SBL.1Pet.3.20.11.1" clear_id="n60003020011" n="1117">Νῶε</token>
+     <token id="SBL.1Pet.3.20.12.1" clear_id="n60003020012" n="1118">κατασκευαζομένης</token>
+     <token id="SBL.1Pet.3.20.13.1" clear_id="n60003020013" n="1119">κιβωτοῦ</token>
+     <token id="SBL.1Pet.3.20.14.1" clear_id="n60003020014" n="1120">εἰς</token>
+     <token id="SBL.1Pet.3.20.15.1" clear_id="n60003020015" n="1121">ἣν</token>
+     <token id="SBL.1Pet.3.20.16.1" clear_id="n60003020016" n="1122" after=",">ὀλίγοι</token>
+     <token id="SBL.1Pet.3.20.17.1" clear_id="n60003020017" n="1123">τοῦτ’</token>
+     <token id="SBL.1Pet.3.20.18.1" clear_id="n60003020018" n="1124">ἔστιν</token>
+     <token id="SBL.1Pet.3.20.19.1" clear_id="n60003020019" n="1125">ὀκτὼ</token>
+     <token id="SBL.1Pet.3.20.20.1" clear_id="n60003020020" n="1126" after=",">ψυχαί</token>
+     <token id="SBL.1Pet.3.20.21.1" clear_id="n60003020021" n="1127">διεσώθησαν</token>
+     <token id="SBL.1Pet.3.20.22.1" clear_id="n60003020022" n="1128">δι’</token>
+     <token id="SBL.1Pet.3.20.23.1" clear_id="n60003020023" n="1129" after=".">ὕδατος</token>
+    </move>
+    <move id="m.SBL.1Pet.3.21-22" chStart="3" vStart="21" chEnd="3" vEnd="22">
+     <token id="SBL.1Pet.3.21.1.1" clear_id="n60003021001" n="1130">ὃ</token>
+     <token id="SBL.1Pet.3.21.2.1" clear_id="n60003021002" n="1131">καὶ</token>
+     <token id="SBL.1Pet.3.21.3.1" clear_id="n60003021003" n="1132">ὑμᾶς</token>
+     <token id="SBL.1Pet.3.21.4.1" clear_id="n60003021004" n="1133">ἀντίτυπον</token>
+     <token id="SBL.1Pet.3.21.5.1" clear_id="n60003021005" n="1134">νῦν</token>
+     <token id="SBL.1Pet.3.21.6.1" clear_id="n60003021006" n="1135">σῴζει</token>
+     <token id="SBL.1Pet.3.21.7.1" clear_id="n60003021007" n="1136" after=",">βάπτισμα</token>
+     <token id="SBL.1Pet.3.21.8.1" clear_id="n60003021008" n="1137">οὐ</token>
+     <token id="SBL.1Pet.3.21.9.1" clear_id="n60003021009" n="1138">σαρκὸς</token>
+     <token id="SBL.1Pet.3.21.10.1" clear_id="n60003021010" n="1139">ἀπόθεσις</token>
+     <token id="SBL.1Pet.3.21.11.1" clear_id="n60003021011" n="1140">ῥύπου</token>
+     <token id="SBL.1Pet.3.21.12.1" clear_id="n60003021012" n="1141">ἀλλὰ</token>
+     <token id="SBL.1Pet.3.21.13.1" clear_id="n60003021013" n="1142">συνειδήσεως</token>
+     <token id="SBL.1Pet.3.21.14.1" clear_id="n60003021014" n="1143">ἀγαθῆς</token>
+     <token id="SBL.1Pet.3.21.15.1" clear_id="n60003021015" n="1144">ἐπερώτημα</token>
+     <token id="SBL.1Pet.3.21.16.1" clear_id="n60003021016" n="1145">εἰς</token>
+     <token id="SBL.1Pet.3.21.17.1" clear_id="n60003021017" n="1146" after=",">θεόν</token>
+     <token id="SBL.1Pet.3.21.18.1" clear_id="n60003021018" n="1147">δι’</token>
+     <token id="SBL.1Pet.3.21.19.1" clear_id="n60003021019" n="1148">ἀναστάσεως</token>
+     <token id="SBL.1Pet.3.21.20.1" clear_id="n60003021020" n="1149">Ἰησοῦ</token>
+     <token id="SBL.1Pet.3.21.21.1" clear_id="n60003021021" n="1150" after=",">Χριστοῦ</token>
+     <token id="SBL.1Pet.3.22.1.1" clear_id="n60003022001" n="1151">ὅς</token>
+     <token id="SBL.1Pet.3.22.2.1" clear_id="n60003022002" n="1152">ἐστιν</token>
+     <token id="SBL.1Pet.3.22.3.1" clear_id="n60003022003" n="1153">ἐν</token>
+     <token id="SBL.1Pet.3.22.4.1" clear_id="n60003022004" n="1154">δεξιᾷ</token>
+     <token id="SBL.1Pet.3.22.5.1" clear_id="n60003022005" n="1155">θεοῦ</token>
+     <token id="SBL.1Pet.3.22.6.1" clear_id="n60003022006" n="1156">πορευθεὶς</token>
+     <token id="SBL.1Pet.3.22.7.1" clear_id="n60003022007" n="1157">εἰς</token>
+     <token id="SBL.1Pet.3.22.8.1" clear_id="n60003022008" n="1158">οὐρανὸν</token>
+     <token id="SBL.1Pet.3.22.9.1" clear_id="n60003022009" n="1159">ὑποταγέντων</token>
+     <token id="SBL.1Pet.3.22.10.1" clear_id="n60003022010" n="1160">αὐτῷ</token>
+     <token id="SBL.1Pet.3.22.11.1" clear_id="n60003022011" n="1161">ἀγγέλων</token>
+     <token id="SBL.1Pet.3.22.12.1" clear_id="n60003022012" n="1162">καὶ</token>
+     <token id="SBL.1Pet.3.22.13.1" clear_id="n60003022013" n="1163">ἐξουσιῶν</token>
+     <token id="SBL.1Pet.3.22.14.1" clear_id="n60003022014" n="1164">καὶ</token>
+     <token id="SBL.1Pet.3.22.15.1" clear_id="n60003022015" n="1165" after=".">δυνάμεων</token>
+    </move>
+   </seg>
+   <seg id="s.SBL.1Pet.4" title="Admonitions in View of the Second Coming of Christ">
+    <move id="m.SBL.1Pet.4.1-2" chStart="4" vStart="1" chEnd="4" vEnd="2">
+     <token id="SBL.1Pet.4.1.1.1" clear_id="n60004001001" n="1166">Χριστοῦ</token>
+     <token id="SBL.1Pet.4.1.2.1" clear_id="n60004001002" n="1167">οὖν</token>
+     <token id="SBL.1Pet.4.1.3.1" clear_id="n60004001003" n="1168">παθόντος</token>
+     <token id="SBL.1Pet.4.1.4.1" clear_id="n60004001004" n="1169">σαρκὶ</token>
+     <token id="SBL.1Pet.4.1.5.1" clear_id="n60004001005" n="1170">καὶ</token>
+     <token id="SBL.1Pet.4.1.6.1" clear_id="n60004001006" n="1171">ὑμεῖς</token>
+     <token id="SBL.1Pet.4.1.7.1" clear_id="n60004001007" n="1172">τὴν</token>
+     <token id="SBL.1Pet.4.1.8.1" clear_id="n60004001008" n="1173">αὐτὴν</token>
+     <token id="SBL.1Pet.4.1.9.1" clear_id="n60004001009" n="1174">ἔννοιαν</token>
+     <token id="SBL.1Pet.4.1.10.1" clear_id="n60004001010" n="1175" after=",">ὁπλίσασθε</token>
+     <token id="SBL.1Pet.4.1.11.1" clear_id="n60004001011" n="1176">ὅτι</token>
+     <token id="SBL.1Pet.4.1.12.1" clear_id="n60004001012" n="1177">ὁ</token>
+     <token id="SBL.1Pet.4.1.13.1" clear_id="n60004001013" n="1178">παθὼν</token>
+     <token id="SBL.1Pet.4.1.14.1" clear_id="n60004001014" n="1179">σαρκὶ</token>
+     <token id="SBL.1Pet.4.1.15.1" clear_id="n60004001015" n="1180">πέπαυται</token>
+     <token id="SBL.1Pet.4.1.16.1" clear_id="n60004001016" n="1181" after=",">ἁμαρτίας</token>
+     <token id="SBL.1Pet.4.2.1.1" clear_id="n60004002001" n="1182">εἰς</token>
+     <token id="SBL.1Pet.4.2.2.1" clear_id="n60004002002" n="1183">τὸ</token>
+     <token id="SBL.1Pet.4.2.3.1" clear_id="n60004002003" n="1184">μηκέτι</token>
+     <token id="SBL.1Pet.4.2.4.1" clear_id="n60004002004" n="1185">ἀνθρώπων</token>
+     <token id="SBL.1Pet.4.2.5.1" clear_id="n60004002005" n="1186">ἐπιθυμίαις</token>
+     <token id="SBL.1Pet.4.2.6.1" clear_id="n60004002006" n="1187">ἀλλὰ</token>
+     <token id="SBL.1Pet.4.2.7.1" clear_id="n60004002007" n="1188">θελήματι</token>
+     <token id="SBL.1Pet.4.2.8.1" clear_id="n60004002008" n="1189">θεοῦ</token>
+     <token id="SBL.1Pet.4.2.9.1" clear_id="n60004002009" n="1190">τὸν</token>
+     <token id="SBL.1Pet.4.2.10.1" clear_id="n60004002010" n="1191">ἐπίλοιπον</token>
+     <token id="SBL.1Pet.4.2.11.1" clear_id="n60004002011" n="1192">ἐν</token>
+     <token id="SBL.1Pet.4.2.12.1" clear_id="n60004002012" n="1193">σαρκὶ</token>
+     <token id="SBL.1Pet.4.2.13.1" clear_id="n60004002013" n="1194">βιῶσαι</token>
+     <token id="SBL.1Pet.4.2.14.1" clear_id="n60004002014" n="1195" after=".">χρόνον</token>
+    </move>
+    <move id="m.SBL.1Pet.4.3-5" chStart="4" vStart="3" chEnd="4" vEnd="5">
+     <token id="SBL.1Pet.4.3.1.1" clear_id="n60004003001" n="1196">ἀρκετὸς</token>
+     <token id="SBL.1Pet.4.3.2.1" clear_id="n60004003002" n="1197">γὰρ</token>
+     <token id="SBL.1Pet.4.3.3.1" clear_id="n60004003003" n="1198">ὁ</token>
+     <token id="SBL.1Pet.4.3.4.1" clear_id="n60004003004" n="1199">παρεληλυθὼς</token>
+     <token id="SBL.1Pet.4.3.5.1" clear_id="n60004003005" n="1200">χρόνος</token>
+     <token id="SBL.1Pet.4.3.6.1" clear_id="n60004003006" n="1201">τὸ</token>
+     <token id="SBL.1Pet.4.3.7.1" clear_id="n60004003007" n="1202">βούλημα</token>
+     <token id="SBL.1Pet.4.3.8.1" clear_id="n60004003008" n="1203">τῶν</token>
+     <token id="SBL.1Pet.4.3.9.1" clear_id="n60004003009" n="1204">ἐθνῶν</token>
+     <token id="SBL.1Pet.4.3.10.1" clear_id="n60004003010" n="1205" after=",">κατειργάσθαι</token>
+     <token id="SBL.1Pet.4.3.11.1" clear_id="n60004003011" n="1206">πεπορευμένους</token>
+     <token id="SBL.1Pet.4.3.12.1" clear_id="n60004003012" n="1207">ἐν</token>
+     <token id="SBL.1Pet.4.3.13.1" clear_id="n60004003013" n="1208" after=",">ἀσελγείαις</token>
+     <token id="SBL.1Pet.4.3.14.1" clear_id="n60004003014" n="1209" after=",">ἐπιθυμίαις</token>
+     <token id="SBL.1Pet.4.3.15.1" clear_id="n60004003015" n="1210" after=",">οἰνοφλυγίαις</token>
+     <token id="SBL.1Pet.4.3.16.1" clear_id="n60004003016" n="1211" after=",">κώμοις</token>
+     <token id="SBL.1Pet.4.3.17.1" clear_id="n60004003017" n="1212" after=",">πότοις</token>
+     <token id="SBL.1Pet.4.3.18.1" clear_id="n60004003018" n="1213">καὶ</token>
+     <token id="SBL.1Pet.4.3.19.1" clear_id="n60004003019" n="1214">ἀθεμίτοις</token>
+     <token id="SBL.1Pet.4.3.20.1" clear_id="n60004003020" n="1215" after=".">εἰδωλολατρίαις</token>
+     <token id="SBL.1Pet.4.4.1.1" clear_id="n60004004001" n="1216">ἐν</token>
+     <token id="SBL.1Pet.4.4.2.1" clear_id="n60004004002" n="1217">ᾧ</token>
+     <token id="SBL.1Pet.4.4.3.1" clear_id="n60004004003" n="1218">ξενίζονται</token>
+     <token id="SBL.1Pet.4.4.4.1" clear_id="n60004004004" n="1219">μὴ</token>
+     <token id="SBL.1Pet.4.4.5.1" clear_id="n60004004005" n="1220">συντρεχόντων</token>
+     <token id="SBL.1Pet.4.4.6.1" clear_id="n60004004006" n="1221">ὑμῶν</token>
+     <token id="SBL.1Pet.4.4.7.1" clear_id="n60004004007" n="1222">εἰς</token>
+     <token id="SBL.1Pet.4.4.8.1" clear_id="n60004004008" n="1223">τὴν</token>
+     <token id="SBL.1Pet.4.4.9.1" clear_id="n60004004009" n="1224">αὐτὴν</token>
+     <token id="SBL.1Pet.4.4.10.1" clear_id="n60004004010" n="1225">τῆς</token>
+     <token id="SBL.1Pet.4.4.11.1" clear_id="n60004004011" n="1226">ἀσωτίας</token>
+     <token id="SBL.1Pet.4.4.12.1" clear_id="n60004004012" n="1227" after=",">ἀνάχυσιν</token>
+     <token id="SBL.1Pet.4.4.13.1" clear_id="n60004004013" n="1228" after="·">βλασφημοῦντες</token>
+     <token id="SBL.1Pet.4.5.1.1" clear_id="n60004005001" n="1229">οἳ</token>
+     <token id="SBL.1Pet.4.5.2.1" clear_id="n60004005002" n="1230">ἀποδώσουσιν</token>
+     <token id="SBL.1Pet.4.5.3.1" clear_id="n60004005003" n="1231">λόγον</token>
+     <token id="SBL.1Pet.4.5.4.1" clear_id="n60004005004" n="1232">τῷ</token>
+     <token id="SBL.1Pet.4.5.5.1" clear_id="n60004005005" n="1233">ἑτοίμως</token>
+     <token id="SBL.1Pet.4.5.6.1" clear_id="n60004005006" n="1234">ἔχοντι</token>
+     <token id="SBL.1Pet.4.5.7.1" clear_id="n60004005007" n="1235">κρῖναι</token>
+     <token id="SBL.1Pet.4.5.8.1" clear_id="n60004005008" n="1236">ζῶντας</token>
+     <token id="SBL.1Pet.4.5.9.1" clear_id="n60004005009" n="1237">καὶ</token>
+     <token id="SBL.1Pet.4.5.10.1" clear_id="n60004005010" n="1238" after="·">νεκρούς</token>
+    </move>
+    <move id="m.SBL.1Pet.4.6" chStart="4" vStart="6" chEnd="4" vEnd="6">
+     <token id="SBL.1Pet.4.6.1.1" clear_id="n60004006001" n="1239">εἰς</token>
+     <token id="SBL.1Pet.4.6.2.1" clear_id="n60004006002" n="1240">τοῦτο</token>
+     <token id="SBL.1Pet.4.6.3.1" clear_id="n60004006003" n="1241">γὰρ</token>
+     <token id="SBL.1Pet.4.6.4.1" clear_id="n60004006004" n="1242">καὶ</token>
+     <token id="SBL.1Pet.4.6.5.1" clear_id="n60004006005" n="1243">νεκροῖς</token>
+     <token id="SBL.1Pet.4.6.6.1" clear_id="n60004006006" n="1244">εὐηγγελίσθη</token>
+     <token id="SBL.1Pet.4.6.7.1" clear_id="n60004006007" n="1245">ἵνα</token>
+     <token id="SBL.1Pet.4.6.8.1" clear_id="n60004006008" n="1246">κριθῶσι</token>
+     <token id="SBL.1Pet.4.6.9.1" clear_id="n60004006009" n="1247">μὲν</token>
+     <token id="SBL.1Pet.4.6.10.1" clear_id="n60004006010" n="1248">κατὰ</token>
+     <token id="SBL.1Pet.4.6.11.1" clear_id="n60004006011" n="1249">ἀνθρώπους</token>
+     <token id="SBL.1Pet.4.6.12.1" clear_id="n60004006012" n="1250">σαρκὶ</token>
+     <token id="SBL.1Pet.4.6.13.1" clear_id="n60004006013" n="1251">ζῶσι</token>
+     <token id="SBL.1Pet.4.6.14.1" clear_id="n60004006014" n="1252">δὲ</token>
+     <token id="SBL.1Pet.4.6.15.1" clear_id="n60004006015" n="1253">κατὰ</token>
+     <token id="SBL.1Pet.4.6.16.1" clear_id="n60004006016" n="1254">θεὸν</token>
+     <token id="SBL.1Pet.4.6.17.1" clear_id="n60004006017" n="1255" after=".">πνεύματι</token>
+    </move>
+    <move id="m.SBL.1Pet.4.7.1-5" chStart="4" vStart="7" chEnd="4" vEnd="7">
+     <token id="SBL.1Pet.4.7.1.1" clear_id="n60004007001" n="1256">Πάντων</token>
+     <token id="SBL.1Pet.4.7.2.1" clear_id="n60004007002" n="1257">δὲ</token>
+     <token id="SBL.1Pet.4.7.3.1" clear_id="n60004007003" n="1258">τὸ</token>
+     <token id="SBL.1Pet.4.7.4.1" clear_id="n60004007004" n="1259">τέλος</token>
+     <token id="SBL.1Pet.4.7.5.1" clear_id="n60004007005" n="1260" after=".">ἤγγικεν</token>
+    </move>
+    <move id="m.SBL.1Pet.4.7.6-11" chStart="4" vStart="7" chEnd="4" vEnd="7">
+     <token id="SBL.1Pet.4.7.6.1" clear_id="n60004007006" n="1261">σωφρονήσατε</token>
+     <token id="SBL.1Pet.4.7.7.1" clear_id="n60004007007" n="1262">οὖν</token>
+     <token id="SBL.1Pet.4.7.8.1" clear_id="n60004007008" n="1263">καὶ</token>
+     <token id="SBL.1Pet.4.7.9.1" clear_id="n60004007009" n="1264">νήψατε</token>
+     <token id="SBL.1Pet.4.7.10.1" clear_id="n60004007010" n="1265">εἰς</token>
+     <token id="SBL.1Pet.4.7.11.1" clear_id="n60004007011" n="1266" after="·">προσευχάς</token>
+    </move>
+    <move id="m.SBL.1Pet.4.8" chStart="4" vStart="8" chEnd="4" vEnd="8">
+     <token id="SBL.1Pet.4.8.1.1" clear_id="n60004008001" n="1267">πρὸ</token>
+     <token id="SBL.1Pet.4.8.2.1" clear_id="n60004008002" n="1268">πάντων</token>
+     <token id="SBL.1Pet.4.8.3.1" clear_id="n60004008003" n="1269">τὴν</token>
+     <token id="SBL.1Pet.4.8.4.1" clear_id="n60004008004" n="1270">εἰς</token>
+     <token id="SBL.1Pet.4.8.5.1" clear_id="n60004008005" n="1271">ἑαυτοὺς</token>
+     <token id="SBL.1Pet.4.8.6.1" clear_id="n60004008006" n="1272">ἀγάπην</token>
+     <token id="SBL.1Pet.4.8.7.1" clear_id="n60004008007" n="1273">ἐκτενῆ</token>
+     <token id="SBL.1Pet.4.8.8.1" clear_id="n60004008008" n="1274" after=",">ἔχοντες</token>
+     <token id="SBL.1Pet.4.8.9.1" clear_id="n60004008009" n="1275">ὅτι</token>
+     <token id="SBL.1Pet.4.8.10.1" clear_id="n60004008010" n="1276">ἀγάπη</token>
+     <token id="SBL.1Pet.4.8.11.1" clear_id="n60004008011" n="1277">καλύπτει</token>
+     <token id="SBL.1Pet.4.8.12.1" clear_id="n60004008012" n="1278">πλῆθος</token>
+     <token id="SBL.1Pet.4.8.13.1" clear_id="n60004008013" n="1279" after="·">ἁμαρτιῶν</token>
+    </move>
+    <move id="m.SBL.1Pet.4.9-9" chStart="4" vStart="9" chEnd="4" vEnd="9">
+     <token id="SBL.1Pet.4.9.1.1" clear_id="n60004009001" n="1280">φιλόξενοι</token>
+     <token id="SBL.1Pet.4.9.2.1" clear_id="n60004009002" n="1281">εἰς</token>
+     <token id="SBL.1Pet.4.9.3.1" clear_id="n60004009003" n="1282">ἀλλήλους</token>
+     <token id="SBL.1Pet.4.9.4.1" clear_id="n60004009004" n="1283">ἄνευ</token>
+     <token id="SBL.1Pet.4.9.5.1" clear_id="n60004009005" n="1284" after="·">γογγυσμοῦ</token>
+    </move>
+    <move id="m.SBL.1Pet.4.10-11" chStart="4" vStart="10" chEnd="4" vEnd="11">
+     <token id="SBL.1Pet.4.10.1.1" clear_id="n60004010001" n="1285">ἕκαστος</token>
+     <token id="SBL.1Pet.4.10.2.1" clear_id="n60004010002" n="1286">καθὼς</token>
+     <token id="SBL.1Pet.4.10.3.1" clear_id="n60004010003" n="1287">ἔλαβεν</token>
+     <token id="SBL.1Pet.4.10.4.1" clear_id="n60004010004" n="1288" after=",">χάρισμα</token>
+     <token id="SBL.1Pet.4.10.5.1" clear_id="n60004010005" n="1289">εἰς</token>
+     <token id="SBL.1Pet.4.10.6.1" clear_id="n60004010006" n="1290">ἑαυτοὺς</token>
+     <token id="SBL.1Pet.4.10.7.1" clear_id="n60004010007" n="1291">αὐτὸ</token>
+     <token id="SBL.1Pet.4.10.8.1" clear_id="n60004010008" n="1292">διακονοῦντες</token>
+     <token id="SBL.1Pet.4.10.9.1" clear_id="n60004010009" n="1293">ὡς</token>
+     <token id="SBL.1Pet.4.10.10.1" clear_id="n60004010010" n="1294">καλοὶ</token>
+     <token id="SBL.1Pet.4.10.11.1" clear_id="n60004010011" n="1295">οἰκονόμοι</token>
+     <token id="SBL.1Pet.4.10.12.1" clear_id="n60004010012" n="1296">ποικίλης</token>
+     <token id="SBL.1Pet.4.10.13.1" clear_id="n60004010013" n="1297">χάριτος</token>
+     <token id="SBL.1Pet.4.10.14.1" clear_id="n60004010014" n="1298" after="·">θεοῦ</token>
+     <token id="SBL.1Pet.4.11.1.1" clear_id="n60004011001" n="1299">εἴ</token>
+     <token id="SBL.1Pet.4.11.2.1" clear_id="n60004011002" n="1300">τις</token>
+     <token id="SBL.1Pet.4.11.3.1" clear_id="n60004011003" n="1301" after=",">λαλεῖ</token>
+     <token id="SBL.1Pet.4.11.4.1" clear_id="n60004011004" n="1302">ὡς</token>
+     <token id="SBL.1Pet.4.11.5.1" clear_id="n60004011005" n="1303">λόγια</token>
+     <token id="SBL.1Pet.4.11.6.1" clear_id="n60004011006" n="1304" after="·">θεοῦ</token>
+     <token id="SBL.1Pet.4.11.7.1" clear_id="n60004011007" n="1305">εἴ</token>
+     <token id="SBL.1Pet.4.11.8.1" clear_id="n60004011008" n="1306">τις</token>
+     <token id="SBL.1Pet.4.11.9.1" clear_id="n60004011009" n="1307" after=",">διακονεῖ</token>
+     <token id="SBL.1Pet.4.11.10.1" clear_id="n60004011010" n="1308">ὡς</token>
+     <token id="SBL.1Pet.4.11.11.1" clear_id="n60004011011" n="1309">ἐξ</token>
+     <token id="SBL.1Pet.4.11.12.1" clear_id="n60004011012" n="1310">ἰσχύος</token>
+     <token id="SBL.1Pet.4.11.13.1" clear_id="n60004011013" n="1311">ἧς</token>
+     <token id="SBL.1Pet.4.11.14.1" clear_id="n60004011014" n="1312">χορηγεῖ</token>
+     <token id="SBL.1Pet.4.11.15.1" clear_id="n60004011015" n="1313">ὁ</token>
+     <token id="SBL.1Pet.4.11.16.1" clear_id="n60004011016" n="1314" after="·">θεός</token>
+     <token id="SBL.1Pet.4.11.17.1" clear_id="n60004011017" n="1315">ἵνα</token>
+     <token id="SBL.1Pet.4.11.18.1" clear_id="n60004011018" n="1316">ἐν</token>
+     <token id="SBL.1Pet.4.11.19.1" clear_id="n60004011019" n="1317">πᾶσιν</token>
+     <token id="SBL.1Pet.4.11.20.1" clear_id="n60004011020" n="1318">δοξάζηται</token>
+     <token id="SBL.1Pet.4.11.21.1" clear_id="n60004011021" n="1319">ὁ</token>
+     <token id="SBL.1Pet.4.11.22.1" clear_id="n60004011022" n="1320">θεὸς</token>
+     <token id="SBL.1Pet.4.11.23.1" clear_id="n60004011023" n="1321">διὰ</token>
+     <token id="SBL.1Pet.4.11.24.1" clear_id="n60004011024" n="1322">Ἰησοῦ</token>
+     <token id="SBL.1Pet.4.11.25.1" clear_id="n60004011025" n="1323" after=",">Χριστοῦ</token>
+     <token id="SBL.1Pet.4.11.26.1" clear_id="n60004011026" n="1324">ᾧ</token>
+     <token id="SBL.1Pet.4.11.27.1" clear_id="n60004011027" n="1325">ἐστιν</token>
+     <token id="SBL.1Pet.4.11.28.1" clear_id="n60004011028" n="1326">ἡ</token>
+     <token id="SBL.1Pet.4.11.29.1" clear_id="n60004011029" n="1327">δόξα</token>
+     <token id="SBL.1Pet.4.11.30.1" clear_id="n60004011030" n="1328">καὶ</token>
+     <token id="SBL.1Pet.4.11.31.1" clear_id="n60004011031" n="1329">τὸ</token>
+     <token id="SBL.1Pet.4.11.32.1" clear_id="n60004011032" n="1330">κράτος</token>
+     <token id="SBL.1Pet.4.11.33.1" clear_id="n60004011033" n="1331">εἰς</token>
+     <token id="SBL.1Pet.4.11.34.1" clear_id="n60004011034" n="1332">τοὺς</token>
+     <token id="SBL.1Pet.4.11.35.1" clear_id="n60004011035" n="1333">αἰῶνας</token>
+     <token id="SBL.1Pet.4.11.36.1" clear_id="n60004011036" n="1334">τῶν</token>
+     <token id="SBL.1Pet.4.11.37.1" clear_id="n60004011037" n="1335" after="·">αἰώνων</token>
+     <token id="SBL.1Pet.4.11.38.1" clear_id="n60004011038" n="1336" after=".">ἀμήν</token>
+    </move>
+    <move id="m.SBL.1Pet.4.12-13" chStart="4" vStart="12" chEnd="4" vEnd="13">
+     <token id="SBL.1Pet.4.12.1.1" clear_id="n60004012001" n="1337" after=",">Ἀγαπητοί</token>
+     <token id="SBL.1Pet.4.12.2.1" clear_id="n60004012002" n="1338">μὴ</token>
+     <token id="SBL.1Pet.4.12.3.1" clear_id="n60004012003" n="1339">ξενίζεσθε</token>
+     <token id="SBL.1Pet.4.12.4.1" clear_id="n60004012004" n="1340">τῇ</token>
+     <token id="SBL.1Pet.4.12.5.1" clear_id="n60004012005" n="1341">ἐν</token>
+     <token id="SBL.1Pet.4.12.6.1" clear_id="n60004012006" n="1342">ὑμῖν</token>
+     <token id="SBL.1Pet.4.12.7.1" clear_id="n60004012007" n="1343">πυρώσει</token>
+     <token id="SBL.1Pet.4.12.8.1" clear_id="n60004012008" n="1344">πρὸς</token>
+     <token id="SBL.1Pet.4.12.9.1" clear_id="n60004012009" n="1345">πειρασμὸν</token>
+     <token id="SBL.1Pet.4.12.10.1" clear_id="n60004012010" n="1346">ὑμῖν</token>
+     <token id="SBL.1Pet.4.12.11.1" clear_id="n60004012011" n="1347">γινομένῃ</token>
+     <token id="SBL.1Pet.4.12.12.1" clear_id="n60004012012" n="1348">ὡς</token>
+     <token id="SBL.1Pet.4.12.13.1" clear_id="n60004012013" n="1349">ξένου</token>
+     <token id="SBL.1Pet.4.12.14.1" clear_id="n60004012014" n="1350">ὑμῖν</token>
+     <token id="SBL.1Pet.4.12.15.1" clear_id="n60004012015" n="1351" after=",">συμβαίνοντος</token>
+     <token id="SBL.1Pet.4.13.1.1" clear_id="n60004013001" n="1352">ἀλλὰ</token>
+     <token id="SBL.1Pet.4.13.2.1" clear_id="n60004013002" n="1353">καθὸ</token>
+     <token id="SBL.1Pet.4.13.3.1" clear_id="n60004013003" n="1354">κοινωνεῖτε</token>
+     <token id="SBL.1Pet.4.13.4.1" clear_id="n60004013004" n="1355">τοῖς</token>
+     <token id="SBL.1Pet.4.13.5.1" clear_id="n60004013005" n="1356">τοῦ</token>
+     <token id="SBL.1Pet.4.13.6.1" clear_id="n60004013006" n="1357">Χριστοῦ</token>
+     <token id="SBL.1Pet.4.13.7.1" clear_id="n60004013007" n="1358">παθήμασιν</token>
+     <token id="SBL.1Pet.4.13.8.1" clear_id="n60004013008" n="1359" after=",">χαίρετε</token>
+     <token id="SBL.1Pet.4.13.9.1" clear_id="n60004013009" n="1360">ἵνα</token>
+     <token id="SBL.1Pet.4.13.10.1" clear_id="n60004013010" n="1361">καὶ</token>
+     <token id="SBL.1Pet.4.13.11.1" clear_id="n60004013011" n="1362">ἐν</token>
+     <token id="SBL.1Pet.4.13.12.1" clear_id="n60004013012" n="1363">τῇ</token>
+     <token id="SBL.1Pet.4.13.13.1" clear_id="n60004013013" n="1364">ἀποκαλύψει</token>
+     <token id="SBL.1Pet.4.13.14.1" clear_id="n60004013014" n="1365">τῆς</token>
+     <token id="SBL.1Pet.4.13.15.1" clear_id="n60004013015" n="1366">δόξης</token>
+     <token id="SBL.1Pet.4.13.16.1" clear_id="n60004013016" n="1367">αὐτοῦ</token>
+     <token id="SBL.1Pet.4.13.17.1" clear_id="n60004013017" n="1368">χαρῆτε</token>
+     <token id="SBL.1Pet.4.13.18.1" clear_id="n60004013018" n="1369" after=".">ἀγαλλιώμενοι</token>
+    </move>
+    <move id="m.SBL.1Pet.4.14" chStart="4" vStart="14" chEnd="4" vEnd="14">
+     <token id="SBL.1Pet.4.14.1.1" clear_id="n60004014001" n="1370">εἰ</token>
+     <token id="SBL.1Pet.4.14.2.1" clear_id="n60004014002" n="1371">ὀνειδίζεσθε</token>
+     <token id="SBL.1Pet.4.14.3.1" clear_id="n60004014003" n="1372">ἐν</token>
+     <token id="SBL.1Pet.4.14.4.1" clear_id="n60004014004" n="1373">ὀνόματι</token>
+     <token id="SBL.1Pet.4.14.5.1" clear_id="n60004014005" n="1374" after=",">Χριστοῦ</token>
+     <token id="SBL.1Pet.4.14.6.1" clear_id="n60004014006" n="1375" after=",">μακάριοι</token>
+     <token id="SBL.1Pet.4.14.7.1" clear_id="n60004014007" n="1376">ὅτι</token>
+     <token id="SBL.1Pet.4.14.8.1" clear_id="n60004014008" n="1377">τὸ</token>
+     <token id="SBL.1Pet.4.14.9.1" clear_id="n60004014009" n="1378">τῆς</token>
+     <token id="SBL.1Pet.4.14.10.1" clear_id="n60004014010" n="1379">δόξης</token>
+     <token id="SBL.1Pet.4.14.11.1" clear_id="n60004014011" n="1380">καὶ</token>
+     <token id="SBL.1Pet.4.14.12.1" clear_id="n60004014012" n="1381">τὸ</token>
+     <token id="SBL.1Pet.4.14.13.1" clear_id="n60004014013" n="1382">τοῦ</token>
+     <token id="SBL.1Pet.4.14.14.1" clear_id="n60004014014" n="1383">θεοῦ</token>
+     <token id="SBL.1Pet.4.14.15.1" clear_id="n60004014015" n="1384">πνεῦμα</token>
+     <token id="SBL.1Pet.4.14.16.1" clear_id="n60004014016" n="1385">ἐφ’</token>
+     <token id="SBL.1Pet.4.14.17.1" clear_id="n60004014017" n="1386">ὑμᾶς</token>
+     <token id="SBL.1Pet.4.14.18.1" clear_id="n60004014018" n="1387" after=".">ἀναπαύεται</token>
+    </move>
+    <move id="m.SBL.1Pet.4.15.1-17.12" chStart="4" vStart="15" chEnd="4" vEnd="17">
+     <token id="SBL.1Pet.4.15.1.1" clear_id="n60004015001" n="1388">μὴ</token>
+     <token id="SBL.1Pet.4.15.2.1" clear_id="n60004015002" n="1389">γάρ</token>
+     <token id="SBL.1Pet.4.15.3.1" clear_id="n60004015003" n="1390">τις</token>
+     <token id="SBL.1Pet.4.15.4.1" clear_id="n60004015004" n="1391">ὑμῶν</token>
+     <token id="SBL.1Pet.4.15.5.1" clear_id="n60004015005" n="1392">πασχέτω</token>
+     <token id="SBL.1Pet.4.15.6.1" clear_id="n60004015006" n="1393">ὡς</token>
+     <token id="SBL.1Pet.4.15.7.1" clear_id="n60004015007" n="1394">φονεὺς</token>
+     <token id="SBL.1Pet.4.15.8.1" clear_id="n60004015008" n="1395">ἢ</token>
+     <token id="SBL.1Pet.4.15.9.1" clear_id="n60004015009" n="1396">κλέπτης</token>
+     <token id="SBL.1Pet.4.15.10.1" clear_id="n60004015010" n="1397">ἢ</token>
+     <token id="SBL.1Pet.4.15.11.1" clear_id="n60004015011" n="1398">κακοποιὸς</token>
+     <token id="SBL.1Pet.4.15.12.1" clear_id="n60004015012" n="1399">ἢ</token>
+     <token id="SBL.1Pet.4.15.13.1" clear_id="n60004015013" n="1400">ὡς</token>
+     <token id="SBL.1Pet.4.15.14.1" clear_id="n60004015014" n="1401" after="·">ἀλλοτριεπίσκοπος</token>
+     <token id="SBL.1Pet.4.16.1.1" clear_id="n60004016001" n="1402">εἰ</token>
+     <token id="SBL.1Pet.4.16.2.1" clear_id="n60004016002" n="1403">δὲ</token>
+     <token id="SBL.1Pet.4.16.3.1" clear_id="n60004016003" n="1404">ὡς</token>
+     <token id="SBL.1Pet.4.16.4.1" clear_id="n60004016004" n="1405" after=",">Χριστιανός</token>
+     <token id="SBL.1Pet.4.16.5.1" clear_id="n60004016005" n="1406">μὴ</token>
+     <token id="SBL.1Pet.4.16.6.1" clear_id="n60004016006" n="1407" after=",">αἰσχυνέσθω</token>
+     <token id="SBL.1Pet.4.16.7.1" clear_id="n60004016007" n="1408">δοξαζέτω</token>
+     <token id="SBL.1Pet.4.16.8.1" clear_id="n60004016008" n="1409">δὲ</token>
+     <token id="SBL.1Pet.4.16.9.1" clear_id="n60004016009" n="1410">τὸν</token>
+     <token id="SBL.1Pet.4.16.10.1" clear_id="n60004016010" n="1411">θεὸν</token>
+     <token id="SBL.1Pet.4.16.11.1" clear_id="n60004016011" n="1412">ἐν</token>
+     <token id="SBL.1Pet.4.16.12.1" clear_id="n60004016012" n="1413">τῷ</token>
+     <token id="SBL.1Pet.4.16.13.1" clear_id="n60004016013" n="1414">ὀνόματι</token>
+     <token id="SBL.1Pet.4.16.14.1" clear_id="n60004016014" n="1415" after=".">τούτῳ</token>
+     <token id="SBL.1Pet.4.17.1.1" clear_id="n60004017001" n="1416">ὅτι</token>
+     <token id="SBL.1Pet.4.17.2.1" clear_id="n60004017002" n="1417">ὁ</token>
+     <token id="SBL.1Pet.4.17.3.1" clear_id="n60004017003" n="1418">καιρὸς</token>
+     <token id="SBL.1Pet.4.17.4.1" clear_id="n60004017004" n="1419">τοῦ</token>
+     <token id="SBL.1Pet.4.17.5.1" clear_id="n60004017005" n="1420">ἄρξασθαι</token>
+     <token id="SBL.1Pet.4.17.6.1" clear_id="n60004017006" n="1421">τὸ</token>
+     <token id="SBL.1Pet.4.17.7.1" clear_id="n60004017007" n="1422">κρίμα</token>
+     <token id="SBL.1Pet.4.17.8.1" clear_id="n60004017008" n="1423">ἀπὸ</token>
+     <token id="SBL.1Pet.4.17.9.1" clear_id="n60004017009" n="1424">τοῦ</token>
+     <token id="SBL.1Pet.4.17.10.1" clear_id="n60004017010" n="1425">οἴκου</token>
+     <token id="SBL.1Pet.4.17.11.1" clear_id="n60004017011" n="1426">τοῦ</token>
+     <token id="SBL.1Pet.4.17.12.1" clear_id="n60004017012" n="1427" after="·">θεοῦ</token>
+    </move>
+    <move id="m.SBL.1Pet.4.17.13-26" chStart="4" vStart="17" chEnd="4" vEnd="17">
+     <token id="SBL.1Pet.4.17.13.1" clear_id="n60004017013" n="1428">εἰ</token>
+     <token id="SBL.1Pet.4.17.14.1" clear_id="n60004017014" n="1429">δὲ</token>
+     <token id="SBL.1Pet.4.17.15.1" clear_id="n60004017015" n="1430">πρῶτον</token>
+     <token id="SBL.1Pet.4.17.16.1" clear_id="n60004017016" n="1431">ἀφ’</token>
+     <token id="SBL.1Pet.4.17.17.1" clear_id="n60004017017" n="1432" after=",">ἡμῶν</token>
+     <token id="SBL.1Pet.4.17.18.1" clear_id="n60004017018" n="1433">τί</token>
+     <token id="SBL.1Pet.4.17.19.1" clear_id="n60004017019" n="1434">τὸ</token>
+     <token id="SBL.1Pet.4.17.20.1" clear_id="n60004017020" n="1435">τέλος</token>
+     <token id="SBL.1Pet.4.17.21.1" clear_id="n60004017021" n="1436">τῶν</token>
+     <token id="SBL.1Pet.4.17.22.1" clear_id="n60004017022" n="1437">ἀπειθούντων</token>
+     <token id="SBL.1Pet.4.17.23.1" clear_id="n60004017023" n="1438">τῷ</token>
+     <token id="SBL.1Pet.4.17.24.1" clear_id="n60004017024" n="1439">τοῦ</token>
+     <token id="SBL.1Pet.4.17.25.1" clear_id="n60004017025" n="1440">θεοῦ</token>
+     <token id="SBL.1Pet.4.17.26.1" clear_id="n60004017026" n="1441" after=";">εὐαγγελίῳ</token>
+    </move>
+    <move id="m.SBL.1Pet.4.18" chStart="4" vStart="18" chEnd="4" vEnd="18">
+     <token id="SBL.1Pet.4.18.1.1" clear_id="n60004018001" n="1442">καὶ</token>
+     <token id="SBL.1Pet.4.18.2.1" clear_id="n60004018002" n="1443">εἰ</token>
+     <token id="SBL.1Pet.4.18.3.1" clear_id="n60004018003" n="1444">ὁ</token>
+     <token id="SBL.1Pet.4.18.4.1" clear_id="n60004018004" n="1445">δίκαιος</token>
+     <token id="SBL.1Pet.4.18.5.1" clear_id="n60004018005" n="1446">μόλις</token>
+     <token id="SBL.1Pet.4.18.6.1" clear_id="n60004018006" n="1447" after=",">σῴζεται</token>
+     <token id="SBL.1Pet.4.18.7.1" clear_id="n60004018007" n="1448">ὁ</token>
+     <token id="SBL.1Pet.4.18.8.1" clear_id="n60004018008" n="1449">ἀσεβὴς</token>
+     <token id="SBL.1Pet.4.18.9.1" clear_id="n60004018009" n="1450">καὶ</token>
+     <token id="SBL.1Pet.4.18.10.1" clear_id="n60004018010" n="1451">ἁμαρτωλὸς</token>
+     <token id="SBL.1Pet.4.18.11.1" clear_id="n60004018011" n="1452">ποῦ</token>
+     <token id="SBL.1Pet.4.18.12.1" clear_id="n60004018012" n="1453" after=";">φανεῖται</token>
+    </move>
+    <move id="m.SBL.1Pet.4.19" chStart="4" vStart="19" chEnd="4" vEnd="19">
+     <token id="SBL.1Pet.4.19.1.1" clear_id="n60004019001" n="1454">ὥστε</token>
+     <token id="SBL.1Pet.4.19.2.1" clear_id="n60004019002" n="1455">καὶ</token>
+     <token id="SBL.1Pet.4.19.3.1" clear_id="n60004019003" n="1456">οἱ</token>
+     <token id="SBL.1Pet.4.19.4.1" clear_id="n60004019004" n="1457">πάσχοντες</token>
+     <token id="SBL.1Pet.4.19.5.1" clear_id="n60004019005" n="1458">κατὰ</token>
+     <token id="SBL.1Pet.4.19.6.1" clear_id="n60004019006" n="1459">τὸ</token>
+     <token id="SBL.1Pet.4.19.7.1" clear_id="n60004019007" n="1460">θέλημα</token>
+     <token id="SBL.1Pet.4.19.8.1" clear_id="n60004019008" n="1461">τοῦ</token>
+     <token id="SBL.1Pet.4.19.9.1" clear_id="n60004019009" n="1462">θεοῦ</token>
+     <token id="SBL.1Pet.4.19.10.1" clear_id="n60004019010" n="1463">πιστῷ</token>
+     <token id="SBL.1Pet.4.19.11.1" clear_id="n60004019011" n="1464">κτίστῃ</token>
+     <token id="SBL.1Pet.4.19.12.1" clear_id="n60004019012" n="1465">παρατιθέσθωσαν</token>
+     <token id="SBL.1Pet.4.19.13.1" clear_id="n60004019013" n="1466">τὰς</token>
+     <token id="SBL.1Pet.4.19.14.1" clear_id="n60004019014" n="1467">ψυχὰς</token>
+     <token id="SBL.1Pet.4.19.15.1" clear_id="n60004019015" n="1468">αὐτῶν</token>
+     <token id="SBL.1Pet.4.19.16.1" clear_id="n60004019016" n="1469">ἐν</token>
+     <token id="SBL.1Pet.4.19.17.1" clear_id="n60004019017" n="1470" after=".">ἀγαθοποιΐᾳ</token>
+    </move>
+   </seg>
+   <seg id="s.SBL.1Pet.5" title="Final Admonitions and Concluding Greetings">
+    <move id="m.SBL.1Pet.5.1" chStart="5" vStart="1" chEnd="5" vEnd="1">
+     <token id="SBL.1Pet.5.1.1.1" clear_id="n60005001001" n="1471">Πρεσβυτέρους</token>
+     <token id="SBL.1Pet.5.1.2.1" clear_id="n60005001002" n="1472">οὖν</token>
+     <token id="SBL.1Pet.5.1.3.1" clear_id="n60005001003" n="1473">ἐν</token>
+     <token id="SBL.1Pet.5.1.4.1" clear_id="n60005001004" n="1474">ὑμῖν</token>
+     <token id="SBL.1Pet.5.1.5.1" clear_id="n60005001005" n="1475">παρακαλῶ</token>
+     <token id="SBL.1Pet.5.1.6.1" clear_id="n60005001006" n="1476">ὁ</token>
+     <token id="SBL.1Pet.5.1.7.1" clear_id="n60005001007" n="1477">συμπρεσβύτερος</token>
+     <token id="SBL.1Pet.5.1.8.1" clear_id="n60005001008" n="1478">καὶ</token>
+     <token id="SBL.1Pet.5.1.9.1" clear_id="n60005001009" n="1479">μάρτυς</token>
+     <token id="SBL.1Pet.5.1.10.1" clear_id="n60005001010" n="1480">τῶν</token>
+     <token id="SBL.1Pet.5.1.11.1" clear_id="n60005001011" n="1481">τοῦ</token>
+     <token id="SBL.1Pet.5.1.12.1" clear_id="n60005001012" n="1482">Χριστοῦ</token>
+     <token id="SBL.1Pet.5.1.13.1" clear_id="n60005001013" n="1483" after=",">παθημάτων</token>
+     <token id="SBL.1Pet.5.1.14.1" clear_id="n60005001014" n="1484">ὁ</token>
+     <token id="SBL.1Pet.5.1.15.1" clear_id="n60005001015" n="1485">καὶ</token>
+     <token id="SBL.1Pet.5.1.16.1" clear_id="n60005001016" n="1486">τῆς</token>
+     <token id="SBL.1Pet.5.1.17.1" clear_id="n60005001017" n="1487">μελλούσης</token>
+     <token id="SBL.1Pet.5.1.18.1" clear_id="n60005001018" n="1488">ἀποκαλύπτεσθαι</token>
+     <token id="SBL.1Pet.5.1.19.1" clear_id="n60005001019" n="1489">δόξης</token>
+     <token id="SBL.1Pet.5.1.20.1" clear_id="n60005001020" n="1490" after=",">κοινωνός</token>
+    </move>
+    <move id="m.SBL.1Pet.5.2-3" chStart="5" vStart="2" chEnd="5" vEnd="3">
+     <token id="SBL.1Pet.5.2.1.1" clear_id="n60005002001" n="1491">ποιμάνατε</token>
+     <token id="SBL.1Pet.5.2.2.1" clear_id="n60005002002" n="1492">τὸ</token>
+     <token id="SBL.1Pet.5.2.3.1" clear_id="n60005002003" n="1493">ἐν</token>
+     <token id="SBL.1Pet.5.2.4.1" clear_id="n60005002004" n="1494">ὑμῖν</token>
+     <token id="SBL.1Pet.5.2.5.1" clear_id="n60005002005" n="1495">ποίμνιον</token>
+     <token id="SBL.1Pet.5.2.6.1" clear_id="n60005002006" n="1496">τοῦ</token>
+     <token id="SBL.1Pet.5.2.7.1" clear_id="n60005002007" n="1497" after=",">θεοῦ</token>
+     <token id="SBL.1Pet.5.2.8.1" clear_id="n60005002008" n="1498">ἐπισκοποῦντες</token>
+     <token id="SBL.1Pet.5.2.9.1" clear_id="n60005002009" n="1499">μὴ</token>
+     <token id="SBL.1Pet.5.2.10.1" clear_id="n60005002010" n="1500">ἀναγκαστῶς</token>
+     <token id="SBL.1Pet.5.2.11.1" clear_id="n60005002011" n="1501">ἀλλὰ</token>
+     <token id="SBL.1Pet.5.2.12.1" clear_id="n60005002012" n="1502">ἑκουσίως</token>
+     <token id="SBL.1Pet.5.2.13.1" clear_id="n60005002013" n="1503">κατὰ</token>
+     <token id="SBL.1Pet.5.2.14.1" clear_id="n60005002014" n="1504" after=",">θεόν</token>
+     <token id="SBL.1Pet.5.2.15.1" clear_id="n60005002015" n="1505">μηδὲ</token>
+     <token id="SBL.1Pet.5.2.16.1" clear_id="n60005002016" n="1506">αἰσχροκερδῶς</token>
+     <token id="SBL.1Pet.5.2.17.1" clear_id="n60005002017" n="1507">ἀλλὰ</token>
+     <token id="SBL.1Pet.5.2.18.1" clear_id="n60005002018" n="1508" after=",">προθύμως</token>
+     <token id="SBL.1Pet.5.3.1.1" clear_id="n60005003001" n="1509">μηδ’</token>
+     <token id="SBL.1Pet.5.3.2.1" clear_id="n60005003002" n="1510">ὡς</token>
+     <token id="SBL.1Pet.5.3.3.1" clear_id="n60005003003" n="1511">κατακυριεύοντες</token>
+     <token id="SBL.1Pet.5.3.4.1" clear_id="n60005003004" n="1512">τῶν</token>
+     <token id="SBL.1Pet.5.3.5.1" clear_id="n60005003005" n="1513">κλήρων</token>
+     <token id="SBL.1Pet.5.3.6.1" clear_id="n60005003006" n="1514">ἀλλὰ</token>
+     <token id="SBL.1Pet.5.3.7.1" clear_id="n60005003007" n="1515">τύποι</token>
+     <token id="SBL.1Pet.5.3.8.1" clear_id="n60005003008" n="1516">γινόμενοι</token>
+     <token id="SBL.1Pet.5.3.9.1" clear_id="n60005003009" n="1517">τοῦ</token>
+     <token id="SBL.1Pet.5.3.10.1" clear_id="n60005003010" n="1518" after="·">ποιμνίου</token>
+    </move>
+    <move id="m.SBL.1Pet.5.4" chStart="5" vStart="4" chEnd="5" vEnd="4">
+     <token id="SBL.1Pet.5.4.1.1" clear_id="n60005004001" n="1519">καὶ</token>
+     <token id="SBL.1Pet.5.4.2.1" clear_id="n60005004002" n="1520">φανερωθέντος</token>
+     <token id="SBL.1Pet.5.4.3.1" clear_id="n60005004003" n="1521">τοῦ</token>
+     <token id="SBL.1Pet.5.4.4.1" clear_id="n60005004004" n="1522">ἀρχιποίμενος</token>
+     <token id="SBL.1Pet.5.4.5.1" clear_id="n60005004005" n="1523">κομιεῖσθε</token>
+     <token id="SBL.1Pet.5.4.6.1" clear_id="n60005004006" n="1524">τὸν</token>
+     <token id="SBL.1Pet.5.4.7.1" clear_id="n60005004007" n="1525">ἀμαράντινον</token>
+     <token id="SBL.1Pet.5.4.8.1" clear_id="n60005004008" n="1526">τῆς</token>
+     <token id="SBL.1Pet.5.4.9.1" clear_id="n60005004009" n="1527">δόξης</token>
+     <token id="SBL.1Pet.5.4.10.1" clear_id="n60005004010" n="1528" after=".">στέφανον</token>
+    </move>
+    <move id="m.SBL.1Pet.5.5.1-4" chStart="5" vStart="5" chEnd="5" vEnd="5">
+     <token id="SBL.1Pet.5.5.1.1" clear_id="n60005005001" n="1529" after=",">ὁμοίως</token>
+     <token id="SBL.1Pet.5.5.2.1" clear_id="n60005005002" n="1530" after=",">νεώτεροι</token>
+     <token id="SBL.1Pet.5.5.3.1" clear_id="n60005005003" n="1531">ὑποτάγητε</token>
+     <token id="SBL.1Pet.5.5.4.1" clear_id="n60005005004" n="1532" after=".">πρεσβυτέροις</token>
+    </move>
+    <move id="m.SBL.1Pet.5.5.5-19" chStart="5" vStart="5" chEnd="5" vEnd="5">
+     <token id="SBL.1Pet.5.5.5.1" clear_id="n60005005005" n="1533">πάντες</token>
+     <token id="SBL.1Pet.5.5.6.1" clear_id="n60005005006" n="1534">δὲ</token>
+     <token id="SBL.1Pet.5.5.7.1" clear_id="n60005005007" n="1535">ἀλλήλοις</token>
+     <token id="SBL.1Pet.5.5.8.1" clear_id="n60005005008" n="1536">τὴν</token>
+     <token id="SBL.1Pet.5.5.9.1" clear_id="n60005005009" n="1537">ταπεινοφροσύνην</token>
+     <token id="SBL.1Pet.5.5.10.1" clear_id="n60005005010" n="1538" after=",">ἐγκομβώσασθε</token>
+     <token id="SBL.1Pet.5.5.11.1" clear_id="n60005005011" n="1539">ὅτι</token>
+     <token id="SBL.1Pet.5.5.12.1" clear_id="n60005005012" n="1540">Ὁ</token>
+     <token id="SBL.1Pet.5.5.13.1" clear_id="n60005005013" n="1541">θεὸς</token>
+     <token id="SBL.1Pet.5.5.14.1" clear_id="n60005005014" n="1542">ὑπερηφάνοις</token>
+     <token id="SBL.1Pet.5.5.15.1" clear_id="n60005005015" n="1543">ἀντιτάσσεται</token>
+     <token id="SBL.1Pet.5.5.16.1" clear_id="n60005005016" n="1544">ταπεινοῖς</token>
+     <token id="SBL.1Pet.5.5.17.1" clear_id="n60005005017" n="1545">δὲ</token>
+     <token id="SBL.1Pet.5.5.18.1" clear_id="n60005005018" n="1546">δίδωσιν</token>
+     <token id="SBL.1Pet.5.5.19.1" clear_id="n60005005019" n="1547" after=".">χάριν</token>
+    </move>
+    <move id="m.SBL.1Pet.5.6-7" chStart="5" vStart="6" chEnd="5" vEnd="7">
+     <token id="SBL.1Pet.5.6.1.1" clear_id="n60005006001" n="1548">Ταπεινώθητε</token>
+     <token id="SBL.1Pet.5.6.2.1" clear_id="n60005006002" n="1549">οὖν</token>
+     <token id="SBL.1Pet.5.6.3.1" clear_id="n60005006003" n="1550">ὑπὸ</token>
+     <token id="SBL.1Pet.5.6.4.1" clear_id="n60005006004" n="1551">τὴν</token>
+     <token id="SBL.1Pet.5.6.5.1" clear_id="n60005006005" n="1552">κραταιὰν</token>
+     <token id="SBL.1Pet.5.6.6.1" clear_id="n60005006006" n="1553">χεῖρα</token>
+     <token id="SBL.1Pet.5.6.7.1" clear_id="n60005006007" n="1554">τοῦ</token>
+     <token id="SBL.1Pet.5.6.8.1" clear_id="n60005006008" n="1555" after=",">θεοῦ</token>
+     <token id="SBL.1Pet.5.6.9.1" clear_id="n60005006009" n="1556">ἵνα</token>
+     <token id="SBL.1Pet.5.6.10.1" clear_id="n60005006010" n="1557">ὑμᾶς</token>
+     <token id="SBL.1Pet.5.6.11.1" clear_id="n60005006011" n="1558">ὑψώσῃ</token>
+     <token id="SBL.1Pet.5.6.12.1" clear_id="n60005006012" n="1559">ἐν</token>
+     <token id="SBL.1Pet.5.6.13.1" clear_id="n60005006013" n="1560" after=",">καιρῷ</token>
+     <token id="SBL.1Pet.5.7.1.1" clear_id="n60005007001" n="1561">πᾶσαν</token>
+     <token id="SBL.1Pet.5.7.2.1" clear_id="n60005007002" n="1562">τὴν</token>
+     <token id="SBL.1Pet.5.7.3.1" clear_id="n60005007003" n="1563">μέριμναν</token>
+     <token id="SBL.1Pet.5.7.4.1" clear_id="n60005007004" n="1564">ὑμῶν</token>
+     <token id="SBL.1Pet.5.7.5.1" clear_id="n60005007005" n="1565">ἐπιρίψαντες</token>
+     <token id="SBL.1Pet.5.7.6.1" clear_id="n60005007006" n="1566">ἐπ’</token>
+     <token id="SBL.1Pet.5.7.7.1" clear_id="n60005007007" n="1567" after=",">αὐτόν</token>
+     <token id="SBL.1Pet.5.7.8.1" clear_id="n60005007008" n="1568">ὅτι</token>
+     <token id="SBL.1Pet.5.7.9.1" clear_id="n60005007009" n="1569">αὐτῷ</token>
+     <token id="SBL.1Pet.5.7.10.1" clear_id="n60005007010" n="1570">μέλει</token>
+     <token id="SBL.1Pet.5.7.11.1" clear_id="n60005007011" n="1571">περὶ</token>
+     <token id="SBL.1Pet.5.7.12.1" clear_id="n60005007012" n="1572" after=".">ὑμῶν</token>
+    </move>
+    <move id="m.SBL.1Pet.5.8.1-2" chStart="5" vStart="8" chEnd="5" vEnd="8">
+     <token id="SBL.1Pet.5.8.1.1" clear_id="n60005008001" n="1573" after=",">νήψατε</token>
+     <token id="SBL.1Pet.5.8.2.1" clear_id="n60005008002" n="1574" after=".">γρηγορήσατε</token>
+    </move>
+    <move id="m.SBL.1Pet.5.8.3-9.17" chStart="5" vStart="8" chEnd="5" vEnd="9">
+     <token id="SBL.1Pet.5.8.3.1" clear_id="n60005008003" n="1575">ὁ</token>
+     <token id="SBL.1Pet.5.8.4.1" clear_id="n60005008004" n="1576">ἀντίδικος</token>
+     <token id="SBL.1Pet.5.8.5.1" clear_id="n60005008005" n="1577">ὑμῶν</token>
+     <token id="SBL.1Pet.5.8.6.1" clear_id="n60005008006" n="1578">διάβολος</token>
+     <token id="SBL.1Pet.5.8.7.1" clear_id="n60005008007" n="1579">ὡς</token>
+     <token id="SBL.1Pet.5.8.8.1" clear_id="n60005008008" n="1580">λέων</token>
+     <token id="SBL.1Pet.5.8.9.1" clear_id="n60005008009" n="1581">ὠρυόμενος</token>
+     <token id="SBL.1Pet.5.8.10.1" clear_id="n60005008010" n="1582">περιπατεῖ</token>
+     <token id="SBL.1Pet.5.8.11.1" clear_id="n60005008011" n="1583">ζητῶν</token>
+     <token id="SBL.1Pet.5.8.12.1" clear_id="n60005008012" n="1584">τινα</token>
+     <token id="SBL.1Pet.5.8.13.1" clear_id="n60005008013" n="1585" after="·">καταπιεῖν</token>
+     <token id="SBL.1Pet.5.9.1.1" clear_id="n60005009001" n="1586">ᾧ</token>
+     <token id="SBL.1Pet.5.9.2.1" clear_id="n60005009002" n="1587">ἀντίστητε</token>
+     <token id="SBL.1Pet.5.9.3.1" clear_id="n60005009003" n="1588">στερεοὶ</token>
+     <token id="SBL.1Pet.5.9.4.1" clear_id="n60005009004" n="1589">τῇ</token>
+     <token id="SBL.1Pet.5.9.5.1" clear_id="n60005009005" n="1590" after=",">πίστει</token>
+     <token id="SBL.1Pet.5.9.6.1" clear_id="n60005009006" n="1591">εἰδότες</token>
+     <token id="SBL.1Pet.5.9.7.1" clear_id="n60005009007" n="1592">τὰ</token>
+     <token id="SBL.1Pet.5.9.8.1" clear_id="n60005009008" n="1593">αὐτὰ</token>
+     <token id="SBL.1Pet.5.9.9.1" clear_id="n60005009009" n="1594">τῶν</token>
+     <token id="SBL.1Pet.5.9.10.1" clear_id="n60005009010" n="1595">παθημάτων</token>
+     <token id="SBL.1Pet.5.9.11.1" clear_id="n60005009011" n="1596">τῇ</token>
+     <token id="SBL.1Pet.5.9.12.1" clear_id="n60005009012" n="1597">ἐν</token>
+     <token id="SBL.1Pet.5.9.13.1" clear_id="n60005009013" n="1598">τῷ</token>
+     <token id="SBL.1Pet.5.9.14.1" clear_id="n60005009014" n="1599">κόσμῳ</token>
+     <token id="SBL.1Pet.5.9.15.1" clear_id="n60005009015" n="1600">ὑμῶν</token>
+     <token id="SBL.1Pet.5.9.16.1" clear_id="n60005009016" n="1601">ἀδελφότητι</token>
+     <token id="SBL.1Pet.5.9.17.1" clear_id="n60005009017" n="1602" after=".">ἐπιτελεῖσθαι</token>
+    </move>
+    <move id="m.SBL.1Pet.5.10" chStart="5" vStart="10" chEnd="5" vEnd="10">
+     <token id="SBL.1Pet.5.10.1.1" clear_id="n60005010001" n="1603">ὁ</token>
+     <token id="SBL.1Pet.5.10.2.1" clear_id="n60005010002" n="1604">δὲ</token>
+     <token id="SBL.1Pet.5.10.3.1" clear_id="n60005010003" n="1605">θεὸς</token>
+     <token id="SBL.1Pet.5.10.4.1" clear_id="n60005010004" n="1606">πάσης</token>
+     <token id="SBL.1Pet.5.10.5.1" clear_id="n60005010005" n="1607" after=",">χάριτος</token>
+     <token id="SBL.1Pet.5.10.6.1" clear_id="n60005010006" n="1608">ὁ</token>
+     <token id="SBL.1Pet.5.10.7.1" clear_id="n60005010007" n="1609">καλέσας</token>
+     <token id="SBL.1Pet.5.10.8.1" clear_id="n60005010008" n="1610">ὑμᾶς</token>
+     <token id="SBL.1Pet.5.10.9.1" clear_id="n60005010009" n="1611">εἰς</token>
+     <token id="SBL.1Pet.5.10.10.1" clear_id="n60005010010" n="1612">τὴν</token>
+     <token id="SBL.1Pet.5.10.11.1" clear_id="n60005010011" n="1613">αἰώνιον</token>
+     <token id="SBL.1Pet.5.10.12.1" clear_id="n60005010012" n="1614">αὐτοῦ</token>
+     <token id="SBL.1Pet.5.10.13.1" clear_id="n60005010013" n="1615">δόξαν</token>
+     <token id="SBL.1Pet.5.10.14.1" clear_id="n60005010014" n="1616">ἐν</token>
+     <token id="SBL.1Pet.5.10.15.1" clear_id="n60005010015" n="1617" after=",">Χριστῷ</token>
+     <token id="SBL.1Pet.5.10.16.1" clear_id="n60005010016" n="1618">ὀλίγον</token>
+     <token id="SBL.1Pet.5.10.17.1" clear_id="n60005010017" n="1619">παθόντας</token>
+     <token id="SBL.1Pet.5.10.18.1" clear_id="n60005010018" n="1620">αὐτὸς</token>
+     <token id="SBL.1Pet.5.10.19.1" clear_id="n60005010019" n="1621" after=",">καταρτίσει</token>
+     <token id="SBL.1Pet.5.10.20.1" clear_id="n60005010020" n="1622" after=",">στηρίξει</token>
+     <token id="SBL.1Pet.5.10.21.1" clear_id="n60005010021" n="1623" after=",">σθενώσει</token>
+     <token id="SBL.1Pet.5.10.22.1" clear_id="n60005010022" n="1624" after=".">θεμελιώσει</token>
+    </move>
+    <move id="m.SBL.1Pet.5.11" chStart="5" vStart="11" chEnd="5" vEnd="11">
+     <token id="SBL.1Pet.5.11.1.1" clear_id="n60005011001" n="1625">αὐτῷ</token>
+     <token id="SBL.1Pet.5.11.2.1" clear_id="n60005011002" n="1626">τὸ</token>
+     <token id="SBL.1Pet.5.11.3.1" clear_id="n60005011003" n="1627">κράτος</token>
+     <token id="SBL.1Pet.5.11.4.1" clear_id="n60005011004" n="1628">εἰς</token>
+     <token id="SBL.1Pet.5.11.5.1" clear_id="n60005011005" n="1629">τοὺς</token>
+     <token id="SBL.1Pet.5.11.6.1" clear_id="n60005011006" n="1630">αἰῶνας</token>
+     <token id="SBL.1Pet.5.11.7.1" clear_id="n60005011007" n="1631">τῶν</token>
+     <token id="SBL.1Pet.5.11.8.1" clear_id="n60005011008" n="1632" after="·">αἰώνων</token>
+     <token id="SBL.1Pet.5.11.9.1" clear_id="n60005011009" n="1633" after=".">ἀμήν</token>
+    </move>
+    <move id="m.SBL.1Pet.5.12" chStart="5" vStart="12" chEnd="5" vEnd="12">
+     <token id="SBL.1Pet.5.12.1.1" clear_id="n60005012001" n="1634">Διὰ</token>
+     <token id="SBL.1Pet.5.12.2.1" clear_id="n60005012002" n="1635">Σιλουανοῦ</token>
+     <token id="SBL.1Pet.5.12.3.1" clear_id="n60005012003" n="1636">ὑμῖν</token>
+     <token id="SBL.1Pet.5.12.4.1" clear_id="n60005012004" n="1637">τοῦ</token>
+     <token id="SBL.1Pet.5.12.5.1" clear_id="n60005012005" n="1638">πιστοῦ</token>
+     <token id="SBL.1Pet.5.12.6.1" clear_id="n60005012006" n="1639" after=",">ἀδελφοῦ</token>
+     <token id="SBL.1Pet.5.12.7.1" clear_id="n60005012007" n="1640">ὡς</token>
+     <token id="SBL.1Pet.5.12.8.1" clear_id="n60005012008" n="1641" after=",">λογίζομαι</token>
+     <token id="SBL.1Pet.5.12.9.1" clear_id="n60005012009" n="1642">δι’</token>
+     <token id="SBL.1Pet.5.12.10.1" clear_id="n60005012010" n="1643">ὀλίγων</token>
+     <token id="SBL.1Pet.5.12.11.1" clear_id="n60005012011" n="1644" after=",">ἔγραψα</token>
+     <token id="SBL.1Pet.5.12.12.1" clear_id="n60005012012" n="1645">παρακαλῶν</token>
+     <token id="SBL.1Pet.5.12.13.1" clear_id="n60005012013" n="1646">καὶ</token>
+     <token id="SBL.1Pet.5.12.14.1" clear_id="n60005012014" n="1647">ἐπιμαρτυρῶν</token>
+     <token id="SBL.1Pet.5.12.15.1" clear_id="n60005012015" n="1648">ταύτην</token>
+     <token id="SBL.1Pet.5.12.16.1" clear_id="n60005012016" n="1649">εἶναι</token>
+     <token id="SBL.1Pet.5.12.17.1" clear_id="n60005012017" n="1650">ἀληθῆ</token>
+     <token id="SBL.1Pet.5.12.18.1" clear_id="n60005012018" n="1651">χάριν</token>
+     <token id="SBL.1Pet.5.12.19.1" clear_id="n60005012019" n="1652">τοῦ</token>
+     <token id="SBL.1Pet.5.12.20.1" clear_id="n60005012020" n="1653" after="·">θεοῦ</token>
+     <token id="SBL.1Pet.5.12.21.1" clear_id="n60005012021" n="1654">εἰς</token>
+     <token id="SBL.1Pet.5.12.22.1" clear_id="n60005012022" n="1655">ἣν</token>
+     <token id="SBL.1Pet.5.12.23.1" clear_id="n60005012023" n="1656" after=".">στῆτε</token>
+    </move>
+    <move id="m.SBL.1Pet.5.13" chStart="5" vStart="13" chEnd="5" vEnd="13">
+     <token id="SBL.1Pet.5.13.1.1" clear_id="n60005013001" n="1657">ἀσπάζεται</token>
+     <token id="SBL.1Pet.5.13.2.1" clear_id="n60005013002" n="1658">ὑμᾶς</token>
+     <token id="SBL.1Pet.5.13.3.1" clear_id="n60005013003" n="1659">ἡ</token>
+     <token id="SBL.1Pet.5.13.4.1" clear_id="n60005013004" n="1660">ἐν</token>
+     <token id="SBL.1Pet.5.13.5.1" clear_id="n60005013005" n="1661">Βαβυλῶνι</token>
+     <token id="SBL.1Pet.5.13.6.1" clear_id="n60005013006" n="1662">συνεκλεκτὴ</token>
+     <token id="SBL.1Pet.5.13.7.1" clear_id="n60005013007" n="1663">καὶ</token>
+     <token id="SBL.1Pet.5.13.8.1" clear_id="n60005013008" n="1664">Μᾶρκος</token>
+     <token id="SBL.1Pet.5.13.9.1" clear_id="n60005013009" n="1665">ὁ</token>
+     <token id="SBL.1Pet.5.13.10.1" clear_id="n60005013010" n="1666">υἱός</token>
+     <token id="SBL.1Pet.5.13.11.1" clear_id="n60005013011" n="1667" after=".">μου</token>
+    </move>
+    <move id="m.SBL.1Pet.5.14.1-5" chStart="5" vStart="14" chEnd="5" vEnd="14">
+     <token id="SBL.1Pet.5.14.1.1" clear_id="n60005014001" n="1668">ἀσπάσασθε</token>
+     <token id="SBL.1Pet.5.14.2.1" clear_id="n60005014002" n="1669">ἀλλήλους</token>
+     <token id="SBL.1Pet.5.14.3.1" clear_id="n60005014003" n="1670">ἐν</token>
+     <token id="SBL.1Pet.5.14.4.1" clear_id="n60005014004" n="1671">φιλήματι</token>
+     <token id="SBL.1Pet.5.14.5.1" clear_id="n60005014005" n="1672" after=".">ἀγάπης</token>
+    </move>
+    <move id="m.SBL.1Pet.5.14.6-11" chStart="5" vStart="14" chEnd="5" vEnd="14">
+     <token id="SBL.1Pet.5.14.6.1" clear_id="n60005014006" n="1673">εἰρήνη</token>
+     <token id="SBL.1Pet.5.14.7.1" clear_id="n60005014007" n="1674">ὑμῖν</token>
+     <token id="SBL.1Pet.5.14.8.1" clear_id="n60005014008" n="1675">πᾶσιν</token>
+     <token id="SBL.1Pet.5.14.9.1" clear_id="n60005014009" n="1676">τοῖς</token>
+     <token id="SBL.1Pet.5.14.10.1" clear_id="n60005014010" n="1677">ἐν</token>
+     <token id="SBL.1Pet.5.14.11.1" clear_id="n60005014011" n="1678" after=".">Χριστῷ</token>
+    </move>
+   </seg>
+  </turn>
+ </text>
+</OpenText>
