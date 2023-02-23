@@ -32,757 +32,757 @@
   <turn depth="1" id="t.SBL.Titus" chStart="1" vStart="1" chEnd="3" vEnd="15">
    <seg id="s.SBL.Titus.1.1-4" title="Address and Opening Salutation">
     <move id="m.SBL.Titus.1.1.1-4.6" chStart="1" vStart="1" chEnd="1" vEnd="4">
-     <token id="SBL.Titus.1.1.1.1" clear_id="n56001001001" n="1">Παῦλος</token>
-     <token id="SBL.Titus.1.1.2.1" clear_id="n56001001002" n="2">δοῦλος</token>
-     <token id="SBL.Titus.1.1.3.1" clear_id="n56001001003" n="3" after=",">θεοῦ</token>
-     <token id="SBL.Titus.1.1.4.1" clear_id="n56001001004" n="4">ἀπόστολος</token>
-     <token id="SBL.Titus.1.1.5.1" clear_id="n56001001005" n="5">δὲ</token>
-     <token id="SBL.Titus.1.1.6.1" clear_id="n56001001006" n="6">Ἰησοῦ</token>
-     <token id="SBL.Titus.1.1.7.1" clear_id="n56001001007" n="7">Χριστοῦ</token>
-     <token id="SBL.Titus.1.1.8.1" clear_id="n56001001008" n="8">κατὰ</token>
-     <token id="SBL.Titus.1.1.9.1" clear_id="n56001001009" n="9">πίστιν</token>
-     <token id="SBL.Titus.1.1.10.1" clear_id="n56001001010" n="10">ἐκλεκτῶν</token>
-     <token id="SBL.Titus.1.1.11.1" clear_id="n56001001011" n="11">θεοῦ</token>
-     <token id="SBL.Titus.1.1.12.1" clear_id="n56001001012" n="12">καὶ</token>
-     <token id="SBL.Titus.1.1.13.1" clear_id="n56001001013" n="13">ἐπίγνωσιν</token>
-     <token id="SBL.Titus.1.1.14.1" clear_id="n56001001014" n="14">ἀληθείας</token>
-     <token id="SBL.Titus.1.1.15.1" clear_id="n56001001015" n="15">τῆς</token>
-     <token id="SBL.Titus.1.1.16.1" clear_id="n56001001016" n="16">κατ’</token>
-     <token id="SBL.Titus.1.1.17.1" clear_id="n56001001017" n="17">εὐσέβειαν</token>
-     <token id="SBL.Titus.1.2.1.1" clear_id="n56001002001" n="18">ἐπ’</token>
-     <token id="SBL.Titus.1.2.2.1" clear_id="n56001002002" n="19">ἐλπίδι</token>
-     <token id="SBL.Titus.1.2.3.1" clear_id="n56001002003" n="20">ζωῆς</token>
-     <token id="SBL.Titus.1.2.4.1" clear_id="n56001002004" n="21" after=",">αἰωνίου</token>
-     <token id="SBL.Titus.1.2.5.1" clear_id="n56001002005" n="22">ἣν</token>
-     <token id="SBL.Titus.1.2.6.1" clear_id="n56001002006" n="23">ἐπηγγείλατο</token>
-     <token id="SBL.Titus.1.2.7.1" clear_id="n56001002007" n="24">ὁ</token>
-     <token id="SBL.Titus.1.2.8.1" clear_id="n56001002008" n="25">ἀψευδὴς</token>
-     <token id="SBL.Titus.1.2.9.1" clear_id="n56001002009" n="26">θεὸς</token>
-     <token id="SBL.Titus.1.2.10.1" clear_id="n56001002010" n="27">πρὸ</token>
-     <token id="SBL.Titus.1.2.11.1" clear_id="n56001002011" n="28">χρόνων</token>
-     <token id="SBL.Titus.1.2.12.1" clear_id="n56001002012" n="29">αἰωνίων</token>
-     <token id="SBL.Titus.1.3.1.1" clear_id="n56001003001" n="30">ἐφανέρωσεν</token>
-     <token id="SBL.Titus.1.3.2.1" clear_id="n56001003002" n="31">δὲ</token>
-     <token id="SBL.Titus.1.3.3.1" clear_id="n56001003003" n="32">καιροῖς</token>
-     <token id="SBL.Titus.1.3.4.1" clear_id="n56001003004" n="33" after=",">ἰδίοις</token>
-     <token id="SBL.Titus.1.3.5.1" clear_id="n56001003005" n="34">τὸν</token>
-     <token id="SBL.Titus.1.3.6.1" clear_id="n56001003006" n="35">λόγον</token>
-     <token id="SBL.Titus.1.3.7.1" clear_id="n56001003007" n="36">αὐτοῦ</token>
-     <token id="SBL.Titus.1.3.8.1" clear_id="n56001003008" n="37">ἐν</token>
-     <token id="SBL.Titus.1.3.9.1" clear_id="n56001003009" n="38">κηρύγματι</token>
-     <token id="SBL.Titus.1.3.10.1" clear_id="n56001003010" n="39">ὃ</token>
-     <token id="SBL.Titus.1.3.11.1" clear_id="n56001003011" n="40">ἐπιστεύθην</token>
-     <token id="SBL.Titus.1.3.12.1" clear_id="n56001003012" n="41">ἐγὼ</token>
-     <token id="SBL.Titus.1.3.13.1" clear_id="n56001003013" n="42">κατ’</token>
-     <token id="SBL.Titus.1.3.14.1" clear_id="n56001003014" n="43">ἐπιταγὴν</token>
-     <token id="SBL.Titus.1.3.15.1" clear_id="n56001003015" n="44">τοῦ</token>
-     <token id="SBL.Titus.1.3.16.1" clear_id="n56001003016" n="45">σωτῆρος</token>
-     <token id="SBL.Titus.1.3.17.1" clear_id="n56001003017" n="46">ἡμῶν</token>
-     <token id="SBL.Titus.1.3.18.1" clear_id="n56001003018" n="47" after=",">θεοῦ</token>
-     <token id="SBL.Titus.1.4.1.1" clear_id="n56001004001" n="48">Τίτῳ</token>
-     <token id="SBL.Titus.1.4.2.1" clear_id="n56001004002" n="49">γνησίῳ</token>
-     <token id="SBL.Titus.1.4.3.1" clear_id="n56001004003" n="50">τέκνῳ</token>
-     <token id="SBL.Titus.1.4.4.1" clear_id="n56001004004" n="51">κατὰ</token>
-     <token id="SBL.Titus.1.4.5.1" clear_id="n56001004005" n="52">κοινὴν</token>
-     <token id="SBL.Titus.1.4.6.1" clear_id="n56001004006" n="53" after="·">πίστιν</token>
+     <token clearId="n56001001001" id="SBL.Titus.1.1.1.1">Παῦλος</token>
+     <token clearId="n56001001002" id="SBL.Titus.1.1.2.1">δοῦλος</token>
+     <token clearId="n56001001003" id="SBL.Titus.1.1.3.1" after=",">θεοῦ</token>
+     <token clearId="n56001001004" id="SBL.Titus.1.1.4.1">ἀπόστολος</token>
+     <token clearId="n56001001005" id="SBL.Titus.1.1.5.1">δὲ</token>
+     <token clearId="n56001001006" id="SBL.Titus.1.1.6.1">Ἰησοῦ</token>
+     <token clearId="n56001001007" id="SBL.Titus.1.1.7.1">Χριστοῦ</token>
+     <token clearId="n56001001008" id="SBL.Titus.1.1.8.1">κατὰ</token>
+     <token clearId="n56001001009" id="SBL.Titus.1.1.9.1">πίστιν</token>
+     <token clearId="n56001001010" id="SBL.Titus.1.1.10.1">ἐκλεκτῶν</token>
+     <token clearId="n56001001011" id="SBL.Titus.1.1.11.1">θεοῦ</token>
+     <token clearId="n56001001012" id="SBL.Titus.1.1.12.1">καὶ</token>
+     <token clearId="n56001001013" id="SBL.Titus.1.1.13.1">ἐπίγνωσιν</token>
+     <token clearId="n56001001014" id="SBL.Titus.1.1.14.1">ἀληθείας</token>
+     <token clearId="n56001001015" id="SBL.Titus.1.1.15.1">τῆς</token>
+     <token clearId="n56001001016" id="SBL.Titus.1.1.16.1">κατ’</token>
+     <token clearId="n56001001017" id="SBL.Titus.1.1.17.1">εὐσέβειαν</token>
+     <token clearId="n56001002001" id="SBL.Titus.1.2.1.1">ἐπ’</token>
+     <token clearId="n56001002002" id="SBL.Titus.1.2.2.1">ἐλπίδι</token>
+     <token clearId="n56001002003" id="SBL.Titus.1.2.3.1">ζωῆς</token>
+     <token clearId="n56001002004" id="SBL.Titus.1.2.4.1" after=",">αἰωνίου</token>
+     <token clearId="n56001002005" id="SBL.Titus.1.2.5.1">ἣν</token>
+     <token clearId="n56001002006" id="SBL.Titus.1.2.6.1">ἐπηγγείλατο</token>
+     <token clearId="n56001002007" id="SBL.Titus.1.2.7.1">ὁ</token>
+     <token clearId="n56001002008" id="SBL.Titus.1.2.8.1">ἀψευδὴς</token>
+     <token clearId="n56001002009" id="SBL.Titus.1.2.9.1">θεὸς</token>
+     <token clearId="n56001002010" id="SBL.Titus.1.2.10.1">πρὸ</token>
+     <token clearId="n56001002011" id="SBL.Titus.1.2.11.1">χρόνων</token>
+     <token clearId="n56001002012" id="SBL.Titus.1.2.12.1">αἰωνίων</token>
+     <token clearId="n56001003001" id="SBL.Titus.1.3.1.1">ἐφανέρωσεν</token>
+     <token clearId="n56001003002" id="SBL.Titus.1.3.2.1">δὲ</token>
+     <token clearId="n56001003003" id="SBL.Titus.1.3.3.1">καιροῖς</token>
+     <token clearId="n56001003004" id="SBL.Titus.1.3.4.1" after=",">ἰδίοις</token>
+     <token clearId="n56001003005" id="SBL.Titus.1.3.5.1">τὸν</token>
+     <token clearId="n56001003006" id="SBL.Titus.1.3.6.1">λόγον</token>
+     <token clearId="n56001003007" id="SBL.Titus.1.3.7.1">αὐτοῦ</token>
+     <token clearId="n56001003008" id="SBL.Titus.1.3.8.1">ἐν</token>
+     <token clearId="n56001003009" id="SBL.Titus.1.3.9.1">κηρύγματι</token>
+     <token clearId="n56001003010" id="SBL.Titus.1.3.10.1">ὃ</token>
+     <token clearId="n56001003011" id="SBL.Titus.1.3.11.1">ἐπιστεύθην</token>
+     <token clearId="n56001003012" id="SBL.Titus.1.3.12.1">ἐγὼ</token>
+     <token clearId="n56001003013" id="SBL.Titus.1.3.13.1">κατ’</token>
+     <token clearId="n56001003014" id="SBL.Titus.1.3.14.1">ἐπιταγὴν</token>
+     <token clearId="n56001003015" id="SBL.Titus.1.3.15.1">τοῦ</token>
+     <token clearId="n56001003016" id="SBL.Titus.1.3.16.1">σωτῆρος</token>
+     <token clearId="n56001003017" id="SBL.Titus.1.3.17.1">ἡμῶν</token>
+     <token clearId="n56001003018" id="SBL.Titus.1.3.18.1" after=",">θεοῦ</token>
+     <token clearId="n56001004001" id="SBL.Titus.1.4.1.1">Τίτῳ</token>
+     <token clearId="n56001004002" id="SBL.Titus.1.4.2.1">γνησίῳ</token>
+     <token clearId="n56001004003" id="SBL.Titus.1.4.3.1">τέκνῳ</token>
+     <token clearId="n56001004004" id="SBL.Titus.1.4.4.1">κατὰ</token>
+     <token clearId="n56001004005" id="SBL.Titus.1.4.5.1">κοινὴν</token>
+     <token clearId="n56001004006" id="SBL.Titus.1.4.6.1" after="·">πίστιν</token>
     </move>
     <move id="m.SBL.Titus.1.4.7-18" chStart="1" vStart="4" chEnd="1" vEnd="4">
-     <token id="SBL.Titus.1.4.7.1" clear_id="n56001004007" n="54">χάρις</token>
-     <token id="SBL.Titus.1.4.8.1" clear_id="n56001004008" n="55">καὶ</token>
-     <token id="SBL.Titus.1.4.9.1" clear_id="n56001004009" n="56">εἰρήνη</token>
-     <token id="SBL.Titus.1.4.10.1" clear_id="n56001004010" n="57">ἀπὸ</token>
-     <token id="SBL.Titus.1.4.11.1" clear_id="n56001004011" n="58">θεοῦ</token>
-     <token id="SBL.Titus.1.4.12.1" clear_id="n56001004012" n="59">πατρὸς</token>
-     <token id="SBL.Titus.1.4.13.1" clear_id="n56001004013" n="60">καὶ</token>
-     <token id="SBL.Titus.1.4.14.1" clear_id="n56001004014" n="61">Χριστοῦ</token>
-     <token id="SBL.Titus.1.4.15.1" clear_id="n56001004015" n="62">Ἰησοῦ</token>
-     <token id="SBL.Titus.1.4.16.1" clear_id="n56001004016" n="63">τοῦ</token>
-     <token id="SBL.Titus.1.4.17.1" clear_id="n56001004017" n="64">σωτῆρος</token>
-     <token id="SBL.Titus.1.4.18.1" clear_id="n56001004018" n="65" after=".">ἡμῶν</token>
+     <token clearId="n56001004007" id="SBL.Titus.1.4.7.1">χάρις</token>
+     <token clearId="n56001004008" id="SBL.Titus.1.4.8.1">καὶ</token>
+     <token clearId="n56001004009" id="SBL.Titus.1.4.9.1">εἰρήνη</token>
+     <token clearId="n56001004010" id="SBL.Titus.1.4.10.1">ἀπὸ</token>
+     <token clearId="n56001004011" id="SBL.Titus.1.4.11.1">θεοῦ</token>
+     <token clearId="n56001004012" id="SBL.Titus.1.4.12.1">πατρὸς</token>
+     <token clearId="n56001004013" id="SBL.Titus.1.4.13.1">καὶ</token>
+     <token clearId="n56001004014" id="SBL.Titus.1.4.14.1">Χριστοῦ</token>
+     <token clearId="n56001004015" id="SBL.Titus.1.4.15.1">Ἰησοῦ</token>
+     <token clearId="n56001004016" id="SBL.Titus.1.4.16.1">τοῦ</token>
+     <token clearId="n56001004017" id="SBL.Titus.1.4.17.1">σωτῆρος</token>
+     <token clearId="n56001004018" id="SBL.Titus.1.4.18.1" after=".">ἡμῶν</token>
     </move>
    </seg>
    <seg id="s.SBL.Titus.1.5-9" title="The Qualifications of Christian Pastors">
     <move id="m.SBL.Titus.1.5-6" chStart="1" vStart="5" chEnd="1" vEnd="6">
-     <token id="SBL.Titus.1.5.1.1" clear_id="n56001005001" n="66">Τούτου</token>
-     <token id="SBL.Titus.1.5.2.1" clear_id="n56001005002" n="67">χάριν</token>
-     <token id="SBL.Titus.1.5.3.1" clear_id="n56001005003" n="68">ἀπέλιπόν</token>
-     <token id="SBL.Titus.1.5.4.1" clear_id="n56001005004" n="69">σε</token>
-     <token id="SBL.Titus.1.5.5.1" clear_id="n56001005005" n="70">ἐν</token>
-     <token id="SBL.Titus.1.5.6.1" clear_id="n56001005006" n="71">Κρήτῃ</token>
-     <token id="SBL.Titus.1.5.7.1" clear_id="n56001005007" n="72">ἵνα</token>
-     <token id="SBL.Titus.1.5.8.1" clear_id="n56001005008" n="73">τὰ</token>
-     <token id="SBL.Titus.1.5.9.1" clear_id="n56001005009" n="74">λείποντα</token>
-     <token id="SBL.Titus.1.5.10.1" clear_id="n56001005010" n="75" after=",">ἐπιδιορθώσῃ</token>
-     <token id="SBL.Titus.1.5.11.1" clear_id="n56001005011" n="76">καὶ</token>
-     <token id="SBL.Titus.1.5.12.1" clear_id="n56001005012" n="77">καταστήσῃς</token>
-     <token id="SBL.Titus.1.5.13.1" clear_id="n56001005013" n="78">κατὰ</token>
-     <token id="SBL.Titus.1.5.14.1" clear_id="n56001005014" n="79">πόλιν</token>
-     <token id="SBL.Titus.1.5.15.1" clear_id="n56001005015" n="80" after=",">πρεσβυτέρους</token>
-     <token id="SBL.Titus.1.5.16.1" clear_id="n56001005016" n="81">ὡς</token>
-     <token id="SBL.Titus.1.5.17.1" clear_id="n56001005017" n="82">ἐγώ</token>
-     <token id="SBL.Titus.1.5.18.1" clear_id="n56001005018" n="83">σοι</token>
-     <token id="SBL.Titus.1.5.19.1" clear_id="n56001005019" n="84" after=",">διεταξάμην</token>
-     <token id="SBL.Titus.1.6.1.1" clear_id="n56001006001" n="85">εἴ</token>
-     <token id="SBL.Titus.1.6.2.1" clear_id="n56001006002" n="86">τίς</token>
-     <token id="SBL.Titus.1.6.3.1" clear_id="n56001006003" n="87">ἐστιν</token>
-     <token id="SBL.Titus.1.6.4.1" clear_id="n56001006004" n="88" after=",">ἀνέγκλητος</token>
-     <token id="SBL.Titus.1.6.5.1" clear_id="n56001006005" n="89">μιᾶς</token>
-     <token id="SBL.Titus.1.6.6.1" clear_id="n56001006006" n="90">γυναικὸς</token>
-     <token id="SBL.Titus.1.6.7.1" clear_id="n56001006007" n="91" after=",">ἀνήρ</token>
-     <token id="SBL.Titus.1.6.8.1" clear_id="n56001006008" n="92">τέκνα</token>
-     <token id="SBL.Titus.1.6.9.1" clear_id="n56001006009" n="93">ἔχων</token>
-     <token id="SBL.Titus.1.6.10.1" clear_id="n56001006010" n="94" after=",">πιστά</token>
-     <token id="SBL.Titus.1.6.11.1" clear_id="n56001006011" n="95">μὴ</token>
-     <token id="SBL.Titus.1.6.12.1" clear_id="n56001006012" n="96">ἐν</token>
-     <token id="SBL.Titus.1.6.13.1" clear_id="n56001006013" n="97">κατηγορίᾳ</token>
-     <token id="SBL.Titus.1.6.14.1" clear_id="n56001006014" n="98">ἀσωτίας</token>
-     <token id="SBL.Titus.1.6.15.1" clear_id="n56001006015" n="99">ἢ</token>
-     <token id="SBL.Titus.1.6.16.1" clear_id="n56001006016" n="100" after=".">ἀνυπότακτα</token>
+     <token clearId="n56001005001" id="SBL.Titus.1.5.1.1">Τούτου</token>
+     <token clearId="n56001005002" id="SBL.Titus.1.5.2.1">χάριν</token>
+     <token clearId="n56001005003" id="SBL.Titus.1.5.3.1">ἀπέλιπόν</token>
+     <token clearId="n56001005004" id="SBL.Titus.1.5.4.1">σε</token>
+     <token clearId="n56001005005" id="SBL.Titus.1.5.5.1">ἐν</token>
+     <token clearId="n56001005006" id="SBL.Titus.1.5.6.1">Κρήτῃ</token>
+     <token clearId="n56001005007" id="SBL.Titus.1.5.7.1">ἵνα</token>
+     <token clearId="n56001005008" id="SBL.Titus.1.5.8.1">τὰ</token>
+     <token clearId="n56001005009" id="SBL.Titus.1.5.9.1">λείποντα</token>
+     <token clearId="n56001005010" id="SBL.Titus.1.5.10.1" after=",">ἐπιδιορθώσῃ</token>
+     <token clearId="n56001005011" id="SBL.Titus.1.5.11.1">καὶ</token>
+     <token clearId="n56001005012" id="SBL.Titus.1.5.12.1">καταστήσῃς</token>
+     <token clearId="n56001005013" id="SBL.Titus.1.5.13.1">κατὰ</token>
+     <token clearId="n56001005014" id="SBL.Titus.1.5.14.1">πόλιν</token>
+     <token clearId="n56001005015" id="SBL.Titus.1.5.15.1" after=",">πρεσβυτέρους</token>
+     <token clearId="n56001005016" id="SBL.Titus.1.5.16.1">ὡς</token>
+     <token clearId="n56001005017" id="SBL.Titus.1.5.17.1">ἐγώ</token>
+     <token clearId="n56001005018" id="SBL.Titus.1.5.18.1">σοι</token>
+     <token clearId="n56001005019" id="SBL.Titus.1.5.19.1" after=",">διεταξάμην</token>
+     <token clearId="n56001006001" id="SBL.Titus.1.6.1.1">εἴ</token>
+     <token clearId="n56001006002" id="SBL.Titus.1.6.2.1">τίς</token>
+     <token clearId="n56001006003" id="SBL.Titus.1.6.3.1">ἐστιν</token>
+     <token clearId="n56001006004" id="SBL.Titus.1.6.4.1" after=",">ἀνέγκλητος</token>
+     <token clearId="n56001006005" id="SBL.Titus.1.6.5.1">μιᾶς</token>
+     <token clearId="n56001006006" id="SBL.Titus.1.6.6.1">γυναικὸς</token>
+     <token clearId="n56001006007" id="SBL.Titus.1.6.7.1" after=",">ἀνήρ</token>
+     <token clearId="n56001006008" id="SBL.Titus.1.6.8.1">τέκνα</token>
+     <token clearId="n56001006009" id="SBL.Titus.1.6.9.1">ἔχων</token>
+     <token clearId="n56001006010" id="SBL.Titus.1.6.10.1" after=",">πιστά</token>
+     <token clearId="n56001006011" id="SBL.Titus.1.6.11.1">μὴ</token>
+     <token clearId="n56001006012" id="SBL.Titus.1.6.12.1">ἐν</token>
+     <token clearId="n56001006013" id="SBL.Titus.1.6.13.1">κατηγορίᾳ</token>
+     <token clearId="n56001006014" id="SBL.Titus.1.6.14.1">ἀσωτίας</token>
+     <token clearId="n56001006015" id="SBL.Titus.1.6.15.1">ἢ</token>
+     <token clearId="n56001006016" id="SBL.Titus.1.6.16.1" after=".">ἀνυπότακτα</token>
     </move>
     <move id="m.SBL.Titus.1.7-9" chStart="1" vStart="7" chEnd="1" vEnd="9">
-     <token id="SBL.Titus.1.7.1.1" clear_id="n56001007001" n="101">δεῖ</token>
-     <token id="SBL.Titus.1.7.2.1" clear_id="n56001007002" n="102">γὰρ</token>
-     <token id="SBL.Titus.1.7.3.1" clear_id="n56001007003" n="103">τὸν</token>
-     <token id="SBL.Titus.1.7.4.1" clear_id="n56001007004" n="104">ἐπίσκοπον</token>
-     <token id="SBL.Titus.1.7.5.1" clear_id="n56001007005" n="105">ἀνέγκλητον</token>
-     <token id="SBL.Titus.1.7.6.1" clear_id="n56001007006" n="106">εἶναι</token>
-     <token id="SBL.Titus.1.7.7.1" clear_id="n56001007007" n="107">ὡς</token>
-     <token id="SBL.Titus.1.7.8.1" clear_id="n56001007008" n="108">θεοῦ</token>
-     <token id="SBL.Titus.1.7.9.1" clear_id="n56001007009" n="109" after=",">οἰκονόμον</token>
-     <token id="SBL.Titus.1.7.10.1" clear_id="n56001007010" n="110">μὴ</token>
-     <token id="SBL.Titus.1.7.11.1" clear_id="n56001007011" n="111" after=",">αὐθάδη</token>
-     <token id="SBL.Titus.1.7.12.1" clear_id="n56001007012" n="112">μὴ</token>
-     <token id="SBL.Titus.1.7.13.1" clear_id="n56001007013" n="113" after=",">ὀργίλον</token>
-     <token id="SBL.Titus.1.7.14.1" clear_id="n56001007014" n="114">μὴ</token>
-     <token id="SBL.Titus.1.7.15.1" clear_id="n56001007015" n="115" after=",">πάροινον</token>
-     <token id="SBL.Titus.1.7.16.1" clear_id="n56001007016" n="116">μὴ</token>
-     <token id="SBL.Titus.1.7.17.1" clear_id="n56001007017" n="117" after=",">πλήκτην</token>
-     <token id="SBL.Titus.1.7.18.1" clear_id="n56001007018" n="118">μὴ</token>
-     <token id="SBL.Titus.1.7.19.1" clear_id="n56001007019" n="119" after=",">αἰσχροκερδῆ</token>
-     <token id="SBL.Titus.1.8.1.1" clear_id="n56001008001" n="120">ἀλλὰ</token>
-     <token id="SBL.Titus.1.8.2.1" clear_id="n56001008002" n="121" after=",">φιλόξενον</token>
-     <token id="SBL.Titus.1.8.3.1" clear_id="n56001008003" n="122" after=",">φιλάγαθον</token>
-     <token id="SBL.Titus.1.8.4.1" clear_id="n56001008004" n="123" after=",">σώφρονα</token>
-     <token id="SBL.Titus.1.8.5.1" clear_id="n56001008005" n="124" after=",">δίκαιον</token>
-     <token id="SBL.Titus.1.8.6.1" clear_id="n56001008006" n="125" after=",">ὅσιον</token>
-     <token id="SBL.Titus.1.8.7.1" clear_id="n56001008007" n="126" after=",">ἐγκρατῆ</token>
-     <token id="SBL.Titus.1.9.1.1" clear_id="n56001009001" n="127">ἀντεχόμενον</token>
-     <token id="SBL.Titus.1.9.2.1" clear_id="n56001009002" n="128">τοῦ</token>
-     <token id="SBL.Titus.1.9.3.1" clear_id="n56001009003" n="129">κατὰ</token>
-     <token id="SBL.Titus.1.9.4.1" clear_id="n56001009004" n="130">τὴν</token>
-     <token id="SBL.Titus.1.9.5.1" clear_id="n56001009005" n="131">διδαχὴν</token>
-     <token id="SBL.Titus.1.9.6.1" clear_id="n56001009006" n="132">πιστοῦ</token>
-     <token id="SBL.Titus.1.9.7.1" clear_id="n56001009007" n="133" after=",">λόγου</token>
-     <token id="SBL.Titus.1.9.8.1" clear_id="n56001009008" n="134">ἵνα</token>
-     <token id="SBL.Titus.1.9.9.1" clear_id="n56001009009" n="135">δυνατὸς</token>
-     <token id="SBL.Titus.1.9.10.1" clear_id="n56001009010" n="136">ᾖ</token>
-     <token id="SBL.Titus.1.9.11.1" clear_id="n56001009011" n="137">καὶ</token>
-     <token id="SBL.Titus.1.9.12.1" clear_id="n56001009012" n="138">παρακαλεῖν</token>
-     <token id="SBL.Titus.1.9.13.1" clear_id="n56001009013" n="139">ἐν</token>
-     <token id="SBL.Titus.1.9.14.1" clear_id="n56001009014" n="140">τῇ</token>
-     <token id="SBL.Titus.1.9.15.1" clear_id="n56001009015" n="141">διδασκαλίᾳ</token>
-     <token id="SBL.Titus.1.9.16.1" clear_id="n56001009016" n="142">τῇ</token>
-     <token id="SBL.Titus.1.9.17.1" clear_id="n56001009017" n="143">ὑγιαινούσῃ</token>
-     <token id="SBL.Titus.1.9.18.1" clear_id="n56001009018" n="144">καὶ</token>
-     <token id="SBL.Titus.1.9.19.1" clear_id="n56001009019" n="145">τοὺς</token>
-     <token id="SBL.Titus.1.9.20.1" clear_id="n56001009020" n="146">ἀντιλέγοντας</token>
-     <token id="SBL.Titus.1.9.21.1" clear_id="n56001009021" n="147" after=".">ἐλέγχειν</token>
+     <token clearId="n56001007001" id="SBL.Titus.1.7.1.1">δεῖ</token>
+     <token clearId="n56001007002" id="SBL.Titus.1.7.2.1">γὰρ</token>
+     <token clearId="n56001007003" id="SBL.Titus.1.7.3.1">τὸν</token>
+     <token clearId="n56001007004" id="SBL.Titus.1.7.4.1">ἐπίσκοπον</token>
+     <token clearId="n56001007005" id="SBL.Titus.1.7.5.1">ἀνέγκλητον</token>
+     <token clearId="n56001007006" id="SBL.Titus.1.7.6.1">εἶναι</token>
+     <token clearId="n56001007007" id="SBL.Titus.1.7.7.1">ὡς</token>
+     <token clearId="n56001007008" id="SBL.Titus.1.7.8.1">θεοῦ</token>
+     <token clearId="n56001007009" id="SBL.Titus.1.7.9.1" after=",">οἰκονόμον</token>
+     <token clearId="n56001007010" id="SBL.Titus.1.7.10.1">μὴ</token>
+     <token clearId="n56001007011" id="SBL.Titus.1.7.11.1" after=",">αὐθάδη</token>
+     <token clearId="n56001007012" id="SBL.Titus.1.7.12.1">μὴ</token>
+     <token clearId="n56001007013" id="SBL.Titus.1.7.13.1" after=",">ὀργίλον</token>
+     <token clearId="n56001007014" id="SBL.Titus.1.7.14.1">μὴ</token>
+     <token clearId="n56001007015" id="SBL.Titus.1.7.15.1" after=",">πάροινον</token>
+     <token clearId="n56001007016" id="SBL.Titus.1.7.16.1">μὴ</token>
+     <token clearId="n56001007017" id="SBL.Titus.1.7.17.1" after=",">πλήκτην</token>
+     <token clearId="n56001007018" id="SBL.Titus.1.7.18.1">μὴ</token>
+     <token clearId="n56001007019" id="SBL.Titus.1.7.19.1" after=",">αἰσχροκερδῆ</token>
+     <token clearId="n56001008001" id="SBL.Titus.1.8.1.1">ἀλλὰ</token>
+     <token clearId="n56001008002" id="SBL.Titus.1.8.2.1" after=",">φιλόξενον</token>
+     <token clearId="n56001008003" id="SBL.Titus.1.8.3.1" after=",">φιλάγαθον</token>
+     <token clearId="n56001008004" id="SBL.Titus.1.8.4.1" after=",">σώφρονα</token>
+     <token clearId="n56001008005" id="SBL.Titus.1.8.5.1" after=",">δίκαιον</token>
+     <token clearId="n56001008006" id="SBL.Titus.1.8.6.1" after=",">ὅσιον</token>
+     <token clearId="n56001008007" id="SBL.Titus.1.8.7.1" after=",">ἐγκρατῆ</token>
+     <token clearId="n56001009001" id="SBL.Titus.1.9.1.1">ἀντεχόμενον</token>
+     <token clearId="n56001009002" id="SBL.Titus.1.9.2.1">τοῦ</token>
+     <token clearId="n56001009003" id="SBL.Titus.1.9.3.1">κατὰ</token>
+     <token clearId="n56001009004" id="SBL.Titus.1.9.4.1">τὴν</token>
+     <token clearId="n56001009005" id="SBL.Titus.1.9.5.1">διδαχὴν</token>
+     <token clearId="n56001009006" id="SBL.Titus.1.9.6.1">πιστοῦ</token>
+     <token clearId="n56001009007" id="SBL.Titus.1.9.7.1" after=",">λόγου</token>
+     <token clearId="n56001009008" id="SBL.Titus.1.9.8.1">ἵνα</token>
+     <token clearId="n56001009009" id="SBL.Titus.1.9.9.1">δυνατὸς</token>
+     <token clearId="n56001009010" id="SBL.Titus.1.9.10.1">ᾖ</token>
+     <token clearId="n56001009011" id="SBL.Titus.1.9.11.1">καὶ</token>
+     <token clearId="n56001009012" id="SBL.Titus.1.9.12.1">παρακαλεῖν</token>
+     <token clearId="n56001009013" id="SBL.Titus.1.9.13.1">ἐν</token>
+     <token clearId="n56001009014" id="SBL.Titus.1.9.14.1">τῇ</token>
+     <token clearId="n56001009015" id="SBL.Titus.1.9.15.1">διδασκαλίᾳ</token>
+     <token clearId="n56001009016" id="SBL.Titus.1.9.16.1">τῇ</token>
+     <token clearId="n56001009017" id="SBL.Titus.1.9.17.1">ὑγιαινούσῃ</token>
+     <token clearId="n56001009018" id="SBL.Titus.1.9.18.1">καὶ</token>
+     <token clearId="n56001009019" id="SBL.Titus.1.9.19.1">τοὺς</token>
+     <token clearId="n56001009020" id="SBL.Titus.1.9.20.1">ἀντιλέγοντας</token>
+     <token clearId="n56001009021" id="SBL.Titus.1.9.21.1" after=".">ἐλέγχειν</token>
     </move>
    </seg>
    <seg id="s.SBL.Titus.1.10-16" title="The False Teachers Characterized and the Question of How to Deal with Them">
     <move id="m.SBL.Titus.1.10-11" chStart="1" vStart="10" chEnd="1" vEnd="11">
-     <token id="SBL.Titus.1.10.1.1" clear_id="n56001010001" n="148">Εἰσὶν</token>
-     <token id="SBL.Titus.1.10.2.1" clear_id="n56001010002" n="149">γὰρ</token>
-     <token id="SBL.Titus.1.10.3.1" clear_id="n56001010003" n="150">πολλοὶ</token>
-     <token id="SBL.Titus.1.10.4.1" clear_id="n56001010004" n="151">καὶ</token>
-     <token id="SBL.Titus.1.10.5.1" clear_id="n56001010005" n="152" after=",">ἀνυπότακτοι</token>
-     <token id="SBL.Titus.1.10.6.1" clear_id="n56001010006" n="153">ματαιολόγοι</token>
-     <token id="SBL.Titus.1.10.7.1" clear_id="n56001010007" n="154">καὶ</token>
-     <token id="SBL.Titus.1.10.8.1" clear_id="n56001010008" n="155" after=",">φρεναπάται</token>
-     <token id="SBL.Titus.1.10.9.1" clear_id="n56001010009" n="156">μάλιστα</token>
-     <token id="SBL.Titus.1.10.10.1" clear_id="n56001010010" n="157">οἱ</token>
-     <token id="SBL.Titus.1.10.11.1" clear_id="n56001010011" n="158">ἐκ</token>
-     <token id="SBL.Titus.1.10.12.1" clear_id="n56001010012" n="159">τῆς</token>
-     <token id="SBL.Titus.1.10.13.1" clear_id="n56001010013" n="160" after=",">περιτομῆς</token>
-     <token id="SBL.Titus.1.11.1.1" clear_id="n56001011001" n="161">οὓς</token>
-     <token id="SBL.Titus.1.11.2.1" clear_id="n56001011002" n="162">δεῖ</token>
-     <token id="SBL.Titus.1.11.3.1" clear_id="n56001011003" n="163" after=",">ἐπιστομίζειν</token>
-     <token id="SBL.Titus.1.11.4.1" clear_id="n56001011004" n="164">οἵτινες</token>
-     <token id="SBL.Titus.1.11.5.1" clear_id="n56001011005" n="165">ὅλους</token>
-     <token id="SBL.Titus.1.11.6.1" clear_id="n56001011006" n="166">οἴκους</token>
-     <token id="SBL.Titus.1.11.7.1" clear_id="n56001011007" n="167">ἀνατρέπουσιν</token>
-     <token id="SBL.Titus.1.11.8.1" clear_id="n56001011008" n="168">διδάσκοντες</token>
-     <token id="SBL.Titus.1.11.9.1" clear_id="n56001011009" n="169">ἃ</token>
-     <token id="SBL.Titus.1.11.10.1" clear_id="n56001011010" n="170">μὴ</token>
-     <token id="SBL.Titus.1.11.11.1" clear_id="n56001011011" n="171">δεῖ</token>
-     <token id="SBL.Titus.1.11.12.1" clear_id="n56001011012" n="172">αἰσχροῦ</token>
-     <token id="SBL.Titus.1.11.13.1" clear_id="n56001011013" n="173">κέρδους</token>
-     <token id="SBL.Titus.1.11.14.1" clear_id="n56001011014" n="174" after=".">χάριν</token>
+     <token clearId="n56001010001" id="SBL.Titus.1.10.1.1">Εἰσὶν</token>
+     <token clearId="n56001010002" id="SBL.Titus.1.10.2.1">γὰρ</token>
+     <token clearId="n56001010003" id="SBL.Titus.1.10.3.1">πολλοὶ</token>
+     <token clearId="n56001010004" id="SBL.Titus.1.10.4.1">καὶ</token>
+     <token clearId="n56001010005" id="SBL.Titus.1.10.5.1" after=",">ἀνυπότακτοι</token>
+     <token clearId="n56001010006" id="SBL.Titus.1.10.6.1">ματαιολόγοι</token>
+     <token clearId="n56001010007" id="SBL.Titus.1.10.7.1">καὶ</token>
+     <token clearId="n56001010008" id="SBL.Titus.1.10.8.1" after=",">φρεναπάται</token>
+     <token clearId="n56001010009" id="SBL.Titus.1.10.9.1">μάλιστα</token>
+     <token clearId="n56001010010" id="SBL.Titus.1.10.10.1">οἱ</token>
+     <token clearId="n56001010011" id="SBL.Titus.1.10.11.1">ἐκ</token>
+     <token clearId="n56001010012" id="SBL.Titus.1.10.12.1">τῆς</token>
+     <token clearId="n56001010013" id="SBL.Titus.1.10.13.1" after=",">περιτομῆς</token>
+     <token clearId="n56001011001" id="SBL.Titus.1.11.1.1">οὓς</token>
+     <token clearId="n56001011002" id="SBL.Titus.1.11.2.1">δεῖ</token>
+     <token clearId="n56001011003" id="SBL.Titus.1.11.3.1" after=",">ἐπιστομίζειν</token>
+     <token clearId="n56001011004" id="SBL.Titus.1.11.4.1">οἵτινες</token>
+     <token clearId="n56001011005" id="SBL.Titus.1.11.5.1">ὅλους</token>
+     <token clearId="n56001011006" id="SBL.Titus.1.11.6.1">οἴκους</token>
+     <token clearId="n56001011007" id="SBL.Titus.1.11.7.1">ἀνατρέπουσιν</token>
+     <token clearId="n56001011008" id="SBL.Titus.1.11.8.1">διδάσκοντες</token>
+     <token clearId="n56001011009" id="SBL.Titus.1.11.9.1">ἃ</token>
+     <token clearId="n56001011010" id="SBL.Titus.1.11.10.1">μὴ</token>
+     <token clearId="n56001011011" id="SBL.Titus.1.11.11.1">δεῖ</token>
+     <token clearId="n56001011012" id="SBL.Titus.1.11.12.1">αἰσχροῦ</token>
+     <token clearId="n56001011013" id="SBL.Titus.1.11.13.1">κέρδους</token>
+     <token clearId="n56001011014" id="SBL.Titus.1.11.14.1" after=".">χάριν</token>
     </move>
     <move id="m.SBL.Titus.1.12" chStart="1" vStart="12" chEnd="1" vEnd="12">
-     <token id="SBL.Titus.1.12.1.1" clear_id="n56001012001" n="175">εἶπέν</token>
-     <token id="SBL.Titus.1.12.2.1" clear_id="n56001012002" n="176">τις</token>
-     <token id="SBL.Titus.1.12.3.1" clear_id="n56001012003" n="177">ἐξ</token>
-     <token id="SBL.Titus.1.12.4.1" clear_id="n56001012004" n="178" after=",">αὐτῶν</token>
-     <token id="SBL.Titus.1.12.5.1" clear_id="n56001012005" n="179">ἴδιος</token>
-     <token id="SBL.Titus.1.12.6.1" clear_id="n56001012006" n="180">αὐτῶν</token>
-     <token id="SBL.Titus.1.12.7.1" clear_id="n56001012007" n="181" after=",">προφήτης</token>
+     <token clearId="n56001012001" id="SBL.Titus.1.12.1.1">εἶπέν</token>
+     <token clearId="n56001012002" id="SBL.Titus.1.12.2.1">τις</token>
+     <token clearId="n56001012003" id="SBL.Titus.1.12.3.1">ἐξ</token>
+     <token clearId="n56001012004" id="SBL.Titus.1.12.4.1" after=",">αὐτῶν</token>
+     <token clearId="n56001012005" id="SBL.Titus.1.12.5.1">ἴδιος</token>
+     <token clearId="n56001012006" id="SBL.Titus.1.12.6.1">αὐτῶν</token>
+     <token clearId="n56001012007" id="SBL.Titus.1.12.7.1" after=",">προφήτης</token>
      <turn depth="2" id="t.SBL.Titus.1.12.8-14" chStart="1" vStart="12" chEnd="1" vEnd="12">
       <move id="m.SBL.Titus.1.12.8-14" chStart="1" vStart="12" chEnd="1" vEnd="12">
-       <token id="SBL.Titus.1.12.8.1" clear_id="n56001012008" n="182">Κρῆτες</token>
-       <token id="SBL.Titus.1.12.9.1" clear_id="n56001012009" n="183">ἀεὶ</token>
-       <token id="SBL.Titus.1.12.10.1" clear_id="n56001012010" n="184" after=",">ψεῦσται</token>
-       <token id="SBL.Titus.1.12.11.1" clear_id="n56001012011" n="185">κακὰ</token>
-       <token id="SBL.Titus.1.12.12.1" clear_id="n56001012012" n="186" after=",">θηρία</token>
-       <token id="SBL.Titus.1.12.13.1" clear_id="n56001012013" n="187">γαστέρες</token>
-       <token id="SBL.Titus.1.12.14.1" clear_id="n56001012014" n="188" after="·">ἀργαί</token>
+       <token clearId="n56001012008" id="SBL.Titus.1.12.8.1">Κρῆτες</token>
+       <token clearId="n56001012009" id="SBL.Titus.1.12.9.1">ἀεὶ</token>
+       <token clearId="n56001012010" id="SBL.Titus.1.12.10.1" after=",">ψεῦσται</token>
+       <token clearId="n56001012011" id="SBL.Titus.1.12.11.1">κακὰ</token>
+       <token clearId="n56001012012" id="SBL.Titus.1.12.12.1" after=",">θηρία</token>
+       <token clearId="n56001012013" id="SBL.Titus.1.12.13.1">γαστέρες</token>
+       <token clearId="n56001012014" id="SBL.Titus.1.12.14.1" after="·">ἀργαί</token>
       </move>
      </turn>
     </move>
     <move id="m.SBL.Titus.1.13.1-5" chStart="1" vStart="13" chEnd="1" vEnd="13">
-     <token id="SBL.Titus.1.13.1.1" clear_id="n56001013001" n="189">ἡ</token>
-     <token id="SBL.Titus.1.13.2.1" clear_id="n56001013002" n="190">μαρτυρία</token>
-     <token id="SBL.Titus.1.13.3.1" clear_id="n56001013003" n="191">αὕτη</token>
-     <token id="SBL.Titus.1.13.4.1" clear_id="n56001013004" n="192">ἐστὶν</token>
-     <token id="SBL.Titus.1.13.5.1" clear_id="n56001013005" n="193" after=".">ἀληθής</token>
+     <token clearId="n56001013001" id="SBL.Titus.1.13.1.1">ἡ</token>
+     <token clearId="n56001013002" id="SBL.Titus.1.13.2.1">μαρτυρία</token>
+     <token clearId="n56001013003" id="SBL.Titus.1.13.3.1">αὕτη</token>
+     <token clearId="n56001013004" id="SBL.Titus.1.13.4.1">ἐστὶν</token>
+     <token clearId="n56001013005" id="SBL.Titus.1.13.5.1" after=".">ἀληθής</token>
     </move>
     <move id="m.SBL.Titus.1.13.6-14.10" chStart="1" vStart="13" chEnd="1" vEnd="14">
-     <token id="SBL.Titus.1.13.6.1" clear_id="n56001013006" n="194">δι’</token>
-     <token id="SBL.Titus.1.13.7.1" clear_id="n56001013007" n="195">ἣν</token>
-     <token id="SBL.Titus.1.13.8.1" clear_id="n56001013008" n="196">αἰτίαν</token>
-     <token id="SBL.Titus.1.13.9.1" clear_id="n56001013009" n="197">ἔλεγχε</token>
-     <token id="SBL.Titus.1.13.10.1" clear_id="n56001013010" n="198">αὐτοὺς</token>
-     <token id="SBL.Titus.1.13.11.1" clear_id="n56001013011" n="199" after=",">ἀποτόμως</token>
-     <token id="SBL.Titus.1.13.12.1" clear_id="n56001013012" n="200">ἵνα</token>
-     <token id="SBL.Titus.1.13.13.1" clear_id="n56001013013" n="201">ὑγιαίνωσιν</token>
-     <token id="SBL.Titus.1.13.14.1" clear_id="n56001013014" n="202">ἐν</token>
-     <token id="SBL.Titus.1.13.15.1" clear_id="n56001013015" n="203">τῇ</token>
-     <token id="SBL.Titus.1.13.16.1" clear_id="n56001013016" n="204" after=",">πίστει</token>
-     <token id="SBL.Titus.1.14.1.1" clear_id="n56001014001" n="205">μὴ</token>
-     <token id="SBL.Titus.1.14.2.1" clear_id="n56001014002" n="206">προσέχοντες</token>
-     <token id="SBL.Titus.1.14.3.1" clear_id="n56001014003" n="207">Ἰουδαϊκοῖς</token>
-     <token id="SBL.Titus.1.14.4.1" clear_id="n56001014004" n="208">μύθοις</token>
-     <token id="SBL.Titus.1.14.5.1" clear_id="n56001014005" n="209">καὶ</token>
-     <token id="SBL.Titus.1.14.6.1" clear_id="n56001014006" n="210">ἐντολαῖς</token>
-     <token id="SBL.Titus.1.14.7.1" clear_id="n56001014007" n="211">ἀνθρώπων</token>
-     <token id="SBL.Titus.1.14.8.1" clear_id="n56001014008" n="212">ἀποστρεφομένων</token>
-     <token id="SBL.Titus.1.14.9.1" clear_id="n56001014009" n="213">τὴν</token>
-     <token id="SBL.Titus.1.14.10.1" clear_id="n56001014010" n="214" after=".">ἀλήθειαν</token>
+     <token clearId="n56001013006" id="SBL.Titus.1.13.6.1">δι’</token>
+     <token clearId="n56001013007" id="SBL.Titus.1.13.7.1">ἣν</token>
+     <token clearId="n56001013008" id="SBL.Titus.1.13.8.1">αἰτίαν</token>
+     <token clearId="n56001013009" id="SBL.Titus.1.13.9.1">ἔλεγχε</token>
+     <token clearId="n56001013010" id="SBL.Titus.1.13.10.1">αὐτοὺς</token>
+     <token clearId="n56001013011" id="SBL.Titus.1.13.11.1" after=",">ἀποτόμως</token>
+     <token clearId="n56001013012" id="SBL.Titus.1.13.12.1">ἵνα</token>
+     <token clearId="n56001013013" id="SBL.Titus.1.13.13.1">ὑγιαίνωσιν</token>
+     <token clearId="n56001013014" id="SBL.Titus.1.13.14.1">ἐν</token>
+     <token clearId="n56001013015" id="SBL.Titus.1.13.15.1">τῇ</token>
+     <token clearId="n56001013016" id="SBL.Titus.1.13.16.1" after=",">πίστει</token>
+     <token clearId="n56001014001" id="SBL.Titus.1.14.1.1">μὴ</token>
+     <token clearId="n56001014002" id="SBL.Titus.1.14.2.1">προσέχοντες</token>
+     <token clearId="n56001014003" id="SBL.Titus.1.14.3.1">Ἰουδαϊκοῖς</token>
+     <token clearId="n56001014004" id="SBL.Titus.1.14.4.1">μύθοις</token>
+     <token clearId="n56001014005" id="SBL.Titus.1.14.5.1">καὶ</token>
+     <token clearId="n56001014006" id="SBL.Titus.1.14.6.1">ἐντολαῖς</token>
+     <token clearId="n56001014007" id="SBL.Titus.1.14.7.1">ἀνθρώπων</token>
+     <token clearId="n56001014008" id="SBL.Titus.1.14.8.1">ἀποστρεφομένων</token>
+     <token clearId="n56001014009" id="SBL.Titus.1.14.9.1">τὴν</token>
+     <token clearId="n56001014010" id="SBL.Titus.1.14.10.1" after=".">ἀλήθειαν</token>
     </move>
     <move id="m.SBL.Titus.1.15.1-4" chStart="1" vStart="15" chEnd="1" vEnd="15">
-     <token id="SBL.Titus.1.15.1.1" clear_id="n56001015001" n="215">πάντα</token>
-     <token id="SBL.Titus.1.15.2.1" clear_id="n56001015002" n="216">καθαρὰ</token>
-     <token id="SBL.Titus.1.15.3.1" clear_id="n56001015003" n="217">τοῖς</token>
-     <token id="SBL.Titus.1.15.4.1" clear_id="n56001015004" n="218" after="·">καθαροῖς</token>
+     <token clearId="n56001015001" id="SBL.Titus.1.15.1.1">πάντα</token>
+     <token clearId="n56001015002" id="SBL.Titus.1.15.2.1">καθαρὰ</token>
+     <token clearId="n56001015003" id="SBL.Titus.1.15.3.1">τοῖς</token>
+     <token clearId="n56001015004" id="SBL.Titus.1.15.4.1" after="·">καθαροῖς</token>
     </move>
     <move id="m.SBL.Titus.1.15.5-11" chStart="1" vStart="15" chEnd="1" vEnd="15">
-     <token id="SBL.Titus.1.15.5.1" clear_id="n56001015005" n="219">τοῖς</token>
-     <token id="SBL.Titus.1.15.6.1" clear_id="n56001015006" n="220">δὲ</token>
-     <token id="SBL.Titus.1.15.7.1" clear_id="n56001015007" n="221">μεμιαμμένοις</token>
-     <token id="SBL.Titus.1.15.8.1" clear_id="n56001015008" n="222">καὶ</token>
-     <token id="SBL.Titus.1.15.9.1" clear_id="n56001015009" n="223">ἀπίστοις</token>
-     <token id="SBL.Titus.1.15.10.1" clear_id="n56001015010" n="224">οὐδὲν</token>
-     <token id="SBL.Titus.1.15.11.1" clear_id="n56001015011" n="225" after=",">καθαρόν</token>
+     <token clearId="n56001015005" id="SBL.Titus.1.15.5.1">τοῖς</token>
+     <token clearId="n56001015006" id="SBL.Titus.1.15.6.1">δὲ</token>
+     <token clearId="n56001015007" id="SBL.Titus.1.15.7.1">μεμιαμμένοις</token>
+     <token clearId="n56001015008" id="SBL.Titus.1.15.8.1">καὶ</token>
+     <token clearId="n56001015009" id="SBL.Titus.1.15.9.1">ἀπίστοις</token>
+     <token clearId="n56001015010" id="SBL.Titus.1.15.10.1">οὐδὲν</token>
+     <token clearId="n56001015011" id="SBL.Titus.1.15.11.1" after=",">καθαρόν</token>
     </move>
     <move id="m.SBL.Titus.1.15.12-20" chStart="1" vStart="15" chEnd="1" vEnd="15">
-     <token id="SBL.Titus.1.15.12.1" clear_id="n56001015012" n="226">ἀλλὰ</token>
-     <token id="SBL.Titus.1.15.13.1" clear_id="n56001015013" n="227">μεμίανται</token>
-     <token id="SBL.Titus.1.15.14.1" clear_id="n56001015014" n="228">αὐτῶν</token>
-     <token id="SBL.Titus.1.15.15.1" clear_id="n56001015015" n="229">καὶ</token>
-     <token id="SBL.Titus.1.15.16.1" clear_id="n56001015016" n="230">ὁ</token>
-     <token id="SBL.Titus.1.15.17.1" clear_id="n56001015017" n="231">νοῦς</token>
-     <token id="SBL.Titus.1.15.18.1" clear_id="n56001015018" n="232">καὶ</token>
-     <token id="SBL.Titus.1.15.19.1" clear_id="n56001015019" n="233">ἡ</token>
-     <token id="SBL.Titus.1.15.20.1" clear_id="n56001015020" n="234" after=".">συνείδησις</token>
+     <token clearId="n56001015012" id="SBL.Titus.1.15.12.1">ἀλλὰ</token>
+     <token clearId="n56001015013" id="SBL.Titus.1.15.13.1">μεμίανται</token>
+     <token clearId="n56001015014" id="SBL.Titus.1.15.14.1">αὐτῶν</token>
+     <token clearId="n56001015015" id="SBL.Titus.1.15.15.1">καὶ</token>
+     <token clearId="n56001015016" id="SBL.Titus.1.15.16.1">ὁ</token>
+     <token clearId="n56001015017" id="SBL.Titus.1.15.17.1">νοῦς</token>
+     <token clearId="n56001015018" id="SBL.Titus.1.15.18.1">καὶ</token>
+     <token clearId="n56001015019" id="SBL.Titus.1.15.19.1">ἡ</token>
+     <token clearId="n56001015020" id="SBL.Titus.1.15.20.1" after=".">συνείδησις</token>
     </move>
     <move id="m.SBL.Titus.1.16" chStart="1" vStart="16" chEnd="1" vEnd="16">
-     <token id="SBL.Titus.1.16.1.1" clear_id="n56001016001" n="235">θεὸν</token>
-     <token id="SBL.Titus.1.16.2.1" clear_id="n56001016002" n="236">ὁμολογοῦσιν</token>
-     <token id="SBL.Titus.1.16.3.1" clear_id="n56001016003" n="237" after=",">εἰδέναι</token>
-     <token id="SBL.Titus.1.16.4.1" clear_id="n56001016004" n="238">τοῖς</token>
-     <token id="SBL.Titus.1.16.5.1" clear_id="n56001016005" n="239">δὲ</token>
-     <token id="SBL.Titus.1.16.6.1" clear_id="n56001016006" n="240">ἔργοις</token>
-     <token id="SBL.Titus.1.16.7.1" clear_id="n56001016007" n="241" after=",">ἀρνοῦνται</token>
-     <token id="SBL.Titus.1.16.8.1" clear_id="n56001016008" n="242">βδελυκτοὶ</token>
-     <token id="SBL.Titus.1.16.9.1" clear_id="n56001016009" n="243">ὄντες</token>
-     <token id="SBL.Titus.1.16.10.1" clear_id="n56001016010" n="244">καὶ</token>
-     <token id="SBL.Titus.1.16.11.1" clear_id="n56001016011" n="245">ἀπειθεῖς</token>
-     <token id="SBL.Titus.1.16.12.1" clear_id="n56001016012" n="246">καὶ</token>
-     <token id="SBL.Titus.1.16.13.1" clear_id="n56001016013" n="247">πρὸς</token>
-     <token id="SBL.Titus.1.16.14.1" clear_id="n56001016014" n="248">πᾶν</token>
-     <token id="SBL.Titus.1.16.15.1" clear_id="n56001016015" n="249">ἔργον</token>
-     <token id="SBL.Titus.1.16.16.1" clear_id="n56001016016" n="250">ἀγαθὸν</token>
-     <token id="SBL.Titus.1.16.17.1" clear_id="n56001016017" n="251" after=".">ἀδόκιμοι</token>
+     <token clearId="n56001016001" id="SBL.Titus.1.16.1.1">θεὸν</token>
+     <token clearId="n56001016002" id="SBL.Titus.1.16.2.1">ὁμολογοῦσιν</token>
+     <token clearId="n56001016003" id="SBL.Titus.1.16.3.1" after=",">εἰδέναι</token>
+     <token clearId="n56001016004" id="SBL.Titus.1.16.4.1">τοῖς</token>
+     <token clearId="n56001016005" id="SBL.Titus.1.16.5.1">δὲ</token>
+     <token clearId="n56001016006" id="SBL.Titus.1.16.6.1">ἔργοις</token>
+     <token clearId="n56001016007" id="SBL.Titus.1.16.7.1" after=",">ἀρνοῦνται</token>
+     <token clearId="n56001016008" id="SBL.Titus.1.16.8.1">βδελυκτοὶ</token>
+     <token clearId="n56001016009" id="SBL.Titus.1.16.9.1">ὄντες</token>
+     <token clearId="n56001016010" id="SBL.Titus.1.16.10.1">καὶ</token>
+     <token clearId="n56001016011" id="SBL.Titus.1.16.11.1">ἀπειθεῖς</token>
+     <token clearId="n56001016012" id="SBL.Titus.1.16.12.1">καὶ</token>
+     <token clearId="n56001016013" id="SBL.Titus.1.16.13.1">πρὸς</token>
+     <token clearId="n56001016014" id="SBL.Titus.1.16.14.1">πᾶν</token>
+     <token clearId="n56001016015" id="SBL.Titus.1.16.15.1">ἔργον</token>
+     <token clearId="n56001016016" id="SBL.Titus.1.16.16.1">ἀγαθὸν</token>
+     <token clearId="n56001016017" id="SBL.Titus.1.16.17.1" after=".">ἀδόκιμοι</token>
     </move>
    </seg>
    <seg id="s.SBL.Titus.2.1-10" title="Admonitions concerning Various Stations">
     <move id="m.SBL.Titus.2.1" chStart="2" vStart="1" chEnd="2" vEnd="1">
-     <token id="SBL.Titus.2.1.1.1" clear_id="n56002001001" n="252">Σὺ</token>
-     <token id="SBL.Titus.2.1.2.1" clear_id="n56002001002" n="253">δὲ</token>
-     <token id="SBL.Titus.2.1.3.1" clear_id="n56002001003" n="254">λάλει</token>
-     <token id="SBL.Titus.2.1.4.1" clear_id="n56002001004" n="255">ἃ</token>
-     <token id="SBL.Titus.2.1.5.1" clear_id="n56002001005" n="256">πρέπει</token>
-     <token id="SBL.Titus.2.1.6.1" clear_id="n56002001006" n="257">τῇ</token>
-     <token id="SBL.Titus.2.1.7.1" clear_id="n56002001007" n="258">ὑγιαινούσῃ</token>
-     <token id="SBL.Titus.2.1.8.1" clear_id="n56002001008" n="259" after=".">διδασκαλίᾳ</token>
+     <token clearId="n56002001001" id="SBL.Titus.2.1.1.1">Σὺ</token>
+     <token clearId="n56002001002" id="SBL.Titus.2.1.2.1">δὲ</token>
+     <token clearId="n56002001003" id="SBL.Titus.2.1.3.1">λάλει</token>
+     <token clearId="n56002001004" id="SBL.Titus.2.1.4.1">ἃ</token>
+     <token clearId="n56002001005" id="SBL.Titus.2.1.5.1">πρέπει</token>
+     <token clearId="n56002001006" id="SBL.Titus.2.1.6.1">τῇ</token>
+     <token clearId="n56002001007" id="SBL.Titus.2.1.7.1">ὑγιαινούσῃ</token>
+     <token clearId="n56002001008" id="SBL.Titus.2.1.8.1" after=".">διδασκαλίᾳ</token>
     </move>
     <move id="m.SBL.Titus.2.2" chStart="2" vStart="2" chEnd="2" vEnd="2">
-     <token id="SBL.Titus.2.2.1.1" clear_id="n56002002001" n="260">πρεσβύτας</token>
-     <token id="SBL.Titus.2.2.2.1" clear_id="n56002002002" n="261">νηφαλίους</token>
-     <token id="SBL.Titus.2.2.3.1" clear_id="n56002002003" n="262" after=",">εἶναι</token>
-     <token id="SBL.Titus.2.2.4.1" clear_id="n56002002004" n="263" after=",">σεμνούς</token>
-     <token id="SBL.Titus.2.2.5.1" clear_id="n56002002005" n="264" after=",">σώφρονας</token>
-     <token id="SBL.Titus.2.2.6.1" clear_id="n56002002006" n="265">ὑγιαίνοντας</token>
-     <token id="SBL.Titus.2.2.7.1" clear_id="n56002002007" n="266">τῇ</token>
-     <token id="SBL.Titus.2.2.8.1" clear_id="n56002002008" n="267" after=",">πίστει</token>
-     <token id="SBL.Titus.2.2.9.1" clear_id="n56002002009" n="268">τῇ</token>
-     <token id="SBL.Titus.2.2.10.1" clear_id="n56002002010" n="269" after=",">ἀγάπῃ</token>
-     <token id="SBL.Titus.2.2.11.1" clear_id="n56002002011" n="270">τῇ</token>
-     <token id="SBL.Titus.2.2.12.1" clear_id="n56002002012" n="271" after=".">ὑπομονῇ</token>
+     <token clearId="n56002002001" id="SBL.Titus.2.2.1.1">πρεσβύτας</token>
+     <token clearId="n56002002002" id="SBL.Titus.2.2.2.1">νηφαλίους</token>
+     <token clearId="n56002002003" id="SBL.Titus.2.2.3.1" after=",">εἶναι</token>
+     <token clearId="n56002002004" id="SBL.Titus.2.2.4.1" after=",">σεμνούς</token>
+     <token clearId="n56002002005" id="SBL.Titus.2.2.5.1" after=",">σώφρονας</token>
+     <token clearId="n56002002006" id="SBL.Titus.2.2.6.1">ὑγιαίνοντας</token>
+     <token clearId="n56002002007" id="SBL.Titus.2.2.7.1">τῇ</token>
+     <token clearId="n56002002008" id="SBL.Titus.2.2.8.1" after=",">πίστει</token>
+     <token clearId="n56002002009" id="SBL.Titus.2.2.9.1">τῇ</token>
+     <token clearId="n56002002010" id="SBL.Titus.2.2.10.1" after=",">ἀγάπῃ</token>
+     <token clearId="n56002002011" id="SBL.Titus.2.2.11.1">τῇ</token>
+     <token clearId="n56002002012" id="SBL.Titus.2.2.12.1" after=".">ὑπομονῇ</token>
     </move>
     <move id="m.SBL.Titus.2.3-5" chStart="2" vStart="3" chEnd="2" vEnd="5">
-     <token id="SBL.Titus.2.3.1.1" clear_id="n56002003001" n="272">Πρεσβύτιδας</token>
-     <token id="SBL.Titus.2.3.2.1" clear_id="n56002003002" n="273">ὡσαύτως</token>
-     <token id="SBL.Titus.2.3.3.1" clear_id="n56002003003" n="274">ἐν</token>
-     <token id="SBL.Titus.2.3.4.1" clear_id="n56002003004" n="275">καταστήματι</token>
-     <token id="SBL.Titus.2.3.5.1" clear_id="n56002003005" n="276" after=",">ἱεροπρεπεῖς</token>
-     <token id="SBL.Titus.2.3.6.1" clear_id="n56002003006" n="277">μὴ</token>
-     <token id="SBL.Titus.2.3.7.1" clear_id="n56002003007" n="278">διαβόλους</token>
-     <token id="SBL.Titus.2.3.8.1" clear_id="n56002003008" n="279">μηδὲ</token>
-     <token id="SBL.Titus.2.3.9.1" clear_id="n56002003009" n="280">οἴνῳ</token>
-     <token id="SBL.Titus.2.3.10.1" clear_id="n56002003010" n="281">πολλῷ</token>
-     <token id="SBL.Titus.2.3.11.1" clear_id="n56002003011" n="282" after=",">δεδουλωμένας</token>
-     <token id="SBL.Titus.2.3.12.1" clear_id="n56002003012" n="283" after=",">καλοδιδασκάλους</token>
-     <token id="SBL.Titus.2.4.1.1" clear_id="n56002004001" n="284">ἵνα</token>
-     <token id="SBL.Titus.2.4.2.1" clear_id="n56002004002" n="285">σωφρονίζωσι</token>
-     <token id="SBL.Titus.2.4.3.1" clear_id="n56002004003" n="286">τὰς</token>
-     <token id="SBL.Titus.2.4.4.1" clear_id="n56002004004" n="287">νέας</token>
-     <token id="SBL.Titus.2.4.5.1" clear_id="n56002004005" n="288">φιλάνδρους</token>
-     <token id="SBL.Titus.2.4.6.1" clear_id="n56002004006" n="289" after=",">εἶναι</token>
-     <token id="SBL.Titus.2.4.7.1" clear_id="n56002004007" n="290" after=",">φιλοτέκνους</token>
-     <token id="SBL.Titus.2.5.1.1" clear_id="n56002005001" n="291" after=",">σώφρονας</token>
-     <token id="SBL.Titus.2.5.2.1" clear_id="n56002005002" n="292" after=",">ἁγνάς</token>
-     <token id="SBL.Titus.2.5.3.1" clear_id="n56002005003" n="293" after=",">οἰκουργούς</token>
-     <token id="SBL.Titus.2.5.4.1" clear_id="n56002005004" n="294" after=",">ἀγαθάς</token>
-     <token id="SBL.Titus.2.5.5.1" clear_id="n56002005005" n="295">ὑποτασσομένας</token>
-     <token id="SBL.Titus.2.5.6.1" clear_id="n56002005006" n="296">τοῖς</token>
-     <token id="SBL.Titus.2.5.7.1" clear_id="n56002005007" n="297">ἰδίοις</token>
-     <token id="SBL.Titus.2.5.8.1" clear_id="n56002005008" n="298" after=",">ἀνδράσιν</token>
-     <token id="SBL.Titus.2.5.9.1" clear_id="n56002005009" n="299">ἵνα</token>
-     <token id="SBL.Titus.2.5.10.1" clear_id="n56002005010" n="300">μὴ</token>
-     <token id="SBL.Titus.2.5.11.1" clear_id="n56002005011" n="301">ὁ</token>
-     <token id="SBL.Titus.2.5.12.1" clear_id="n56002005012" n="302">λόγος</token>
-     <token id="SBL.Titus.2.5.13.1" clear_id="n56002005013" n="303">τοῦ</token>
-     <token id="SBL.Titus.2.5.14.1" clear_id="n56002005014" n="304">θεοῦ</token>
-     <token id="SBL.Titus.2.5.15.1" clear_id="n56002005015" n="305" after=".">βλασφημῆται</token>
+     <token clearId="n56002003001" id="SBL.Titus.2.3.1.1">Πρεσβύτιδας</token>
+     <token clearId="n56002003002" id="SBL.Titus.2.3.2.1">ὡσαύτως</token>
+     <token clearId="n56002003003" id="SBL.Titus.2.3.3.1">ἐν</token>
+     <token clearId="n56002003004" id="SBL.Titus.2.3.4.1">καταστήματι</token>
+     <token clearId="n56002003005" id="SBL.Titus.2.3.5.1" after=",">ἱεροπρεπεῖς</token>
+     <token clearId="n56002003006" id="SBL.Titus.2.3.6.1">μὴ</token>
+     <token clearId="n56002003007" id="SBL.Titus.2.3.7.1">διαβόλους</token>
+     <token clearId="n56002003008" id="SBL.Titus.2.3.8.1">μηδὲ</token>
+     <token clearId="n56002003009" id="SBL.Titus.2.3.9.1">οἴνῳ</token>
+     <token clearId="n56002003010" id="SBL.Titus.2.3.10.1">πολλῷ</token>
+     <token clearId="n56002003011" id="SBL.Titus.2.3.11.1" after=",">δεδουλωμένας</token>
+     <token clearId="n56002003012" id="SBL.Titus.2.3.12.1" after=",">καλοδιδασκάλους</token>
+     <token clearId="n56002004001" id="SBL.Titus.2.4.1.1">ἵνα</token>
+     <token clearId="n56002004002" id="SBL.Titus.2.4.2.1">σωφρονίζωσι</token>
+     <token clearId="n56002004003" id="SBL.Titus.2.4.3.1">τὰς</token>
+     <token clearId="n56002004004" id="SBL.Titus.2.4.4.1">νέας</token>
+     <token clearId="n56002004005" id="SBL.Titus.2.4.5.1">φιλάνδρους</token>
+     <token clearId="n56002004006" id="SBL.Titus.2.4.6.1" after=",">εἶναι</token>
+     <token clearId="n56002004007" id="SBL.Titus.2.4.7.1" after=",">φιλοτέκνους</token>
+     <token clearId="n56002005001" id="SBL.Titus.2.5.1.1" after=",">σώφρονας</token>
+     <token clearId="n56002005002" id="SBL.Titus.2.5.2.1" after=",">ἁγνάς</token>
+     <token clearId="n56002005003" id="SBL.Titus.2.5.3.1" after=",">οἰκουργούς</token>
+     <token clearId="n56002005004" id="SBL.Titus.2.5.4.1" after=",">ἀγαθάς</token>
+     <token clearId="n56002005005" id="SBL.Titus.2.5.5.1">ὑποτασσομένας</token>
+     <token clearId="n56002005006" id="SBL.Titus.2.5.6.1">τοῖς</token>
+     <token clearId="n56002005007" id="SBL.Titus.2.5.7.1">ἰδίοις</token>
+     <token clearId="n56002005008" id="SBL.Titus.2.5.8.1" after=",">ἀνδράσιν</token>
+     <token clearId="n56002005009" id="SBL.Titus.2.5.9.1">ἵνα</token>
+     <token clearId="n56002005010" id="SBL.Titus.2.5.10.1">μὴ</token>
+     <token clearId="n56002005011" id="SBL.Titus.2.5.11.1">ὁ</token>
+     <token clearId="n56002005012" id="SBL.Titus.2.5.12.1">λόγος</token>
+     <token clearId="n56002005013" id="SBL.Titus.2.5.13.1">τοῦ</token>
+     <token clearId="n56002005014" id="SBL.Titus.2.5.14.1">θεοῦ</token>
+     <token clearId="n56002005015" id="SBL.Titus.2.5.15.1" after=".">βλασφημῆται</token>
     </move>
     <move id="m.SBL.Titus.2.6" chStart="2" vStart="6" chEnd="2" vEnd="6">
-     <token id="SBL.Titus.2.6.1.1" clear_id="n56002006001" n="306">Τοὺς</token>
-     <token id="SBL.Titus.2.6.2.1" clear_id="n56002006002" n="307">νεωτέρους</token>
-     <token id="SBL.Titus.2.6.3.1" clear_id="n56002006003" n="308">ὡσαύτως</token>
-     <token id="SBL.Titus.2.6.4.1" clear_id="n56002006004" n="309">παρακάλει</token>
-     <token id="SBL.Titus.2.6.5.1" clear_id="n56002006005" n="310" after="·">σωφρονεῖν</token>
+     <token clearId="n56002006001" id="SBL.Titus.2.6.1.1">Τοὺς</token>
+     <token clearId="n56002006002" id="SBL.Titus.2.6.2.1">νεωτέρους</token>
+     <token clearId="n56002006003" id="SBL.Titus.2.6.3.1">ὡσαύτως</token>
+     <token clearId="n56002006004" id="SBL.Titus.2.6.4.1">παρακάλει</token>
+     <token clearId="n56002006005" id="SBL.Titus.2.6.5.1" after="·">σωφρονεῖν</token>
     </move>
     <move id="m.SBL.Titus.2.7-8" chStart="2" vStart="7" chEnd="2" vEnd="8">
-     <token id="SBL.Titus.2.7.1.1" clear_id="n56002007001" n="311">περὶ</token>
-     <token id="SBL.Titus.2.7.2.1" clear_id="n56002007002" n="312">πάντα</token>
-     <token id="SBL.Titus.2.7.3.1" clear_id="n56002007003" n="313">σεαυτὸν</token>
-     <token id="SBL.Titus.2.7.4.1" clear_id="n56002007004" n="314">παρεχόμενος</token>
-     <token id="SBL.Titus.2.7.5.1" clear_id="n56002007005" n="315">τύπον</token>
-     <token id="SBL.Titus.2.7.6.1" clear_id="n56002007006" n="316">καλῶν</token>
-     <token id="SBL.Titus.2.7.7.1" clear_id="n56002007007" n="317" after=",">ἔργων</token>
-     <token id="SBL.Titus.2.7.8.1" clear_id="n56002007008" n="318">ἐν</token>
-     <token id="SBL.Titus.2.7.9.1" clear_id="n56002007009" n="319">τῇ</token>
-     <token id="SBL.Titus.2.7.10.1" clear_id="n56002007010" n="320">διδασκαλίᾳ</token>
-     <token id="SBL.Titus.2.7.11.1" clear_id="n56002007011" n="321" after=",">ἀφθορίαν</token>
-     <token id="SBL.Titus.2.7.12.1" clear_id="n56002007012" n="322" after=",">σεμνότητα</token>
-     <token id="SBL.Titus.2.8.1.1" clear_id="n56002008001" n="323">λόγον</token>
-     <token id="SBL.Titus.2.8.2.1" clear_id="n56002008002" n="324">ὑγιῆ</token>
-     <token id="SBL.Titus.2.8.3.1" clear_id="n56002008003" n="325" after=",">ἀκατάγνωστον</token>
-     <token id="SBL.Titus.2.8.4.1" clear_id="n56002008004" n="326">ἵνα</token>
-     <token id="SBL.Titus.2.8.5.1" clear_id="n56002008005" n="327">ὁ</token>
-     <token id="SBL.Titus.2.8.6.1" clear_id="n56002008006" n="328">ἐξ</token>
-     <token id="SBL.Titus.2.8.7.1" clear_id="n56002008007" n="329">ἐναντίας</token>
-     <token id="SBL.Titus.2.8.8.1" clear_id="n56002008008" n="330">ἐντραπῇ</token>
-     <token id="SBL.Titus.2.8.9.1" clear_id="n56002008009" n="331">μηδὲν</token>
-     <token id="SBL.Titus.2.8.10.1" clear_id="n56002008010" n="332">ἔχων</token>
-     <token id="SBL.Titus.2.8.11.1" clear_id="n56002008011" n="333">λέγειν</token>
-     <token id="SBL.Titus.2.8.12.1" clear_id="n56002008012" n="334">περὶ</token>
-     <token id="SBL.Titus.2.8.13.1" clear_id="n56002008013" n="335">ἡμῶν</token>
-     <token id="SBL.Titus.2.8.14.1" clear_id="n56002008014" n="336" after=".">φαῦλον</token>
+     <token clearId="n56002007001" id="SBL.Titus.2.7.1.1">περὶ</token>
+     <token clearId="n56002007002" id="SBL.Titus.2.7.2.1">πάντα</token>
+     <token clearId="n56002007003" id="SBL.Titus.2.7.3.1">σεαυτὸν</token>
+     <token clearId="n56002007004" id="SBL.Titus.2.7.4.1">παρεχόμενος</token>
+     <token clearId="n56002007005" id="SBL.Titus.2.7.5.1">τύπον</token>
+     <token clearId="n56002007006" id="SBL.Titus.2.7.6.1">καλῶν</token>
+     <token clearId="n56002007007" id="SBL.Titus.2.7.7.1" after=",">ἔργων</token>
+     <token clearId="n56002007008" id="SBL.Titus.2.7.8.1">ἐν</token>
+     <token clearId="n56002007009" id="SBL.Titus.2.7.9.1">τῇ</token>
+     <token clearId="n56002007010" id="SBL.Titus.2.7.10.1">διδασκαλίᾳ</token>
+     <token clearId="n56002007011" id="SBL.Titus.2.7.11.1" after=",">ἀφθορίαν</token>
+     <token clearId="n56002007012" id="SBL.Titus.2.7.12.1" after=",">σεμνότητα</token>
+     <token clearId="n56002008001" id="SBL.Titus.2.8.1.1">λόγον</token>
+     <token clearId="n56002008002" id="SBL.Titus.2.8.2.1">ὑγιῆ</token>
+     <token clearId="n56002008003" id="SBL.Titus.2.8.3.1" after=",">ἀκατάγνωστον</token>
+     <token clearId="n56002008004" id="SBL.Titus.2.8.4.1">ἵνα</token>
+     <token clearId="n56002008005" id="SBL.Titus.2.8.5.1">ὁ</token>
+     <token clearId="n56002008006" id="SBL.Titus.2.8.6.1">ἐξ</token>
+     <token clearId="n56002008007" id="SBL.Titus.2.8.7.1">ἐναντίας</token>
+     <token clearId="n56002008008" id="SBL.Titus.2.8.8.1">ἐντραπῇ</token>
+     <token clearId="n56002008009" id="SBL.Titus.2.8.9.1">μηδὲν</token>
+     <token clearId="n56002008010" id="SBL.Titus.2.8.10.1">ἔχων</token>
+     <token clearId="n56002008011" id="SBL.Titus.2.8.11.1">λέγειν</token>
+     <token clearId="n56002008012" id="SBL.Titus.2.8.12.1">περὶ</token>
+     <token clearId="n56002008013" id="SBL.Titus.2.8.13.1">ἡμῶν</token>
+     <token clearId="n56002008014" id="SBL.Titus.2.8.14.1" after=".">φαῦλον</token>
     </move>
     <move id="m.SBL.Titus.2.9-10" chStart="2" vStart="9" chEnd="2" vEnd="10">
-     <token id="SBL.Titus.2.9.1.1" clear_id="n56002009001" n="337">Δούλους</token>
-     <token id="SBL.Titus.2.9.2.1" clear_id="n56002009002" n="338">ἰδίοις</token>
-     <token id="SBL.Titus.2.9.3.1" clear_id="n56002009003" n="339">δεσπόταις</token>
-     <token id="SBL.Titus.2.9.4.1" clear_id="n56002009004" n="340">ὑποτάσσεσθαι</token>
-     <token id="SBL.Titus.2.9.5.1" clear_id="n56002009005" n="341">ἐν</token>
-     <token id="SBL.Titus.2.9.6.1" clear_id="n56002009006" n="342" after=",">πᾶσιν</token>
-     <token id="SBL.Titus.2.9.7.1" clear_id="n56002009007" n="343">εὐαρέστους</token>
-     <token id="SBL.Titus.2.9.8.1" clear_id="n56002009008" n="344" after=",">εἶναι</token>
-     <token id="SBL.Titus.2.9.9.1" clear_id="n56002009009" n="345">μὴ</token>
-     <token id="SBL.Titus.2.9.10.1" clear_id="n56002009010" n="346" after=",">ἀντιλέγοντας</token>
-     <token id="SBL.Titus.2.10.1.1" clear_id="n56002010001" n="347">μὴ</token>
-     <token id="SBL.Titus.2.10.2.1" clear_id="n56002010002" n="348" after=",">νοσφιζομένους</token>
-     <token id="SBL.Titus.2.10.3.1" clear_id="n56002010003" n="349">ἀλλὰ</token>
-     <token id="SBL.Titus.2.10.4.1" clear_id="n56002010004" n="350">πᾶσαν</token>
-     <token id="SBL.Titus.2.10.5.1" clear_id="n56002010005" n="351">πίστιν</token>
-     <token id="SBL.Titus.2.10.6.1" clear_id="n56002010006" n="352">ἐνδεικνυμένους</token>
-     <token id="SBL.Titus.2.10.7.1" clear_id="n56002010007" n="353" after=",">ἀγαθήν</token>
-     <token id="SBL.Titus.2.10.8.1" clear_id="n56002010008" n="354">ἵνα</token>
-     <token id="SBL.Titus.2.10.9.1" clear_id="n56002010009" n="355">τὴν</token>
-     <token id="SBL.Titus.2.10.10.1" clear_id="n56002010010" n="356">διδασκαλίαν</token>
-     <token id="SBL.Titus.2.10.11.1" clear_id="n56002010011" n="357">τὴν</token>
-     <token id="SBL.Titus.2.10.12.1" clear_id="n56002010012" n="358">τοῦ</token>
-     <token id="SBL.Titus.2.10.13.1" clear_id="n56002010013" n="359">σωτῆρος</token>
-     <token id="SBL.Titus.2.10.14.1" clear_id="n56002010014" n="360">ἡμῶν</token>
-     <token id="SBL.Titus.2.10.15.1" clear_id="n56002010015" n="361">θεοῦ</token>
-     <token id="SBL.Titus.2.10.16.1" clear_id="n56002010016" n="362">κοσμῶσιν</token>
-     <token id="SBL.Titus.2.10.17.1" clear_id="n56002010017" n="363">ἐν</token>
-     <token id="SBL.Titus.2.10.18.1" clear_id="n56002010018" n="364" after=".">πᾶσιν</token>
+     <token clearId="n56002009001" id="SBL.Titus.2.9.1.1">Δούλους</token>
+     <token clearId="n56002009002" id="SBL.Titus.2.9.2.1">ἰδίοις</token>
+     <token clearId="n56002009003" id="SBL.Titus.2.9.3.1">δεσπόταις</token>
+     <token clearId="n56002009004" id="SBL.Titus.2.9.4.1">ὑποτάσσεσθαι</token>
+     <token clearId="n56002009005" id="SBL.Titus.2.9.5.1">ἐν</token>
+     <token clearId="n56002009006" id="SBL.Titus.2.9.6.1" after=",">πᾶσιν</token>
+     <token clearId="n56002009007" id="SBL.Titus.2.9.7.1">εὐαρέστους</token>
+     <token clearId="n56002009008" id="SBL.Titus.2.9.8.1" after=",">εἶναι</token>
+     <token clearId="n56002009009" id="SBL.Titus.2.9.9.1">μὴ</token>
+     <token clearId="n56002009010" id="SBL.Titus.2.9.10.1" after=",">ἀντιλέγοντας</token>
+     <token clearId="n56002010001" id="SBL.Titus.2.10.1.1">μὴ</token>
+     <token clearId="n56002010002" id="SBL.Titus.2.10.2.1" after=",">νοσφιζομένους</token>
+     <token clearId="n56002010003" id="SBL.Titus.2.10.3.1">ἀλλὰ</token>
+     <token clearId="n56002010004" id="SBL.Titus.2.10.4.1">πᾶσαν</token>
+     <token clearId="n56002010005" id="SBL.Titus.2.10.5.1">πίστιν</token>
+     <token clearId="n56002010006" id="SBL.Titus.2.10.6.1">ἐνδεικνυμένους</token>
+     <token clearId="n56002010007" id="SBL.Titus.2.10.7.1" after=",">ἀγαθήν</token>
+     <token clearId="n56002010008" id="SBL.Titus.2.10.8.1">ἵνα</token>
+     <token clearId="n56002010009" id="SBL.Titus.2.10.9.1">τὴν</token>
+     <token clearId="n56002010010" id="SBL.Titus.2.10.10.1">διδασκαλίαν</token>
+     <token clearId="n56002010011" id="SBL.Titus.2.10.11.1">τὴν</token>
+     <token clearId="n56002010012" id="SBL.Titus.2.10.12.1">τοῦ</token>
+     <token clearId="n56002010013" id="SBL.Titus.2.10.13.1">σωτῆρος</token>
+     <token clearId="n56002010014" id="SBL.Titus.2.10.14.1">ἡμῶν</token>
+     <token clearId="n56002010015" id="SBL.Titus.2.10.15.1">θεοῦ</token>
+     <token clearId="n56002010016" id="SBL.Titus.2.10.16.1">κοσμῶσιν</token>
+     <token clearId="n56002010017" id="SBL.Titus.2.10.17.1">ἐν</token>
+     <token clearId="n56002010018" id="SBL.Titus.2.10.18.1" after=".">πᾶσιν</token>
     </move>
    </seg>
    <seg id="s.SBL.Titus.2.11-15" title="The Grace of Salvation and Its Sanctifying Power">
     <move id="m.SBL.Titus.2.11-14" chStart="2" vStart="11" chEnd="2" vEnd="14">
-     <token id="SBL.Titus.2.11.1.1" clear_id="n56002011001" n="365">Ἐπεφάνη</token>
-     <token id="SBL.Titus.2.11.2.1" clear_id="n56002011002" n="366">γὰρ</token>
-     <token id="SBL.Titus.2.11.3.1" clear_id="n56002011003" n="367">ἡ</token>
-     <token id="SBL.Titus.2.11.4.1" clear_id="n56002011004" n="368">χάρις</token>
-     <token id="SBL.Titus.2.11.5.1" clear_id="n56002011005" n="369">τοῦ</token>
-     <token id="SBL.Titus.2.11.6.1" clear_id="n56002011006" n="370">θεοῦ</token>
-     <token id="SBL.Titus.2.11.7.1" clear_id="n56002011007" n="371">σωτήριος</token>
-     <token id="SBL.Titus.2.11.8.1" clear_id="n56002011008" n="372">πᾶσιν</token>
-     <token id="SBL.Titus.2.11.9.1" clear_id="n56002011009" n="373">ἀνθρώποις</token>
-     <token id="SBL.Titus.2.12.1.1" clear_id="n56002012001" n="374">παιδεύουσα</token>
-     <token id="SBL.Titus.2.12.2.1" clear_id="n56002012002" n="375" after=",">ἡμᾶς</token>
-     <token id="SBL.Titus.2.12.3.1" clear_id="n56002012003" n="376">ἵνα</token>
-     <token id="SBL.Titus.2.12.4.1" clear_id="n56002012004" n="377">ἀρνησάμενοι</token>
-     <token id="SBL.Titus.2.12.5.1" clear_id="n56002012005" n="378">τὴν</token>
-     <token id="SBL.Titus.2.12.6.1" clear_id="n56002012006" n="379">ἀσέβειαν</token>
-     <token id="SBL.Titus.2.12.7.1" clear_id="n56002012007" n="380">καὶ</token>
-     <token id="SBL.Titus.2.12.8.1" clear_id="n56002012008" n="381">τὰς</token>
-     <token id="SBL.Titus.2.12.9.1" clear_id="n56002012009" n="382">κοσμικὰς</token>
-     <token id="SBL.Titus.2.12.10.1" clear_id="n56002012010" n="383">ἐπιθυμίας</token>
-     <token id="SBL.Titus.2.12.11.1" clear_id="n56002012011" n="384">σωφρόνως</token>
-     <token id="SBL.Titus.2.12.12.1" clear_id="n56002012012" n="385">καὶ</token>
-     <token id="SBL.Titus.2.12.13.1" clear_id="n56002012013" n="386">δικαίως</token>
-     <token id="SBL.Titus.2.12.14.1" clear_id="n56002012014" n="387">καὶ</token>
-     <token id="SBL.Titus.2.12.15.1" clear_id="n56002012015" n="388">εὐσεβῶς</token>
-     <token id="SBL.Titus.2.12.16.1" clear_id="n56002012016" n="389">ζήσωμεν</token>
-     <token id="SBL.Titus.2.12.17.1" clear_id="n56002012017" n="390">ἐν</token>
-     <token id="SBL.Titus.2.12.18.1" clear_id="n56002012018" n="391">τῷ</token>
-     <token id="SBL.Titus.2.12.19.1" clear_id="n56002012019" n="392">νῦν</token>
-     <token id="SBL.Titus.2.12.20.1" clear_id="n56002012020" n="393" after=",">αἰῶνι</token>
-     <token id="SBL.Titus.2.13.1.1" clear_id="n56002013001" n="394">προσδεχόμενοι</token>
-     <token id="SBL.Titus.2.13.2.1" clear_id="n56002013002" n="395">τὴν</token>
-     <token id="SBL.Titus.2.13.3.1" clear_id="n56002013003" n="396">μακαρίαν</token>
-     <token id="SBL.Titus.2.13.4.1" clear_id="n56002013004" n="397">ἐλπίδα</token>
-     <token id="SBL.Titus.2.13.5.1" clear_id="n56002013005" n="398">καὶ</token>
-     <token id="SBL.Titus.2.13.6.1" clear_id="n56002013006" n="399">ἐπιφάνειαν</token>
-     <token id="SBL.Titus.2.13.7.1" clear_id="n56002013007" n="400">τῆς</token>
-     <token id="SBL.Titus.2.13.8.1" clear_id="n56002013008" n="401">δόξης</token>
-     <token id="SBL.Titus.2.13.9.1" clear_id="n56002013009" n="402">τοῦ</token>
-     <token id="SBL.Titus.2.13.10.1" clear_id="n56002013010" n="403">μεγάλου</token>
-     <token id="SBL.Titus.2.13.11.1" clear_id="n56002013011" n="404">θεοῦ</token>
-     <token id="SBL.Titus.2.13.12.1" clear_id="n56002013012" n="405">καὶ</token>
-     <token id="SBL.Titus.2.13.13.1" clear_id="n56002013013" n="406">σωτῆρος</token>
-     <token id="SBL.Titus.2.13.14.1" clear_id="n56002013014" n="407">ἡμῶν</token>
-     <token id="SBL.Titus.2.13.15.1" clear_id="n56002013015" n="408">Ἰησοῦ</token>
-     <token id="SBL.Titus.2.13.16.1" clear_id="n56002013016" n="409" after=",">Χριστοῦ</token>
-     <token id="SBL.Titus.2.14.1.1" clear_id="n56002014001" n="410">ὃς</token>
-     <token id="SBL.Titus.2.14.2.1" clear_id="n56002014002" n="411">ἔδωκεν</token>
-     <token id="SBL.Titus.2.14.3.1" clear_id="n56002014003" n="412">ἑαυτὸν</token>
-     <token id="SBL.Titus.2.14.4.1" clear_id="n56002014004" n="413">ὑπὲρ</token>
-     <token id="SBL.Titus.2.14.5.1" clear_id="n56002014005" n="414">ἡμῶν</token>
-     <token id="SBL.Titus.2.14.6.1" clear_id="n56002014006" n="415">ἵνα</token>
-     <token id="SBL.Titus.2.14.7.1" clear_id="n56002014007" n="416">λυτρώσηται</token>
-     <token id="SBL.Titus.2.14.8.1" clear_id="n56002014008" n="417">ἡμᾶς</token>
-     <token id="SBL.Titus.2.14.9.1" clear_id="n56002014009" n="418">ἀπὸ</token>
-     <token id="SBL.Titus.2.14.10.1" clear_id="n56002014010" n="419">πάσης</token>
-     <token id="SBL.Titus.2.14.11.1" clear_id="n56002014011" n="420">ἀνομίας</token>
-     <token id="SBL.Titus.2.14.12.1" clear_id="n56002014012" n="421">καὶ</token>
-     <token id="SBL.Titus.2.14.13.1" clear_id="n56002014013" n="422">καθαρίσῃ</token>
-     <token id="SBL.Titus.2.14.14.1" clear_id="n56002014014" n="423">ἑαυτῷ</token>
-     <token id="SBL.Titus.2.14.15.1" clear_id="n56002014015" n="424">λαὸν</token>
-     <token id="SBL.Titus.2.14.16.1" clear_id="n56002014016" n="425" after=",">περιούσιον</token>
-     <token id="SBL.Titus.2.14.17.1" clear_id="n56002014017" n="426">ζηλωτὴν</token>
-     <token id="SBL.Titus.2.14.18.1" clear_id="n56002014018" n="427">καλῶν</token>
-     <token id="SBL.Titus.2.14.19.1" clear_id="n56002014019" n="428" after=".">ἔργων</token>
+     <token clearId="n56002011001" id="SBL.Titus.2.11.1.1">Ἐπεφάνη</token>
+     <token clearId="n56002011002" id="SBL.Titus.2.11.2.1">γὰρ</token>
+     <token clearId="n56002011003" id="SBL.Titus.2.11.3.1">ἡ</token>
+     <token clearId="n56002011004" id="SBL.Titus.2.11.4.1">χάρις</token>
+     <token clearId="n56002011005" id="SBL.Titus.2.11.5.1">τοῦ</token>
+     <token clearId="n56002011006" id="SBL.Titus.2.11.6.1">θεοῦ</token>
+     <token clearId="n56002011007" id="SBL.Titus.2.11.7.1">σωτήριος</token>
+     <token clearId="n56002011008" id="SBL.Titus.2.11.8.1">πᾶσιν</token>
+     <token clearId="n56002011009" id="SBL.Titus.2.11.9.1">ἀνθρώποις</token>
+     <token clearId="n56002012001" id="SBL.Titus.2.12.1.1">παιδεύουσα</token>
+     <token clearId="n56002012002" id="SBL.Titus.2.12.2.1" after=",">ἡμᾶς</token>
+     <token clearId="n56002012003" id="SBL.Titus.2.12.3.1">ἵνα</token>
+     <token clearId="n56002012004" id="SBL.Titus.2.12.4.1">ἀρνησάμενοι</token>
+     <token clearId="n56002012005" id="SBL.Titus.2.12.5.1">τὴν</token>
+     <token clearId="n56002012006" id="SBL.Titus.2.12.6.1">ἀσέβειαν</token>
+     <token clearId="n56002012007" id="SBL.Titus.2.12.7.1">καὶ</token>
+     <token clearId="n56002012008" id="SBL.Titus.2.12.8.1">τὰς</token>
+     <token clearId="n56002012009" id="SBL.Titus.2.12.9.1">κοσμικὰς</token>
+     <token clearId="n56002012010" id="SBL.Titus.2.12.10.1">ἐπιθυμίας</token>
+     <token clearId="n56002012011" id="SBL.Titus.2.12.11.1">σωφρόνως</token>
+     <token clearId="n56002012012" id="SBL.Titus.2.12.12.1">καὶ</token>
+     <token clearId="n56002012013" id="SBL.Titus.2.12.13.1">δικαίως</token>
+     <token clearId="n56002012014" id="SBL.Titus.2.12.14.1">καὶ</token>
+     <token clearId="n56002012015" id="SBL.Titus.2.12.15.1">εὐσεβῶς</token>
+     <token clearId="n56002012016" id="SBL.Titus.2.12.16.1">ζήσωμεν</token>
+     <token clearId="n56002012017" id="SBL.Titus.2.12.17.1">ἐν</token>
+     <token clearId="n56002012018" id="SBL.Titus.2.12.18.1">τῷ</token>
+     <token clearId="n56002012019" id="SBL.Titus.2.12.19.1">νῦν</token>
+     <token clearId="n56002012020" id="SBL.Titus.2.12.20.1" after=",">αἰῶνι</token>
+     <token clearId="n56002013001" id="SBL.Titus.2.13.1.1">προσδεχόμενοι</token>
+     <token clearId="n56002013002" id="SBL.Titus.2.13.2.1">τὴν</token>
+     <token clearId="n56002013003" id="SBL.Titus.2.13.3.1">μακαρίαν</token>
+     <token clearId="n56002013004" id="SBL.Titus.2.13.4.1">ἐλπίδα</token>
+     <token clearId="n56002013005" id="SBL.Titus.2.13.5.1">καὶ</token>
+     <token clearId="n56002013006" id="SBL.Titus.2.13.6.1">ἐπιφάνειαν</token>
+     <token clearId="n56002013007" id="SBL.Titus.2.13.7.1">τῆς</token>
+     <token clearId="n56002013008" id="SBL.Titus.2.13.8.1">δόξης</token>
+     <token clearId="n56002013009" id="SBL.Titus.2.13.9.1">τοῦ</token>
+     <token clearId="n56002013010" id="SBL.Titus.2.13.10.1">μεγάλου</token>
+     <token clearId="n56002013011" id="SBL.Titus.2.13.11.1">θεοῦ</token>
+     <token clearId="n56002013012" id="SBL.Titus.2.13.12.1">καὶ</token>
+     <token clearId="n56002013013" id="SBL.Titus.2.13.13.1">σωτῆρος</token>
+     <token clearId="n56002013014" id="SBL.Titus.2.13.14.1">ἡμῶν</token>
+     <token clearId="n56002013015" id="SBL.Titus.2.13.15.1">Ἰησοῦ</token>
+     <token clearId="n56002013016" id="SBL.Titus.2.13.16.1" after=",">Χριστοῦ</token>
+     <token clearId="n56002014001" id="SBL.Titus.2.14.1.1">ὃς</token>
+     <token clearId="n56002014002" id="SBL.Titus.2.14.2.1">ἔδωκεν</token>
+     <token clearId="n56002014003" id="SBL.Titus.2.14.3.1">ἑαυτὸν</token>
+     <token clearId="n56002014004" id="SBL.Titus.2.14.4.1">ὑπὲρ</token>
+     <token clearId="n56002014005" id="SBL.Titus.2.14.5.1">ἡμῶν</token>
+     <token clearId="n56002014006" id="SBL.Titus.2.14.6.1">ἵνα</token>
+     <token clearId="n56002014007" id="SBL.Titus.2.14.7.1">λυτρώσηται</token>
+     <token clearId="n56002014008" id="SBL.Titus.2.14.8.1">ἡμᾶς</token>
+     <token clearId="n56002014009" id="SBL.Titus.2.14.9.1">ἀπὸ</token>
+     <token clearId="n56002014010" id="SBL.Titus.2.14.10.1">πάσης</token>
+     <token clearId="n56002014011" id="SBL.Titus.2.14.11.1">ἀνομίας</token>
+     <token clearId="n56002014012" id="SBL.Titus.2.14.12.1">καὶ</token>
+     <token clearId="n56002014013" id="SBL.Titus.2.14.13.1">καθαρίσῃ</token>
+     <token clearId="n56002014014" id="SBL.Titus.2.14.14.1">ἑαυτῷ</token>
+     <token clearId="n56002014015" id="SBL.Titus.2.14.15.1">λαὸν</token>
+     <token clearId="n56002014016" id="SBL.Titus.2.14.16.1" after=",">περιούσιον</token>
+     <token clearId="n56002014017" id="SBL.Titus.2.14.17.1">ζηλωτὴν</token>
+     <token clearId="n56002014018" id="SBL.Titus.2.14.18.1">καλῶν</token>
+     <token clearId="n56002014019" id="SBL.Titus.2.14.19.1" after=".">ἔργων</token>
     </move>
     <move id="m.SBL.Titus.2.15.1-9" chStart="2" vStart="15" chEnd="2" vEnd="15">
-     <token id="SBL.Titus.2.15.1.1" clear_id="n56002015001" n="429">Ταῦτα</token>
-     <token id="SBL.Titus.2.15.2.1" clear_id="n56002015002" n="430">λάλει</token>
-     <token id="SBL.Titus.2.15.3.1" clear_id="n56002015003" n="431">καὶ</token>
-     <token id="SBL.Titus.2.15.4.1" clear_id="n56002015004" n="432">παρακάλει</token>
-     <token id="SBL.Titus.2.15.5.1" clear_id="n56002015005" n="433">καὶ</token>
-     <token id="SBL.Titus.2.15.6.1" clear_id="n56002015006" n="434">ἔλεγχε</token>
-     <token id="SBL.Titus.2.15.7.1" clear_id="n56002015007" n="435">μετὰ</token>
-     <token id="SBL.Titus.2.15.8.1" clear_id="n56002015008" n="436">πάσης</token>
-     <token id="SBL.Titus.2.15.9.1" clear_id="n56002015009" n="437" after="·">ἐπιταγῆς</token>
+     <token clearId="n56002015001" id="SBL.Titus.2.15.1.1">Ταῦτα</token>
+     <token clearId="n56002015002" id="SBL.Titus.2.15.2.1">λάλει</token>
+     <token clearId="n56002015003" id="SBL.Titus.2.15.3.1">καὶ</token>
+     <token clearId="n56002015004" id="SBL.Titus.2.15.4.1">παρακάλει</token>
+     <token clearId="n56002015005" id="SBL.Titus.2.15.5.1">καὶ</token>
+     <token clearId="n56002015006" id="SBL.Titus.2.15.6.1">ἔλεγχε</token>
+     <token clearId="n56002015007" id="SBL.Titus.2.15.7.1">μετὰ</token>
+     <token clearId="n56002015008" id="SBL.Titus.2.15.8.1">πάσης</token>
+     <token clearId="n56002015009" id="SBL.Titus.2.15.9.1" after="·">ἐπιταγῆς</token>
     </move>
     <move id="m.SBL.Titus.2.15.10-12" chStart="2" vStart="15" chEnd="2" vEnd="15">
-     <token id="SBL.Titus.2.15.10.1" clear_id="n56002015010" n="438">μηδείς</token>
-     <token id="SBL.Titus.2.15.11.1" clear_id="n56002015011" n="439">σου</token>
-     <token id="SBL.Titus.2.15.12.1" clear_id="n56002015012" n="440" after=".">περιφρονείτω</token>
+     <token clearId="n56002015010" id="SBL.Titus.2.15.10.1">μηδείς</token>
+     <token clearId="n56002015011" id="SBL.Titus.2.15.11.1">σου</token>
+     <token clearId="n56002015012" id="SBL.Titus.2.15.12.1" after=".">περιφρονείτω</token>
     </move>
    </seg>
    <seg id="s.SBL.Titus.3.1-3" title="An Admonition to Obedience and Meekness">
     <move id="m.SBL.Titus.3.1-2" chStart="3" vStart="1" chEnd="3" vEnd="2">
-     <token id="SBL.Titus.3.1.1.1" clear_id="n56003001001" n="441">Ὑπομίμνῃσκε</token>
-     <token id="SBL.Titus.3.1.2.1" clear_id="n56003001002" n="442">αὐτοὺς</token>
-     <token id="SBL.Titus.3.1.3.1" clear_id="n56003001003" n="443">ἀρχαῖς</token>
-     <token id="SBL.Titus.3.1.4.1" clear_id="n56003001004" n="444">ἐξουσίαις</token>
-     <token id="SBL.Titus.3.1.5.1" clear_id="n56003001005" n="445">ὑποτάσσεσθαι</token>
-     <token id="SBL.Titus.3.1.6.1" clear_id="n56003001006" n="446" after=",">πειθαρχεῖν</token>
-     <token id="SBL.Titus.3.1.7.1" clear_id="n56003001007" n="447">πρὸς</token>
-     <token id="SBL.Titus.3.1.8.1" clear_id="n56003001008" n="448">πᾶν</token>
-     <token id="SBL.Titus.3.1.9.1" clear_id="n56003001009" n="449">ἔργον</token>
-     <token id="SBL.Titus.3.1.10.1" clear_id="n56003001010" n="450">ἀγαθὸν</token>
-     <token id="SBL.Titus.3.1.11.1" clear_id="n56003001011" n="451">ἑτοίμους</token>
-     <token id="SBL.Titus.3.1.12.1" clear_id="n56003001012" n="452" after=",">εἶναι</token>
-     <token id="SBL.Titus.3.2.1.1" clear_id="n56003002001" n="453">μηδένα</token>
-     <token id="SBL.Titus.3.2.2.1" clear_id="n56003002002" n="454" after=",">βλασφημεῖν</token>
-     <token id="SBL.Titus.3.2.3.1" clear_id="n56003002003" n="455">ἀμάχους</token>
-     <token id="SBL.Titus.3.2.4.1" clear_id="n56003002004" n="456" after=",">εἶναι</token>
-     <token id="SBL.Titus.3.2.5.1" clear_id="n56003002005" n="457" after=",">ἐπιεικεῖς</token>
-     <token id="SBL.Titus.3.2.6.1" clear_id="n56003002006" n="458">πᾶσαν</token>
-     <token id="SBL.Titus.3.2.7.1" clear_id="n56003002007" n="459">ἐνδεικνυμένους</token>
-     <token id="SBL.Titus.3.2.8.1" clear_id="n56003002008" n="460">πραΰτητα</token>
-     <token id="SBL.Titus.3.2.9.1" clear_id="n56003002009" n="461">πρὸς</token>
-     <token id="SBL.Titus.3.2.10.1" clear_id="n56003002010" n="462">πάντας</token>
-     <token id="SBL.Titus.3.2.11.1" clear_id="n56003002011" n="463" after=".">ἀνθρώπους</token>
+     <token clearId="n56003001001" id="SBL.Titus.3.1.1.1">Ὑπομίμνῃσκε</token>
+     <token clearId="n56003001002" id="SBL.Titus.3.1.2.1">αὐτοὺς</token>
+     <token clearId="n56003001003" id="SBL.Titus.3.1.3.1">ἀρχαῖς</token>
+     <token clearId="n56003001004" id="SBL.Titus.3.1.4.1">ἐξουσίαις</token>
+     <token clearId="n56003001005" id="SBL.Titus.3.1.5.1">ὑποτάσσεσθαι</token>
+     <token clearId="n56003001006" id="SBL.Titus.3.1.6.1" after=",">πειθαρχεῖν</token>
+     <token clearId="n56003001007" id="SBL.Titus.3.1.7.1">πρὸς</token>
+     <token clearId="n56003001008" id="SBL.Titus.3.1.8.1">πᾶν</token>
+     <token clearId="n56003001009" id="SBL.Titus.3.1.9.1">ἔργον</token>
+     <token clearId="n56003001010" id="SBL.Titus.3.1.10.1">ἀγαθὸν</token>
+     <token clearId="n56003001011" id="SBL.Titus.3.1.11.1">ἑτοίμους</token>
+     <token clearId="n56003001012" id="SBL.Titus.3.1.12.1" after=",">εἶναι</token>
+     <token clearId="n56003002001" id="SBL.Titus.3.2.1.1">μηδένα</token>
+     <token clearId="n56003002002" id="SBL.Titus.3.2.2.1" after=",">βλασφημεῖν</token>
+     <token clearId="n56003002003" id="SBL.Titus.3.2.3.1">ἀμάχους</token>
+     <token clearId="n56003002004" id="SBL.Titus.3.2.4.1" after=",">εἶναι</token>
+     <token clearId="n56003002005" id="SBL.Titus.3.2.5.1" after=",">ἐπιεικεῖς</token>
+     <token clearId="n56003002006" id="SBL.Titus.3.2.6.1">πᾶσαν</token>
+     <token clearId="n56003002007" id="SBL.Titus.3.2.7.1">ἐνδεικνυμένους</token>
+     <token clearId="n56003002008" id="SBL.Titus.3.2.8.1">πραΰτητα</token>
+     <token clearId="n56003002009" id="SBL.Titus.3.2.9.1">πρὸς</token>
+     <token clearId="n56003002010" id="SBL.Titus.3.2.10.1">πάντας</token>
+     <token clearId="n56003002011" id="SBL.Titus.3.2.11.1" after=".">ἀνθρώπους</token>
     </move>
     <move id="m.SBL.Titus.3.3" chStart="3" vStart="3" chEnd="3" vEnd="3">
-     <token id="SBL.Titus.3.3.1.1" clear_id="n56003003001" n="464">ἦμεν</token>
-     <token id="SBL.Titus.3.3.2.1" clear_id="n56003003002" n="465">γάρ</token>
-     <token id="SBL.Titus.3.3.3.1" clear_id="n56003003003" n="466">ποτε</token>
-     <token id="SBL.Titus.3.3.4.1" clear_id="n56003003004" n="467">καὶ</token>
-     <token id="SBL.Titus.3.3.5.1" clear_id="n56003003005" n="468">ἡμεῖς</token>
-     <token id="SBL.Titus.3.3.6.1" clear_id="n56003003006" n="469" after=",">ἀνόητοι</token>
-     <token id="SBL.Titus.3.3.7.1" clear_id="n56003003007" n="470" after=",">ἀπειθεῖς</token>
-     <token id="SBL.Titus.3.3.8.1" clear_id="n56003003008" n="471" after=",">πλανώμενοι</token>
-     <token id="SBL.Titus.3.3.9.1" clear_id="n56003003009" n="472">δουλεύοντες</token>
-     <token id="SBL.Titus.3.3.10.1" clear_id="n56003003010" n="473">ἐπιθυμίαις</token>
-     <token id="SBL.Titus.3.3.11.1" clear_id="n56003003011" n="474">καὶ</token>
-     <token id="SBL.Titus.3.3.12.1" clear_id="n56003003012" n="475">ἡδοναῖς</token>
-     <token id="SBL.Titus.3.3.13.1" clear_id="n56003003013" n="476" after=",">ποικίλαις</token>
-     <token id="SBL.Titus.3.3.14.1" clear_id="n56003003014" n="477">ἐν</token>
-     <token id="SBL.Titus.3.3.15.1" clear_id="n56003003015" n="478">κακίᾳ</token>
-     <token id="SBL.Titus.3.3.16.1" clear_id="n56003003016" n="479">καὶ</token>
-     <token id="SBL.Titus.3.3.17.1" clear_id="n56003003017" n="480">φθόνῳ</token>
-     <token id="SBL.Titus.3.3.18.1" clear_id="n56003003018" n="481" after=",">διάγοντες</token>
-     <token id="SBL.Titus.3.3.19.1" clear_id="n56003003019" n="482" after=",">στυγητοί</token>
-     <token id="SBL.Titus.3.3.20.1" clear_id="n56003003020" n="483">μισοῦντες</token>
-     <token id="SBL.Titus.3.3.21.1" clear_id="n56003003021" n="484" after=".">ἀλλήλους</token>
+     <token clearId="n56003003001" id="SBL.Titus.3.3.1.1">ἦμεν</token>
+     <token clearId="n56003003002" id="SBL.Titus.3.3.2.1">γάρ</token>
+     <token clearId="n56003003003" id="SBL.Titus.3.3.3.1">ποτε</token>
+     <token clearId="n56003003004" id="SBL.Titus.3.3.4.1">καὶ</token>
+     <token clearId="n56003003005" id="SBL.Titus.3.3.5.1">ἡμεῖς</token>
+     <token clearId="n56003003006" id="SBL.Titus.3.3.6.1" after=",">ἀνόητοι</token>
+     <token clearId="n56003003007" id="SBL.Titus.3.3.7.1" after=",">ἀπειθεῖς</token>
+     <token clearId="n56003003008" id="SBL.Titus.3.3.8.1" after=",">πλανώμενοι</token>
+     <token clearId="n56003003009" id="SBL.Titus.3.3.9.1">δουλεύοντες</token>
+     <token clearId="n56003003010" id="SBL.Titus.3.3.10.1">ἐπιθυμίαις</token>
+     <token clearId="n56003003011" id="SBL.Titus.3.3.11.1">καὶ</token>
+     <token clearId="n56003003012" id="SBL.Titus.3.3.12.1">ἡδοναῖς</token>
+     <token clearId="n56003003013" id="SBL.Titus.3.3.13.1" after=",">ποικίλαις</token>
+     <token clearId="n56003003014" id="SBL.Titus.3.3.14.1">ἐν</token>
+     <token clearId="n56003003015" id="SBL.Titus.3.3.15.1">κακίᾳ</token>
+     <token clearId="n56003003016" id="SBL.Titus.3.3.16.1">καὶ</token>
+     <token clearId="n56003003017" id="SBL.Titus.3.3.17.1">φθόνῳ</token>
+     <token clearId="n56003003018" id="SBL.Titus.3.3.18.1" after=",">διάγοντες</token>
+     <token clearId="n56003003019" id="SBL.Titus.3.3.19.1" after=",">στυγητοί</token>
+     <token clearId="n56003003020" id="SBL.Titus.3.3.20.1">μισοῦντες</token>
+     <token clearId="n56003003021" id="SBL.Titus.3.3.21.1" after=".">ἀλλήλους</token>
     </move>
    </seg>
    <seg id="s.SBL.Titus.3.4-8" title="The Washing of Regeneration and Its Wonderful Power">
     <move id="m.SBL.Titus.3.4-7" chStart="3" vStart="4" chEnd="3" vEnd="7">
-     <token id="SBL.Titus.3.4.1.1" clear_id="n56003004001" n="485">ὅτε</token>
-     <token id="SBL.Titus.3.4.2.1" clear_id="n56003004002" n="486">δὲ</token>
-     <token id="SBL.Titus.3.4.3.1" clear_id="n56003004003" n="487">ἡ</token>
-     <token id="SBL.Titus.3.4.4.1" clear_id="n56003004004" n="488">χρηστότης</token>
-     <token id="SBL.Titus.3.4.5.1" clear_id="n56003004005" n="489">καὶ</token>
-     <token id="SBL.Titus.3.4.6.1" clear_id="n56003004006" n="490">ἡ</token>
-     <token id="SBL.Titus.3.4.7.1" clear_id="n56003004007" n="491">φιλανθρωπία</token>
-     <token id="SBL.Titus.3.4.8.1" clear_id="n56003004008" n="492">ἐπεφάνη</token>
-     <token id="SBL.Titus.3.4.9.1" clear_id="n56003004009" n="493">τοῦ</token>
-     <token id="SBL.Titus.3.4.10.1" clear_id="n56003004010" n="494">σωτῆρος</token>
-     <token id="SBL.Titus.3.4.11.1" clear_id="n56003004011" n="495">ἡμῶν</token>
-     <token id="SBL.Titus.3.4.12.1" clear_id="n56003004012" n="496" after=",">θεοῦ</token>
-     <token id="SBL.Titus.3.5.1.1" clear_id="n56003005001" n="497">οὐκ</token>
-     <token id="SBL.Titus.3.5.2.1" clear_id="n56003005002" n="498">ἐξ</token>
-     <token id="SBL.Titus.3.5.3.1" clear_id="n56003005003" n="499">ἔργων</token>
-     <token id="SBL.Titus.3.5.4.1" clear_id="n56003005004" n="500">τῶν</token>
-     <token id="SBL.Titus.3.5.5.1" clear_id="n56003005005" n="501">ἐν</token>
-     <token id="SBL.Titus.3.5.6.1" clear_id="n56003005006" n="502">δικαιοσύνῃ</token>
-     <token id="SBL.Titus.3.5.7.1" clear_id="n56003005007" n="503">ἃ</token>
-     <token id="SBL.Titus.3.5.8.1" clear_id="n56003005008" n="504">ἐποιήσαμεν</token>
-     <token id="SBL.Titus.3.5.9.1" clear_id="n56003005009" n="505">ἡμεῖς</token>
-     <token id="SBL.Titus.3.5.10.1" clear_id="n56003005010" n="506">ἀλλὰ</token>
-     <token id="SBL.Titus.3.5.11.1" clear_id="n56003005011" n="507">κατὰ</token>
-     <token id="SBL.Titus.3.5.12.1" clear_id="n56003005012" n="508">τὸ</token>
-     <token id="SBL.Titus.3.5.13.1" clear_id="n56003005013" n="509">αὐτοῦ</token>
-     <token id="SBL.Titus.3.5.14.1" clear_id="n56003005014" n="510">ἔλεος</token>
-     <token id="SBL.Titus.3.5.15.1" clear_id="n56003005015" n="511">ἔσωσεν</token>
-     <token id="SBL.Titus.3.5.16.1" clear_id="n56003005016" n="512">ἡμᾶς</token>
-     <token id="SBL.Titus.3.5.17.1" clear_id="n56003005017" n="513">διὰ</token>
-     <token id="SBL.Titus.3.5.18.1" clear_id="n56003005018" n="514">λουτροῦ</token>
-     <token id="SBL.Titus.3.5.19.1" clear_id="n56003005019" n="515">παλιγγενεσίας</token>
-     <token id="SBL.Titus.3.5.20.1" clear_id="n56003005020" n="516">καὶ</token>
-     <token id="SBL.Titus.3.5.21.1" clear_id="n56003005021" n="517">ἀνακαινώσεως</token>
-     <token id="SBL.Titus.3.5.22.1" clear_id="n56003005022" n="518">πνεύματος</token>
-     <token id="SBL.Titus.3.5.23.1" clear_id="n56003005023" n="519" after=",">ἁγίου</token>
-     <token id="SBL.Titus.3.6.1.1" clear_id="n56003006001" n="520">οὗ</token>
-     <token id="SBL.Titus.3.6.2.1" clear_id="n56003006002" n="521">ἐξέχεεν</token>
-     <token id="SBL.Titus.3.6.3.1" clear_id="n56003006003" n="522">ἐφ’</token>
-     <token id="SBL.Titus.3.6.4.1" clear_id="n56003006004" n="523">ἡμᾶς</token>
-     <token id="SBL.Titus.3.6.5.1" clear_id="n56003006005" n="524">πλουσίως</token>
-     <token id="SBL.Titus.3.6.6.1" clear_id="n56003006006" n="525">διὰ</token>
-     <token id="SBL.Titus.3.6.7.1" clear_id="n56003006007" n="526">Ἰησοῦ</token>
-     <token id="SBL.Titus.3.6.8.1" clear_id="n56003006008" n="527">Χριστοῦ</token>
-     <token id="SBL.Titus.3.6.9.1" clear_id="n56003006009" n="528">τοῦ</token>
-     <token id="SBL.Titus.3.6.10.1" clear_id="n56003006010" n="529">σωτῆρος</token>
-     <token id="SBL.Titus.3.6.11.1" clear_id="n56003006011" n="530" after=",">ἡμῶν</token>
-     <token id="SBL.Titus.3.7.1.1" clear_id="n56003007001" n="531">ἵνα</token>
-     <token id="SBL.Titus.3.7.2.1" clear_id="n56003007002" n="532">δικαιωθέντες</token>
-     <token id="SBL.Titus.3.7.3.1" clear_id="n56003007003" n="533">τῇ</token>
-     <token id="SBL.Titus.3.7.4.1" clear_id="n56003007004" n="534">ἐκείνου</token>
-     <token id="SBL.Titus.3.7.5.1" clear_id="n56003007005" n="535">χάριτι</token>
-     <token id="SBL.Titus.3.7.6.1" clear_id="n56003007006" n="536">κληρονόμοι</token>
-     <token id="SBL.Titus.3.7.7.1" clear_id="n56003007007" n="537">γενηθῶμεν</token>
-     <token id="SBL.Titus.3.7.8.1" clear_id="n56003007008" n="538">κατ’</token>
-     <token id="SBL.Titus.3.7.9.1" clear_id="n56003007009" n="539">ἐλπίδα</token>
-     <token id="SBL.Titus.3.7.10.1" clear_id="n56003007010" n="540">ζωῆς</token>
-     <token id="SBL.Titus.3.7.11.1" clear_id="n56003007011" n="541" after=".">αἰωνίου</token>
+     <token clearId="n56003004001" id="SBL.Titus.3.4.1.1">ὅτε</token>
+     <token clearId="n56003004002" id="SBL.Titus.3.4.2.1">δὲ</token>
+     <token clearId="n56003004003" id="SBL.Titus.3.4.3.1">ἡ</token>
+     <token clearId="n56003004004" id="SBL.Titus.3.4.4.1">χρηστότης</token>
+     <token clearId="n56003004005" id="SBL.Titus.3.4.5.1">καὶ</token>
+     <token clearId="n56003004006" id="SBL.Titus.3.4.6.1">ἡ</token>
+     <token clearId="n56003004007" id="SBL.Titus.3.4.7.1">φιλανθρωπία</token>
+     <token clearId="n56003004008" id="SBL.Titus.3.4.8.1">ἐπεφάνη</token>
+     <token clearId="n56003004009" id="SBL.Titus.3.4.9.1">τοῦ</token>
+     <token clearId="n56003004010" id="SBL.Titus.3.4.10.1">σωτῆρος</token>
+     <token clearId="n56003004011" id="SBL.Titus.3.4.11.1">ἡμῶν</token>
+     <token clearId="n56003004012" id="SBL.Titus.3.4.12.1" after=",">θεοῦ</token>
+     <token clearId="n56003005001" id="SBL.Titus.3.5.1.1">οὐκ</token>
+     <token clearId="n56003005002" id="SBL.Titus.3.5.2.1">ἐξ</token>
+     <token clearId="n56003005003" id="SBL.Titus.3.5.3.1">ἔργων</token>
+     <token clearId="n56003005004" id="SBL.Titus.3.5.4.1">τῶν</token>
+     <token clearId="n56003005005" id="SBL.Titus.3.5.5.1">ἐν</token>
+     <token clearId="n56003005006" id="SBL.Titus.3.5.6.1">δικαιοσύνῃ</token>
+     <token clearId="n56003005007" id="SBL.Titus.3.5.7.1">ἃ</token>
+     <token clearId="n56003005008" id="SBL.Titus.3.5.8.1">ἐποιήσαμεν</token>
+     <token clearId="n56003005009" id="SBL.Titus.3.5.9.1">ἡμεῖς</token>
+     <token clearId="n56003005010" id="SBL.Titus.3.5.10.1">ἀλλὰ</token>
+     <token clearId="n56003005011" id="SBL.Titus.3.5.11.1">κατὰ</token>
+     <token clearId="n56003005012" id="SBL.Titus.3.5.12.1">τὸ</token>
+     <token clearId="n56003005013" id="SBL.Titus.3.5.13.1">αὐτοῦ</token>
+     <token clearId="n56003005014" id="SBL.Titus.3.5.14.1">ἔλεος</token>
+     <token clearId="n56003005015" id="SBL.Titus.3.5.15.1">ἔσωσεν</token>
+     <token clearId="n56003005016" id="SBL.Titus.3.5.16.1">ἡμᾶς</token>
+     <token clearId="n56003005017" id="SBL.Titus.3.5.17.1">διὰ</token>
+     <token clearId="n56003005018" id="SBL.Titus.3.5.18.1">λουτροῦ</token>
+     <token clearId="n56003005019" id="SBL.Titus.3.5.19.1">παλιγγενεσίας</token>
+     <token clearId="n56003005020" id="SBL.Titus.3.5.20.1">καὶ</token>
+     <token clearId="n56003005021" id="SBL.Titus.3.5.21.1">ἀνακαινώσεως</token>
+     <token clearId="n56003005022" id="SBL.Titus.3.5.22.1">πνεύματος</token>
+     <token clearId="n56003005023" id="SBL.Titus.3.5.23.1" after=",">ἁγίου</token>
+     <token clearId="n56003006001" id="SBL.Titus.3.6.1.1">οὗ</token>
+     <token clearId="n56003006002" id="SBL.Titus.3.6.2.1">ἐξέχεεν</token>
+     <token clearId="n56003006003" id="SBL.Titus.3.6.3.1">ἐφ’</token>
+     <token clearId="n56003006004" id="SBL.Titus.3.6.4.1">ἡμᾶς</token>
+     <token clearId="n56003006005" id="SBL.Titus.3.6.5.1">πλουσίως</token>
+     <token clearId="n56003006006" id="SBL.Titus.3.6.6.1">διὰ</token>
+     <token clearId="n56003006007" id="SBL.Titus.3.6.7.1">Ἰησοῦ</token>
+     <token clearId="n56003006008" id="SBL.Titus.3.6.8.1">Χριστοῦ</token>
+     <token clearId="n56003006009" id="SBL.Titus.3.6.9.1">τοῦ</token>
+     <token clearId="n56003006010" id="SBL.Titus.3.6.10.1">σωτῆρος</token>
+     <token clearId="n56003006011" id="SBL.Titus.3.6.11.1" after=",">ἡμῶν</token>
+     <token clearId="n56003007001" id="SBL.Titus.3.7.1.1">ἵνα</token>
+     <token clearId="n56003007002" id="SBL.Titus.3.7.2.1">δικαιωθέντες</token>
+     <token clearId="n56003007003" id="SBL.Titus.3.7.3.1">τῇ</token>
+     <token clearId="n56003007004" id="SBL.Titus.3.7.4.1">ἐκείνου</token>
+     <token clearId="n56003007005" id="SBL.Titus.3.7.5.1">χάριτι</token>
+     <token clearId="n56003007006" id="SBL.Titus.3.7.6.1">κληρονόμοι</token>
+     <token clearId="n56003007007" id="SBL.Titus.3.7.7.1">γενηθῶμεν</token>
+     <token clearId="n56003007008" id="SBL.Titus.3.7.8.1">κατ’</token>
+     <token clearId="n56003007009" id="SBL.Titus.3.7.9.1">ἐλπίδα</token>
+     <token clearId="n56003007010" id="SBL.Titus.3.7.10.1">ζωῆς</token>
+     <token clearId="n56003007011" id="SBL.Titus.3.7.11.1" after=".">αἰωνίου</token>
     </move>
     <move id="m.SBL.Titus.3.8.1-3" chStart="3" vStart="8" chEnd="3" vEnd="8">
-     <token id="SBL.Titus.3.8.1.1" clear_id="n56003008001" n="542">Πιστὸς</token>
-     <token id="SBL.Titus.3.8.2.1" clear_id="n56003008002" n="543">ὁ</token>
-     <token id="SBL.Titus.3.8.3.1" clear_id="n56003008003" n="544" after=",">λόγος</token>
+     <token clearId="n56003008001" id="SBL.Titus.3.8.1.1">Πιστὸς</token>
+     <token clearId="n56003008002" id="SBL.Titus.3.8.2.1">ὁ</token>
+     <token clearId="n56003008003" id="SBL.Titus.3.8.3.1" after=",">λόγος</token>
     </move>
     <move id="m.SBL.Titus.3.8.4-17" chStart="3" vStart="8" chEnd="3" vEnd="8">
-     <token id="SBL.Titus.3.8.4.1" clear_id="n56003008004" n="545">καὶ</token>
-     <token id="SBL.Titus.3.8.5.1" clear_id="n56003008005" n="546">περὶ</token>
-     <token id="SBL.Titus.3.8.6.1" clear_id="n56003008006" n="547">τούτων</token>
-     <token id="SBL.Titus.3.8.7.1" clear_id="n56003008007" n="548">βούλομαί</token>
-     <token id="SBL.Titus.3.8.8.1" clear_id="n56003008008" n="549">σε</token>
-     <token id="SBL.Titus.3.8.9.1" clear_id="n56003008009" n="550" after=",">διαβεβαιοῦσθαι</token>
-     <token id="SBL.Titus.3.8.10.1" clear_id="n56003008010" n="551">ἵνα</token>
-     <token id="SBL.Titus.3.8.11.1" clear_id="n56003008011" n="552">φροντίζωσιν</token>
-     <token id="SBL.Titus.3.8.12.1" clear_id="n56003008012" n="553">καλῶν</token>
-     <token id="SBL.Titus.3.8.13.1" clear_id="n56003008013" n="554">ἔργων</token>
-     <token id="SBL.Titus.3.8.14.1" clear_id="n56003008014" n="555">προΐστασθαι</token>
-     <token id="SBL.Titus.3.8.15.1" clear_id="n56003008015" n="556">οἱ</token>
-     <token id="SBL.Titus.3.8.16.1" clear_id="n56003008016" n="557">πεπιστευκότες</token>
-     <token id="SBL.Titus.3.8.17.1" clear_id="n56003008017" n="558" after=".">θεῷ</token>
+     <token clearId="n56003008004" id="SBL.Titus.3.8.4.1">καὶ</token>
+     <token clearId="n56003008005" id="SBL.Titus.3.8.5.1">περὶ</token>
+     <token clearId="n56003008006" id="SBL.Titus.3.8.6.1">τούτων</token>
+     <token clearId="n56003008007" id="SBL.Titus.3.8.7.1">βούλομαί</token>
+     <token clearId="n56003008008" id="SBL.Titus.3.8.8.1">σε</token>
+     <token clearId="n56003008009" id="SBL.Titus.3.8.9.1" after=",">διαβεβαιοῦσθαι</token>
+     <token clearId="n56003008010" id="SBL.Titus.3.8.10.1">ἵνα</token>
+     <token clearId="n56003008011" id="SBL.Titus.3.8.11.1">φροντίζωσιν</token>
+     <token clearId="n56003008012" id="SBL.Titus.3.8.12.1">καλῶν</token>
+     <token clearId="n56003008013" id="SBL.Titus.3.8.13.1">ἔργων</token>
+     <token clearId="n56003008014" id="SBL.Titus.3.8.14.1">προΐστασθαι</token>
+     <token clearId="n56003008015" id="SBL.Titus.3.8.15.1">οἱ</token>
+     <token clearId="n56003008016" id="SBL.Titus.3.8.16.1">πεπιστευκότες</token>
+     <token clearId="n56003008017" id="SBL.Titus.3.8.17.1" after=".">θεῷ</token>
     </move>
     <move id="m.SBL.Titus.3.8.18-24" chStart="3" vStart="8" chEnd="3" vEnd="8">
-     <token id="SBL.Titus.3.8.18.1" clear_id="n56003008018" n="559">ταῦτά</token>
-     <token id="SBL.Titus.3.8.19.1" clear_id="n56003008019" n="560">ἐστιν</token>
-     <token id="SBL.Titus.3.8.20.1" clear_id="n56003008020" n="561">καλὰ</token>
-     <token id="SBL.Titus.3.8.21.1" clear_id="n56003008021" n="562">καὶ</token>
-     <token id="SBL.Titus.3.8.22.1" clear_id="n56003008022" n="563">ὠφέλιμα</token>
-     <token id="SBL.Titus.3.8.23.1" clear_id="n56003008023" n="564">τοῖς</token>
-     <token id="SBL.Titus.3.8.24.1" clear_id="n56003008024" n="565" after="·">ἀνθρώποις</token>
+     <token clearId="n56003008018" id="SBL.Titus.3.8.18.1">ταῦτά</token>
+     <token clearId="n56003008019" id="SBL.Titus.3.8.19.1">ἐστιν</token>
+     <token clearId="n56003008020" id="SBL.Titus.3.8.20.1">καλὰ</token>
+     <token clearId="n56003008021" id="SBL.Titus.3.8.21.1">καὶ</token>
+     <token clearId="n56003008022" id="SBL.Titus.3.8.22.1">ὠφέλιμα</token>
+     <token clearId="n56003008023" id="SBL.Titus.3.8.23.1">τοῖς</token>
+     <token clearId="n56003008024" id="SBL.Titus.3.8.24.1" after="·">ἀνθρώποις</token>
     </move>
    </seg>
    <seg id="s.SBL.Titus.3.9-11" title="The Conduct of Titus toward False Teachers and Heretics">
     <move id="m.SBL.Titus.3.9.1-11" chStart="3" vStart="9" chEnd="3" vEnd="9">
-     <token id="SBL.Titus.3.9.1.1" clear_id="n56003009001" n="566">μωρὰς</token>
-     <token id="SBL.Titus.3.9.2.1" clear_id="n56003009002" n="567">δὲ</token>
-     <token id="SBL.Titus.3.9.3.1" clear_id="n56003009003" n="568">ζητήσεις</token>
-     <token id="SBL.Titus.3.9.4.1" clear_id="n56003009004" n="569">καὶ</token>
-     <token id="SBL.Titus.3.9.5.1" clear_id="n56003009005" n="570">γενεαλογίας</token>
-     <token id="SBL.Titus.3.9.6.1" clear_id="n56003009006" n="571">καὶ</token>
-     <token id="SBL.Titus.3.9.7.1" clear_id="n56003009007" n="572">ἔρεις</token>
-     <token id="SBL.Titus.3.9.8.1" clear_id="n56003009008" n="573">καὶ</token>
-     <token id="SBL.Titus.3.9.9.1" clear_id="n56003009009" n="574">μάχας</token>
-     <token id="SBL.Titus.3.9.10.1" clear_id="n56003009010" n="575">νομικὰς</token>
-     <token id="SBL.Titus.3.9.11.1" clear_id="n56003009011" n="576" after=",">περιΐστασο</token>
+     <token clearId="n56003009001" id="SBL.Titus.3.9.1.1">μωρὰς</token>
+     <token clearId="n56003009002" id="SBL.Titus.3.9.2.1">δὲ</token>
+     <token clearId="n56003009003" id="SBL.Titus.3.9.3.1">ζητήσεις</token>
+     <token clearId="n56003009004" id="SBL.Titus.3.9.4.1">καὶ</token>
+     <token clearId="n56003009005" id="SBL.Titus.3.9.5.1">γενεαλογίας</token>
+     <token clearId="n56003009006" id="SBL.Titus.3.9.6.1">καὶ</token>
+     <token clearId="n56003009007" id="SBL.Titus.3.9.7.1">ἔρεις</token>
+     <token clearId="n56003009008" id="SBL.Titus.3.9.8.1">καὶ</token>
+     <token clearId="n56003009009" id="SBL.Titus.3.9.9.1">μάχας</token>
+     <token clearId="n56003009010" id="SBL.Titus.3.9.10.1">νομικὰς</token>
+     <token clearId="n56003009011" id="SBL.Titus.3.9.11.1" after=",">περιΐστασο</token>
     </move>
     <move id="m.SBL.Titus.3.9.12-16" chStart="3" vStart="9" chEnd="3" vEnd="9">
-     <token id="SBL.Titus.3.9.12.1" clear_id="n56003009012" n="577">εἰσὶν</token>
-     <token id="SBL.Titus.3.9.13.1" clear_id="n56003009013" n="578">γὰρ</token>
-     <token id="SBL.Titus.3.9.14.1" clear_id="n56003009014" n="579">ἀνωφελεῖς</token>
-     <token id="SBL.Titus.3.9.15.1" clear_id="n56003009015" n="580">καὶ</token>
-     <token id="SBL.Titus.3.9.16.1" clear_id="n56003009016" n="581" after=".">μάταιοι</token>
+     <token clearId="n56003009012" id="SBL.Titus.3.9.12.1">εἰσὶν</token>
+     <token clearId="n56003009013" id="SBL.Titus.3.9.13.1">γὰρ</token>
+     <token clearId="n56003009014" id="SBL.Titus.3.9.14.1">ἀνωφελεῖς</token>
+     <token clearId="n56003009015" id="SBL.Titus.3.9.15.1">καὶ</token>
+     <token clearId="n56003009016" id="SBL.Titus.3.9.16.1" after=".">μάταιοι</token>
     </move>
     <move id="m.SBL.Titus.3.10-11" chStart="3" vStart="10" chEnd="3" vEnd="11">
-     <token id="SBL.Titus.3.10.1.1" clear_id="n56003010001" n="582">αἱρετικὸν</token>
-     <token id="SBL.Titus.3.10.2.1" clear_id="n56003010002" n="583">ἄνθρωπον</token>
-     <token id="SBL.Titus.3.10.3.1" clear_id="n56003010003" n="584">μετὰ</token>
-     <token id="SBL.Titus.3.10.4.1" clear_id="n56003010004" n="585">μίαν</token>
-     <token id="SBL.Titus.3.10.5.1" clear_id="n56003010005" n="586">καὶ</token>
-     <token id="SBL.Titus.3.10.6.1" clear_id="n56003010006" n="587">δευτέραν</token>
-     <token id="SBL.Titus.3.10.7.1" clear_id="n56003010007" n="588">νουθεσίαν</token>
-     <token id="SBL.Titus.3.10.8.1" clear_id="n56003010008" n="589" after=",">παραιτοῦ</token>
-     <token id="SBL.Titus.3.11.1.1" clear_id="n56003011001" n="590">εἰδὼς</token>
-     <token id="SBL.Titus.3.11.2.1" clear_id="n56003011002" n="591">ὅτι</token>
-     <token id="SBL.Titus.3.11.3.1" clear_id="n56003011003" n="592">ἐξέστραπται</token>
-     <token id="SBL.Titus.3.11.4.1" clear_id="n56003011004" n="593">ὁ</token>
-     <token id="SBL.Titus.3.11.5.1" clear_id="n56003011005" n="594">τοιοῦτος</token>
-     <token id="SBL.Titus.3.11.6.1" clear_id="n56003011006" n="595">καὶ</token>
-     <token id="SBL.Titus.3.11.7.1" clear_id="n56003011007" n="596" after=",">ἁμαρτάνει</token>
-     <token id="SBL.Titus.3.11.8.1" clear_id="n56003011008" n="597">ὢν</token>
-     <token id="SBL.Titus.3.11.9.1" clear_id="n56003011009" n="598" after=".">αὐτοκατάκριτος</token>
+     <token clearId="n56003010001" id="SBL.Titus.3.10.1.1">αἱρετικὸν</token>
+     <token clearId="n56003010002" id="SBL.Titus.3.10.2.1">ἄνθρωπον</token>
+     <token clearId="n56003010003" id="SBL.Titus.3.10.3.1">μετὰ</token>
+     <token clearId="n56003010004" id="SBL.Titus.3.10.4.1">μίαν</token>
+     <token clearId="n56003010005" id="SBL.Titus.3.10.5.1">καὶ</token>
+     <token clearId="n56003010006" id="SBL.Titus.3.10.6.1">δευτέραν</token>
+     <token clearId="n56003010007" id="SBL.Titus.3.10.7.1">νουθεσίαν</token>
+     <token clearId="n56003010008" id="SBL.Titus.3.10.8.1" after=",">παραιτοῦ</token>
+     <token clearId="n56003011001" id="SBL.Titus.3.11.1.1">εἰδὼς</token>
+     <token clearId="n56003011002" id="SBL.Titus.3.11.2.1">ὅτι</token>
+     <token clearId="n56003011003" id="SBL.Titus.3.11.3.1">ἐξέστραπται</token>
+     <token clearId="n56003011004" id="SBL.Titus.3.11.4.1">ὁ</token>
+     <token clearId="n56003011005" id="SBL.Titus.3.11.5.1">τοιοῦτος</token>
+     <token clearId="n56003011006" id="SBL.Titus.3.11.6.1">καὶ</token>
+     <token clearId="n56003011007" id="SBL.Titus.3.11.7.1" after=",">ἁμαρτάνει</token>
+     <token clearId="n56003011008" id="SBL.Titus.3.11.8.1">ὢν</token>
+     <token clearId="n56003011009" id="SBL.Titus.3.11.9.1" after=".">αὐτοκατάκριτος</token>
     </move>
    </seg>
    <seg id="s.SBL.Titus.3.12-15" title="Final Directions and Greetings">
     <move id="m.SBL.Titus.3.12.1-13" chStart="3" vStart="12" chEnd="3" vEnd="12">
-     <token id="SBL.Titus.3.12.1.1" clear_id="n56003012001" n="599">Ὅταν</token>
-     <token id="SBL.Titus.3.12.2.1" clear_id="n56003012002" n="600">πέμψω</token>
-     <token id="SBL.Titus.3.12.3.1" clear_id="n56003012003" n="601">Ἀρτεμᾶν</token>
-     <token id="SBL.Titus.3.12.4.1" clear_id="n56003012004" n="602">πρὸς</token>
-     <token id="SBL.Titus.3.12.5.1" clear_id="n56003012005" n="603">σὲ</token>
-     <token id="SBL.Titus.3.12.6.1" clear_id="n56003012006" n="604">ἢ</token>
-     <token id="SBL.Titus.3.12.7.1" clear_id="n56003012007" n="605" after=",">Τυχικόν</token>
-     <token id="SBL.Titus.3.12.8.1" clear_id="n56003012008" n="606">σπούδασον</token>
-     <token id="SBL.Titus.3.12.9.1" clear_id="n56003012009" n="607">ἐλθεῖν</token>
-     <token id="SBL.Titus.3.12.10.1" clear_id="n56003012010" n="608">πρός</token>
-     <token id="SBL.Titus.3.12.11.1" clear_id="n56003012011" n="609">με</token>
-     <token id="SBL.Titus.3.12.12.1" clear_id="n56003012012" n="610">εἰς</token>
-     <token id="SBL.Titus.3.12.13.1" clear_id="n56003012013" n="611" after=",">Νικόπολιν</token>
+     <token clearId="n56003012001" id="SBL.Titus.3.12.1.1">Ὅταν</token>
+     <token clearId="n56003012002" id="SBL.Titus.3.12.2.1">πέμψω</token>
+     <token clearId="n56003012003" id="SBL.Titus.3.12.3.1">Ἀρτεμᾶν</token>
+     <token clearId="n56003012004" id="SBL.Titus.3.12.4.1">πρὸς</token>
+     <token clearId="n56003012005" id="SBL.Titus.3.12.5.1">σὲ</token>
+     <token clearId="n56003012006" id="SBL.Titus.3.12.6.1">ἢ</token>
+     <token clearId="n56003012007" id="SBL.Titus.3.12.7.1" after=",">Τυχικόν</token>
+     <token clearId="n56003012008" id="SBL.Titus.3.12.8.1">σπούδασον</token>
+     <token clearId="n56003012009" id="SBL.Titus.3.12.9.1">ἐλθεῖν</token>
+     <token clearId="n56003012010" id="SBL.Titus.3.12.10.1">πρός</token>
+     <token clearId="n56003012011" id="SBL.Titus.3.12.11.1">με</token>
+     <token clearId="n56003012012" id="SBL.Titus.3.12.12.1">εἰς</token>
+     <token clearId="n56003012013" id="SBL.Titus.3.12.13.1" after=",">Νικόπολιν</token>
     </move>
     <move id="m.SBL.Titus.3.12.14-17" chStart="3" vStart="12" chEnd="3" vEnd="12">
-     <token id="SBL.Titus.3.12.14.1" clear_id="n56003012014" n="612">ἐκεῖ</token>
-     <token id="SBL.Titus.3.12.15.1" clear_id="n56003012015" n="613">γὰρ</token>
-     <token id="SBL.Titus.3.12.16.1" clear_id="n56003012016" n="614">κέκρικα</token>
-     <token id="SBL.Titus.3.12.17.1" clear_id="n56003012017" n="615" after=".">παραχειμάσαι</token>
+     <token clearId="n56003012014" id="SBL.Titus.3.12.14.1">ἐκεῖ</token>
+     <token clearId="n56003012015" id="SBL.Titus.3.12.15.1">γὰρ</token>
+     <token clearId="n56003012016" id="SBL.Titus.3.12.16.1">κέκρικα</token>
+     <token clearId="n56003012017" id="SBL.Titus.3.12.17.1" after=".">παραχειμάσαι</token>
     </move>
     <move id="m.SBL.Titus.3.13" chStart="3" vStart="13" chEnd="3" vEnd="13">
-     <token id="SBL.Titus.3.13.1.1" clear_id="n56003013001" n="616">ζηνᾶν</token>
-     <token id="SBL.Titus.3.13.2.1" clear_id="n56003013002" n="617">τὸν</token>
-     <token id="SBL.Titus.3.13.3.1" clear_id="n56003013003" n="618">νομικὸν</token>
-     <token id="SBL.Titus.3.13.4.1" clear_id="n56003013004" n="619">καὶ</token>
-     <token id="SBL.Titus.3.13.5.1" clear_id="n56003013005" n="620">Ἀπολλῶν</token>
-     <token id="SBL.Titus.3.13.6.1" clear_id="n56003013006" n="621">σπουδαίως</token>
-     <token id="SBL.Titus.3.13.7.1" clear_id="n56003013007" n="622" after=",">πρόπεμψον</token>
-     <token id="SBL.Titus.3.13.8.1" clear_id="n56003013008" n="623">ἵνα</token>
-     <token id="SBL.Titus.3.13.9.1" clear_id="n56003013009" n="624">μηδὲν</token>
-     <token id="SBL.Titus.3.13.10.1" clear_id="n56003013010" n="625">αὐτοῖς</token>
-     <token id="SBL.Titus.3.13.11.1" clear_id="n56003013011" n="626" after=".">λείπῃ</token>
+     <token clearId="n56003013001" id="SBL.Titus.3.13.1.1">ζηνᾶν</token>
+     <token clearId="n56003013002" id="SBL.Titus.3.13.2.1">τὸν</token>
+     <token clearId="n56003013003" id="SBL.Titus.3.13.3.1">νομικὸν</token>
+     <token clearId="n56003013004" id="SBL.Titus.3.13.4.1">καὶ</token>
+     <token clearId="n56003013005" id="SBL.Titus.3.13.5.1">Ἀπολλῶν</token>
+     <token clearId="n56003013006" id="SBL.Titus.3.13.6.1">σπουδαίως</token>
+     <token clearId="n56003013007" id="SBL.Titus.3.13.7.1" after=",">πρόπεμψον</token>
+     <token clearId="n56003013008" id="SBL.Titus.3.13.8.1">ἵνα</token>
+     <token clearId="n56003013009" id="SBL.Titus.3.13.9.1">μηδὲν</token>
+     <token clearId="n56003013010" id="SBL.Titus.3.13.10.1">αὐτοῖς</token>
+     <token clearId="n56003013011" id="SBL.Titus.3.13.11.1" after=".">λείπῃ</token>
     </move>
     <move id="m.SBL.Titus.3.14" chStart="3" vStart="14" chEnd="3" vEnd="14">
-     <token id="SBL.Titus.3.14.1.1" clear_id="n56003014001" n="627">μανθανέτωσαν</token>
-     <token id="SBL.Titus.3.14.2.1" clear_id="n56003014002" n="628">δὲ</token>
-     <token id="SBL.Titus.3.14.3.1" clear_id="n56003014003" n="629">καὶ</token>
-     <token id="SBL.Titus.3.14.4.1" clear_id="n56003014004" n="630">οἱ</token>
-     <token id="SBL.Titus.3.14.5.1" clear_id="n56003014005" n="631">ἡμέτεροι</token>
-     <token id="SBL.Titus.3.14.6.1" clear_id="n56003014006" n="632">καλῶν</token>
-     <token id="SBL.Titus.3.14.7.1" clear_id="n56003014007" n="633">ἔργων</token>
-     <token id="SBL.Titus.3.14.8.1" clear_id="n56003014008" n="634">προΐστασθαι</token>
-     <token id="SBL.Titus.3.14.9.1" clear_id="n56003014009" n="635">εἰς</token>
-     <token id="SBL.Titus.3.14.10.1" clear_id="n56003014010" n="636">τὰς</token>
-     <token id="SBL.Titus.3.14.11.1" clear_id="n56003014011" n="637">ἀναγκαίας</token>
-     <token id="SBL.Titus.3.14.12.1" clear_id="n56003014012" n="638" after=",">χρείας</token>
-     <token id="SBL.Titus.3.14.13.1" clear_id="n56003014013" n="639">ἵνα</token>
-     <token id="SBL.Titus.3.14.14.1" clear_id="n56003014014" n="640">μὴ</token>
-     <token id="SBL.Titus.3.14.15.1" clear_id="n56003014015" n="641">ὦσιν</token>
-     <token id="SBL.Titus.3.14.16.1" clear_id="n56003014016" n="642" after=".">ἄκαρποι</token>
+     <token clearId="n56003014001" id="SBL.Titus.3.14.1.1">μανθανέτωσαν</token>
+     <token clearId="n56003014002" id="SBL.Titus.3.14.2.1">δὲ</token>
+     <token clearId="n56003014003" id="SBL.Titus.3.14.3.1">καὶ</token>
+     <token clearId="n56003014004" id="SBL.Titus.3.14.4.1">οἱ</token>
+     <token clearId="n56003014005" id="SBL.Titus.3.14.5.1">ἡμέτεροι</token>
+     <token clearId="n56003014006" id="SBL.Titus.3.14.6.1">καλῶν</token>
+     <token clearId="n56003014007" id="SBL.Titus.3.14.7.1">ἔργων</token>
+     <token clearId="n56003014008" id="SBL.Titus.3.14.8.1">προΐστασθαι</token>
+     <token clearId="n56003014009" id="SBL.Titus.3.14.9.1">εἰς</token>
+     <token clearId="n56003014010" id="SBL.Titus.3.14.10.1">τὰς</token>
+     <token clearId="n56003014011" id="SBL.Titus.3.14.11.1">ἀναγκαίας</token>
+     <token clearId="n56003014012" id="SBL.Titus.3.14.12.1" after=",">χρείας</token>
+     <token clearId="n56003014013" id="SBL.Titus.3.14.13.1">ἵνα</token>
+     <token clearId="n56003014014" id="SBL.Titus.3.14.14.1">μὴ</token>
+     <token clearId="n56003014015" id="SBL.Titus.3.14.15.1">ὦσιν</token>
+     <token clearId="n56003014016" id="SBL.Titus.3.14.16.1" after=".">ἄκαρποι</token>
     </move>
     <move id="m.SBL.Titus.3.15.1-6" chStart="3" vStart="15" chEnd="3" vEnd="15">
-     <token id="SBL.Titus.3.15.1.1" clear_id="n56003015001" n="643">Ἀσπάζονταί</token>
-     <token id="SBL.Titus.3.15.2.1" clear_id="n56003015002" n="644">σε</token>
-     <token id="SBL.Titus.3.15.3.1" clear_id="n56003015003" n="645">οἱ</token>
-     <token id="SBL.Titus.3.15.4.1" clear_id="n56003015004" n="646">μετ’</token>
-     <token id="SBL.Titus.3.15.5.1" clear_id="n56003015005" n="647">ἐμοῦ</token>
-     <token id="SBL.Titus.3.15.6.1" clear_id="n56003015006" n="648" after=".">πάντες</token>
+     <token clearId="n56003015001" id="SBL.Titus.3.15.1.1">Ἀσπάζονταί</token>
+     <token clearId="n56003015002" id="SBL.Titus.3.15.2.1">σε</token>
+     <token clearId="n56003015003" id="SBL.Titus.3.15.3.1">οἱ</token>
+     <token clearId="n56003015004" id="SBL.Titus.3.15.4.1">μετ’</token>
+     <token clearId="n56003015005" id="SBL.Titus.3.15.5.1">ἐμοῦ</token>
+     <token clearId="n56003015006" id="SBL.Titus.3.15.6.1" after=".">πάντες</token>
     </move>
     <move id="m.SBL.Titus.3.15.7-12" chStart="3" vStart="15" chEnd="3" vEnd="15">
-     <token id="SBL.Titus.3.15.7.1" clear_id="n56003015007" n="649">ἄσπασαι</token>
-     <token id="SBL.Titus.3.15.8.1" clear_id="n56003015008" n="650">τοὺς</token>
-     <token id="SBL.Titus.3.15.9.1" clear_id="n56003015009" n="651">φιλοῦντας</token>
-     <token id="SBL.Titus.3.15.10.1" clear_id="n56003015010" n="652">ἡμᾶς</token>
-     <token id="SBL.Titus.3.15.11.1" clear_id="n56003015011" n="653">ἐν</token>
-     <token id="SBL.Titus.3.15.12.1" clear_id="n56003015012" n="654" after=".">πίστει</token>
+     <token clearId="n56003015007" id="SBL.Titus.3.15.7.1">ἄσπασαι</token>
+     <token clearId="n56003015008" id="SBL.Titus.3.15.8.1">τοὺς</token>
+     <token clearId="n56003015009" id="SBL.Titus.3.15.9.1">φιλοῦντας</token>
+     <token clearId="n56003015010" id="SBL.Titus.3.15.10.1">ἡμᾶς</token>
+     <token clearId="n56003015011" id="SBL.Titus.3.15.11.1">ἐν</token>
+     <token clearId="n56003015012" id="SBL.Titus.3.15.12.1" after=".">πίστει</token>
     </move>
     <move id="m.SBL.Titus.3.15.13-17" chStart="3" vStart="15" chEnd="3" vEnd="15">
-     <token id="SBL.Titus.3.15.13.1" clear_id="n56003015013" n="655">ἡ</token>
-     <token id="SBL.Titus.3.15.14.1" clear_id="n56003015014" n="656">χάρις</token>
-     <token id="SBL.Titus.3.15.15.1" clear_id="n56003015015" n="657">μετὰ</token>
-     <token id="SBL.Titus.3.15.16.1" clear_id="n56003015016" n="658">πάντων</token>
-     <token id="SBL.Titus.3.15.17.1" clear_id="n56003015017" n="659" after=".">ὑμῶν</token>
+     <token clearId="n56003015013" id="SBL.Titus.3.15.13.1">ἡ</token>
+     <token clearId="n56003015014" id="SBL.Titus.3.15.14.1">χάρις</token>
+     <token clearId="n56003015015" id="SBL.Titus.3.15.15.1">μετὰ</token>
+     <token clearId="n56003015016" id="SBL.Titus.3.15.16.1">πάντων</token>
+     <token clearId="n56003015017" id="SBL.Titus.3.15.17.1" after=".">ὑμῶν</token>
     </move>
    </seg>
   </turn>

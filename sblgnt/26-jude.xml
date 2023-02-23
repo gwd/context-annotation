@@ -32,529 +32,529 @@
   <turn depth="1" id="t.SBL.Jude" chStart="1" vStart="1" chEnd="1" vEnd="25">
    <seg id="s.SBL.Jude.1.1-2" title="Introductory Salutation">
     <move id="m.SBL.Jude.1.1" chStart="1" vStart="1" chEnd="1" vEnd="1">
-     <token id="SBL.Jude.1.1.1.1" clear_id="n65001001001" n="1">Ἰούδας</token>
-     <token id="SBL.Jude.1.1.2.1" clear_id="n65001001002" n="2">Ἰησοῦ</token>
-     <token id="SBL.Jude.1.1.3.1" clear_id="n65001001003" n="3">Χριστοῦ</token>
-     <token id="SBL.Jude.1.1.4.1" clear_id="n65001001004" n="4" after=",">δοῦλος</token>
-     <token id="SBL.Jude.1.1.5.1" clear_id="n65001001005" n="5">ἀδελφὸς</token>
-     <token id="SBL.Jude.1.1.6.1" clear_id="n65001001006" n="6">δὲ</token>
-     <token id="SBL.Jude.1.1.7.1" clear_id="n65001001007" n="7" after=",">Ἰακώβου</token>
-     <token id="SBL.Jude.1.1.8.1" clear_id="n65001001008" n="8">τοῖς</token>
-     <token id="SBL.Jude.1.1.9.1" clear_id="n65001001009" n="9">ἐν</token>
-     <token id="SBL.Jude.1.1.10.1" clear_id="n65001001010" n="10">θεῷ</token>
-     <token id="SBL.Jude.1.1.11.1" clear_id="n65001001011" n="11">πατρὶ</token>
-     <token id="SBL.Jude.1.1.12.1" clear_id="n65001001012" n="12">ἠγαπημένοις</token>
-     <token id="SBL.Jude.1.1.13.1" clear_id="n65001001013" n="13">καὶ</token>
-     <token id="SBL.Jude.1.1.14.1" clear_id="n65001001014" n="14">Ἰησοῦ</token>
-     <token id="SBL.Jude.1.1.15.1" clear_id="n65001001015" n="15">Χριστῷ</token>
-     <token id="SBL.Jude.1.1.16.1" clear_id="n65001001016" n="16">τετηρημένοις</token>
-     <token id="SBL.Jude.1.1.17.1" clear_id="n65001001017" n="17" after="·">κλητοῖς</token>
+     <token clearId="n65001001001" id="SBL.Jude.1.1.1.1">Ἰούδας</token>
+     <token clearId="n65001001002" id="SBL.Jude.1.1.2.1">Ἰησοῦ</token>
+     <token clearId="n65001001003" id="SBL.Jude.1.1.3.1">Χριστοῦ</token>
+     <token clearId="n65001001004" id="SBL.Jude.1.1.4.1" after=",">δοῦλος</token>
+     <token clearId="n65001001005" id="SBL.Jude.1.1.5.1">ἀδελφὸς</token>
+     <token clearId="n65001001006" id="SBL.Jude.1.1.6.1">δὲ</token>
+     <token clearId="n65001001007" id="SBL.Jude.1.1.7.1" after=",">Ἰακώβου</token>
+     <token clearId="n65001001008" id="SBL.Jude.1.1.8.1">τοῖς</token>
+     <token clearId="n65001001009" id="SBL.Jude.1.1.9.1">ἐν</token>
+     <token clearId="n65001001010" id="SBL.Jude.1.1.10.1">θεῷ</token>
+     <token clearId="n65001001011" id="SBL.Jude.1.1.11.1">πατρὶ</token>
+     <token clearId="n65001001012" id="SBL.Jude.1.1.12.1">ἠγαπημένοις</token>
+     <token clearId="n65001001013" id="SBL.Jude.1.1.13.1">καὶ</token>
+     <token clearId="n65001001014" id="SBL.Jude.1.1.14.1">Ἰησοῦ</token>
+     <token clearId="n65001001015" id="SBL.Jude.1.1.15.1">Χριστῷ</token>
+     <token clearId="n65001001016" id="SBL.Jude.1.1.16.1">τετηρημένοις</token>
+     <token clearId="n65001001017" id="SBL.Jude.1.1.17.1" after="·">κλητοῖς</token>
     </move>
     <move id="m.SBL.Jude.1.2" chStart="1" vStart="2" chEnd="1" vEnd="2">
-     <token id="SBL.Jude.1.2.1.1" clear_id="n65001002001" n="18">ἔλεος</token>
-     <token id="SBL.Jude.1.2.2.1" clear_id="n65001002002" n="19">ὑμῖν</token>
-     <token id="SBL.Jude.1.2.3.1" clear_id="n65001002003" n="20">καὶ</token>
-     <token id="SBL.Jude.1.2.4.1" clear_id="n65001002004" n="21">εἰρήνη</token>
-     <token id="SBL.Jude.1.2.5.1" clear_id="n65001002005" n="22">καὶ</token>
-     <token id="SBL.Jude.1.2.6.1" clear_id="n65001002006" n="23">ἀγάπη</token>
-     <token id="SBL.Jude.1.2.7.1" clear_id="n65001002007" n="24" after=".">πληθυνθείη</token>
+     <token clearId="n65001002001" id="SBL.Jude.1.2.1.1">ἔλεος</token>
+     <token clearId="n65001002002" id="SBL.Jude.1.2.2.1">ὑμῖν</token>
+     <token clearId="n65001002003" id="SBL.Jude.1.2.3.1">καὶ</token>
+     <token clearId="n65001002004" id="SBL.Jude.1.2.4.1">εἰρήνη</token>
+     <token clearId="n65001002005" id="SBL.Jude.1.2.5.1">καὶ</token>
+     <token clearId="n65001002006" id="SBL.Jude.1.2.6.1">ἀγάπη</token>
+     <token clearId="n65001002007" id="SBL.Jude.1.2.7.1" after=".">πληθυνθείη</token>
     </move>
    </seg>
    <seg id="s.SBL.Jude.1.3-4" title="An Exhortation to Constancy in Faith">
     <move id="m.SBL.Jude.1.3" chStart="1" vStart="3" chEnd="1" vEnd="3">
-     <token id="SBL.Jude.1.3.1.1" clear_id="n65001003001" n="25" after=",">Ἀγαπητοί</token>
-     <token id="SBL.Jude.1.3.2.1" clear_id="n65001003002" n="26">πᾶσαν</token>
-     <token id="SBL.Jude.1.3.3.1" clear_id="n65001003003" n="27">σπουδὴν</token>
-     <token id="SBL.Jude.1.3.4.1" clear_id="n65001003004" n="28">ποιούμενος</token>
-     <token id="SBL.Jude.1.3.5.1" clear_id="n65001003005" n="29">γράφειν</token>
-     <token id="SBL.Jude.1.3.6.1" clear_id="n65001003006" n="30">ὑμῖν</token>
-     <token id="SBL.Jude.1.3.7.1" clear_id="n65001003007" n="31">περὶ</token>
-     <token id="SBL.Jude.1.3.8.1" clear_id="n65001003008" n="32">τῆς</token>
-     <token id="SBL.Jude.1.3.9.1" clear_id="n65001003009" n="33">κοινῆς</token>
-     <token id="SBL.Jude.1.3.10.1" clear_id="n65001003010" n="34">ἡμῶν</token>
-     <token id="SBL.Jude.1.3.11.1" clear_id="n65001003011" n="35">σωτηρίας</token>
-     <token id="SBL.Jude.1.3.12.1" clear_id="n65001003012" n="36">ἀνάγκην</token>
-     <token id="SBL.Jude.1.3.13.1" clear_id="n65001003013" n="37">ἔσχον</token>
-     <token id="SBL.Jude.1.3.14.1" clear_id="n65001003014" n="38">γράψαι</token>
-     <token id="SBL.Jude.1.3.15.1" clear_id="n65001003015" n="39">ὑμῖν</token>
-     <token id="SBL.Jude.1.3.16.1" clear_id="n65001003016" n="40">παρακαλῶν</token>
-     <token id="SBL.Jude.1.3.17.1" clear_id="n65001003017" n="41">ἐπαγωνίζεσθαι</token>
-     <token id="SBL.Jude.1.3.18.1" clear_id="n65001003018" n="42">τῇ</token>
-     <token id="SBL.Jude.1.3.19.1" clear_id="n65001003019" n="43">ἅπαξ</token>
-     <token id="SBL.Jude.1.3.20.1" clear_id="n65001003020" n="44">παραδοθείσῃ</token>
-     <token id="SBL.Jude.1.3.21.1" clear_id="n65001003021" n="45">τοῖς</token>
-     <token id="SBL.Jude.1.3.22.1" clear_id="n65001003022" n="46">ἁγίοις</token>
-     <token id="SBL.Jude.1.3.23.1" clear_id="n65001003023" n="47" after=".">πίστει</token>
+     <token clearId="n65001003001" id="SBL.Jude.1.3.1.1" after=",">Ἀγαπητοί</token>
+     <token clearId="n65001003002" id="SBL.Jude.1.3.2.1">πᾶσαν</token>
+     <token clearId="n65001003003" id="SBL.Jude.1.3.3.1">σπουδὴν</token>
+     <token clearId="n65001003004" id="SBL.Jude.1.3.4.1">ποιούμενος</token>
+     <token clearId="n65001003005" id="SBL.Jude.1.3.5.1">γράφειν</token>
+     <token clearId="n65001003006" id="SBL.Jude.1.3.6.1">ὑμῖν</token>
+     <token clearId="n65001003007" id="SBL.Jude.1.3.7.1">περὶ</token>
+     <token clearId="n65001003008" id="SBL.Jude.1.3.8.1">τῆς</token>
+     <token clearId="n65001003009" id="SBL.Jude.1.3.9.1">κοινῆς</token>
+     <token clearId="n65001003010" id="SBL.Jude.1.3.10.1">ἡμῶν</token>
+     <token clearId="n65001003011" id="SBL.Jude.1.3.11.1">σωτηρίας</token>
+     <token clearId="n65001003012" id="SBL.Jude.1.3.12.1">ἀνάγκην</token>
+     <token clearId="n65001003013" id="SBL.Jude.1.3.13.1">ἔσχον</token>
+     <token clearId="n65001003014" id="SBL.Jude.1.3.14.1">γράψαι</token>
+     <token clearId="n65001003015" id="SBL.Jude.1.3.15.1">ὑμῖν</token>
+     <token clearId="n65001003016" id="SBL.Jude.1.3.16.1">παρακαλῶν</token>
+     <token clearId="n65001003017" id="SBL.Jude.1.3.17.1">ἐπαγωνίζεσθαι</token>
+     <token clearId="n65001003018" id="SBL.Jude.1.3.18.1">τῇ</token>
+     <token clearId="n65001003019" id="SBL.Jude.1.3.19.1">ἅπαξ</token>
+     <token clearId="n65001003020" id="SBL.Jude.1.3.20.1">παραδοθείσῃ</token>
+     <token clearId="n65001003021" id="SBL.Jude.1.3.21.1">τοῖς</token>
+     <token clearId="n65001003022" id="SBL.Jude.1.3.22.1">ἁγίοις</token>
+     <token clearId="n65001003023" id="SBL.Jude.1.3.23.1" after=".">πίστει</token>
     </move>
     <move id="m.SBL.Jude.1.4" chStart="1" vStart="4" chEnd="1" vEnd="4">
-     <token id="SBL.Jude.1.4.1.1" clear_id="n65001004001" n="48">παρεισέδυσαν</token>
-     <token id="SBL.Jude.1.4.2.1" clear_id="n65001004002" n="49">γάρ</token>
-     <token id="SBL.Jude.1.4.3.1" clear_id="n65001004003" n="50">τινες</token>
-     <token id="SBL.Jude.1.4.4.1" clear_id="n65001004004" n="51" after=",">ἄνθρωποι</token>
-     <token id="SBL.Jude.1.4.5.1" clear_id="n65001004005" n="52">οἱ</token>
-     <token id="SBL.Jude.1.4.6.1" clear_id="n65001004006" n="53">πάλαι</token>
-     <token id="SBL.Jude.1.4.7.1" clear_id="n65001004007" n="54">προγεγραμμένοι</token>
-     <token id="SBL.Jude.1.4.8.1" clear_id="n65001004008" n="55">εἰς</token>
-     <token id="SBL.Jude.1.4.9.1" clear_id="n65001004009" n="56">τοῦτο</token>
-     <token id="SBL.Jude.1.4.10.1" clear_id="n65001004010" n="57">τὸ</token>
-     <token id="SBL.Jude.1.4.11.1" clear_id="n65001004011" n="58" after=",">κρίμα</token>
-     <token id="SBL.Jude.1.4.12.1" clear_id="n65001004012" n="59" after=",">ἀσεβεῖς</token>
-     <token id="SBL.Jude.1.4.13.1" clear_id="n65001004013" n="60">τὴν</token>
-     <token id="SBL.Jude.1.4.14.1" clear_id="n65001004014" n="61">τοῦ</token>
-     <token id="SBL.Jude.1.4.15.1" clear_id="n65001004015" n="62">θεοῦ</token>
-     <token id="SBL.Jude.1.4.16.1" clear_id="n65001004016" n="63">ἡμῶν</token>
-     <token id="SBL.Jude.1.4.17.1" clear_id="n65001004017" n="64">χάριτα</token>
-     <token id="SBL.Jude.1.4.18.1" clear_id="n65001004018" n="65">μετατιθέντες</token>
-     <token id="SBL.Jude.1.4.19.1" clear_id="n65001004019" n="66">εἰς</token>
-     <token id="SBL.Jude.1.4.20.1" clear_id="n65001004020" n="67">ἀσέλγειαν</token>
-     <token id="SBL.Jude.1.4.21.1" clear_id="n65001004021" n="68">καὶ</token>
-     <token id="SBL.Jude.1.4.22.1" clear_id="n65001004022" n="69">τὸν</token>
-     <token id="SBL.Jude.1.4.23.1" clear_id="n65001004023" n="70">μόνον</token>
-     <token id="SBL.Jude.1.4.24.1" clear_id="n65001004024" n="71">δεσπότην</token>
-     <token id="SBL.Jude.1.4.25.1" clear_id="n65001004025" n="72">καὶ</token>
-     <token id="SBL.Jude.1.4.26.1" clear_id="n65001004026" n="73">κύριον</token>
-     <token id="SBL.Jude.1.4.27.1" clear_id="n65001004027" n="74">ἡμῶν</token>
-     <token id="SBL.Jude.1.4.28.1" clear_id="n65001004028" n="75">Ἰησοῦν</token>
-     <token id="SBL.Jude.1.4.29.1" clear_id="n65001004029" n="76">Χριστὸν</token>
-     <token id="SBL.Jude.1.4.30.1" clear_id="n65001004030" n="77" after=".">ἀρνούμενοι</token>
+     <token clearId="n65001004001" id="SBL.Jude.1.4.1.1">παρεισέδυσαν</token>
+     <token clearId="n65001004002" id="SBL.Jude.1.4.2.1">γάρ</token>
+     <token clearId="n65001004003" id="SBL.Jude.1.4.3.1">τινες</token>
+     <token clearId="n65001004004" id="SBL.Jude.1.4.4.1" after=",">ἄνθρωποι</token>
+     <token clearId="n65001004005" id="SBL.Jude.1.4.5.1">οἱ</token>
+     <token clearId="n65001004006" id="SBL.Jude.1.4.6.1">πάλαι</token>
+     <token clearId="n65001004007" id="SBL.Jude.1.4.7.1">προγεγραμμένοι</token>
+     <token clearId="n65001004008" id="SBL.Jude.1.4.8.1">εἰς</token>
+     <token clearId="n65001004009" id="SBL.Jude.1.4.9.1">τοῦτο</token>
+     <token clearId="n65001004010" id="SBL.Jude.1.4.10.1">τὸ</token>
+     <token clearId="n65001004011" id="SBL.Jude.1.4.11.1" after=",">κρίμα</token>
+     <token clearId="n65001004012" id="SBL.Jude.1.4.12.1" after=",">ἀσεβεῖς</token>
+     <token clearId="n65001004013" id="SBL.Jude.1.4.13.1">τὴν</token>
+     <token clearId="n65001004014" id="SBL.Jude.1.4.14.1">τοῦ</token>
+     <token clearId="n65001004015" id="SBL.Jude.1.4.15.1">θεοῦ</token>
+     <token clearId="n65001004016" id="SBL.Jude.1.4.16.1">ἡμῶν</token>
+     <token clearId="n65001004017" id="SBL.Jude.1.4.17.1">χάριτα</token>
+     <token clearId="n65001004018" id="SBL.Jude.1.4.18.1">μετατιθέντες</token>
+     <token clearId="n65001004019" id="SBL.Jude.1.4.19.1">εἰς</token>
+     <token clearId="n65001004020" id="SBL.Jude.1.4.20.1">ἀσέλγειαν</token>
+     <token clearId="n65001004021" id="SBL.Jude.1.4.21.1">καὶ</token>
+     <token clearId="n65001004022" id="SBL.Jude.1.4.22.1">τὸν</token>
+     <token clearId="n65001004023" id="SBL.Jude.1.4.23.1">μόνον</token>
+     <token clearId="n65001004024" id="SBL.Jude.1.4.24.1">δεσπότην</token>
+     <token clearId="n65001004025" id="SBL.Jude.1.4.25.1">καὶ</token>
+     <token clearId="n65001004026" id="SBL.Jude.1.4.26.1">κύριον</token>
+     <token clearId="n65001004027" id="SBL.Jude.1.4.27.1">ἡμῶν</token>
+     <token clearId="n65001004028" id="SBL.Jude.1.4.28.1">Ἰησοῦν</token>
+     <token clearId="n65001004029" id="SBL.Jude.1.4.29.1">Χριστὸν</token>
+     <token clearId="n65001004030" id="SBL.Jude.1.4.30.1" after=".">ἀρνούμενοι</token>
     </move>
    </seg>
    <seg id="s.SBL.Jude.1.5-7" title="Examples of the Judgment of God">
     <move id="m.SBL.Jude.1.5-7" chStart="1" vStart="5" chEnd="1" vEnd="7">
-     <token id="SBL.Jude.1.5.1.1" clear_id="n65001005001" n="78">Ὑπομνῆσαι</token>
-     <token id="SBL.Jude.1.5.2.1" clear_id="n65001005002" n="79">δὲ</token>
-     <token id="SBL.Jude.1.5.3.1" clear_id="n65001005003" n="80">ὑμᾶς</token>
-     <token id="SBL.Jude.1.5.4.1" clear_id="n65001005004" n="81" after=",">βούλομαι</token>
-     <token id="SBL.Jude.1.5.5.1" clear_id="n65001005005" n="82">εἰδότας</token>
-     <token id="SBL.Jude.1.5.6.1" clear_id="n65001005006" n="83">ὑμᾶς</token>
-     <token id="SBL.Jude.1.5.7.1" clear_id="n65001005007" n="84">ἅπαξ</token>
-     <token id="SBL.Jude.1.5.8.1" clear_id="n65001005008" n="85" after=",">πάντα</token>
-     <token id="SBL.Jude.1.5.9.1" clear_id="n65001005009" n="86">ὅτι</token>
-     <token id="SBL.Jude.1.5.10.1" clear_id="n65001005010" n="87">Ἰησοῦς</token>
-     <token id="SBL.Jude.1.5.11.1" clear_id="n65001005011" n="88">λαὸν</token>
-     <token id="SBL.Jude.1.5.12.1" clear_id="n65001005012" n="89">ἐκ</token>
-     <token id="SBL.Jude.1.5.13.1" clear_id="n65001005013" n="90">γῆς</token>
-     <token id="SBL.Jude.1.5.14.1" clear_id="n65001005014" n="91">Αἰγύπτου</token>
-     <token id="SBL.Jude.1.5.15.1" clear_id="n65001005015" n="92">σώσας</token>
-     <token id="SBL.Jude.1.5.16.1" clear_id="n65001005016" n="93">τὸ</token>
-     <token id="SBL.Jude.1.5.17.1" clear_id="n65001005017" n="94">δεύτερον</token>
-     <token id="SBL.Jude.1.5.18.1" clear_id="n65001005018" n="95">τοὺς</token>
-     <token id="SBL.Jude.1.5.19.1" clear_id="n65001005019" n="96">μὴ</token>
-     <token id="SBL.Jude.1.5.20.1" clear_id="n65001005020" n="97">πιστεύσαντας</token>
-     <token id="SBL.Jude.1.5.21.1" clear_id="n65001005021" n="98" after=",">ἀπώλεσεν</token>
-     <token id="SBL.Jude.1.6.1.1" clear_id="n65001006001" n="99">ἀγγέλους</token>
-     <token id="SBL.Jude.1.6.2.1" clear_id="n65001006002" n="100">τε</token>
-     <token id="SBL.Jude.1.6.3.1" clear_id="n65001006003" n="101">τοὺς</token>
-     <token id="SBL.Jude.1.6.4.1" clear_id="n65001006004" n="102">μὴ</token>
-     <token id="SBL.Jude.1.6.5.1" clear_id="n65001006005" n="103">τηρήσαντας</token>
-     <token id="SBL.Jude.1.6.6.1" clear_id="n65001006006" n="104">τὴν</token>
-     <token id="SBL.Jude.1.6.7.1" clear_id="n65001006007" n="105">ἑαυτῶν</token>
-     <token id="SBL.Jude.1.6.8.1" clear_id="n65001006008" n="106">ἀρχὴν</token>
-     <token id="SBL.Jude.1.6.9.1" clear_id="n65001006009" n="107">ἀλλὰ</token>
-     <token id="SBL.Jude.1.6.10.1" clear_id="n65001006010" n="108">ἀπολιπόντας</token>
-     <token id="SBL.Jude.1.6.11.1" clear_id="n65001006011" n="109">τὸ</token>
-     <token id="SBL.Jude.1.6.12.1" clear_id="n65001006012" n="110">ἴδιον</token>
-     <token id="SBL.Jude.1.6.13.1" clear_id="n65001006013" n="111">οἰκητήριον</token>
-     <token id="SBL.Jude.1.6.14.1" clear_id="n65001006014" n="112">εἰς</token>
-     <token id="SBL.Jude.1.6.15.1" clear_id="n65001006015" n="113">κρίσιν</token>
-     <token id="SBL.Jude.1.6.16.1" clear_id="n65001006016" n="114">μεγάλης</token>
-     <token id="SBL.Jude.1.6.17.1" clear_id="n65001006017" n="115">ἡμέρας</token>
-     <token id="SBL.Jude.1.6.18.1" clear_id="n65001006018" n="116">δεσμοῖς</token>
-     <token id="SBL.Jude.1.6.19.1" clear_id="n65001006019" n="117">ἀϊδίοις</token>
-     <token id="SBL.Jude.1.6.20.1" clear_id="n65001006020" n="118">ὑπὸ</token>
-     <token id="SBL.Jude.1.6.21.1" clear_id="n65001006021" n="119">ζόφον</token>
-     <token id="SBL.Jude.1.6.22.1" clear_id="n65001006022" n="120" after="·">τετήρηκεν</token>
-     <token id="SBL.Jude.1.7.1.1" clear_id="n65001007001" n="121">ὡς</token>
-     <token id="SBL.Jude.1.7.2.1" clear_id="n65001007002" n="122">Σόδομα</token>
-     <token id="SBL.Jude.1.7.3.1" clear_id="n65001007003" n="123">καὶ</token>
-     <token id="SBL.Jude.1.7.4.1" clear_id="n65001007004" n="124">Γόμορρα</token>
-     <token id="SBL.Jude.1.7.5.1" clear_id="n65001007005" n="125">καὶ</token>
-     <token id="SBL.Jude.1.7.6.1" clear_id="n65001007006" n="126">αἱ</token>
-     <token id="SBL.Jude.1.7.7.1" clear_id="n65001007007" n="127">περὶ</token>
-     <token id="SBL.Jude.1.7.8.1" clear_id="n65001007008" n="128">αὐτὰς</token>
-     <token id="SBL.Jude.1.7.9.1" clear_id="n65001007009" n="129" after=",">πόλεις</token>
-     <token id="SBL.Jude.1.7.10.1" clear_id="n65001007010" n="130">τὸν</token>
-     <token id="SBL.Jude.1.7.11.1" clear_id="n65001007011" n="131">ὅμοιον</token>
-     <token id="SBL.Jude.1.7.12.1" clear_id="n65001007012" n="132">τρόπον</token>
-     <token id="SBL.Jude.1.7.13.1" clear_id="n65001007013" n="133">τούτοις</token>
-     <token id="SBL.Jude.1.7.14.1" clear_id="n65001007014" n="134">ἐκπορνεύσασαι</token>
-     <token id="SBL.Jude.1.7.15.1" clear_id="n65001007015" n="135">καὶ</token>
-     <token id="SBL.Jude.1.7.16.1" clear_id="n65001007016" n="136">ἀπελθοῦσαι</token>
-     <token id="SBL.Jude.1.7.17.1" clear_id="n65001007017" n="137">ὀπίσω</token>
-     <token id="SBL.Jude.1.7.18.1" clear_id="n65001007018" n="138">σαρκὸς</token>
-     <token id="SBL.Jude.1.7.19.1" clear_id="n65001007019" n="139" after=",">ἑτέρας</token>
-     <token id="SBL.Jude.1.7.20.1" clear_id="n65001007020" n="140">πρόκεινται</token>
-     <token id="SBL.Jude.1.7.21.1" clear_id="n65001007021" n="141">δεῖγμα</token>
-     <token id="SBL.Jude.1.7.22.1" clear_id="n65001007022" n="142">πυρὸς</token>
-     <token id="SBL.Jude.1.7.23.1" clear_id="n65001007023" n="143">αἰωνίου</token>
-     <token id="SBL.Jude.1.7.24.1" clear_id="n65001007024" n="144">δίκην</token>
-     <token id="SBL.Jude.1.7.25.1" clear_id="n65001007025" n="145" after=".">ὑπέχουσαι</token>
+     <token clearId="n65001005001" id="SBL.Jude.1.5.1.1">Ὑπομνῆσαι</token>
+     <token clearId="n65001005002" id="SBL.Jude.1.5.2.1">δὲ</token>
+     <token clearId="n65001005003" id="SBL.Jude.1.5.3.1">ὑμᾶς</token>
+     <token clearId="n65001005004" id="SBL.Jude.1.5.4.1" after=",">βούλομαι</token>
+     <token clearId="n65001005005" id="SBL.Jude.1.5.5.1">εἰδότας</token>
+     <token clearId="n65001005006" id="SBL.Jude.1.5.6.1">ὑμᾶς</token>
+     <token clearId="n65001005007" id="SBL.Jude.1.5.7.1">ἅπαξ</token>
+     <token clearId="n65001005008" id="SBL.Jude.1.5.8.1" after=",">πάντα</token>
+     <token clearId="n65001005009" id="SBL.Jude.1.5.9.1">ὅτι</token>
+     <token clearId="n65001005010" id="SBL.Jude.1.5.10.1">Ἰησοῦς</token>
+     <token clearId="n65001005011" id="SBL.Jude.1.5.11.1">λαὸν</token>
+     <token clearId="n65001005012" id="SBL.Jude.1.5.12.1">ἐκ</token>
+     <token clearId="n65001005013" id="SBL.Jude.1.5.13.1">γῆς</token>
+     <token clearId="n65001005014" id="SBL.Jude.1.5.14.1">Αἰγύπτου</token>
+     <token clearId="n65001005015" id="SBL.Jude.1.5.15.1">σώσας</token>
+     <token clearId="n65001005016" id="SBL.Jude.1.5.16.1">τὸ</token>
+     <token clearId="n65001005017" id="SBL.Jude.1.5.17.1">δεύτερον</token>
+     <token clearId="n65001005018" id="SBL.Jude.1.5.18.1">τοὺς</token>
+     <token clearId="n65001005019" id="SBL.Jude.1.5.19.1">μὴ</token>
+     <token clearId="n65001005020" id="SBL.Jude.1.5.20.1">πιστεύσαντας</token>
+     <token clearId="n65001005021" id="SBL.Jude.1.5.21.1" after=",">ἀπώλεσεν</token>
+     <token clearId="n65001006001" id="SBL.Jude.1.6.1.1">ἀγγέλους</token>
+     <token clearId="n65001006002" id="SBL.Jude.1.6.2.1">τε</token>
+     <token clearId="n65001006003" id="SBL.Jude.1.6.3.1">τοὺς</token>
+     <token clearId="n65001006004" id="SBL.Jude.1.6.4.1">μὴ</token>
+     <token clearId="n65001006005" id="SBL.Jude.1.6.5.1">τηρήσαντας</token>
+     <token clearId="n65001006006" id="SBL.Jude.1.6.6.1">τὴν</token>
+     <token clearId="n65001006007" id="SBL.Jude.1.6.7.1">ἑαυτῶν</token>
+     <token clearId="n65001006008" id="SBL.Jude.1.6.8.1">ἀρχὴν</token>
+     <token clearId="n65001006009" id="SBL.Jude.1.6.9.1">ἀλλὰ</token>
+     <token clearId="n65001006010" id="SBL.Jude.1.6.10.1">ἀπολιπόντας</token>
+     <token clearId="n65001006011" id="SBL.Jude.1.6.11.1">τὸ</token>
+     <token clearId="n65001006012" id="SBL.Jude.1.6.12.1">ἴδιον</token>
+     <token clearId="n65001006013" id="SBL.Jude.1.6.13.1">οἰκητήριον</token>
+     <token clearId="n65001006014" id="SBL.Jude.1.6.14.1">εἰς</token>
+     <token clearId="n65001006015" id="SBL.Jude.1.6.15.1">κρίσιν</token>
+     <token clearId="n65001006016" id="SBL.Jude.1.6.16.1">μεγάλης</token>
+     <token clearId="n65001006017" id="SBL.Jude.1.6.17.1">ἡμέρας</token>
+     <token clearId="n65001006018" id="SBL.Jude.1.6.18.1">δεσμοῖς</token>
+     <token clearId="n65001006019" id="SBL.Jude.1.6.19.1">ἀϊδίοις</token>
+     <token clearId="n65001006020" id="SBL.Jude.1.6.20.1">ὑπὸ</token>
+     <token clearId="n65001006021" id="SBL.Jude.1.6.21.1">ζόφον</token>
+     <token clearId="n65001006022" id="SBL.Jude.1.6.22.1" after="·">τετήρηκεν</token>
+     <token clearId="n65001007001" id="SBL.Jude.1.7.1.1">ὡς</token>
+     <token clearId="n65001007002" id="SBL.Jude.1.7.2.1">Σόδομα</token>
+     <token clearId="n65001007003" id="SBL.Jude.1.7.3.1">καὶ</token>
+     <token clearId="n65001007004" id="SBL.Jude.1.7.4.1">Γόμορρα</token>
+     <token clearId="n65001007005" id="SBL.Jude.1.7.5.1">καὶ</token>
+     <token clearId="n65001007006" id="SBL.Jude.1.7.6.1">αἱ</token>
+     <token clearId="n65001007007" id="SBL.Jude.1.7.7.1">περὶ</token>
+     <token clearId="n65001007008" id="SBL.Jude.1.7.8.1">αὐτὰς</token>
+     <token clearId="n65001007009" id="SBL.Jude.1.7.9.1" after=",">πόλεις</token>
+     <token clearId="n65001007010" id="SBL.Jude.1.7.10.1">τὸν</token>
+     <token clearId="n65001007011" id="SBL.Jude.1.7.11.1">ὅμοιον</token>
+     <token clearId="n65001007012" id="SBL.Jude.1.7.12.1">τρόπον</token>
+     <token clearId="n65001007013" id="SBL.Jude.1.7.13.1">τούτοις</token>
+     <token clearId="n65001007014" id="SBL.Jude.1.7.14.1">ἐκπορνεύσασαι</token>
+     <token clearId="n65001007015" id="SBL.Jude.1.7.15.1">καὶ</token>
+     <token clearId="n65001007016" id="SBL.Jude.1.7.16.1">ἀπελθοῦσαι</token>
+     <token clearId="n65001007017" id="SBL.Jude.1.7.17.1">ὀπίσω</token>
+     <token clearId="n65001007018" id="SBL.Jude.1.7.18.1">σαρκὸς</token>
+     <token clearId="n65001007019" id="SBL.Jude.1.7.19.1" after=",">ἑτέρας</token>
+     <token clearId="n65001007020" id="SBL.Jude.1.7.20.1">πρόκεινται</token>
+     <token clearId="n65001007021" id="SBL.Jude.1.7.21.1">δεῖγμα</token>
+     <token clearId="n65001007022" id="SBL.Jude.1.7.22.1">πυρὸς</token>
+     <token clearId="n65001007023" id="SBL.Jude.1.7.23.1">αἰωνίου</token>
+     <token clearId="n65001007024" id="SBL.Jude.1.7.24.1">δίκην</token>
+     <token clearId="n65001007025" id="SBL.Jude.1.7.25.1" after=".">ὑπέχουσαι</token>
     </move>
    </seg>
    <seg id="s.SBL.Jude.1.8-13" title="The Character of the Seducing Teachers">
     <move id="m.SBL.Jude.1.8" chStart="1" vStart="8" chEnd="1" vEnd="8">
-     <token id="SBL.Jude.1.8.1.1" clear_id="n65001008001" n="146">Ὁμοίως</token>
-     <token id="SBL.Jude.1.8.2.1" clear_id="n65001008002" n="147">μέντοι</token>
-     <token id="SBL.Jude.1.8.3.1" clear_id="n65001008003" n="148">καὶ</token>
-     <token id="SBL.Jude.1.8.4.1" clear_id="n65001008004" n="149">οὗτοι</token>
-     <token id="SBL.Jude.1.8.5.1" clear_id="n65001008005" n="150">ἐνυπνιαζόμενοι</token>
-     <token id="SBL.Jude.1.8.6.1" clear_id="n65001008006" n="151">σάρκα</token>
-     <token id="SBL.Jude.1.8.7.1" clear_id="n65001008007" n="152">μὲν</token>
-     <token id="SBL.Jude.1.8.8.1" clear_id="n65001008008" n="153" after=",">μιαίνουσιν</token>
-     <token id="SBL.Jude.1.8.9.1" clear_id="n65001008009" n="154">κυριότητα</token>
-     <token id="SBL.Jude.1.8.10.1" clear_id="n65001008010" n="155">δὲ</token>
-     <token id="SBL.Jude.1.8.11.1" clear_id="n65001008011" n="156" after=",">ἀθετοῦσιν</token>
-     <token id="SBL.Jude.1.8.12.1" clear_id="n65001008012" n="157">δόξας</token>
-     <token id="SBL.Jude.1.8.13.1" clear_id="n65001008013" n="158">δὲ</token>
-     <token id="SBL.Jude.1.8.14.1" clear_id="n65001008014" n="159" after=".">βλασφημοῦσιν</token>
+     <token clearId="n65001008001" id="SBL.Jude.1.8.1.1">Ὁμοίως</token>
+     <token clearId="n65001008002" id="SBL.Jude.1.8.2.1">μέντοι</token>
+     <token clearId="n65001008003" id="SBL.Jude.1.8.3.1">καὶ</token>
+     <token clearId="n65001008004" id="SBL.Jude.1.8.4.1">οὗτοι</token>
+     <token clearId="n65001008005" id="SBL.Jude.1.8.5.1">ἐνυπνιαζόμενοι</token>
+     <token clearId="n65001008006" id="SBL.Jude.1.8.6.1">σάρκα</token>
+     <token clearId="n65001008007" id="SBL.Jude.1.8.7.1">μὲν</token>
+     <token clearId="n65001008008" id="SBL.Jude.1.8.8.1" after=",">μιαίνουσιν</token>
+     <token clearId="n65001008009" id="SBL.Jude.1.8.9.1">κυριότητα</token>
+     <token clearId="n65001008010" id="SBL.Jude.1.8.10.1">δὲ</token>
+     <token clearId="n65001008011" id="SBL.Jude.1.8.11.1" after=",">ἀθετοῦσιν</token>
+     <token clearId="n65001008012" id="SBL.Jude.1.8.12.1">δόξας</token>
+     <token clearId="n65001008013" id="SBL.Jude.1.8.13.1">δὲ</token>
+     <token clearId="n65001008014" id="SBL.Jude.1.8.14.1" after=".">βλασφημοῦσιν</token>
     </move>
     <move id="m.SBL.Jude.1.9-9" chStart="1" vStart="9" chEnd="1" vEnd="9">
-     <token id="SBL.Jude.1.9.1.1" clear_id="n65001009001" n="160">ὁ</token>
-     <token id="SBL.Jude.1.9.2.1" clear_id="n65001009002" n="161">δὲ</token>
-     <token id="SBL.Jude.1.9.3.1" clear_id="n65001009003" n="162">Μιχαὴλ</token>
-     <token id="SBL.Jude.1.9.4.1" clear_id="n65001009004" n="163">ὁ</token>
-     <token id="SBL.Jude.1.9.5.1" clear_id="n65001009005" n="164" after=",">ἀρχάγγελος</token>
-     <token id="SBL.Jude.1.9.6.1" clear_id="n65001009006" n="165">ὅτε</token>
-     <token id="SBL.Jude.1.9.7.1" clear_id="n65001009007" n="166">τῷ</token>
-     <token id="SBL.Jude.1.9.8.1" clear_id="n65001009008" n="167">διαβόλῳ</token>
-     <token id="SBL.Jude.1.9.9.1" clear_id="n65001009009" n="168">διακρινόμενος</token>
-     <token id="SBL.Jude.1.9.10.1" clear_id="n65001009010" n="169">διελέγετο</token>
-     <token id="SBL.Jude.1.9.11.1" clear_id="n65001009011" n="170">περὶ</token>
-     <token id="SBL.Jude.1.9.12.1" clear_id="n65001009012" n="171">τοῦ</token>
-     <token id="SBL.Jude.1.9.13.1" clear_id="n65001009013" n="172">Μωϋσέως</token>
-     <token id="SBL.Jude.1.9.14.1" clear_id="n65001009014" n="173" after=",">σώματος</token>
-     <token id="SBL.Jude.1.9.15.1" clear_id="n65001009015" n="174">οὐκ</token>
-     <token id="SBL.Jude.1.9.16.1" clear_id="n65001009016" n="175">ἐτόλμησεν</token>
-     <token id="SBL.Jude.1.9.17.1" clear_id="n65001009017" n="176">κρίσιν</token>
-     <token id="SBL.Jude.1.9.18.1" clear_id="n65001009018" n="177">ἐπενεγκεῖν</token>
-     <token id="SBL.Jude.1.9.19.1" clear_id="n65001009019" n="178" after=",">βλασφημίας</token>
-     <token id="SBL.Jude.1.9.20.1" clear_id="n65001009020" n="179">ἀλλὰ</token>
-     <token id="SBL.Jude.1.9.21.1" clear_id="n65001009021" n="180" after="·">εἶπεν</token>
+     <token clearId="n65001009001" id="SBL.Jude.1.9.1.1">ὁ</token>
+     <token clearId="n65001009002" id="SBL.Jude.1.9.2.1">δὲ</token>
+     <token clearId="n65001009003" id="SBL.Jude.1.9.3.1">Μιχαὴλ</token>
+     <token clearId="n65001009004" id="SBL.Jude.1.9.4.1">ὁ</token>
+     <token clearId="n65001009005" id="SBL.Jude.1.9.5.1" after=",">ἀρχάγγελος</token>
+     <token clearId="n65001009006" id="SBL.Jude.1.9.6.1">ὅτε</token>
+     <token clearId="n65001009007" id="SBL.Jude.1.9.7.1">τῷ</token>
+     <token clearId="n65001009008" id="SBL.Jude.1.9.8.1">διαβόλῳ</token>
+     <token clearId="n65001009009" id="SBL.Jude.1.9.9.1">διακρινόμενος</token>
+     <token clearId="n65001009010" id="SBL.Jude.1.9.10.1">διελέγετο</token>
+     <token clearId="n65001009011" id="SBL.Jude.1.9.11.1">περὶ</token>
+     <token clearId="n65001009012" id="SBL.Jude.1.9.12.1">τοῦ</token>
+     <token clearId="n65001009013" id="SBL.Jude.1.9.13.1">Μωϋσέως</token>
+     <token clearId="n65001009014" id="SBL.Jude.1.9.14.1" after=",">σώματος</token>
+     <token clearId="n65001009015" id="SBL.Jude.1.9.15.1">οὐκ</token>
+     <token clearId="n65001009016" id="SBL.Jude.1.9.16.1">ἐτόλμησεν</token>
+     <token clearId="n65001009017" id="SBL.Jude.1.9.17.1">κρίσιν</token>
+     <token clearId="n65001009018" id="SBL.Jude.1.9.18.1">ἐπενεγκεῖν</token>
+     <token clearId="n65001009019" id="SBL.Jude.1.9.19.1" after=",">βλασφημίας</token>
+     <token clearId="n65001009020" id="SBL.Jude.1.9.20.1">ἀλλὰ</token>
+     <token clearId="n65001009021" id="SBL.Jude.1.9.21.1" after="·">εἶπεν</token>
      <turn depth="2" id="t.SBL.Jude.1.9.22-24" chStart="1" vStart="9" chEnd="1" vEnd="9">
       <move id="m.SBL.Jude.1.9.22-24" chStart="1" vStart="9" chEnd="1" vEnd="9">
-       <token id="SBL.Jude.1.9.22.1" clear_id="n65001009022" n="181">Ἐπιτιμήσαι</token>
-       <token id="SBL.Jude.1.9.23.1" clear_id="n65001009023" n="182">σοι</token>
-       <token id="SBL.Jude.1.9.24.1" clear_id="n65001009024" n="183" after=".">κύριος</token>
+       <token clearId="n65001009022" id="SBL.Jude.1.9.22.1">Ἐπιτιμήσαι</token>
+       <token clearId="n65001009023" id="SBL.Jude.1.9.23.1">σοι</token>
+       <token clearId="n65001009024" id="SBL.Jude.1.9.24.1" after=".">κύριος</token>
       </move>
      </turn>
     </move>
     <move id="m.SBL.Jude.1.10.1-7" chStart="1" vStart="10" chEnd="1" vEnd="10">
-     <token id="SBL.Jude.1.10.1.1" clear_id="n65001010001" n="184">οὗτοι</token>
-     <token id="SBL.Jude.1.10.2.1" clear_id="n65001010002" n="185">δὲ</token>
-     <token id="SBL.Jude.1.10.3.1" clear_id="n65001010003" n="186">ὅσα</token>
-     <token id="SBL.Jude.1.10.4.1" clear_id="n65001010004" n="187">μὲν</token>
-     <token id="SBL.Jude.1.10.5.1" clear_id="n65001010005" n="188">οὐκ</token>
-     <token id="SBL.Jude.1.10.6.1" clear_id="n65001010006" n="189">οἴδασιν</token>
-     <token id="SBL.Jude.1.10.7.1" clear_id="n65001010007" n="190" after=",">βλασφημοῦσιν</token>
+     <token clearId="n65001010001" id="SBL.Jude.1.10.1.1">οὗτοι</token>
+     <token clearId="n65001010002" id="SBL.Jude.1.10.2.1">δὲ</token>
+     <token clearId="n65001010003" id="SBL.Jude.1.10.3.1">ὅσα</token>
+     <token clearId="n65001010004" id="SBL.Jude.1.10.4.1">μὲν</token>
+     <token clearId="n65001010005" id="SBL.Jude.1.10.5.1">οὐκ</token>
+     <token clearId="n65001010006" id="SBL.Jude.1.10.6.1">οἴδασιν</token>
+     <token clearId="n65001010007" id="SBL.Jude.1.10.7.1" after=",">βλασφημοῦσιν</token>
     </move>
     <move id="m.SBL.Jude.1.10.8-18" chStart="1" vStart="10" chEnd="1" vEnd="10">
-     <token id="SBL.Jude.1.10.8.1" clear_id="n65001010008" n="191">ὅσα</token>
-     <token id="SBL.Jude.1.10.9.1" clear_id="n65001010009" n="192">δὲ</token>
-     <token id="SBL.Jude.1.10.10.1" clear_id="n65001010010" n="193">φυσικῶς</token>
-     <token id="SBL.Jude.1.10.11.1" clear_id="n65001010011" n="194">ὡς</token>
-     <token id="SBL.Jude.1.10.12.1" clear_id="n65001010012" n="195">τὰ</token>
-     <token id="SBL.Jude.1.10.13.1" clear_id="n65001010013" n="196">ἄλογα</token>
-     <token id="SBL.Jude.1.10.14.1" clear_id="n65001010014" n="197">ζῷα</token>
-     <token id="SBL.Jude.1.10.15.1" clear_id="n65001010015" n="198" after=",">ἐπίστανται</token>
-     <token id="SBL.Jude.1.10.16.1" clear_id="n65001010016" n="199">ἐν</token>
-     <token id="SBL.Jude.1.10.17.1" clear_id="n65001010017" n="200">τούτοις</token>
-     <token id="SBL.Jude.1.10.18.1" clear_id="n65001010018" n="201" after=".">φθείρονται</token>
+     <token clearId="n65001010008" id="SBL.Jude.1.10.8.1">ὅσα</token>
+     <token clearId="n65001010009" id="SBL.Jude.1.10.9.1">δὲ</token>
+     <token clearId="n65001010010" id="SBL.Jude.1.10.10.1">φυσικῶς</token>
+     <token clearId="n65001010011" id="SBL.Jude.1.10.11.1">ὡς</token>
+     <token clearId="n65001010012" id="SBL.Jude.1.10.12.1">τὰ</token>
+     <token clearId="n65001010013" id="SBL.Jude.1.10.13.1">ἄλογα</token>
+     <token clearId="n65001010014" id="SBL.Jude.1.10.14.1">ζῷα</token>
+     <token clearId="n65001010015" id="SBL.Jude.1.10.15.1" after=",">ἐπίστανται</token>
+     <token clearId="n65001010016" id="SBL.Jude.1.10.16.1">ἐν</token>
+     <token clearId="n65001010017" id="SBL.Jude.1.10.17.1">τούτοις</token>
+     <token clearId="n65001010018" id="SBL.Jude.1.10.18.1" after=".">φθείρονται</token>
     </move>
     <move id="m.SBL.Jude.1.11" chStart="1" vStart="11" chEnd="1" vEnd="11">
-     <token id="SBL.Jude.1.11.1.1" clear_id="n65001011001" n="202">οὐαὶ</token>
-     <token id="SBL.Jude.1.11.2.1" clear_id="n65001011002" n="203" after=",">αὐτοῖς</token>
-     <token id="SBL.Jude.1.11.3.1" clear_id="n65001011003" n="204">ὅτι</token>
-     <token id="SBL.Jude.1.11.4.1" clear_id="n65001011004" n="205">τῇ</token>
-     <token id="SBL.Jude.1.11.5.1" clear_id="n65001011005" n="206">ὁδῷ</token>
-     <token id="SBL.Jude.1.11.6.1" clear_id="n65001011006" n="207">τοῦ</token>
-     <token id="SBL.Jude.1.11.7.1" clear_id="n65001011007" n="208">Κάϊν</token>
-     <token id="SBL.Jude.1.11.8.1" clear_id="n65001011008" n="209" after=",">ἐπορεύθησαν</token>
-     <token id="SBL.Jude.1.11.9.1" clear_id="n65001011009" n="210">καὶ</token>
-     <token id="SBL.Jude.1.11.10.1" clear_id="n65001011010" n="211">τῇ</token>
-     <token id="SBL.Jude.1.11.11.1" clear_id="n65001011011" n="212">πλάνῃ</token>
-     <token id="SBL.Jude.1.11.12.1" clear_id="n65001011012" n="213">τοῦ</token>
-     <token id="SBL.Jude.1.11.13.1" clear_id="n65001011013" n="214">Βαλαὰμ</token>
-     <token id="SBL.Jude.1.11.14.1" clear_id="n65001011014" n="215">μισθοῦ</token>
-     <token id="SBL.Jude.1.11.15.1" clear_id="n65001011015" n="216" after=",">ἐξεχύθησαν</token>
-     <token id="SBL.Jude.1.11.16.1" clear_id="n65001011016" n="217">καὶ</token>
-     <token id="SBL.Jude.1.11.17.1" clear_id="n65001011017" n="218">τῇ</token>
-     <token id="SBL.Jude.1.11.18.1" clear_id="n65001011018" n="219">ἀντιλογίᾳ</token>
-     <token id="SBL.Jude.1.11.19.1" clear_id="n65001011019" n="220">τοῦ</token>
-     <token id="SBL.Jude.1.11.20.1" clear_id="n65001011020" n="221">Κόρε</token>
-     <token id="SBL.Jude.1.11.21.1" clear_id="n65001011021" n="222" after=".">ἀπώλοντο</token>
+     <token clearId="n65001011001" id="SBL.Jude.1.11.1.1">οὐαὶ</token>
+     <token clearId="n65001011002" id="SBL.Jude.1.11.2.1" after=",">αὐτοῖς</token>
+     <token clearId="n65001011003" id="SBL.Jude.1.11.3.1">ὅτι</token>
+     <token clearId="n65001011004" id="SBL.Jude.1.11.4.1">τῇ</token>
+     <token clearId="n65001011005" id="SBL.Jude.1.11.5.1">ὁδῷ</token>
+     <token clearId="n65001011006" id="SBL.Jude.1.11.6.1">τοῦ</token>
+     <token clearId="n65001011007" id="SBL.Jude.1.11.7.1">Κάϊν</token>
+     <token clearId="n65001011008" id="SBL.Jude.1.11.8.1" after=",">ἐπορεύθησαν</token>
+     <token clearId="n65001011009" id="SBL.Jude.1.11.9.1">καὶ</token>
+     <token clearId="n65001011010" id="SBL.Jude.1.11.10.1">τῇ</token>
+     <token clearId="n65001011011" id="SBL.Jude.1.11.11.1">πλάνῃ</token>
+     <token clearId="n65001011012" id="SBL.Jude.1.11.12.1">τοῦ</token>
+     <token clearId="n65001011013" id="SBL.Jude.1.11.13.1">Βαλαὰμ</token>
+     <token clearId="n65001011014" id="SBL.Jude.1.11.14.1">μισθοῦ</token>
+     <token clearId="n65001011015" id="SBL.Jude.1.11.15.1" after=",">ἐξεχύθησαν</token>
+     <token clearId="n65001011016" id="SBL.Jude.1.11.16.1">καὶ</token>
+     <token clearId="n65001011017" id="SBL.Jude.1.11.17.1">τῇ</token>
+     <token clearId="n65001011018" id="SBL.Jude.1.11.18.1">ἀντιλογίᾳ</token>
+     <token clearId="n65001011019" id="SBL.Jude.1.11.19.1">τοῦ</token>
+     <token clearId="n65001011020" id="SBL.Jude.1.11.20.1">Κόρε</token>
+     <token clearId="n65001011021" id="SBL.Jude.1.11.21.1" after=".">ἀπώλοντο</token>
     </move>
     <move id="m.SBL.Jude.1.12-13" chStart="1" vStart="12" chEnd="1" vEnd="13">
-     <token id="SBL.Jude.1.12.1.1" clear_id="n65001012001" n="223">οὗτοί</token>
-     <token id="SBL.Jude.1.12.2.1" clear_id="n65001012002" n="224">εἰσιν</token>
-     <token id="SBL.Jude.1.12.3.1" clear_id="n65001012003" n="225">οἱ</token>
-     <token id="SBL.Jude.1.12.4.1" clear_id="n65001012004" n="226">ἐν</token>
-     <token id="SBL.Jude.1.12.5.1" clear_id="n65001012005" n="227">ταῖς</token>
-     <token id="SBL.Jude.1.12.6.1" clear_id="n65001012006" n="228">ἀγάπαις</token>
-     <token id="SBL.Jude.1.12.7.1" clear_id="n65001012007" n="229">ὑμῶν</token>
-     <token id="SBL.Jude.1.12.8.1" clear_id="n65001012008" n="230">σπιλάδες</token>
-     <token id="SBL.Jude.1.12.9.1" clear_id="n65001012009" n="231" after=",">συνευωχούμενοι</token>
-     <token id="SBL.Jude.1.12.10.1" clear_id="n65001012010" n="232">ἀφόβως</token>
-     <token id="SBL.Jude.1.12.11.1" clear_id="n65001012011" n="233">ἑαυτοὺς</token>
-     <token id="SBL.Jude.1.12.12.1" clear_id="n65001012012" n="234" after=",">ποιμαίνοντες</token>
-     <token id="SBL.Jude.1.12.13.1" clear_id="n65001012013" n="235">νεφέλαι</token>
-     <token id="SBL.Jude.1.12.14.1" clear_id="n65001012014" n="236">ἄνυδροι</token>
-     <token id="SBL.Jude.1.12.15.1" clear_id="n65001012015" n="237">ὑπὸ</token>
-     <token id="SBL.Jude.1.12.16.1" clear_id="n65001012016" n="238">ἀνέμων</token>
-     <token id="SBL.Jude.1.12.17.1" clear_id="n65001012017" n="239" after=",">παραφερόμεναι</token>
-     <token id="SBL.Jude.1.12.18.1" clear_id="n65001012018" n="240">δένδρα</token>
-     <token id="SBL.Jude.1.12.19.1" clear_id="n65001012019" n="241">φθινοπωρινὰ</token>
-     <token id="SBL.Jude.1.12.20.1" clear_id="n65001012020" n="242">ἄκαρπα</token>
-     <token id="SBL.Jude.1.12.21.1" clear_id="n65001012021" n="243">δὶς</token>
-     <token id="SBL.Jude.1.12.22.1" clear_id="n65001012022" n="244">ἀποθανόντα</token>
-     <token id="SBL.Jude.1.12.23.1" clear_id="n65001012023" n="245" after=",">ἐκριζωθέντα</token>
-     <token id="SBL.Jude.1.13.1.1" clear_id="n65001013001" n="246">κύματα</token>
-     <token id="SBL.Jude.1.13.2.1" clear_id="n65001013002" n="247">ἄγρια</token>
-     <token id="SBL.Jude.1.13.3.1" clear_id="n65001013003" n="248">θαλάσσης</token>
-     <token id="SBL.Jude.1.13.4.1" clear_id="n65001013004" n="249">ἐπαφρίζοντα</token>
-     <token id="SBL.Jude.1.13.5.1" clear_id="n65001013005" n="250">τὰς</token>
-     <token id="SBL.Jude.1.13.6.1" clear_id="n65001013006" n="251">ἑαυτῶν</token>
-     <token id="SBL.Jude.1.13.7.1" clear_id="n65001013007" n="252" after=",">αἰσχύνας</token>
-     <token id="SBL.Jude.1.13.8.1" clear_id="n65001013008" n="253">ἀστέρες</token>
-     <token id="SBL.Jude.1.13.9.1" clear_id="n65001013009" n="254">πλανῆται</token>
-     <token id="SBL.Jude.1.13.10.1" clear_id="n65001013010" n="255">οἷς</token>
-     <token id="SBL.Jude.1.13.11.1" clear_id="n65001013011" n="256">ὁ</token>
-     <token id="SBL.Jude.1.13.12.1" clear_id="n65001013012" n="257">ζόφος</token>
-     <token id="SBL.Jude.1.13.13.1" clear_id="n65001013013" n="258">τοῦ</token>
-     <token id="SBL.Jude.1.13.14.1" clear_id="n65001013014" n="259">σκότους</token>
-     <token id="SBL.Jude.1.13.15.1" clear_id="n65001013015" n="260">εἰς</token>
-     <token id="SBL.Jude.1.13.16.1" clear_id="n65001013016" n="261">αἰῶνα</token>
-     <token id="SBL.Jude.1.13.17.1" clear_id="n65001013017" n="262" after=".">τετήρηται</token>
+     <token clearId="n65001012001" id="SBL.Jude.1.12.1.1">οὗτοί</token>
+     <token clearId="n65001012002" id="SBL.Jude.1.12.2.1">εἰσιν</token>
+     <token clearId="n65001012003" id="SBL.Jude.1.12.3.1">οἱ</token>
+     <token clearId="n65001012004" id="SBL.Jude.1.12.4.1">ἐν</token>
+     <token clearId="n65001012005" id="SBL.Jude.1.12.5.1">ταῖς</token>
+     <token clearId="n65001012006" id="SBL.Jude.1.12.6.1">ἀγάπαις</token>
+     <token clearId="n65001012007" id="SBL.Jude.1.12.7.1">ὑμῶν</token>
+     <token clearId="n65001012008" id="SBL.Jude.1.12.8.1">σπιλάδες</token>
+     <token clearId="n65001012009" id="SBL.Jude.1.12.9.1" after=",">συνευωχούμενοι</token>
+     <token clearId="n65001012010" id="SBL.Jude.1.12.10.1">ἀφόβως</token>
+     <token clearId="n65001012011" id="SBL.Jude.1.12.11.1">ἑαυτοὺς</token>
+     <token clearId="n65001012012" id="SBL.Jude.1.12.12.1" after=",">ποιμαίνοντες</token>
+     <token clearId="n65001012013" id="SBL.Jude.1.12.13.1">νεφέλαι</token>
+     <token clearId="n65001012014" id="SBL.Jude.1.12.14.1">ἄνυδροι</token>
+     <token clearId="n65001012015" id="SBL.Jude.1.12.15.1">ὑπὸ</token>
+     <token clearId="n65001012016" id="SBL.Jude.1.12.16.1">ἀνέμων</token>
+     <token clearId="n65001012017" id="SBL.Jude.1.12.17.1" after=",">παραφερόμεναι</token>
+     <token clearId="n65001012018" id="SBL.Jude.1.12.18.1">δένδρα</token>
+     <token clearId="n65001012019" id="SBL.Jude.1.12.19.1">φθινοπωρινὰ</token>
+     <token clearId="n65001012020" id="SBL.Jude.1.12.20.1">ἄκαρπα</token>
+     <token clearId="n65001012021" id="SBL.Jude.1.12.21.1">δὶς</token>
+     <token clearId="n65001012022" id="SBL.Jude.1.12.22.1">ἀποθανόντα</token>
+     <token clearId="n65001012023" id="SBL.Jude.1.12.23.1" after=",">ἐκριζωθέντα</token>
+     <token clearId="n65001013001" id="SBL.Jude.1.13.1.1">κύματα</token>
+     <token clearId="n65001013002" id="SBL.Jude.1.13.2.1">ἄγρια</token>
+     <token clearId="n65001013003" id="SBL.Jude.1.13.3.1">θαλάσσης</token>
+     <token clearId="n65001013004" id="SBL.Jude.1.13.4.1">ἐπαφρίζοντα</token>
+     <token clearId="n65001013005" id="SBL.Jude.1.13.5.1">τὰς</token>
+     <token clearId="n65001013006" id="SBL.Jude.1.13.6.1">ἑαυτῶν</token>
+     <token clearId="n65001013007" id="SBL.Jude.1.13.7.1" after=",">αἰσχύνας</token>
+     <token clearId="n65001013008" id="SBL.Jude.1.13.8.1">ἀστέρες</token>
+     <token clearId="n65001013009" id="SBL.Jude.1.13.9.1">πλανῆται</token>
+     <token clearId="n65001013010" id="SBL.Jude.1.13.10.1">οἷς</token>
+     <token clearId="n65001013011" id="SBL.Jude.1.13.11.1">ὁ</token>
+     <token clearId="n65001013012" id="SBL.Jude.1.13.12.1">ζόφος</token>
+     <token clearId="n65001013013" id="SBL.Jude.1.13.13.1">τοῦ</token>
+     <token clearId="n65001013014" id="SBL.Jude.1.13.14.1">σκότους</token>
+     <token clearId="n65001013015" id="SBL.Jude.1.13.15.1">εἰς</token>
+     <token clearId="n65001013016" id="SBL.Jude.1.13.16.1">αἰῶνα</token>
+     <token clearId="n65001013017" id="SBL.Jude.1.13.17.1" after=".">τετήρηται</token>
     </move>
    </seg>
    <seg id="s.SBL.Jude.1.14-16" title="God's Coming Judgment Upon the False Teachers">
     <move id="m.SBL.Jude.1.14-15" chStart="1" vStart="14" chEnd="1" vEnd="15">
-     <token id="SBL.Jude.1.14.1.1" clear_id="n65001014001" n="263">Προεφήτευσεν</token>
-     <token id="SBL.Jude.1.14.2.1" clear_id="n65001014002" n="264">δὲ</token>
-     <token id="SBL.Jude.1.14.3.1" clear_id="n65001014003" n="265">καὶ</token>
-     <token id="SBL.Jude.1.14.4.1" clear_id="n65001014004" n="266">τούτοις</token>
-     <token id="SBL.Jude.1.14.5.1" clear_id="n65001014005" n="267">ἕβδομος</token>
-     <token id="SBL.Jude.1.14.6.1" clear_id="n65001014006" n="268">ἀπὸ</token>
-     <token id="SBL.Jude.1.14.7.1" clear_id="n65001014007" n="269">Ἀδὰμ</token>
-     <token id="SBL.Jude.1.14.8.1" clear_id="n65001014008" n="270">Ἑνὼχ</token>
-     <token id="SBL.Jude.1.14.9.1" clear_id="n65001014009" n="271" after="·">λέγων</token>
+     <token clearId="n65001014001" id="SBL.Jude.1.14.1.1">Προεφήτευσεν</token>
+     <token clearId="n65001014002" id="SBL.Jude.1.14.2.1">δὲ</token>
+     <token clearId="n65001014003" id="SBL.Jude.1.14.3.1">καὶ</token>
+     <token clearId="n65001014004" id="SBL.Jude.1.14.4.1">τούτοις</token>
+     <token clearId="n65001014005" id="SBL.Jude.1.14.5.1">ἕβδομος</token>
+     <token clearId="n65001014006" id="SBL.Jude.1.14.6.1">ἀπὸ</token>
+     <token clearId="n65001014007" id="SBL.Jude.1.14.7.1">Ἀδὰμ</token>
+     <token clearId="n65001014008" id="SBL.Jude.1.14.8.1">Ἑνὼχ</token>
+     <token clearId="n65001014009" id="SBL.Jude.1.14.9.1" after="·">λέγων</token>
      <turn depth="2" id="t.SBL.Jude.1.14.10-15.28" chStart="1" vStart="14" chEnd="1" vEnd="15">
       <move id="m.SBL.Jude.1.14.10-15.28" chStart="1" vStart="14" chEnd="1" vEnd="15">
-       <token id="SBL.Jude.1.14.10.1" clear_id="n65001014010" n="272">Ἰδοὺ</token>
-       <token id="SBL.Jude.1.14.11.1" clear_id="n65001014011" n="273">ἦλθεν</token>
-       <token id="SBL.Jude.1.14.12.1" clear_id="n65001014012" n="274">κύριος</token>
-       <token id="SBL.Jude.1.14.13.1" clear_id="n65001014013" n="275">ἐν</token>
-       <token id="SBL.Jude.1.14.14.1" clear_id="n65001014014" n="276">ἁγίαις</token>
-       <token id="SBL.Jude.1.14.15.1" clear_id="n65001014015" n="277">μυριάσιν</token>
-       <token id="SBL.Jude.1.14.16.1" clear_id="n65001014016" n="278" after=",">αὐτοῦ</token>
-       <token id="SBL.Jude.1.15.1.1" clear_id="n65001015001" n="279">ποιῆσαι</token>
-       <token id="SBL.Jude.1.15.2.1" clear_id="n65001015002" n="280">κρίσιν</token>
-       <token id="SBL.Jude.1.15.3.1" clear_id="n65001015003" n="281">κατὰ</token>
-       <token id="SBL.Jude.1.15.4.1" clear_id="n65001015004" n="282">πάντων</token>
-       <token id="SBL.Jude.1.15.5.1" clear_id="n65001015005" n="283">καὶ</token>
-       <token id="SBL.Jude.1.15.6.1" clear_id="n65001015006" n="284">ἐλέγξαι</token>
-       <token id="SBL.Jude.1.15.7.1" clear_id="n65001015007" n="285">πάντας</token>
-       <token id="SBL.Jude.1.15.8.1" clear_id="n65001015008" n="286">τοὺς</token>
-       <token id="SBL.Jude.1.15.9.1" clear_id="n65001015009" n="287">ἀσεβεῖς</token>
-       <token id="SBL.Jude.1.15.10.1" clear_id="n65001015010" n="288">περὶ</token>
-       <token id="SBL.Jude.1.15.11.1" clear_id="n65001015011" n="289">πάντων</token>
-       <token id="SBL.Jude.1.15.12.1" clear_id="n65001015012" n="290">τῶν</token>
-       <token id="SBL.Jude.1.15.13.1" clear_id="n65001015013" n="291">ἔργων</token>
-       <token id="SBL.Jude.1.15.14.1" clear_id="n65001015014" n="292">ἀσεβείας</token>
-       <token id="SBL.Jude.1.15.15.1" clear_id="n65001015015" n="293">αὐτῶν</token>
-       <token id="SBL.Jude.1.15.16.1" clear_id="n65001015016" n="294">ὧν</token>
-       <token id="SBL.Jude.1.15.17.1" clear_id="n65001015017" n="295">ἠσέβησαν</token>
-       <token id="SBL.Jude.1.15.18.1" clear_id="n65001015018" n="296">καὶ</token>
-       <token id="SBL.Jude.1.15.19.1" clear_id="n65001015019" n="297">περὶ</token>
-       <token id="SBL.Jude.1.15.20.1" clear_id="n65001015020" n="298">πάντων</token>
-       <token id="SBL.Jude.1.15.21.1" clear_id="n65001015021" n="299">τῶν</token>
-       <token id="SBL.Jude.1.15.22.1" clear_id="n65001015022" n="300">σκληρῶν</token>
-       <token id="SBL.Jude.1.15.23.1" clear_id="n65001015023" n="301">ὧν</token>
-       <token id="SBL.Jude.1.15.24.1" clear_id="n65001015024" n="302">ἐλάλησαν</token>
-       <token id="SBL.Jude.1.15.25.1" clear_id="n65001015025" n="303">κατ’</token>
-       <token id="SBL.Jude.1.15.26.1" clear_id="n65001015026" n="304">αὐτοῦ</token>
-       <token id="SBL.Jude.1.15.27.1" clear_id="n65001015027" n="305">ἁμαρτωλοὶ</token>
-       <token id="SBL.Jude.1.15.28.1" clear_id="n65001015028" n="306" after=".">ἀσεβεῖς</token>
+       <token clearId="n65001014010" id="SBL.Jude.1.14.10.1">Ἰδοὺ</token>
+       <token clearId="n65001014011" id="SBL.Jude.1.14.11.1">ἦλθεν</token>
+       <token clearId="n65001014012" id="SBL.Jude.1.14.12.1">κύριος</token>
+       <token clearId="n65001014013" id="SBL.Jude.1.14.13.1">ἐν</token>
+       <token clearId="n65001014014" id="SBL.Jude.1.14.14.1">ἁγίαις</token>
+       <token clearId="n65001014015" id="SBL.Jude.1.14.15.1">μυριάσιν</token>
+       <token clearId="n65001014016" id="SBL.Jude.1.14.16.1" after=",">αὐτοῦ</token>
+       <token clearId="n65001015001" id="SBL.Jude.1.15.1.1">ποιῆσαι</token>
+       <token clearId="n65001015002" id="SBL.Jude.1.15.2.1">κρίσιν</token>
+       <token clearId="n65001015003" id="SBL.Jude.1.15.3.1">κατὰ</token>
+       <token clearId="n65001015004" id="SBL.Jude.1.15.4.1">πάντων</token>
+       <token clearId="n65001015005" id="SBL.Jude.1.15.5.1">καὶ</token>
+       <token clearId="n65001015006" id="SBL.Jude.1.15.6.1">ἐλέγξαι</token>
+       <token clearId="n65001015007" id="SBL.Jude.1.15.7.1">πάντας</token>
+       <token clearId="n65001015008" id="SBL.Jude.1.15.8.1">τοὺς</token>
+       <token clearId="n65001015009" id="SBL.Jude.1.15.9.1">ἀσεβεῖς</token>
+       <token clearId="n65001015010" id="SBL.Jude.1.15.10.1">περὶ</token>
+       <token clearId="n65001015011" id="SBL.Jude.1.15.11.1">πάντων</token>
+       <token clearId="n65001015012" id="SBL.Jude.1.15.12.1">τῶν</token>
+       <token clearId="n65001015013" id="SBL.Jude.1.15.13.1">ἔργων</token>
+       <token clearId="n65001015014" id="SBL.Jude.1.15.14.1">ἀσεβείας</token>
+       <token clearId="n65001015015" id="SBL.Jude.1.15.15.1">αὐτῶν</token>
+       <token clearId="n65001015016" id="SBL.Jude.1.15.16.1">ὧν</token>
+       <token clearId="n65001015017" id="SBL.Jude.1.15.17.1">ἠσέβησαν</token>
+       <token clearId="n65001015018" id="SBL.Jude.1.15.18.1">καὶ</token>
+       <token clearId="n65001015019" id="SBL.Jude.1.15.19.1">περὶ</token>
+       <token clearId="n65001015020" id="SBL.Jude.1.15.20.1">πάντων</token>
+       <token clearId="n65001015021" id="SBL.Jude.1.15.21.1">τῶν</token>
+       <token clearId="n65001015022" id="SBL.Jude.1.15.22.1">σκληρῶν</token>
+       <token clearId="n65001015023" id="SBL.Jude.1.15.23.1">ὧν</token>
+       <token clearId="n65001015024" id="SBL.Jude.1.15.24.1">ἐλάλησαν</token>
+       <token clearId="n65001015025" id="SBL.Jude.1.15.25.1">κατ’</token>
+       <token clearId="n65001015026" id="SBL.Jude.1.15.26.1">αὐτοῦ</token>
+       <token clearId="n65001015027" id="SBL.Jude.1.15.27.1">ἁμαρτωλοὶ</token>
+       <token clearId="n65001015028" id="SBL.Jude.1.15.28.1" after=".">ἀσεβεῖς</token>
       </move>
      </turn>
     </move>
     <move id="m.SBL.Jude.1.16" chStart="1" vStart="16" chEnd="1" vEnd="16">
-     <token id="SBL.Jude.1.16.1.1" clear_id="n65001016001" n="307">οὗτοί</token>
-     <token id="SBL.Jude.1.16.2.1" clear_id="n65001016002" n="308">εἰσιν</token>
-     <token id="SBL.Jude.1.16.3.1" clear_id="n65001016003" n="309" after=",">γογγυσταί</token>
-     <token id="SBL.Jude.1.16.4.1" clear_id="n65001016004" n="310" after=",">μεμψίμοιροι</token>
-     <token id="SBL.Jude.1.16.5.1" clear_id="n65001016005" n="311">κατὰ</token>
-     <token id="SBL.Jude.1.16.6.1" clear_id="n65001016006" n="312">τὰς</token>
-     <token id="SBL.Jude.1.16.7.1" clear_id="n65001016007" n="313">ἐπιθυμίας</token>
-     <token id="SBL.Jude.1.16.8.1" clear_id="n65001016008" n="314">αὐτῶν</token>
-     <token id="SBL.Jude.1.16.9.1" clear_id="n65001016009" n="315" after=",">πορευόμενοι</token>
-     <token id="SBL.Jude.1.16.10.1" clear_id="n65001016010" n="316">καὶ</token>
-     <token id="SBL.Jude.1.16.11.1" clear_id="n65001016011" n="317">τὸ</token>
-     <token id="SBL.Jude.1.16.12.1" clear_id="n65001016012" n="318">στόμα</token>
-     <token id="SBL.Jude.1.16.13.1" clear_id="n65001016013" n="319">αὐτῶν</token>
-     <token id="SBL.Jude.1.16.14.1" clear_id="n65001016014" n="320">λαλεῖ</token>
-     <token id="SBL.Jude.1.16.15.1" clear_id="n65001016015" n="321" after=",">ὑπέρογκα</token>
-     <token id="SBL.Jude.1.16.16.1" clear_id="n65001016016" n="322">θαυμάζοντες</token>
-     <token id="SBL.Jude.1.16.17.1" clear_id="n65001016017" n="323">πρόσωπα</token>
-     <token id="SBL.Jude.1.16.18.1" clear_id="n65001016018" n="324">ὠφελείας</token>
-     <token id="SBL.Jude.1.16.19.1" clear_id="n65001016019" n="325" after=".">χάριν</token>
+     <token clearId="n65001016001" id="SBL.Jude.1.16.1.1">οὗτοί</token>
+     <token clearId="n65001016002" id="SBL.Jude.1.16.2.1">εἰσιν</token>
+     <token clearId="n65001016003" id="SBL.Jude.1.16.3.1" after=",">γογγυσταί</token>
+     <token clearId="n65001016004" id="SBL.Jude.1.16.4.1" after=",">μεμψίμοιροι</token>
+     <token clearId="n65001016005" id="SBL.Jude.1.16.5.1">κατὰ</token>
+     <token clearId="n65001016006" id="SBL.Jude.1.16.6.1">τὰς</token>
+     <token clearId="n65001016007" id="SBL.Jude.1.16.7.1">ἐπιθυμίας</token>
+     <token clearId="n65001016008" id="SBL.Jude.1.16.8.1">αὐτῶν</token>
+     <token clearId="n65001016009" id="SBL.Jude.1.16.9.1" after=",">πορευόμενοι</token>
+     <token clearId="n65001016010" id="SBL.Jude.1.16.10.1">καὶ</token>
+     <token clearId="n65001016011" id="SBL.Jude.1.16.11.1">τὸ</token>
+     <token clearId="n65001016012" id="SBL.Jude.1.16.12.1">στόμα</token>
+     <token clearId="n65001016013" id="SBL.Jude.1.16.13.1">αὐτῶν</token>
+     <token clearId="n65001016014" id="SBL.Jude.1.16.14.1">λαλεῖ</token>
+     <token clearId="n65001016015" id="SBL.Jude.1.16.15.1" after=",">ὑπέρογκα</token>
+     <token clearId="n65001016016" id="SBL.Jude.1.16.16.1">θαυμάζοντες</token>
+     <token clearId="n65001016017" id="SBL.Jude.1.16.17.1">πρόσωπα</token>
+     <token clearId="n65001016018" id="SBL.Jude.1.16.18.1">ὠφελείας</token>
+     <token clearId="n65001016019" id="SBL.Jude.1.16.19.1" after=".">χάριν</token>
     </move>
    </seg>
    <seg id="s.SBL.Jude.1.17-23" title="An Admonition to Holy Steadfastness">
     <move id="m.SBL.Jude.1.17" chStart="1" vStart="17" chEnd="1" vEnd="17">
-     <token id="SBL.Jude.1.17.1.1" clear_id="n65001017001" n="326">Ὑμεῖς</token>
-     <token id="SBL.Jude.1.17.2.1" clear_id="n65001017002" n="327" after=",">δέ</token>
-     <token id="SBL.Jude.1.17.3.1" clear_id="n65001017003" n="328" after=",">ἀγαπητοί</token>
-     <token id="SBL.Jude.1.17.4.1" clear_id="n65001017004" n="329">μνήσθητε</token>
-     <token id="SBL.Jude.1.17.5.1" clear_id="n65001017005" n="330">τῶν</token>
-     <token id="SBL.Jude.1.17.6.1" clear_id="n65001017006" n="331">ῥημάτων</token>
-     <token id="SBL.Jude.1.17.7.1" clear_id="n65001017007" n="332">τῶν</token>
-     <token id="SBL.Jude.1.17.8.1" clear_id="n65001017008" n="333">προειρημένων</token>
-     <token id="SBL.Jude.1.17.9.1" clear_id="n65001017009" n="334">ὑπὸ</token>
-     <token id="SBL.Jude.1.17.10.1" clear_id="n65001017010" n="335">τῶν</token>
-     <token id="SBL.Jude.1.17.11.1" clear_id="n65001017011" n="336">ἀποστόλων</token>
-     <token id="SBL.Jude.1.17.12.1" clear_id="n65001017012" n="337">τοῦ</token>
-     <token id="SBL.Jude.1.17.13.1" clear_id="n65001017013" n="338">κυρίου</token>
-     <token id="SBL.Jude.1.17.14.1" clear_id="n65001017014" n="339">ἡμῶν</token>
-     <token id="SBL.Jude.1.17.15.1" clear_id="n65001017015" n="340">Ἰησοῦ</token>
-     <token id="SBL.Jude.1.17.16.1" clear_id="n65001017016" n="341" after="·">Χριστοῦ</token>
+     <token clearId="n65001017001" id="SBL.Jude.1.17.1.1">Ὑμεῖς</token>
+     <token clearId="n65001017002" id="SBL.Jude.1.17.2.1" after=",">δέ</token>
+     <token clearId="n65001017003" id="SBL.Jude.1.17.3.1" after=",">ἀγαπητοί</token>
+     <token clearId="n65001017004" id="SBL.Jude.1.17.4.1">μνήσθητε</token>
+     <token clearId="n65001017005" id="SBL.Jude.1.17.5.1">τῶν</token>
+     <token clearId="n65001017006" id="SBL.Jude.1.17.6.1">ῥημάτων</token>
+     <token clearId="n65001017007" id="SBL.Jude.1.17.7.1">τῶν</token>
+     <token clearId="n65001017008" id="SBL.Jude.1.17.8.1">προειρημένων</token>
+     <token clearId="n65001017009" id="SBL.Jude.1.17.9.1">ὑπὸ</token>
+     <token clearId="n65001017010" id="SBL.Jude.1.17.10.1">τῶν</token>
+     <token clearId="n65001017011" id="SBL.Jude.1.17.11.1">ἀποστόλων</token>
+     <token clearId="n65001017012" id="SBL.Jude.1.17.12.1">τοῦ</token>
+     <token clearId="n65001017013" id="SBL.Jude.1.17.13.1">κυρίου</token>
+     <token clearId="n65001017014" id="SBL.Jude.1.17.14.1">ἡμῶν</token>
+     <token clearId="n65001017015" id="SBL.Jude.1.17.15.1">Ἰησοῦ</token>
+     <token clearId="n65001017016" id="SBL.Jude.1.17.16.1" after="·">Χριστοῦ</token>
     </move>
     <move id="m.SBL.Jude.1.18" chStart="1" vStart="18" chEnd="1" vEnd="18">
-     <token id="SBL.Jude.1.18.1.1" clear_id="n65001018001" n="342">ὅτι</token>
-     <token id="SBL.Jude.1.18.2.1" clear_id="n65001018002" n="343">ἔλεγον</token>
-     <token id="SBL.Jude.1.18.3.1" clear_id="n65001018003" n="344" after="·">ὑμῖν</token>
+     <token clearId="n65001018001" id="SBL.Jude.1.18.1.1">ὅτι</token>
+     <token clearId="n65001018002" id="SBL.Jude.1.18.2.1">ἔλεγον</token>
+     <token clearId="n65001018003" id="SBL.Jude.1.18.3.1" after="·">ὑμῖν</token>
      <turn depth="2" id="t.SBL.Jude.1.18.4-15" chStart="1" vStart="18" chEnd="1" vEnd="18">
       <move id="m.SBL.Jude.1.18.4-15" chStart="1" vStart="18" chEnd="1" vEnd="18">
-       <token id="SBL.Jude.1.18.4.1" clear_id="n65001018004" n="345">Ἐπ’</token>
-       <token id="SBL.Jude.1.18.5.1" clear_id="n65001018005" n="346">ἐσχάτου</token>
-       <token id="SBL.Jude.1.18.6.1" clear_id="n65001018006" n="347">χρόνου</token>
-       <token id="SBL.Jude.1.18.7.1" clear_id="n65001018007" n="348">ἔσονται</token>
-       <token id="SBL.Jude.1.18.8.1" clear_id="n65001018008" n="349">ἐμπαῖκται</token>
-       <token id="SBL.Jude.1.18.9.1" clear_id="n65001018009" n="350">κατὰ</token>
-       <token id="SBL.Jude.1.18.10.1" clear_id="n65001018010" n="351">τὰς</token>
-       <token id="SBL.Jude.1.18.11.1" clear_id="n65001018011" n="352">ἑαυτῶν</token>
-       <token id="SBL.Jude.1.18.12.1" clear_id="n65001018012" n="353">ἐπιθυμίας</token>
-       <token id="SBL.Jude.1.18.13.1" clear_id="n65001018013" n="354">πορευόμενοι</token>
-       <token id="SBL.Jude.1.18.14.1" clear_id="n65001018014" n="355">τῶν</token>
-       <token id="SBL.Jude.1.18.15.1" clear_id="n65001018015" n="356" after=".">ἀσεβειῶν</token>
+       <token clearId="n65001018004" id="SBL.Jude.1.18.4.1">Ἐπ’</token>
+       <token clearId="n65001018005" id="SBL.Jude.1.18.5.1">ἐσχάτου</token>
+       <token clearId="n65001018006" id="SBL.Jude.1.18.6.1">χρόνου</token>
+       <token clearId="n65001018007" id="SBL.Jude.1.18.7.1">ἔσονται</token>
+       <token clearId="n65001018008" id="SBL.Jude.1.18.8.1">ἐμπαῖκται</token>
+       <token clearId="n65001018009" id="SBL.Jude.1.18.9.1">κατὰ</token>
+       <token clearId="n65001018010" id="SBL.Jude.1.18.10.1">τὰς</token>
+       <token clearId="n65001018011" id="SBL.Jude.1.18.11.1">ἑαυτῶν</token>
+       <token clearId="n65001018012" id="SBL.Jude.1.18.12.1">ἐπιθυμίας</token>
+       <token clearId="n65001018013" id="SBL.Jude.1.18.13.1">πορευόμενοι</token>
+       <token clearId="n65001018014" id="SBL.Jude.1.18.14.1">τῶν</token>
+       <token clearId="n65001018015" id="SBL.Jude.1.18.15.1" after=".">ἀσεβειῶν</token>
       </move>
      </turn>
     </move>
     <move id="m.SBL.Jude.1.19" chStart="1" vStart="19" chEnd="1" vEnd="19">
-     <token id="SBL.Jude.1.19.1.1" clear_id="n65001019001" n="357">οὗτοί</token>
-     <token id="SBL.Jude.1.19.2.1" clear_id="n65001019002" n="358">εἰσιν</token>
-     <token id="SBL.Jude.1.19.3.1" clear_id="n65001019003" n="359">οἱ</token>
-     <token id="SBL.Jude.1.19.4.1" clear_id="n65001019004" n="360" after=",">ἀποδιορίζοντες</token>
-     <token id="SBL.Jude.1.19.5.1" clear_id="n65001019005" n="361" after=",">ψυχικοί</token>
-     <token id="SBL.Jude.1.19.6.1" clear_id="n65001019006" n="362">πνεῦμα</token>
-     <token id="SBL.Jude.1.19.7.1" clear_id="n65001019007" n="363">μὴ</token>
-     <token id="SBL.Jude.1.19.8.1" clear_id="n65001019008" n="364" after=".">ἔχοντες</token>
+     <token clearId="n65001019001" id="SBL.Jude.1.19.1.1">οὗτοί</token>
+     <token clearId="n65001019002" id="SBL.Jude.1.19.2.1">εἰσιν</token>
+     <token clearId="n65001019003" id="SBL.Jude.1.19.3.1">οἱ</token>
+     <token clearId="n65001019004" id="SBL.Jude.1.19.4.1" after=",">ἀποδιορίζοντες</token>
+     <token clearId="n65001019005" id="SBL.Jude.1.19.5.1" after=",">ψυχικοί</token>
+     <token clearId="n65001019006" id="SBL.Jude.1.19.6.1">πνεῦμα</token>
+     <token clearId="n65001019007" id="SBL.Jude.1.19.7.1">μὴ</token>
+     <token clearId="n65001019008" id="SBL.Jude.1.19.8.1" after=".">ἔχοντες</token>
     </move>
     <move id="m.SBL.Jude.1.20-21" chStart="1" vStart="20" chEnd="1" vEnd="21">
-     <token id="SBL.Jude.1.20.1.1" clear_id="n65001020001" n="365">ὑμεῖς</token>
-     <token id="SBL.Jude.1.20.2.1" clear_id="n65001020002" n="366" after=",">δέ</token>
-     <token id="SBL.Jude.1.20.3.1" clear_id="n65001020003" n="367" after=",">ἀγαπητοί</token>
-     <token id="SBL.Jude.1.20.4.1" clear_id="n65001020004" n="368">ἐποικοδομοῦντες</token>
-     <token id="SBL.Jude.1.20.5.1" clear_id="n65001020005" n="369">ἑαυτοὺς</token>
-     <token id="SBL.Jude.1.20.6.1" clear_id="n65001020006" n="370">τῇ</token>
-     <token id="SBL.Jude.1.20.7.1" clear_id="n65001020007" n="371">ἁγιωτάτῃ</token>
-     <token id="SBL.Jude.1.20.8.1" clear_id="n65001020008" n="372">ὑμῶν</token>
-     <token id="SBL.Jude.1.20.9.1" clear_id="n65001020009" n="373" after=",">πίστει</token>
-     <token id="SBL.Jude.1.20.10.1" clear_id="n65001020010" n="374">ἐν</token>
-     <token id="SBL.Jude.1.20.11.1" clear_id="n65001020011" n="375">πνεύματι</token>
-     <token id="SBL.Jude.1.20.12.1" clear_id="n65001020012" n="376">ἁγίῳ</token>
-     <token id="SBL.Jude.1.20.13.1" clear_id="n65001020013" n="377" after=",">προσευχόμενοι</token>
-     <token id="SBL.Jude.1.21.1.1" clear_id="n65001021001" n="378">ἑαυτοὺς</token>
-     <token id="SBL.Jude.1.21.2.1" clear_id="n65001021002" n="379">ἐν</token>
-     <token id="SBL.Jude.1.21.3.1" clear_id="n65001021003" n="380">ἀγάπῃ</token>
-     <token id="SBL.Jude.1.21.4.1" clear_id="n65001021004" n="381">θεοῦ</token>
-     <token id="SBL.Jude.1.21.5.1" clear_id="n65001021005" n="382">τηρήσατε</token>
-     <token id="SBL.Jude.1.21.6.1" clear_id="n65001021006" n="383">προσδεχόμενοι</token>
-     <token id="SBL.Jude.1.21.7.1" clear_id="n65001021007" n="384">τὸ</token>
-     <token id="SBL.Jude.1.21.8.1" clear_id="n65001021008" n="385">ἔλεος</token>
-     <token id="SBL.Jude.1.21.9.1" clear_id="n65001021009" n="386">τοῦ</token>
-     <token id="SBL.Jude.1.21.10.1" clear_id="n65001021010" n="387">κυρίου</token>
-     <token id="SBL.Jude.1.21.11.1" clear_id="n65001021011" n="388">ἡμῶν</token>
-     <token id="SBL.Jude.1.21.12.1" clear_id="n65001021012" n="389">Ἰησοῦ</token>
-     <token id="SBL.Jude.1.21.13.1" clear_id="n65001021013" n="390">Χριστοῦ</token>
-     <token id="SBL.Jude.1.21.14.1" clear_id="n65001021014" n="391">εἰς</token>
-     <token id="SBL.Jude.1.21.15.1" clear_id="n65001021015" n="392">ζωὴν</token>
-     <token id="SBL.Jude.1.21.16.1" clear_id="n65001021016" n="393" after=".">αἰώνιον</token>
+     <token clearId="n65001020001" id="SBL.Jude.1.20.1.1">ὑμεῖς</token>
+     <token clearId="n65001020002" id="SBL.Jude.1.20.2.1" after=",">δέ</token>
+     <token clearId="n65001020003" id="SBL.Jude.1.20.3.1" after=",">ἀγαπητοί</token>
+     <token clearId="n65001020004" id="SBL.Jude.1.20.4.1">ἐποικοδομοῦντες</token>
+     <token clearId="n65001020005" id="SBL.Jude.1.20.5.1">ἑαυτοὺς</token>
+     <token clearId="n65001020006" id="SBL.Jude.1.20.6.1">τῇ</token>
+     <token clearId="n65001020007" id="SBL.Jude.1.20.7.1">ἁγιωτάτῃ</token>
+     <token clearId="n65001020008" id="SBL.Jude.1.20.8.1">ὑμῶν</token>
+     <token clearId="n65001020009" id="SBL.Jude.1.20.9.1" after=",">πίστει</token>
+     <token clearId="n65001020010" id="SBL.Jude.1.20.10.1">ἐν</token>
+     <token clearId="n65001020011" id="SBL.Jude.1.20.11.1">πνεύματι</token>
+     <token clearId="n65001020012" id="SBL.Jude.1.20.12.1">ἁγίῳ</token>
+     <token clearId="n65001020013" id="SBL.Jude.1.20.13.1" after=",">προσευχόμενοι</token>
+     <token clearId="n65001021001" id="SBL.Jude.1.21.1.1">ἑαυτοὺς</token>
+     <token clearId="n65001021002" id="SBL.Jude.1.21.2.1">ἐν</token>
+     <token clearId="n65001021003" id="SBL.Jude.1.21.3.1">ἀγάπῃ</token>
+     <token clearId="n65001021004" id="SBL.Jude.1.21.4.1">θεοῦ</token>
+     <token clearId="n65001021005" id="SBL.Jude.1.21.5.1">τηρήσατε</token>
+     <token clearId="n65001021006" id="SBL.Jude.1.21.6.1">προσδεχόμενοι</token>
+     <token clearId="n65001021007" id="SBL.Jude.1.21.7.1">τὸ</token>
+     <token clearId="n65001021008" id="SBL.Jude.1.21.8.1">ἔλεος</token>
+     <token clearId="n65001021009" id="SBL.Jude.1.21.9.1">τοῦ</token>
+     <token clearId="n65001021010" id="SBL.Jude.1.21.10.1">κυρίου</token>
+     <token clearId="n65001021011" id="SBL.Jude.1.21.11.1">ἡμῶν</token>
+     <token clearId="n65001021012" id="SBL.Jude.1.21.12.1">Ἰησοῦ</token>
+     <token clearId="n65001021013" id="SBL.Jude.1.21.13.1">Χριστοῦ</token>
+     <token clearId="n65001021014" id="SBL.Jude.1.21.14.1">εἰς</token>
+     <token clearId="n65001021015" id="SBL.Jude.1.21.15.1">ζωὴν</token>
+     <token clearId="n65001021016" id="SBL.Jude.1.21.16.1" after=".">αἰώνιον</token>
     </move>
     <move id="m.SBL.Jude.1.22" chStart="1" vStart="22" chEnd="1" vEnd="22">
-     <token id="SBL.Jude.1.22.1.1" clear_id="n65001022001" n="394">καὶ</token>
-     <token id="SBL.Jude.1.22.2.1" clear_id="n65001022002" n="395">οὓς</token>
-     <token id="SBL.Jude.1.22.3.1" clear_id="n65001022003" n="396">μὲν</token>
-     <token id="SBL.Jude.1.22.4.1" clear_id="n65001022004" n="397">ἐλεᾶτε</token>
-     <token id="SBL.Jude.1.22.5.1" clear_id="n65001022005" n="398" after=",">διακρινομένους</token>
+     <token clearId="n65001022001" id="SBL.Jude.1.22.1.1">καὶ</token>
+     <token clearId="n65001022002" id="SBL.Jude.1.22.2.1">οὓς</token>
+     <token clearId="n65001022003" id="SBL.Jude.1.22.3.1">μὲν</token>
+     <token clearId="n65001022004" id="SBL.Jude.1.22.4.1">ἐλεᾶτε</token>
+     <token clearId="n65001022005" id="SBL.Jude.1.22.5.1" after=",">διακρινομένους</token>
     </move>
     <move id="m.SBL.Jude.1.23.1-6" chStart="1" vStart="23" chEnd="1" vEnd="23">
-     <token id="SBL.Jude.1.23.1.1" clear_id="n65001023001" n="399">οὓς</token>
-     <token id="SBL.Jude.1.23.2.1" clear_id="n65001023002" n="400">δὲ</token>
-     <token id="SBL.Jude.1.23.3.1" clear_id="n65001023003" n="401">σῴζετε</token>
-     <token id="SBL.Jude.1.23.4.1" clear_id="n65001023004" n="402">ἐκ</token>
-     <token id="SBL.Jude.1.23.5.1" clear_id="n65001023005" n="403">πυρὸς</token>
-     <token id="SBL.Jude.1.23.6.1" clear_id="n65001023006" n="404" after=",">ἁρπάζοντες</token>
+     <token clearId="n65001023001" id="SBL.Jude.1.23.1.1">οὓς</token>
+     <token clearId="n65001023002" id="SBL.Jude.1.23.2.1">δὲ</token>
+     <token clearId="n65001023003" id="SBL.Jude.1.23.3.1">σῴζετε</token>
+     <token clearId="n65001023004" id="SBL.Jude.1.23.4.1">ἐκ</token>
+     <token clearId="n65001023005" id="SBL.Jude.1.23.5.1">πυρὸς</token>
+     <token clearId="n65001023006" id="SBL.Jude.1.23.6.1" after=",">ἁρπάζοντες</token>
     </move>
     <move id="m.SBL.Jude.1.23.7-19" chStart="1" vStart="23" chEnd="1" vEnd="23">
-     <token id="SBL.Jude.1.23.7.1" clear_id="n65001023007" n="405">οὓς</token>
-     <token id="SBL.Jude.1.23.8.1" clear_id="n65001023008" n="406">δὲ</token>
-     <token id="SBL.Jude.1.23.9.1" clear_id="n65001023009" n="407">ἐλεᾶτε</token>
-     <token id="SBL.Jude.1.23.10.1" clear_id="n65001023010" n="408">ἐν</token>
-     <token id="SBL.Jude.1.23.11.1" clear_id="n65001023011" n="409" after=",">φόβῳ</token>
-     <token id="SBL.Jude.1.23.12.1" clear_id="n65001023012" n="410">μισοῦντες</token>
-     <token id="SBL.Jude.1.23.13.1" clear_id="n65001023013" n="411">καὶ</token>
-     <token id="SBL.Jude.1.23.14.1" clear_id="n65001023014" n="412">τὸν</token>
-     <token id="SBL.Jude.1.23.15.1" clear_id="n65001023015" n="413">ἀπὸ</token>
-     <token id="SBL.Jude.1.23.16.1" clear_id="n65001023016" n="414">τῆς</token>
-     <token id="SBL.Jude.1.23.17.1" clear_id="n65001023017" n="415">σαρκὸς</token>
-     <token id="SBL.Jude.1.23.18.1" clear_id="n65001023018" n="416">ἐσπιλωμένον</token>
-     <token id="SBL.Jude.1.23.19.1" clear_id="n65001023019" n="417" after=".">χιτῶνα</token>
+     <token clearId="n65001023007" id="SBL.Jude.1.23.7.1">οὓς</token>
+     <token clearId="n65001023008" id="SBL.Jude.1.23.8.1">δὲ</token>
+     <token clearId="n65001023009" id="SBL.Jude.1.23.9.1">ἐλεᾶτε</token>
+     <token clearId="n65001023010" id="SBL.Jude.1.23.10.1">ἐν</token>
+     <token clearId="n65001023011" id="SBL.Jude.1.23.11.1" after=",">φόβῳ</token>
+     <token clearId="n65001023012" id="SBL.Jude.1.23.12.1">μισοῦντες</token>
+     <token clearId="n65001023013" id="SBL.Jude.1.23.13.1">καὶ</token>
+     <token clearId="n65001023014" id="SBL.Jude.1.23.14.1">τὸν</token>
+     <token clearId="n65001023015" id="SBL.Jude.1.23.15.1">ἀπὸ</token>
+     <token clearId="n65001023016" id="SBL.Jude.1.23.16.1">τῆς</token>
+     <token clearId="n65001023017" id="SBL.Jude.1.23.17.1">σαρκὸς</token>
+     <token clearId="n65001023018" id="SBL.Jude.1.23.18.1">ἐσπιλωμένον</token>
+     <token clearId="n65001023019" id="SBL.Jude.1.23.19.1" after=".">χιτῶνα</token>
     </move>
    </seg>
    <seg id="s.SBL.Jude.1.24-25" title="Concluding Doxology">
     <move id="m.SBL.Jude.1.24-25" chStart="1" vStart="24" chEnd="1" vEnd="25">
-     <token id="SBL.Jude.1.24.1.1" clear_id="n65001024001" n="418">Τῷ</token>
-     <token id="SBL.Jude.1.24.2.1" clear_id="n65001024002" n="419">δὲ</token>
-     <token id="SBL.Jude.1.24.3.1" clear_id="n65001024003" n="420">δυναμένῳ</token>
-     <token id="SBL.Jude.1.24.4.1" clear_id="n65001024004" n="421">φυλάξαι</token>
-     <token id="SBL.Jude.1.24.5.1" clear_id="n65001024005" n="422">ὑμᾶς</token>
-     <token id="SBL.Jude.1.24.6.1" clear_id="n65001024006" n="423">ἀπταίστους</token>
-     <token id="SBL.Jude.1.24.7.1" clear_id="n65001024007" n="424">καὶ</token>
-     <token id="SBL.Jude.1.24.8.1" clear_id="n65001024008" n="425">στῆσαι</token>
-     <token id="SBL.Jude.1.24.9.1" clear_id="n65001024009" n="426">κατενώπιον</token>
-     <token id="SBL.Jude.1.24.10.1" clear_id="n65001024010" n="427">τῆς</token>
-     <token id="SBL.Jude.1.24.11.1" clear_id="n65001024011" n="428">δόξης</token>
-     <token id="SBL.Jude.1.24.12.1" clear_id="n65001024012" n="429">αὐτοῦ</token>
-     <token id="SBL.Jude.1.24.13.1" clear_id="n65001024013" n="430">ἀμώμους</token>
-     <token id="SBL.Jude.1.24.14.1" clear_id="n65001024014" n="431">ἐν</token>
-     <token id="SBL.Jude.1.24.15.1" clear_id="n65001024015" n="432">ἀγαλλιάσει</token>
-     <token id="SBL.Jude.1.25.1.1" clear_id="n65001025001" n="433">μόνῳ</token>
-     <token id="SBL.Jude.1.25.2.1" clear_id="n65001025002" n="434">θεῷ</token>
-     <token id="SBL.Jude.1.25.3.1" clear_id="n65001025003" n="435">σωτῆρι</token>
-     <token id="SBL.Jude.1.25.4.1" clear_id="n65001025004" n="436">ἡμῶν</token>
-     <token id="SBL.Jude.1.25.5.1" clear_id="n65001025005" n="437">διὰ</token>
-     <token id="SBL.Jude.1.25.6.1" clear_id="n65001025006" n="438">Ἰησοῦ</token>
-     <token id="SBL.Jude.1.25.7.1" clear_id="n65001025007" n="439">Χριστοῦ</token>
-     <token id="SBL.Jude.1.25.8.1" clear_id="n65001025008" n="440">τοῦ</token>
-     <token id="SBL.Jude.1.25.9.1" clear_id="n65001025009" n="441">κυρίου</token>
-     <token id="SBL.Jude.1.25.10.1" clear_id="n65001025010" n="442">ἡμῶν</token>
-     <token id="SBL.Jude.1.25.11.1" clear_id="n65001025011" n="443">δόξα</token>
-     <token id="SBL.Jude.1.25.12.1" clear_id="n65001025012" n="444">μεγαλωσύνη</token>
-     <token id="SBL.Jude.1.25.13.1" clear_id="n65001025013" n="445">κράτος</token>
-     <token id="SBL.Jude.1.25.14.1" clear_id="n65001025014" n="446">καὶ</token>
-     <token id="SBL.Jude.1.25.15.1" clear_id="n65001025015" n="447">ἐξουσία</token>
-     <token id="SBL.Jude.1.25.16.1" clear_id="n65001025016" n="448">πρὸ</token>
-     <token id="SBL.Jude.1.25.17.1" clear_id="n65001025017" n="449">παντὸς</token>
-     <token id="SBL.Jude.1.25.18.1" clear_id="n65001025018" n="450">τοῦ</token>
-     <token id="SBL.Jude.1.25.19.1" clear_id="n65001025019" n="451">αἰῶνος</token>
-     <token id="SBL.Jude.1.25.20.1" clear_id="n65001025020" n="452">καὶ</token>
-     <token id="SBL.Jude.1.25.21.1" clear_id="n65001025021" n="453">νῦν</token>
-     <token id="SBL.Jude.1.25.22.1" clear_id="n65001025022" n="454">καὶ</token>
-     <token id="SBL.Jude.1.25.23.1" clear_id="n65001025023" n="455">εἰς</token>
-     <token id="SBL.Jude.1.25.24.1" clear_id="n65001025024" n="456">πάντας</token>
-     <token id="SBL.Jude.1.25.25.1" clear_id="n65001025025" n="457">τοὺς</token>
-     <token id="SBL.Jude.1.25.26.1" clear_id="n65001025026" n="458" after="·">αἰῶνας</token>
-     <token id="SBL.Jude.1.25.27.1" clear_id="n65001025027" n="459" after=".">ἀμήν</token>
+     <token clearId="n65001024001" id="SBL.Jude.1.24.1.1">Τῷ</token>
+     <token clearId="n65001024002" id="SBL.Jude.1.24.2.1">δὲ</token>
+     <token clearId="n65001024003" id="SBL.Jude.1.24.3.1">δυναμένῳ</token>
+     <token clearId="n65001024004" id="SBL.Jude.1.24.4.1">φυλάξαι</token>
+     <token clearId="n65001024005" id="SBL.Jude.1.24.5.1">ὑμᾶς</token>
+     <token clearId="n65001024006" id="SBL.Jude.1.24.6.1">ἀπταίστους</token>
+     <token clearId="n65001024007" id="SBL.Jude.1.24.7.1">καὶ</token>
+     <token clearId="n65001024008" id="SBL.Jude.1.24.8.1">στῆσαι</token>
+     <token clearId="n65001024009" id="SBL.Jude.1.24.9.1">κατενώπιον</token>
+     <token clearId="n65001024010" id="SBL.Jude.1.24.10.1">τῆς</token>
+     <token clearId="n65001024011" id="SBL.Jude.1.24.11.1">δόξης</token>
+     <token clearId="n65001024012" id="SBL.Jude.1.24.12.1">αὐτοῦ</token>
+     <token clearId="n65001024013" id="SBL.Jude.1.24.13.1">ἀμώμους</token>
+     <token clearId="n65001024014" id="SBL.Jude.1.24.14.1">ἐν</token>
+     <token clearId="n65001024015" id="SBL.Jude.1.24.15.1">ἀγαλλιάσει</token>
+     <token clearId="n65001025001" id="SBL.Jude.1.25.1.1">μόνῳ</token>
+     <token clearId="n65001025002" id="SBL.Jude.1.25.2.1">θεῷ</token>
+     <token clearId="n65001025003" id="SBL.Jude.1.25.3.1">σωτῆρι</token>
+     <token clearId="n65001025004" id="SBL.Jude.1.25.4.1">ἡμῶν</token>
+     <token clearId="n65001025005" id="SBL.Jude.1.25.5.1">διὰ</token>
+     <token clearId="n65001025006" id="SBL.Jude.1.25.6.1">Ἰησοῦ</token>
+     <token clearId="n65001025007" id="SBL.Jude.1.25.7.1">Χριστοῦ</token>
+     <token clearId="n65001025008" id="SBL.Jude.1.25.8.1">τοῦ</token>
+     <token clearId="n65001025009" id="SBL.Jude.1.25.9.1">κυρίου</token>
+     <token clearId="n65001025010" id="SBL.Jude.1.25.10.1">ἡμῶν</token>
+     <token clearId="n65001025011" id="SBL.Jude.1.25.11.1">δόξα</token>
+     <token clearId="n65001025012" id="SBL.Jude.1.25.12.1">μεγαλωσύνη</token>
+     <token clearId="n65001025013" id="SBL.Jude.1.25.13.1">κράτος</token>
+     <token clearId="n65001025014" id="SBL.Jude.1.25.14.1">καὶ</token>
+     <token clearId="n65001025015" id="SBL.Jude.1.25.15.1">ἐξουσία</token>
+     <token clearId="n65001025016" id="SBL.Jude.1.25.16.1">πρὸ</token>
+     <token clearId="n65001025017" id="SBL.Jude.1.25.17.1">παντὸς</token>
+     <token clearId="n65001025018" id="SBL.Jude.1.25.18.1">τοῦ</token>
+     <token clearId="n65001025019" id="SBL.Jude.1.25.19.1">αἰῶνος</token>
+     <token clearId="n65001025020" id="SBL.Jude.1.25.20.1">καὶ</token>
+     <token clearId="n65001025021" id="SBL.Jude.1.25.21.1">νῦν</token>
+     <token clearId="n65001025022" id="SBL.Jude.1.25.22.1">καὶ</token>
+     <token clearId="n65001025023" id="SBL.Jude.1.25.23.1">εἰς</token>
+     <token clearId="n65001025024" id="SBL.Jude.1.25.24.1">πάντας</token>
+     <token clearId="n65001025025" id="SBL.Jude.1.25.25.1">τοὺς</token>
+     <token clearId="n65001025026" id="SBL.Jude.1.25.26.1" after="·">αἰῶνας</token>
+     <token clearId="n65001025027" id="SBL.Jude.1.25.27.1" after=".">ἀμήν</token>
     </move>
    </seg>
   </turn>
