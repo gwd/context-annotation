@@ -9,7 +9,7 @@
     <editor>Ryder A. Wishart</editor>
    </titleStmt>
    <editionStmt>
-    <edition>1.00</edition>
+    <edition>1.1</edition>
    </editionStmt>
    <publicationStmt>
     <authority>www.opentext.org</authority>
@@ -24,7 +24,7 @@
     <p>The SBL Greek New Testament (SBLGNT) is a critically edited edition of the Greek New Testament produced by the Society of Biblical Literature and Logos Bible Software, made available under a [CC-BY License] (https://creativecommons.org/licenses/by/4.0/). Available at https://github.com/LogosBible/SBLGNT.</p>
     <p>Contextual speaking turns were derived by Christopher D. Land using projection data in the original [OpenText annotation](https://github.com/OpenText-org/GNT_annotation_v1.0) together with the capitalization of the SBLGNT edition. Manual error correction was then carried out by Christopher D. Land and Doosuk Kim.</p>
     <p>Turn segments were derived by Ryder A. Wishart by modifying the pericope headings of Robinson and Pierpont's Greek New Testament, which is in the public domain. Differences can be identified by comparing this data to the start and end tokens compiled by [James Tauber](https://github.com/jtauber/vocabulary-tools/blob/master/gnt_data/pericopes.txt).</p>
-    <p>Move segments were derived by Christopher D. Land from syntax markup copyright 2014-2017 by the Global Bible Initiative, made available under under a [CC-BY-SA License] (http://creativecommons.org/licenses/by-sa/3.0/). Available at https://github.com/biblicalhumanities/greek-new-testament/tree/master/syntax-trees/sblgnt.</p>
+    <p>Move segments were derived by Christopher D. Land by modifying syntax markup copyright 2014-2017 by the Global Bible Initiative, made available under under a [CC-BY-SA License] (http://creativecommons.org/licenses/by-sa/3.0/). Available at https://github.com/biblicalhumanities/greek-new-testament/tree/master/syntax-trees/sblgnt.</p>
    </sourceDesc>
   </fileDesc>
  </header>
@@ -32,285 +32,285 @@
   <turn depth="1" id="t.SBL.2John" chStart="1" vStart="1" chEnd="1" vEnd="13">
    <seg id="s.SBL.2John.1.1-3" title="Address and Salutation">
     <move id="m.SBL.2John.1.1-2" chStart="1" vStart="1" chEnd="1" vEnd="2">
-     <token clearId="n63001001001" id="SBL.2John.1.1.1.1">Ὁ</token>
-     <token clearId="n63001001002" id="SBL.2John.1.1.2.1">πρεσβύτερος</token>
-     <token clearId="n63001001003" id="SBL.2John.1.1.3.1">ἐκλεκτῇ</token>
-     <token clearId="n63001001004" id="SBL.2John.1.1.4.1">κυρίᾳ</token>
-     <token clearId="n63001001005" id="SBL.2John.1.1.5.1">καὶ</token>
-     <token clearId="n63001001006" id="SBL.2John.1.1.6.1">τοῖς</token>
-     <token clearId="n63001001007" id="SBL.2John.1.1.7.1">τέκνοις</token>
-     <token clearId="n63001001008" id="SBL.2John.1.1.8.1" after=",">αὐτῆς</token>
-     <token clearId="n63001001009" id="SBL.2John.1.1.9.1">οὓς</token>
-     <token clearId="n63001001010" id="SBL.2John.1.1.10.1">ἐγὼ</token>
-     <token clearId="n63001001011" id="SBL.2John.1.1.11.1">ἀγαπῶ</token>
-     <token clearId="n63001001012" id="SBL.2John.1.1.12.1">ἐν</token>
-     <token clearId="n63001001013" id="SBL.2John.1.1.13.1" after=",">ἀληθείᾳ</token>
-     <token clearId="n63001001014" id="SBL.2John.1.1.14.1">καὶ</token>
-     <token clearId="n63001001015" id="SBL.2John.1.1.15.1">οὐκ</token>
-     <token clearId="n63001001016" id="SBL.2John.1.1.16.1">ἐγὼ</token>
-     <token clearId="n63001001017" id="SBL.2John.1.1.17.1">μόνος</token>
-     <token clearId="n63001001018" id="SBL.2John.1.1.18.1">ἀλλὰ</token>
-     <token clearId="n63001001019" id="SBL.2John.1.1.19.1">καὶ</token>
-     <token clearId="n63001001020" id="SBL.2John.1.1.20.1">πάντες</token>
-     <token clearId="n63001001021" id="SBL.2John.1.1.21.1">οἱ</token>
-     <token clearId="n63001001022" id="SBL.2John.1.1.22.1">ἐγνωκότες</token>
-     <token clearId="n63001001023" id="SBL.2John.1.1.23.1">τὴν</token>
-     <token clearId="n63001001024" id="SBL.2John.1.1.24.1" after=",">ἀλήθειαν</token>
-     <token clearId="n63001002001" id="SBL.2John.1.2.1.1">διὰ</token>
-     <token clearId="n63001002002" id="SBL.2John.1.2.2.1">τὴν</token>
-     <token clearId="n63001002003" id="SBL.2John.1.2.3.1">ἀλήθειαν</token>
-     <token clearId="n63001002004" id="SBL.2John.1.2.4.1">τὴν</token>
-     <token clearId="n63001002005" id="SBL.2John.1.2.5.1">μένουσαν</token>
-     <token clearId="n63001002006" id="SBL.2John.1.2.6.1">ἐν</token>
-     <token clearId="n63001002007" id="SBL.2John.1.2.7.1" after=",">ἡμῖν</token>
-     <token clearId="n63001002008" id="SBL.2John.1.2.8.1">καὶ</token>
-     <token clearId="n63001002009" id="SBL.2John.1.2.9.1">μεθ’</token>
-     <token clearId="n63001002010" id="SBL.2John.1.2.10.1">ἡμῶν</token>
-     <token clearId="n63001002011" id="SBL.2John.1.2.11.1">ἔσται</token>
-     <token clearId="n63001002012" id="SBL.2John.1.2.12.1">εἰς</token>
-     <token clearId="n63001002013" id="SBL.2John.1.2.13.1">τὸν</token>
-     <token clearId="n63001002014" id="SBL.2John.1.2.14.1" after="·">αἰῶνα</token>
+     <token id="SBL.2John.1.1.1" clearId="n63001001001">Ὁ</token>
+     <token id="SBL.2John.1.1.2" clearId="n63001001002">πρεσβύτερος</token>
+     <token id="SBL.2John.1.1.3" clearId="n63001001003">ἐκλεκτῇ</token>
+     <token id="SBL.2John.1.1.4" clearId="n63001001004">κυρίᾳ</token>
+     <token id="SBL.2John.1.1.5" clearId="n63001001005">καὶ</token>
+     <token id="SBL.2John.1.1.6" clearId="n63001001006">τοῖς</token>
+     <token id="SBL.2John.1.1.7" clearId="n63001001007">τέκνοις</token>
+     <token id="SBL.2John.1.1.8" clearId="n63001001008" after=",">αὐτῆς</token>
+     <token id="SBL.2John.1.1.9" clearId="n63001001009">οὓς</token>
+     <token id="SBL.2John.1.1.10" clearId="n63001001010">ἐγὼ</token>
+     <token id="SBL.2John.1.1.11" clearId="n63001001011">ἀγαπῶ</token>
+     <token id="SBL.2John.1.1.12" clearId="n63001001012">ἐν</token>
+     <token id="SBL.2John.1.1.13" clearId="n63001001013" after=",">ἀληθείᾳ</token>
+     <token id="SBL.2John.1.1.14" clearId="n63001001014">καὶ</token>
+     <token id="SBL.2John.1.1.15" clearId="n63001001015">οὐκ</token>
+     <token id="SBL.2John.1.1.16" clearId="n63001001016">ἐγὼ</token>
+     <token id="SBL.2John.1.1.17" clearId="n63001001017">μόνος</token>
+     <token id="SBL.2John.1.1.18" clearId="n63001001018">ἀλλὰ</token>
+     <token id="SBL.2John.1.1.19" clearId="n63001001019">καὶ</token>
+     <token id="SBL.2John.1.1.20" clearId="n63001001020">πάντες</token>
+     <token id="SBL.2John.1.1.21" clearId="n63001001021">οἱ</token>
+     <token id="SBL.2John.1.1.22" clearId="n63001001022">ἐγνωκότες</token>
+     <token id="SBL.2John.1.1.23" clearId="n63001001023">τὴν</token>
+     <token id="SBL.2John.1.1.24" clearId="n63001001024" after=",">ἀλήθειαν</token>
+     <token id="SBL.2John.1.2.1" clearId="n63001002001">διὰ</token>
+     <token id="SBL.2John.1.2.2" clearId="n63001002002">τὴν</token>
+     <token id="SBL.2John.1.2.3" clearId="n63001002003">ἀλήθειαν</token>
+     <token id="SBL.2John.1.2.4" clearId="n63001002004">τὴν</token>
+     <token id="SBL.2John.1.2.5" clearId="n63001002005">μένουσαν</token>
+     <token id="SBL.2John.1.2.6" clearId="n63001002006">ἐν</token>
+     <token id="SBL.2John.1.2.7" clearId="n63001002007" after=",">ἡμῖν</token>
+     <token id="SBL.2John.1.2.8" clearId="n63001002008">καὶ</token>
+     <token id="SBL.2John.1.2.9" clearId="n63001002009">μεθ’</token>
+     <token id="SBL.2John.1.2.10" clearId="n63001002010">ἡμῶν</token>
+     <token id="SBL.2John.1.2.11" clearId="n63001002011">ἔσται</token>
+     <token id="SBL.2John.1.2.12" clearId="n63001002012">εἰς</token>
+     <token id="SBL.2John.1.2.13" clearId="n63001002013">τὸν</token>
+     <token id="SBL.2John.1.2.14" clearId="n63001002014" after="·">αἰῶνα</token>
     </move>
     <move id="m.SBL.2John.1.3" chStart="1" vStart="3" chEnd="1" vEnd="3">
-     <token clearId="n63001003001" id="SBL.2John.1.3.1.1">ἔσται</token>
-     <token clearId="n63001003002" id="SBL.2John.1.3.2.1">μεθ’</token>
-     <token clearId="n63001003003" id="SBL.2John.1.3.3.1">ἡμῶν</token>
-     <token clearId="n63001003004" id="SBL.2John.1.3.4.1">χάρις</token>
-     <token clearId="n63001003005" id="SBL.2John.1.3.5.1">ἔλεος</token>
-     <token clearId="n63001003006" id="SBL.2John.1.3.6.1">εἰρήνη</token>
-     <token clearId="n63001003007" id="SBL.2John.1.3.7.1">παρὰ</token>
-     <token clearId="n63001003008" id="SBL.2John.1.3.8.1">θεοῦ</token>
-     <token clearId="n63001003009" id="SBL.2John.1.3.9.1" after=",">πατρός</token>
-     <token clearId="n63001003010" id="SBL.2John.1.3.10.1">καὶ</token>
-     <token clearId="n63001003011" id="SBL.2John.1.3.11.1">παρὰ</token>
-     <token clearId="n63001003012" id="SBL.2John.1.3.12.1">Ἰησοῦ</token>
-     <token clearId="n63001003013" id="SBL.2John.1.3.13.1">Χριστοῦ</token>
-     <token clearId="n63001003014" id="SBL.2John.1.3.14.1">τοῦ</token>
-     <token clearId="n63001003015" id="SBL.2John.1.3.15.1">υἱοῦ</token>
-     <token clearId="n63001003016" id="SBL.2John.1.3.16.1">τοῦ</token>
-     <token clearId="n63001003017" id="SBL.2John.1.3.17.1" after=",">πατρός</token>
-     <token clearId="n63001003018" id="SBL.2John.1.3.18.1">ἐν</token>
-     <token clearId="n63001003019" id="SBL.2John.1.3.19.1">ἀληθείᾳ</token>
-     <token clearId="n63001003020" id="SBL.2John.1.3.20.1">καὶ</token>
-     <token clearId="n63001003021" id="SBL.2John.1.3.21.1" after=".">ἀγάπῃ</token>
+     <token id="SBL.2John.1.3.1" clearId="n63001003001">ἔσται</token>
+     <token id="SBL.2John.1.3.2" clearId="n63001003002">μεθ’</token>
+     <token id="SBL.2John.1.3.3" clearId="n63001003003">ἡμῶν</token>
+     <token id="SBL.2John.1.3.4" clearId="n63001003004">χάρις</token>
+     <token id="SBL.2John.1.3.5" clearId="n63001003005">ἔλεος</token>
+     <token id="SBL.2John.1.3.6" clearId="n63001003006">εἰρήνη</token>
+     <token id="SBL.2John.1.3.7" clearId="n63001003007">παρὰ</token>
+     <token id="SBL.2John.1.3.8" clearId="n63001003008">θεοῦ</token>
+     <token id="SBL.2John.1.3.9" clearId="n63001003009" after=",">πατρός</token>
+     <token id="SBL.2John.1.3.10" clearId="n63001003010">καὶ</token>
+     <token id="SBL.2John.1.3.11" clearId="n63001003011">παρὰ</token>
+     <token id="SBL.2John.1.3.12" clearId="n63001003012">Ἰησοῦ</token>
+     <token id="SBL.2John.1.3.13" clearId="n63001003013">Χριστοῦ</token>
+     <token id="SBL.2John.1.3.14" clearId="n63001003014">τοῦ</token>
+     <token id="SBL.2John.1.3.15" clearId="n63001003015">υἱοῦ</token>
+     <token id="SBL.2John.1.3.16" clearId="n63001003016">τοῦ</token>
+     <token id="SBL.2John.1.3.17" clearId="n63001003017" after=",">πατρός</token>
+     <token id="SBL.2John.1.3.18" clearId="n63001003018">ἐν</token>
+     <token id="SBL.2John.1.3.19" clearId="n63001003019">ἀληθείᾳ</token>
+     <token id="SBL.2John.1.3.20" clearId="n63001003020">καὶ</token>
+     <token id="SBL.2John.1.3.21" clearId="n63001003021" after=".">ἀγάπῃ</token>
     </move>
    </seg>
    <seg id="s.SBL.2John.1.4-6" title="Exhortation to Walk in Truth and Love">
     <move id="m.SBL.2John.1.4" chStart="1" vStart="4" chEnd="1" vEnd="4">
-     <token clearId="n63001004001" id="SBL.2John.1.4.1.1">Ἐχάρην</token>
-     <token clearId="n63001004002" id="SBL.2John.1.4.2.1">λίαν</token>
-     <token clearId="n63001004003" id="SBL.2John.1.4.3.1">ὅτι</token>
-     <token clearId="n63001004004" id="SBL.2John.1.4.4.1">εὕρηκα</token>
-     <token clearId="n63001004005" id="SBL.2John.1.4.5.1">ἐκ</token>
-     <token clearId="n63001004006" id="SBL.2John.1.4.6.1">τῶν</token>
-     <token clearId="n63001004007" id="SBL.2John.1.4.7.1">τέκνων</token>
-     <token clearId="n63001004008" id="SBL.2John.1.4.8.1">σου</token>
-     <token clearId="n63001004009" id="SBL.2John.1.4.9.1">περιπατοῦντας</token>
-     <token clearId="n63001004010" id="SBL.2John.1.4.10.1">ἐν</token>
-     <token clearId="n63001004011" id="SBL.2John.1.4.11.1" after=",">ἀληθείᾳ</token>
-     <token clearId="n63001004012" id="SBL.2John.1.4.12.1">καθὼς</token>
-     <token clearId="n63001004013" id="SBL.2John.1.4.13.1">ἐντολὴν</token>
-     <token clearId="n63001004014" id="SBL.2John.1.4.14.1">ἐλάβομεν</token>
-     <token clearId="n63001004015" id="SBL.2John.1.4.15.1">παρὰ</token>
-     <token clearId="n63001004016" id="SBL.2John.1.4.16.1">τοῦ</token>
-     <token clearId="n63001004017" id="SBL.2John.1.4.17.1" after=".">πατρός</token>
+     <token id="SBL.2John.1.4.1" clearId="n63001004001">Ἐχάρην</token>
+     <token id="SBL.2John.1.4.2" clearId="n63001004002">λίαν</token>
+     <token id="SBL.2John.1.4.3" clearId="n63001004003">ὅτι</token>
+     <token id="SBL.2John.1.4.4" clearId="n63001004004">εὕρηκα</token>
+     <token id="SBL.2John.1.4.5" clearId="n63001004005">ἐκ</token>
+     <token id="SBL.2John.1.4.6" clearId="n63001004006">τῶν</token>
+     <token id="SBL.2John.1.4.7" clearId="n63001004007">τέκνων</token>
+     <token id="SBL.2John.1.4.8" clearId="n63001004008">σου</token>
+     <token id="SBL.2John.1.4.9" clearId="n63001004009">περιπατοῦντας</token>
+     <token id="SBL.2John.1.4.10" clearId="n63001004010">ἐν</token>
+     <token id="SBL.2John.1.4.11" clearId="n63001004011" after=",">ἀληθείᾳ</token>
+     <token id="SBL.2John.1.4.12" clearId="n63001004012">καθὼς</token>
+     <token id="SBL.2John.1.4.13" clearId="n63001004013">ἐντολὴν</token>
+     <token id="SBL.2John.1.4.14" clearId="n63001004014">ἐλάβομεν</token>
+     <token id="SBL.2John.1.4.15" clearId="n63001004015">παρὰ</token>
+     <token id="SBL.2John.1.4.16" clearId="n63001004016">τοῦ</token>
+     <token id="SBL.2John.1.4.17" clearId="n63001004017" after=".">πατρός</token>
     </move>
     <move id="m.SBL.2John.1.5" chStart="1" vStart="5" chEnd="1" vEnd="5">
-     <token clearId="n63001005001" id="SBL.2John.1.5.1.1">καὶ</token>
-     <token clearId="n63001005002" id="SBL.2John.1.5.2.1">νῦν</token>
-     <token clearId="n63001005003" id="SBL.2John.1.5.3.1">ἐρωτῶ</token>
-     <token clearId="n63001005004" id="SBL.2John.1.5.4.1" after=",">σε</token>
-     <token clearId="n63001005005" id="SBL.2John.1.5.5.1" after=",">κυρία</token>
-     <token clearId="n63001005006" id="SBL.2John.1.5.6.1">οὐχ</token>
-     <token clearId="n63001005007" id="SBL.2John.1.5.7.1">ὡς</token>
-     <token clearId="n63001005008" id="SBL.2John.1.5.8.1">ἐντολὴν</token>
-     <token clearId="n63001005009" id="SBL.2John.1.5.9.1">καινὴν</token>
-     <token clearId="n63001005010" id="SBL.2John.1.5.10.1">γράφων</token>
-     <token clearId="n63001005011" id="SBL.2John.1.5.11.1">σοι</token>
-     <token clearId="n63001005012" id="SBL.2John.1.5.12.1">ἀλλὰ</token>
-     <token clearId="n63001005013" id="SBL.2John.1.5.13.1">ἣν</token>
-     <token clearId="n63001005014" id="SBL.2John.1.5.14.1">εἴχομεν</token>
-     <token clearId="n63001005015" id="SBL.2John.1.5.15.1">ἀπ’</token>
-     <token clearId="n63001005016" id="SBL.2John.1.5.16.1" after=",">ἀρχῆς</token>
-     <token clearId="n63001005017" id="SBL.2John.1.5.17.1">ἵνα</token>
-     <token clearId="n63001005018" id="SBL.2John.1.5.18.1">ἀγαπῶμεν</token>
-     <token clearId="n63001005019" id="SBL.2John.1.5.19.1" after=".">ἀλλήλους</token>
+     <token id="SBL.2John.1.5.1" clearId="n63001005001">καὶ</token>
+     <token id="SBL.2John.1.5.2" clearId="n63001005002">νῦν</token>
+     <token id="SBL.2John.1.5.3" clearId="n63001005003">ἐρωτῶ</token>
+     <token id="SBL.2John.1.5.4" clearId="n63001005004" after=",">σε</token>
+     <token id="SBL.2John.1.5.5" clearId="n63001005005" after=",">κυρία</token>
+     <token id="SBL.2John.1.5.6" clearId="n63001005006">οὐχ</token>
+     <token id="SBL.2John.1.5.7" clearId="n63001005007">ὡς</token>
+     <token id="SBL.2John.1.5.8" clearId="n63001005008">ἐντολὴν</token>
+     <token id="SBL.2John.1.5.9" clearId="n63001005009">καινὴν</token>
+     <token id="SBL.2John.1.5.10" clearId="n63001005010">γράφων</token>
+     <token id="SBL.2John.1.5.11" clearId="n63001005011">σοι</token>
+     <token id="SBL.2John.1.5.12" clearId="n63001005012">ἀλλὰ</token>
+     <token id="SBL.2John.1.5.13" clearId="n63001005013">ἣν</token>
+     <token id="SBL.2John.1.5.14" clearId="n63001005014">εἴχομεν</token>
+     <token id="SBL.2John.1.5.15" clearId="n63001005015">ἀπ’</token>
+     <token id="SBL.2John.1.5.16" clearId="n63001005016" after=",">ἀρχῆς</token>
+     <token id="SBL.2John.1.5.17" clearId="n63001005017">ἵνα</token>
+     <token id="SBL.2John.1.5.18" clearId="n63001005018">ἀγαπῶμεν</token>
+     <token id="SBL.2John.1.5.19" clearId="n63001005019" after=".">ἀλλήλους</token>
     </move>
     <move id="m.SBL.2John.1.6.1-11" chStart="1" vStart="6" chEnd="1" vEnd="6">
-     <token clearId="n63001006001" id="SBL.2John.1.6.1.1">καὶ</token>
-     <token clearId="n63001006002" id="SBL.2John.1.6.2.1">αὕτη</token>
-     <token clearId="n63001006003" id="SBL.2John.1.6.3.1">ἐστὶν</token>
-     <token clearId="n63001006004" id="SBL.2John.1.6.4.1">ἡ</token>
-     <token clearId="n63001006005" id="SBL.2John.1.6.5.1" after=",">ἀγάπη</token>
-     <token clearId="n63001006006" id="SBL.2John.1.6.6.1">ἵνα</token>
-     <token clearId="n63001006007" id="SBL.2John.1.6.7.1">περιπατῶμεν</token>
-     <token clearId="n63001006008" id="SBL.2John.1.6.8.1">κατὰ</token>
-     <token clearId="n63001006009" id="SBL.2John.1.6.9.1">τὰς</token>
-     <token clearId="n63001006010" id="SBL.2John.1.6.10.1">ἐντολὰς</token>
-     <token clearId="n63001006011" id="SBL.2John.1.6.11.1" after="·">αὐτοῦ</token>
+     <token id="SBL.2John.1.6.1" clearId="n63001006001">καὶ</token>
+     <token id="SBL.2John.1.6.2" clearId="n63001006002">αὕτη</token>
+     <token id="SBL.2John.1.6.3" clearId="n63001006003">ἐστὶν</token>
+     <token id="SBL.2John.1.6.4" clearId="n63001006004">ἡ</token>
+     <token id="SBL.2John.1.6.5" clearId="n63001006005" after=",">ἀγάπη</token>
+     <token id="SBL.2John.1.6.6" clearId="n63001006006">ἵνα</token>
+     <token id="SBL.2John.1.6.7" clearId="n63001006007">περιπατῶμεν</token>
+     <token id="SBL.2John.1.6.8" clearId="n63001006008">κατὰ</token>
+     <token id="SBL.2John.1.6.9" clearId="n63001006009">τὰς</token>
+     <token id="SBL.2John.1.6.10" clearId="n63001006010">ἐντολὰς</token>
+     <token id="SBL.2John.1.6.11" clearId="n63001006011" after="·">αὐτοῦ</token>
     </move>
     <move id="m.SBL.2John.1.6.12-23" chStart="1" vStart="6" chEnd="1" vEnd="6">
-     <token clearId="n63001006012" id="SBL.2John.1.6.12.1">αὕτη</token>
-     <token clearId="n63001006013" id="SBL.2John.1.6.13.1">ἡ</token>
-     <token clearId="n63001006014" id="SBL.2John.1.6.14.1">ἐντολή</token>
-     <token clearId="n63001006015" id="SBL.2John.1.6.15.1" after=",">ἐστιν</token>
-     <token clearId="n63001006016" id="SBL.2John.1.6.16.1">καθὼς</token>
-     <token clearId="n63001006017" id="SBL.2John.1.6.17.1">ἠκούσατε</token>
-     <token clearId="n63001006018" id="SBL.2John.1.6.18.1">ἀπ’</token>
-     <token clearId="n63001006019" id="SBL.2John.1.6.19.1" after=",">ἀρχῆς</token>
-     <token clearId="n63001006020" id="SBL.2John.1.6.20.1">ἵνα</token>
-     <token clearId="n63001006021" id="SBL.2John.1.6.21.1">ἐν</token>
-     <token clearId="n63001006022" id="SBL.2John.1.6.22.1">αὐτῇ</token>
-     <token clearId="n63001006023" id="SBL.2John.1.6.23.1" after=".">περιπατῆτε</token>
+     <token id="SBL.2John.1.6.12" clearId="n63001006012">αὕτη</token>
+     <token id="SBL.2John.1.6.13" clearId="n63001006013">ἡ</token>
+     <token id="SBL.2John.1.6.14" clearId="n63001006014">ἐντολή</token>
+     <token id="SBL.2John.1.6.15" clearId="n63001006015" after=",">ἐστιν</token>
+     <token id="SBL.2John.1.6.16" clearId="n63001006016">καθὼς</token>
+     <token id="SBL.2John.1.6.17" clearId="n63001006017">ἠκούσατε</token>
+     <token id="SBL.2John.1.6.18" clearId="n63001006018">ἀπ’</token>
+     <token id="SBL.2John.1.6.19" clearId="n63001006019" after=",">ἀρχῆς</token>
+     <token id="SBL.2John.1.6.20" clearId="n63001006020">ἵνα</token>
+     <token id="SBL.2John.1.6.21" clearId="n63001006021">ἐν</token>
+     <token id="SBL.2John.1.6.22" clearId="n63001006022">αὐτῇ</token>
+     <token id="SBL.2John.1.6.23" clearId="n63001006023" after=".">περιπατῆτε</token>
     </move>
    </seg>
    <seg id="s.SBL.2John.1.7-11" title="Warning against False Teachers">
     <move id="m.SBL.2John.1.7.1-15" chStart="1" vStart="7" chEnd="1" vEnd="7">
-     <token clearId="n63001007001" id="SBL.2John.1.7.1.1">ὅτι</token>
-     <token clearId="n63001007002" id="SBL.2John.1.7.2.1">πολλοὶ</token>
-     <token clearId="n63001007003" id="SBL.2John.1.7.3.1">πλάνοι</token>
-     <token clearId="n63001007004" id="SBL.2John.1.7.4.1">ἐξῆλθον</token>
-     <token clearId="n63001007005" id="SBL.2John.1.7.5.1">εἰς</token>
-     <token clearId="n63001007006" id="SBL.2John.1.7.6.1">τὸν</token>
-     <token clearId="n63001007007" id="SBL.2John.1.7.7.1" after=",">κόσμον</token>
-     <token clearId="n63001007008" id="SBL.2John.1.7.8.1">οἱ</token>
-     <token clearId="n63001007009" id="SBL.2John.1.7.9.1">μὴ</token>
-     <token clearId="n63001007010" id="SBL.2John.1.7.10.1">ὁμολογοῦντες</token>
-     <token clearId="n63001007011" id="SBL.2John.1.7.11.1">Ἰησοῦν</token>
-     <token clearId="n63001007012" id="SBL.2John.1.7.12.1">Χριστὸν</token>
-     <token clearId="n63001007013" id="SBL.2John.1.7.13.1">ἐρχόμενον</token>
-     <token clearId="n63001007014" id="SBL.2John.1.7.14.1">ἐν</token>
-     <token clearId="n63001007015" id="SBL.2John.1.7.15.1" after="·">σαρκί</token>
+     <token id="SBL.2John.1.7.1" clearId="n63001007001">ὅτι</token>
+     <token id="SBL.2John.1.7.2" clearId="n63001007002">πολλοὶ</token>
+     <token id="SBL.2John.1.7.3" clearId="n63001007003">πλάνοι</token>
+     <token id="SBL.2John.1.7.4" clearId="n63001007004">ἐξῆλθον</token>
+     <token id="SBL.2John.1.7.5" clearId="n63001007005">εἰς</token>
+     <token id="SBL.2John.1.7.6" clearId="n63001007006">τὸν</token>
+     <token id="SBL.2John.1.7.7" clearId="n63001007007" after=",">κόσμον</token>
+     <token id="SBL.2John.1.7.8" clearId="n63001007008">οἱ</token>
+     <token id="SBL.2John.1.7.9" clearId="n63001007009">μὴ</token>
+     <token id="SBL.2John.1.7.10" clearId="n63001007010">ὁμολογοῦντες</token>
+     <token id="SBL.2John.1.7.11" clearId="n63001007011">Ἰησοῦν</token>
+     <token id="SBL.2John.1.7.12" clearId="n63001007012">Χριστὸν</token>
+     <token id="SBL.2John.1.7.13" clearId="n63001007013">ἐρχόμενον</token>
+     <token id="SBL.2John.1.7.14" clearId="n63001007014">ἐν</token>
+     <token id="SBL.2John.1.7.15" clearId="n63001007015" after="·">σαρκί</token>
     </move>
     <move id="m.SBL.2John.1.7.16-22" chStart="1" vStart="7" chEnd="1" vEnd="7">
-     <token clearId="n63001007016" id="SBL.2John.1.7.16.1">οὗτός</token>
-     <token clearId="n63001007017" id="SBL.2John.1.7.17.1">ἐστιν</token>
-     <token clearId="n63001007018" id="SBL.2John.1.7.18.1">ὁ</token>
-     <token clearId="n63001007019" id="SBL.2John.1.7.19.1">πλάνος</token>
-     <token clearId="n63001007020" id="SBL.2John.1.7.20.1">καὶ</token>
-     <token clearId="n63001007021" id="SBL.2John.1.7.21.1">ὁ</token>
-     <token clearId="n63001007022" id="SBL.2John.1.7.22.1" after=".">ἀντίχριστος</token>
+     <token id="SBL.2John.1.7.16" clearId="n63001007016">οὗτός</token>
+     <token id="SBL.2John.1.7.17" clearId="n63001007017">ἐστιν</token>
+     <token id="SBL.2John.1.7.18" clearId="n63001007018">ὁ</token>
+     <token id="SBL.2John.1.7.19" clearId="n63001007019">πλάνος</token>
+     <token id="SBL.2John.1.7.20" clearId="n63001007020">καὶ</token>
+     <token id="SBL.2John.1.7.21" clearId="n63001007021">ὁ</token>
+     <token id="SBL.2John.1.7.22" clearId="n63001007022" after=".">ἀντίχριστος</token>
     </move>
     <move id="m.SBL.2John.1.8" chStart="1" vStart="8" chEnd="1" vEnd="8">
-     <token clearId="n63001008001" id="SBL.2John.1.8.1.1">βλέπετε</token>
-     <token clearId="n63001008002" id="SBL.2John.1.8.2.1" after=",">ἑαυτούς</token>
-     <token clearId="n63001008003" id="SBL.2John.1.8.3.1">ἵνα</token>
-     <token clearId="n63001008004" id="SBL.2John.1.8.4.1">μὴ</token>
-     <token clearId="n63001008005" id="SBL.2John.1.8.5.1">ἀπολέσητε</token>
-     <token clearId="n63001008006" id="SBL.2John.1.8.6.1">ἃ</token>
-     <token clearId="n63001008007" id="SBL.2John.1.8.7.1" after=",">εἰργασάμεθα</token>
-     <token clearId="n63001008008" id="SBL.2John.1.8.8.1">ἀλλὰ</token>
-     <token clearId="n63001008009" id="SBL.2John.1.8.9.1">μισθὸν</token>
-     <token clearId="n63001008010" id="SBL.2John.1.8.10.1">πλήρη</token>
-     <token clearId="n63001008011" id="SBL.2John.1.8.11.1" after=".">ἀπολάβητε</token>
+     <token id="SBL.2John.1.8.1" clearId="n63001008001">βλέπετε</token>
+     <token id="SBL.2John.1.8.2" clearId="n63001008002" after=",">ἑαυτούς</token>
+     <token id="SBL.2John.1.8.3" clearId="n63001008003">ἵνα</token>
+     <token id="SBL.2John.1.8.4" clearId="n63001008004">μὴ</token>
+     <token id="SBL.2John.1.8.5" clearId="n63001008005">ἀπολέσητε</token>
+     <token id="SBL.2John.1.8.6" clearId="n63001008006">ἃ</token>
+     <token id="SBL.2John.1.8.7" clearId="n63001008007" after=",">εἰργασάμεθα</token>
+     <token id="SBL.2John.1.8.8" clearId="n63001008008">ἀλλὰ</token>
+     <token id="SBL.2John.1.8.9" clearId="n63001008009">μισθὸν</token>
+     <token id="SBL.2John.1.8.10" clearId="n63001008010">πλήρη</token>
+     <token id="SBL.2John.1.8.11" clearId="n63001008011" after=".">ἀπολάβητε</token>
     </move>
     <move id="m.SBL.2John.1.9.1-14" chStart="1" vStart="9" chEnd="1" vEnd="9">
-     <token clearId="n63001009001" id="SBL.2John.1.9.1.1">πᾶς</token>
-     <token clearId="n63001009002" id="SBL.2John.1.9.2.1">ὁ</token>
-     <token clearId="n63001009003" id="SBL.2John.1.9.3.1">προάγων</token>
-     <token clearId="n63001009004" id="SBL.2John.1.9.4.1">καὶ</token>
-     <token clearId="n63001009005" id="SBL.2John.1.9.5.1">μὴ</token>
-     <token clearId="n63001009006" id="SBL.2John.1.9.6.1">μένων</token>
-     <token clearId="n63001009007" id="SBL.2John.1.9.7.1">ἐν</token>
-     <token clearId="n63001009008" id="SBL.2John.1.9.8.1">τῇ</token>
-     <token clearId="n63001009009" id="SBL.2John.1.9.9.1">διδαχῇ</token>
-     <token clearId="n63001009010" id="SBL.2John.1.9.10.1">τοῦ</token>
-     <token clearId="n63001009011" id="SBL.2John.1.9.11.1">Χριστοῦ</token>
-     <token clearId="n63001009012" id="SBL.2John.1.9.12.1">θεὸν</token>
-     <token clearId="n63001009013" id="SBL.2John.1.9.13.1">οὐκ</token>
-     <token clearId="n63001009014" id="SBL.2John.1.9.14.1" after="·">ἔχει</token>
+     <token id="SBL.2John.1.9.1" clearId="n63001009001">πᾶς</token>
+     <token id="SBL.2John.1.9.2" clearId="n63001009002">ὁ</token>
+     <token id="SBL.2John.1.9.3" clearId="n63001009003">προάγων</token>
+     <token id="SBL.2John.1.9.4" clearId="n63001009004">καὶ</token>
+     <token id="SBL.2John.1.9.5" clearId="n63001009005">μὴ</token>
+     <token id="SBL.2John.1.9.6" clearId="n63001009006">μένων</token>
+     <token id="SBL.2John.1.9.7" clearId="n63001009007">ἐν</token>
+     <token id="SBL.2John.1.9.8" clearId="n63001009008">τῇ</token>
+     <token id="SBL.2John.1.9.9" clearId="n63001009009">διδαχῇ</token>
+     <token id="SBL.2John.1.9.10" clearId="n63001009010">τοῦ</token>
+     <token id="SBL.2John.1.9.11" clearId="n63001009011">Χριστοῦ</token>
+     <token id="SBL.2John.1.9.12" clearId="n63001009012">θεὸν</token>
+     <token id="SBL.2John.1.9.13" clearId="n63001009013">οὐκ</token>
+     <token id="SBL.2John.1.9.14" clearId="n63001009014" after="·">ἔχει</token>
     </move>
     <move id="m.SBL.2John.1.9.15-27" chStart="1" vStart="9" chEnd="1" vEnd="9">
-     <token clearId="n63001009015" id="SBL.2John.1.9.15.1">ὁ</token>
-     <token clearId="n63001009016" id="SBL.2John.1.9.16.1">μένων</token>
-     <token clearId="n63001009017" id="SBL.2John.1.9.17.1">ἐν</token>
-     <token clearId="n63001009018" id="SBL.2John.1.9.18.1">τῇ</token>
-     <token clearId="n63001009019" id="SBL.2John.1.9.19.1" after=",">διδαχῇ</token>
-     <token clearId="n63001009020" id="SBL.2John.1.9.20.1">οὗτος</token>
-     <token clearId="n63001009021" id="SBL.2John.1.9.21.1">καὶ</token>
-     <token clearId="n63001009022" id="SBL.2John.1.9.22.1">τὸν</token>
-     <token clearId="n63001009023" id="SBL.2John.1.9.23.1">πατέρα</token>
-     <token clearId="n63001009024" id="SBL.2John.1.9.24.1">καὶ</token>
-     <token clearId="n63001009025" id="SBL.2John.1.9.25.1">τὸν</token>
-     <token clearId="n63001009026" id="SBL.2John.1.9.26.1">υἱὸν</token>
-     <token clearId="n63001009027" id="SBL.2John.1.9.27.1" after=".">ἔχει</token>
+     <token id="SBL.2John.1.9.15" clearId="n63001009015">ὁ</token>
+     <token id="SBL.2John.1.9.16" clearId="n63001009016">μένων</token>
+     <token id="SBL.2John.1.9.17" clearId="n63001009017">ἐν</token>
+     <token id="SBL.2John.1.9.18" clearId="n63001009018">τῇ</token>
+     <token id="SBL.2John.1.9.19" clearId="n63001009019" after=",">διδαχῇ</token>
+     <token id="SBL.2John.1.9.20" clearId="n63001009020">οὗτος</token>
+     <token id="SBL.2John.1.9.21" clearId="n63001009021">καὶ</token>
+     <token id="SBL.2John.1.9.22" clearId="n63001009022">τὸν</token>
+     <token id="SBL.2John.1.9.23" clearId="n63001009023">πατέρα</token>
+     <token id="SBL.2John.1.9.24" clearId="n63001009024">καὶ</token>
+     <token id="SBL.2John.1.9.25" clearId="n63001009025">τὸν</token>
+     <token id="SBL.2John.1.9.26" clearId="n63001009026">υἱὸν</token>
+     <token id="SBL.2John.1.9.27" clearId="n63001009027" after=".">ἔχει</token>
     </move>
     <move id="m.SBL.2John.1.10" chStart="1" vStart="10" chEnd="1" vEnd="10">
-     <token clearId="n63001010001" id="SBL.2John.1.10.1.1">εἴ</token>
-     <token clearId="n63001010002" id="SBL.2John.1.10.2.1">τις</token>
-     <token clearId="n63001010003" id="SBL.2John.1.10.3.1">ἔρχεται</token>
-     <token clearId="n63001010004" id="SBL.2John.1.10.4.1">πρὸς</token>
-     <token clearId="n63001010005" id="SBL.2John.1.10.5.1">ὑμᾶς</token>
-     <token clearId="n63001010006" id="SBL.2John.1.10.6.1">καὶ</token>
-     <token clearId="n63001010007" id="SBL.2John.1.10.7.1">ταύτην</token>
-     <token clearId="n63001010008" id="SBL.2John.1.10.8.1">τὴν</token>
-     <token clearId="n63001010009" id="SBL.2John.1.10.9.1">διδαχὴν</token>
-     <token clearId="n63001010010" id="SBL.2John.1.10.10.1">οὐ</token>
-     <token clearId="n63001010011" id="SBL.2John.1.10.11.1" after=",">φέρει</token>
-     <token clearId="n63001010012" id="SBL.2John.1.10.12.1">μὴ</token>
-     <token clearId="n63001010013" id="SBL.2John.1.10.13.1">λαμβάνετε</token>
-     <token clearId="n63001010014" id="SBL.2John.1.10.14.1">αὐτὸν</token>
-     <token clearId="n63001010015" id="SBL.2John.1.10.15.1">εἰς</token>
-     <token clearId="n63001010016" id="SBL.2John.1.10.16.1">οἰκίαν</token>
-     <token clearId="n63001010017" id="SBL.2John.1.10.17.1">καὶ</token>
-     <token clearId="n63001010018" id="SBL.2John.1.10.18.1">χαίρειν</token>
-     <token clearId="n63001010019" id="SBL.2John.1.10.19.1">αὐτῷ</token>
-     <token clearId="n63001010020" id="SBL.2John.1.10.20.1">μὴ</token>
-     <token clearId="n63001010021" id="SBL.2John.1.10.21.1" after="·">λέγετε</token>
+     <token id="SBL.2John.1.10.1" clearId="n63001010001">εἴ</token>
+     <token id="SBL.2John.1.10.2" clearId="n63001010002">τις</token>
+     <token id="SBL.2John.1.10.3" clearId="n63001010003">ἔρχεται</token>
+     <token id="SBL.2John.1.10.4" clearId="n63001010004">πρὸς</token>
+     <token id="SBL.2John.1.10.5" clearId="n63001010005">ὑμᾶς</token>
+     <token id="SBL.2John.1.10.6" clearId="n63001010006">καὶ</token>
+     <token id="SBL.2John.1.10.7" clearId="n63001010007">ταύτην</token>
+     <token id="SBL.2John.1.10.8" clearId="n63001010008">τὴν</token>
+     <token id="SBL.2John.1.10.9" clearId="n63001010009">διδαχὴν</token>
+     <token id="SBL.2John.1.10.10" clearId="n63001010010">οὐ</token>
+     <token id="SBL.2John.1.10.11" clearId="n63001010011" after=",">φέρει</token>
+     <token id="SBL.2John.1.10.12" clearId="n63001010012">μὴ</token>
+     <token id="SBL.2John.1.10.13" clearId="n63001010013">λαμβάνετε</token>
+     <token id="SBL.2John.1.10.14" clearId="n63001010014">αὐτὸν</token>
+     <token id="SBL.2John.1.10.15" clearId="n63001010015">εἰς</token>
+     <token id="SBL.2John.1.10.16" clearId="n63001010016">οἰκίαν</token>
+     <token id="SBL.2John.1.10.17" clearId="n63001010017">καὶ</token>
+     <token id="SBL.2John.1.10.18" clearId="n63001010018">χαίρειν</token>
+     <token id="SBL.2John.1.10.19" clearId="n63001010019">αὐτῷ</token>
+     <token id="SBL.2John.1.10.20" clearId="n63001010020">μὴ</token>
+     <token id="SBL.2John.1.10.21" clearId="n63001010021" after="·">λέγετε</token>
     </move>
     <move id="m.SBL.2John.1.11" chStart="1" vStart="11" chEnd="1" vEnd="11">
-     <token clearId="n63001011001" id="SBL.2John.1.11.1.1">ὁ</token>
-     <token clearId="n63001011002" id="SBL.2John.1.11.2.1">λέγων</token>
-     <token clearId="n63001011003" id="SBL.2John.1.11.3.1">γὰρ</token>
-     <token clearId="n63001011004" id="SBL.2John.1.11.4.1">αὐτῷ</token>
-     <token clearId="n63001011005" id="SBL.2John.1.11.5.1">χαίρειν</token>
-     <token clearId="n63001011006" id="SBL.2John.1.11.6.1">κοινωνεῖ</token>
-     <token clearId="n63001011007" id="SBL.2John.1.11.7.1">τοῖς</token>
-     <token clearId="n63001011008" id="SBL.2John.1.11.8.1">ἔργοις</token>
-     <token clearId="n63001011009" id="SBL.2John.1.11.9.1">αὐτοῦ</token>
-     <token clearId="n63001011010" id="SBL.2John.1.11.10.1">τοῖς</token>
-     <token clearId="n63001011011" id="SBL.2John.1.11.11.1" after=".">πονηροῖς</token>
+     <token id="SBL.2John.1.11.1" clearId="n63001011001">ὁ</token>
+     <token id="SBL.2John.1.11.2" clearId="n63001011002">λέγων</token>
+     <token id="SBL.2John.1.11.3" clearId="n63001011003">γὰρ</token>
+     <token id="SBL.2John.1.11.4" clearId="n63001011004">αὐτῷ</token>
+     <token id="SBL.2John.1.11.5" clearId="n63001011005">χαίρειν</token>
+     <token id="SBL.2John.1.11.6" clearId="n63001011006">κοινωνεῖ</token>
+     <token id="SBL.2John.1.11.7" clearId="n63001011007">τοῖς</token>
+     <token id="SBL.2John.1.11.8" clearId="n63001011008">ἔργοις</token>
+     <token id="SBL.2John.1.11.9" clearId="n63001011009">αὐτοῦ</token>
+     <token id="SBL.2John.1.11.10" clearId="n63001011010">τοῖς</token>
+     <token id="SBL.2John.1.11.11" clearId="n63001011011" after=".">πονηροῖς</token>
     </move>
    </seg>
    <seg id="s.SBL.2John.1.12-13" title="Conclusion">
     <move id="m.SBL.2John.1.12" chStart="1" vStart="12" chEnd="1" vEnd="12">
-     <token clearId="n63001012001" id="SBL.2John.1.12.1.1">Πολλὰ</token>
-     <token clearId="n63001012002" id="SBL.2John.1.12.2.1">ἔχων</token>
-     <token clearId="n63001012003" id="SBL.2John.1.12.3.1">ὑμῖν</token>
-     <token clearId="n63001012004" id="SBL.2John.1.12.4.1">γράφειν</token>
-     <token clearId="n63001012005" id="SBL.2John.1.12.5.1">οὐκ</token>
-     <token clearId="n63001012006" id="SBL.2John.1.12.6.1">ἐβουλήθην</token>
-     <token clearId="n63001012007" id="SBL.2John.1.12.7.1">διὰ</token>
-     <token clearId="n63001012008" id="SBL.2John.1.12.8.1">χάρτου</token>
-     <token clearId="n63001012009" id="SBL.2John.1.12.9.1">καὶ</token>
-     <token clearId="n63001012010" id="SBL.2John.1.12.10.1" after=",">μέλανος</token>
-     <token clearId="n63001012011" id="SBL.2John.1.12.11.1">ἀλλὰ</token>
-     <token clearId="n63001012012" id="SBL.2John.1.12.12.1">ἐλπίζω</token>
-     <token clearId="n63001012013" id="SBL.2John.1.12.13.1">γενέσθαι</token>
-     <token clearId="n63001012014" id="SBL.2John.1.12.14.1">πρὸς</token>
-     <token clearId="n63001012015" id="SBL.2John.1.12.15.1">ὑμᾶς</token>
-     <token clearId="n63001012016" id="SBL.2John.1.12.16.1">καὶ</token>
-     <token clearId="n63001012017" id="SBL.2John.1.12.17.1">στόμα</token>
-     <token clearId="n63001012018" id="SBL.2John.1.12.18.1">πρὸς</token>
-     <token clearId="n63001012019" id="SBL.2John.1.12.19.1">στόμα</token>
-     <token clearId="n63001012020" id="SBL.2John.1.12.20.1" after=",">λαλῆσαι</token>
-     <token clearId="n63001012021" id="SBL.2John.1.12.21.1">ἵνα</token>
-     <token clearId="n63001012022" id="SBL.2John.1.12.22.1">ἡ</token>
-     <token clearId="n63001012023" id="SBL.2John.1.12.23.1">χαρὰ</token>
-     <token clearId="n63001012024" id="SBL.2John.1.12.24.1">ὑμῶν</token>
-     <token clearId="n63001012025" id="SBL.2John.1.12.25.1">πεπληρωμένη</token>
-     <token clearId="n63001012026" id="SBL.2John.1.12.26.1" after=".">ᾖ</token>
+     <token id="SBL.2John.1.12.1" clearId="n63001012001">Πολλὰ</token>
+     <token id="SBL.2John.1.12.2" clearId="n63001012002">ἔχων</token>
+     <token id="SBL.2John.1.12.3" clearId="n63001012003">ὑμῖν</token>
+     <token id="SBL.2John.1.12.4" clearId="n63001012004">γράφειν</token>
+     <token id="SBL.2John.1.12.5" clearId="n63001012005">οὐκ</token>
+     <token id="SBL.2John.1.12.6" clearId="n63001012006">ἐβουλήθην</token>
+     <token id="SBL.2John.1.12.7" clearId="n63001012007">διὰ</token>
+     <token id="SBL.2John.1.12.8" clearId="n63001012008">χάρτου</token>
+     <token id="SBL.2John.1.12.9" clearId="n63001012009">καὶ</token>
+     <token id="SBL.2John.1.12.10" clearId="n63001012010" after=",">μέλανος</token>
+     <token id="SBL.2John.1.12.11" clearId="n63001012011">ἀλλὰ</token>
+     <token id="SBL.2John.1.12.12" clearId="n63001012012">ἐλπίζω</token>
+     <token id="SBL.2John.1.12.13" clearId="n63001012013">γενέσθαι</token>
+     <token id="SBL.2John.1.12.14" clearId="n63001012014">πρὸς</token>
+     <token id="SBL.2John.1.12.15" clearId="n63001012015">ὑμᾶς</token>
+     <token id="SBL.2John.1.12.16" clearId="n63001012016">καὶ</token>
+     <token id="SBL.2John.1.12.17" clearId="n63001012017">στόμα</token>
+     <token id="SBL.2John.1.12.18" clearId="n63001012018">πρὸς</token>
+     <token id="SBL.2John.1.12.19" clearId="n63001012019">στόμα</token>
+     <token id="SBL.2John.1.12.20" clearId="n63001012020" after=",">λαλῆσαι</token>
+     <token id="SBL.2John.1.12.21" clearId="n63001012021">ἵνα</token>
+     <token id="SBL.2John.1.12.22" clearId="n63001012022">ἡ</token>
+     <token id="SBL.2John.1.12.23" clearId="n63001012023">χαρὰ</token>
+     <token id="SBL.2John.1.12.24" clearId="n63001012024">ὑμῶν</token>
+     <token id="SBL.2John.1.12.25" clearId="n63001012025">πεπληρωμένη</token>
+     <token id="SBL.2John.1.12.26" clearId="n63001012026" after=".">ᾖ</token>
     </move>
     <move id="m.SBL.2John.1.13" chStart="1" vStart="13" chEnd="1" vEnd="13">
-     <token clearId="n63001013001" id="SBL.2John.1.13.1.1">Ἀσπάζεταί</token>
-     <token clearId="n63001013002" id="SBL.2John.1.13.2.1">σε</token>
-     <token clearId="n63001013003" id="SBL.2John.1.13.3.1">τὰ</token>
-     <token clearId="n63001013004" id="SBL.2John.1.13.4.1">τέκνα</token>
-     <token clearId="n63001013005" id="SBL.2John.1.13.5.1">τῆς</token>
-     <token clearId="n63001013006" id="SBL.2John.1.13.6.1">ἀδελφῆς</token>
-     <token clearId="n63001013007" id="SBL.2John.1.13.7.1">σου</token>
-     <token clearId="n63001013008" id="SBL.2John.1.13.8.1">τῆς</token>
-     <token clearId="n63001013009" id="SBL.2John.1.13.9.1" after=".">ἐκλεκτῆς</token>
+     <token id="SBL.2John.1.13.1" clearId="n63001013001">Ἀσπάζεταί</token>
+     <token id="SBL.2John.1.13.2" clearId="n63001013002">σε</token>
+     <token id="SBL.2John.1.13.3" clearId="n63001013003">τὰ</token>
+     <token id="SBL.2John.1.13.4" clearId="n63001013004">τέκνα</token>
+     <token id="SBL.2John.1.13.5" clearId="n63001013005">τῆς</token>
+     <token id="SBL.2John.1.13.6" clearId="n63001013006">ἀδελφῆς</token>
+     <token id="SBL.2John.1.13.7" clearId="n63001013007">σου</token>
+     <token id="SBL.2John.1.13.8" clearId="n63001013008">τῆς</token>
+     <token id="SBL.2John.1.13.9" clearId="n63001013009" after=".">ἐκλεκτῆς</token>
     </move>
    </seg>
   </turn>

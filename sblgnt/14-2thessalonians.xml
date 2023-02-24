@@ -9,7 +9,7 @@
     <editor>Ryder A. Wishart</editor>
    </titleStmt>
    <editionStmt>
-    <edition>1.00</edition>
+    <edition>1.1</edition>
    </editionStmt>
    <publicationStmt>
     <authority>www.opentext.org</authority>
@@ -24,7 +24,7 @@
     <p>The SBL Greek New Testament (SBLGNT) is a critically edited edition of the Greek New Testament produced by the Society of Biblical Literature and Logos Bible Software, made available under a [CC-BY License] (https://creativecommons.org/licenses/by/4.0/). Available at https://github.com/LogosBible/SBLGNT.</p>
     <p>Contextual speaking turns were derived by Christopher D. Land using projection data in the original [OpenText annotation](https://github.com/OpenText-org/GNT_annotation_v1.0) together with the capitalization of the SBLGNT edition. Manual error correction was then carried out by Christopher D. Land and Doosuk Kim.</p>
     <p>Turn segments were derived by Ryder A. Wishart by modifying the pericope headings of Robinson and Pierpont's Greek New Testament, which is in the public domain. Differences can be identified by comparing this data to the start and end tokens compiled by [James Tauber](https://github.com/jtauber/vocabulary-tools/blob/master/gnt_data/pericopes.txt).</p>
-    <p>Move segments were derived by Christopher D. Land from syntax markup copyright 2014-2017 by the Global Bible Initiative, made available under under a [CC-BY-SA License] (http://creativecommons.org/licenses/by-sa/3.0/). Available at https://github.com/biblicalhumanities/greek-new-testament/tree/master/syntax-trees/sblgnt.</p>
+    <p>Move segments were derived by Christopher D. Land by modifying syntax markup copyright 2014-2017 by the Global Bible Initiative, made available under under a [CC-BY-SA License] (http://creativecommons.org/licenses/by-sa/3.0/). Available at https://github.com/biblicalhumanities/greek-new-testament/tree/master/syntax-trees/sblgnt.</p>
    </sourceDesc>
   </fileDesc>
  </header>
@@ -32,904 +32,904 @@
   <turn depth="1" id="t.SBL.2Thess" chStart="1" vStart="1" chEnd="3" vEnd="18">
    <seg id="s.SBL.2Thess.1.1-2" title="Introductory Salutation">
     <move id="m.SBL.2Thess.1.1" chStart="1" vStart="1" chEnd="1" vEnd="1">
-     <token clearId="n53001001001" id="SBL.2Thess.1.1.1.1">Παῦλος</token>
-     <token clearId="n53001001002" id="SBL.2Thess.1.1.2.1">καὶ</token>
-     <token clearId="n53001001003" id="SBL.2Thess.1.1.3.1">Σιλουανὸς</token>
-     <token clearId="n53001001004" id="SBL.2Thess.1.1.4.1">καὶ</token>
-     <token clearId="n53001001005" id="SBL.2Thess.1.1.5.1">Τιμόθεος</token>
-     <token clearId="n53001001006" id="SBL.2Thess.1.1.6.1">τῇ</token>
-     <token clearId="n53001001007" id="SBL.2Thess.1.1.7.1">ἐκκλησίᾳ</token>
-     <token clearId="n53001001008" id="SBL.2Thess.1.1.8.1">Θεσσαλονικέων</token>
-     <token clearId="n53001001009" id="SBL.2Thess.1.1.9.1">ἐν</token>
-     <token clearId="n53001001010" id="SBL.2Thess.1.1.10.1">θεῷ</token>
-     <token clearId="n53001001011" id="SBL.2Thess.1.1.11.1">πατρὶ</token>
-     <token clearId="n53001001012" id="SBL.2Thess.1.1.12.1">ἡμῶν</token>
-     <token clearId="n53001001013" id="SBL.2Thess.1.1.13.1">καὶ</token>
-     <token clearId="n53001001014" id="SBL.2Thess.1.1.14.1">κυρίῳ</token>
-     <token clearId="n53001001015" id="SBL.2Thess.1.1.15.1">Ἰησοῦ</token>
-     <token clearId="n53001001016" id="SBL.2Thess.1.1.16.1" after="·">Χριστῷ</token>
+     <token id="SBL.2Thess.1.1.1" clearId="n53001001001">Παῦλος</token>
+     <token id="SBL.2Thess.1.1.2" clearId="n53001001002">καὶ</token>
+     <token id="SBL.2Thess.1.1.3" clearId="n53001001003">Σιλουανὸς</token>
+     <token id="SBL.2Thess.1.1.4" clearId="n53001001004">καὶ</token>
+     <token id="SBL.2Thess.1.1.5" clearId="n53001001005">Τιμόθεος</token>
+     <token id="SBL.2Thess.1.1.6" clearId="n53001001006">τῇ</token>
+     <token id="SBL.2Thess.1.1.7" clearId="n53001001007">ἐκκλησίᾳ</token>
+     <token id="SBL.2Thess.1.1.8" clearId="n53001001008">Θεσσαλονικέων</token>
+     <token id="SBL.2Thess.1.1.9" clearId="n53001001009">ἐν</token>
+     <token id="SBL.2Thess.1.1.10" clearId="n53001001010">θεῷ</token>
+     <token id="SBL.2Thess.1.1.11" clearId="n53001001011">πατρὶ</token>
+     <token id="SBL.2Thess.1.1.12" clearId="n53001001012">ἡμῶν</token>
+     <token id="SBL.2Thess.1.1.13" clearId="n53001001013">καὶ</token>
+     <token id="SBL.2Thess.1.1.14" clearId="n53001001014">κυρίῳ</token>
+     <token id="SBL.2Thess.1.1.15" clearId="n53001001015">Ἰησοῦ</token>
+     <token id="SBL.2Thess.1.1.16" clearId="n53001001016" after="·">Χριστῷ</token>
     </move>
     <move id="m.SBL.2Thess.1.2" chStart="1" vStart="2" chEnd="1" vEnd="2">
-     <token clearId="n53001002001" id="SBL.2Thess.1.2.1.1">χάρις</token>
-     <token clearId="n53001002002" id="SBL.2Thess.1.2.2.1">ὑμῖν</token>
-     <token clearId="n53001002003" id="SBL.2Thess.1.2.3.1">καὶ</token>
-     <token clearId="n53001002004" id="SBL.2Thess.1.2.4.1">εἰρήνη</token>
-     <token clearId="n53001002005" id="SBL.2Thess.1.2.5.1">ἀπὸ</token>
-     <token clearId="n53001002006" id="SBL.2Thess.1.2.6.1">θεοῦ</token>
-     <token clearId="n53001002007" id="SBL.2Thess.1.2.7.1">πατρὸς</token>
-     <token clearId="n53001002008" id="SBL.2Thess.1.2.8.1">καὶ</token>
-     <token clearId="n53001002009" id="SBL.2Thess.1.2.9.1">κυρίου</token>
-     <token clearId="n53001002010" id="SBL.2Thess.1.2.10.1">Ἰησοῦ</token>
-     <token clearId="n53001002011" id="SBL.2Thess.1.2.11.1" after=".">Χριστοῦ</token>
+     <token id="SBL.2Thess.1.2.1" clearId="n53001002001">χάρις</token>
+     <token id="SBL.2Thess.1.2.2" clearId="n53001002002">ὑμῖν</token>
+     <token id="SBL.2Thess.1.2.3" clearId="n53001002003">καὶ</token>
+     <token id="SBL.2Thess.1.2.4" clearId="n53001002004">εἰρήνη</token>
+     <token id="SBL.2Thess.1.2.5" clearId="n53001002005">ἀπὸ</token>
+     <token id="SBL.2Thess.1.2.6" clearId="n53001002006">θεοῦ</token>
+     <token id="SBL.2Thess.1.2.7" clearId="n53001002007">πατρὸς</token>
+     <token id="SBL.2Thess.1.2.8" clearId="n53001002008">καὶ</token>
+     <token id="SBL.2Thess.1.2.9" clearId="n53001002009">κυρίου</token>
+     <token id="SBL.2Thess.1.2.10" clearId="n53001002010">Ἰησοῦ</token>
+     <token id="SBL.2Thess.1.2.11" clearId="n53001002011" after=".">Χριστοῦ</token>
     </move>
    </seg>
    <seg id="s.SBL.2Thess.1.3-12" title="Paul's Prayer of Thanksgiving and Intercession">
     <move id="m.SBL.2Thess.1.3-4" chStart="1" vStart="3" chEnd="1" vEnd="4">
-     <token clearId="n53001003001" id="SBL.2Thess.1.3.1.1">Εὐχαριστεῖν</token>
-     <token clearId="n53001003002" id="SBL.2Thess.1.3.2.1">ὀφείλομεν</token>
-     <token clearId="n53001003003" id="SBL.2Thess.1.3.3.1">τῷ</token>
-     <token clearId="n53001003004" id="SBL.2Thess.1.3.4.1">θεῷ</token>
-     <token clearId="n53001003005" id="SBL.2Thess.1.3.5.1">πάντοτε</token>
-     <token clearId="n53001003006" id="SBL.2Thess.1.3.6.1">περὶ</token>
-     <token clearId="n53001003007" id="SBL.2Thess.1.3.7.1" after=",">ὑμῶν</token>
-     <token clearId="n53001003008" id="SBL.2Thess.1.3.8.1" after=",">ἀδελφοί</token>
-     <token clearId="n53001003009" id="SBL.2Thess.1.3.9.1">καθὼς</token>
-     <token clearId="n53001003010" id="SBL.2Thess.1.3.10.1">ἄξιόν</token>
-     <token clearId="n53001003011" id="SBL.2Thess.1.3.11.1" after=",">ἐστιν</token>
-     <token clearId="n53001003012" id="SBL.2Thess.1.3.12.1">ὅτι</token>
-     <token clearId="n53001003013" id="SBL.2Thess.1.3.13.1">ὑπεραυξάνει</token>
-     <token clearId="n53001003014" id="SBL.2Thess.1.3.14.1">ἡ</token>
-     <token clearId="n53001003015" id="SBL.2Thess.1.3.15.1">πίστις</token>
-     <token clearId="n53001003016" id="SBL.2Thess.1.3.16.1">ὑμῶν</token>
-     <token clearId="n53001003017" id="SBL.2Thess.1.3.17.1">καὶ</token>
-     <token clearId="n53001003018" id="SBL.2Thess.1.3.18.1">πλεονάζει</token>
-     <token clearId="n53001003019" id="SBL.2Thess.1.3.19.1">ἡ</token>
-     <token clearId="n53001003020" id="SBL.2Thess.1.3.20.1">ἀγάπη</token>
-     <token clearId="n53001003021" id="SBL.2Thess.1.3.21.1">ἑνὸς</token>
-     <token clearId="n53001003022" id="SBL.2Thess.1.3.22.1">ἑκάστου</token>
-     <token clearId="n53001003023" id="SBL.2Thess.1.3.23.1">πάντων</token>
-     <token clearId="n53001003024" id="SBL.2Thess.1.3.24.1">ὑμῶν</token>
-     <token clearId="n53001003025" id="SBL.2Thess.1.3.25.1">εἰς</token>
-     <token clearId="n53001003026" id="SBL.2Thess.1.3.26.1" after=",">ἀλλήλους</token>
-     <token clearId="n53001004001" id="SBL.2Thess.1.4.1.1">ὥστε</token>
-     <token clearId="n53001004002" id="SBL.2Thess.1.4.2.1">αὐτοὺς</token>
-     <token clearId="n53001004003" id="SBL.2Thess.1.4.3.1">ἡμᾶς</token>
-     <token clearId="n53001004004" id="SBL.2Thess.1.4.4.1">ἐν</token>
-     <token clearId="n53001004005" id="SBL.2Thess.1.4.5.1">ὑμῖν</token>
-     <token clearId="n53001004006" id="SBL.2Thess.1.4.6.1">ἐγκαυχᾶσθαι</token>
-     <token clearId="n53001004007" id="SBL.2Thess.1.4.7.1">ἐν</token>
-     <token clearId="n53001004008" id="SBL.2Thess.1.4.8.1">ταῖς</token>
-     <token clearId="n53001004009" id="SBL.2Thess.1.4.9.1">ἐκκλησίαις</token>
-     <token clearId="n53001004010" id="SBL.2Thess.1.4.10.1">τοῦ</token>
-     <token clearId="n53001004011" id="SBL.2Thess.1.4.11.1">θεοῦ</token>
-     <token clearId="n53001004012" id="SBL.2Thess.1.4.12.1">ὑπὲρ</token>
-     <token clearId="n53001004013" id="SBL.2Thess.1.4.13.1">τῆς</token>
-     <token clearId="n53001004014" id="SBL.2Thess.1.4.14.1">ὑπομονῆς</token>
-     <token clearId="n53001004015" id="SBL.2Thess.1.4.15.1">ὑμῶν</token>
-     <token clearId="n53001004016" id="SBL.2Thess.1.4.16.1">καὶ</token>
-     <token clearId="n53001004017" id="SBL.2Thess.1.4.17.1">πίστεως</token>
-     <token clearId="n53001004018" id="SBL.2Thess.1.4.18.1">ἐν</token>
-     <token clearId="n53001004019" id="SBL.2Thess.1.4.19.1">πᾶσιν</token>
-     <token clearId="n53001004020" id="SBL.2Thess.1.4.20.1">τοῖς</token>
-     <token clearId="n53001004021" id="SBL.2Thess.1.4.21.1">διωγμοῖς</token>
-     <token clearId="n53001004022" id="SBL.2Thess.1.4.22.1">ὑμῶν</token>
-     <token clearId="n53001004023" id="SBL.2Thess.1.4.23.1">καὶ</token>
-     <token clearId="n53001004024" id="SBL.2Thess.1.4.24.1">ταῖς</token>
-     <token clearId="n53001004025" id="SBL.2Thess.1.4.25.1">θλίψεσιν</token>
-     <token clearId="n53001004026" id="SBL.2Thess.1.4.26.1">αἷς</token>
-     <token clearId="n53001004027" id="SBL.2Thess.1.4.27.1" after=",">ἀνέχεσθε</token>
+     <token id="SBL.2Thess.1.3.1" clearId="n53001003001">Εὐχαριστεῖν</token>
+     <token id="SBL.2Thess.1.3.2" clearId="n53001003002">ὀφείλομεν</token>
+     <token id="SBL.2Thess.1.3.3" clearId="n53001003003">τῷ</token>
+     <token id="SBL.2Thess.1.3.4" clearId="n53001003004">θεῷ</token>
+     <token id="SBL.2Thess.1.3.5" clearId="n53001003005">πάντοτε</token>
+     <token id="SBL.2Thess.1.3.6" clearId="n53001003006">περὶ</token>
+     <token id="SBL.2Thess.1.3.7" clearId="n53001003007" after=",">ὑμῶν</token>
+     <token id="SBL.2Thess.1.3.8" clearId="n53001003008" after=",">ἀδελφοί</token>
+     <token id="SBL.2Thess.1.3.9" clearId="n53001003009">καθὼς</token>
+     <token id="SBL.2Thess.1.3.10" clearId="n53001003010">ἄξιόν</token>
+     <token id="SBL.2Thess.1.3.11" clearId="n53001003011" after=",">ἐστιν</token>
+     <token id="SBL.2Thess.1.3.12" clearId="n53001003012">ὅτι</token>
+     <token id="SBL.2Thess.1.3.13" clearId="n53001003013">ὑπεραυξάνει</token>
+     <token id="SBL.2Thess.1.3.14" clearId="n53001003014">ἡ</token>
+     <token id="SBL.2Thess.1.3.15" clearId="n53001003015">πίστις</token>
+     <token id="SBL.2Thess.1.3.16" clearId="n53001003016">ὑμῶν</token>
+     <token id="SBL.2Thess.1.3.17" clearId="n53001003017">καὶ</token>
+     <token id="SBL.2Thess.1.3.18" clearId="n53001003018">πλεονάζει</token>
+     <token id="SBL.2Thess.1.3.19" clearId="n53001003019">ἡ</token>
+     <token id="SBL.2Thess.1.3.20" clearId="n53001003020">ἀγάπη</token>
+     <token id="SBL.2Thess.1.3.21" clearId="n53001003021">ἑνὸς</token>
+     <token id="SBL.2Thess.1.3.22" clearId="n53001003022">ἑκάστου</token>
+     <token id="SBL.2Thess.1.3.23" clearId="n53001003023">πάντων</token>
+     <token id="SBL.2Thess.1.3.24" clearId="n53001003024">ὑμῶν</token>
+     <token id="SBL.2Thess.1.3.25" clearId="n53001003025">εἰς</token>
+     <token id="SBL.2Thess.1.3.26" clearId="n53001003026" after=",">ἀλλήλους</token>
+     <token id="SBL.2Thess.1.4.1" clearId="n53001004001">ὥστε</token>
+     <token id="SBL.2Thess.1.4.2" clearId="n53001004002">αὐτοὺς</token>
+     <token id="SBL.2Thess.1.4.3" clearId="n53001004003">ἡμᾶς</token>
+     <token id="SBL.2Thess.1.4.4" clearId="n53001004004">ἐν</token>
+     <token id="SBL.2Thess.1.4.5" clearId="n53001004005">ὑμῖν</token>
+     <token id="SBL.2Thess.1.4.6" clearId="n53001004006">ἐγκαυχᾶσθαι</token>
+     <token id="SBL.2Thess.1.4.7" clearId="n53001004007">ἐν</token>
+     <token id="SBL.2Thess.1.4.8" clearId="n53001004008">ταῖς</token>
+     <token id="SBL.2Thess.1.4.9" clearId="n53001004009">ἐκκλησίαις</token>
+     <token id="SBL.2Thess.1.4.10" clearId="n53001004010">τοῦ</token>
+     <token id="SBL.2Thess.1.4.11" clearId="n53001004011">θεοῦ</token>
+     <token id="SBL.2Thess.1.4.12" clearId="n53001004012">ὑπὲρ</token>
+     <token id="SBL.2Thess.1.4.13" clearId="n53001004013">τῆς</token>
+     <token id="SBL.2Thess.1.4.14" clearId="n53001004014">ὑπομονῆς</token>
+     <token id="SBL.2Thess.1.4.15" clearId="n53001004015">ὑμῶν</token>
+     <token id="SBL.2Thess.1.4.16" clearId="n53001004016">καὶ</token>
+     <token id="SBL.2Thess.1.4.17" clearId="n53001004017">πίστεως</token>
+     <token id="SBL.2Thess.1.4.18" clearId="n53001004018">ἐν</token>
+     <token id="SBL.2Thess.1.4.19" clearId="n53001004019">πᾶσιν</token>
+     <token id="SBL.2Thess.1.4.20" clearId="n53001004020">τοῖς</token>
+     <token id="SBL.2Thess.1.4.21" clearId="n53001004021">διωγμοῖς</token>
+     <token id="SBL.2Thess.1.4.22" clearId="n53001004022">ὑμῶν</token>
+     <token id="SBL.2Thess.1.4.23" clearId="n53001004023">καὶ</token>
+     <token id="SBL.2Thess.1.4.24" clearId="n53001004024">ταῖς</token>
+     <token id="SBL.2Thess.1.4.25" clearId="n53001004025">θλίψεσιν</token>
+     <token id="SBL.2Thess.1.4.26" clearId="n53001004026">αἷς</token>
+     <token id="SBL.2Thess.1.4.27" clearId="n53001004027" after=",">ἀνέχεσθε</token>
     </move>
     <move id="m.SBL.2Thess.1.5-10" chStart="1" vStart="5" chEnd="1" vEnd="10">
-     <token clearId="n53001005001" id="SBL.2Thess.1.5.1.1">ἔνδειγμα</token>
-     <token clearId="n53001005002" id="SBL.2Thess.1.5.2.1">τῆς</token>
-     <token clearId="n53001005003" id="SBL.2Thess.1.5.3.1">δικαίας</token>
-     <token clearId="n53001005004" id="SBL.2Thess.1.5.4.1">κρίσεως</token>
-     <token clearId="n53001005005" id="SBL.2Thess.1.5.5.1">τοῦ</token>
-     <token clearId="n53001005006" id="SBL.2Thess.1.5.6.1" after=",">θεοῦ</token>
-     <token clearId="n53001005007" id="SBL.2Thess.1.5.7.1">εἰς</token>
-     <token clearId="n53001005008" id="SBL.2Thess.1.5.8.1">τὸ</token>
-     <token clearId="n53001005009" id="SBL.2Thess.1.5.9.1">καταξιωθῆναι</token>
-     <token clearId="n53001005010" id="SBL.2Thess.1.5.10.1">ὑμᾶς</token>
-     <token clearId="n53001005011" id="SBL.2Thess.1.5.11.1">τῆς</token>
-     <token clearId="n53001005012" id="SBL.2Thess.1.5.12.1">βασιλείας</token>
-     <token clearId="n53001005013" id="SBL.2Thess.1.5.13.1">τοῦ</token>
-     <token clearId="n53001005014" id="SBL.2Thess.1.5.14.1" after=",">θεοῦ</token>
-     <token clearId="n53001005015" id="SBL.2Thess.1.5.15.1">ὑπὲρ</token>
-     <token clearId="n53001005016" id="SBL.2Thess.1.5.16.1">ἧς</token>
-     <token clearId="n53001005017" id="SBL.2Thess.1.5.17.1">καὶ</token>
-     <token clearId="n53001005018" id="SBL.2Thess.1.5.18.1" after=",">πάσχετε</token>
-     <token clearId="n53001006001" id="SBL.2Thess.1.6.1.1">εἴπερ</token>
-     <token clearId="n53001006002" id="SBL.2Thess.1.6.2.1">δίκαιον</token>
-     <token clearId="n53001006003" id="SBL.2Thess.1.6.3.1">παρὰ</token>
-     <token clearId="n53001006004" id="SBL.2Thess.1.6.4.1">θεῷ</token>
-     <token clearId="n53001006005" id="SBL.2Thess.1.6.5.1">ἀνταποδοῦναι</token>
-     <token clearId="n53001006006" id="SBL.2Thess.1.6.6.1">τοῖς</token>
-     <token clearId="n53001006007" id="SBL.2Thess.1.6.7.1">θλίβουσιν</token>
-     <token clearId="n53001006008" id="SBL.2Thess.1.6.8.1">ὑμᾶς</token>
-     <token clearId="n53001006009" id="SBL.2Thess.1.6.9.1">θλῖψιν</token>
-     <token clearId="n53001007001" id="SBL.2Thess.1.7.1.1">καὶ</token>
-     <token clearId="n53001007002" id="SBL.2Thess.1.7.2.1">ὑμῖν</token>
-     <token clearId="n53001007003" id="SBL.2Thess.1.7.3.1">τοῖς</token>
-     <token clearId="n53001007004" id="SBL.2Thess.1.7.4.1">θλιβομένοις</token>
-     <token clearId="n53001007005" id="SBL.2Thess.1.7.5.1">ἄνεσιν</token>
-     <token clearId="n53001007006" id="SBL.2Thess.1.7.6.1">μεθ’</token>
-     <token clearId="n53001007007" id="SBL.2Thess.1.7.7.1">ἡμῶν</token>
-     <token clearId="n53001007008" id="SBL.2Thess.1.7.8.1">ἐν</token>
-     <token clearId="n53001007009" id="SBL.2Thess.1.7.9.1">τῇ</token>
-     <token clearId="n53001007010" id="SBL.2Thess.1.7.10.1">ἀποκαλύψει</token>
-     <token clearId="n53001007011" id="SBL.2Thess.1.7.11.1">τοῦ</token>
-     <token clearId="n53001007012" id="SBL.2Thess.1.7.12.1">κυρίου</token>
-     <token clearId="n53001007013" id="SBL.2Thess.1.7.13.1">Ἰησοῦ</token>
-     <token clearId="n53001007014" id="SBL.2Thess.1.7.14.1">ἀπ’</token>
-     <token clearId="n53001007015" id="SBL.2Thess.1.7.15.1">οὐρανοῦ</token>
-     <token clearId="n53001007016" id="SBL.2Thess.1.7.16.1">μετ’</token>
-     <token clearId="n53001007017" id="SBL.2Thess.1.7.17.1">ἀγγέλων</token>
-     <token clearId="n53001007018" id="SBL.2Thess.1.7.18.1">δυνάμεως</token>
-     <token clearId="n53001007019" id="SBL.2Thess.1.7.19.1">αὐτοῦ</token>
-     <token clearId="n53001008001" id="SBL.2Thess.1.8.1.1">ἐν</token>
-     <token clearId="n53001008002" id="SBL.2Thess.1.8.2.1">φλογὶ</token>
-     <token clearId="n53001008003" id="SBL.2Thess.1.8.3.1" after=",">πυρός</token>
-     <token clearId="n53001008004" id="SBL.2Thess.1.8.4.1">διδόντος</token>
-     <token clearId="n53001008005" id="SBL.2Thess.1.8.5.1">ἐκδίκησιν</token>
-     <token clearId="n53001008006" id="SBL.2Thess.1.8.6.1">τοῖς</token>
-     <token clearId="n53001008007" id="SBL.2Thess.1.8.7.1">μὴ</token>
-     <token clearId="n53001008008" id="SBL.2Thess.1.8.8.1">εἰδόσι</token>
-     <token clearId="n53001008009" id="SBL.2Thess.1.8.9.1">θεὸν</token>
-     <token clearId="n53001008010" id="SBL.2Thess.1.8.10.1">καὶ</token>
-     <token clearId="n53001008011" id="SBL.2Thess.1.8.11.1">τοῖς</token>
-     <token clearId="n53001008012" id="SBL.2Thess.1.8.12.1">μὴ</token>
-     <token clearId="n53001008013" id="SBL.2Thess.1.8.13.1">ὑπακούουσιν</token>
-     <token clearId="n53001008014" id="SBL.2Thess.1.8.14.1">τῷ</token>
-     <token clearId="n53001008015" id="SBL.2Thess.1.8.15.1">εὐαγγελίῳ</token>
-     <token clearId="n53001008016" id="SBL.2Thess.1.8.16.1">τοῦ</token>
-     <token clearId="n53001008017" id="SBL.2Thess.1.8.17.1">κυρίου</token>
-     <token clearId="n53001008018" id="SBL.2Thess.1.8.18.1">ἡμῶν</token>
-     <token clearId="n53001008019" id="SBL.2Thess.1.8.19.1" after=",">Ἰησοῦ</token>
-     <token clearId="n53001009001" id="SBL.2Thess.1.9.1.1">οἵτινες</token>
-     <token clearId="n53001009002" id="SBL.2Thess.1.9.2.1">δίκην</token>
-     <token clearId="n53001009003" id="SBL.2Thess.1.9.3.1">τίσουσιν</token>
-     <token clearId="n53001009004" id="SBL.2Thess.1.9.4.1">ὄλεθρον</token>
-     <token clearId="n53001009005" id="SBL.2Thess.1.9.5.1">αἰώνιον</token>
-     <token clearId="n53001009006" id="SBL.2Thess.1.9.6.1">ἀπὸ</token>
-     <token clearId="n53001009007" id="SBL.2Thess.1.9.7.1">προσώπου</token>
-     <token clearId="n53001009008" id="SBL.2Thess.1.9.8.1">τοῦ</token>
-     <token clearId="n53001009009" id="SBL.2Thess.1.9.9.1">κυρίου</token>
-     <token clearId="n53001009010" id="SBL.2Thess.1.9.10.1">καὶ</token>
-     <token clearId="n53001009011" id="SBL.2Thess.1.9.11.1">ἀπὸ</token>
-     <token clearId="n53001009012" id="SBL.2Thess.1.9.12.1">τῆς</token>
-     <token clearId="n53001009013" id="SBL.2Thess.1.9.13.1">δόξης</token>
-     <token clearId="n53001009014" id="SBL.2Thess.1.9.14.1">τῆς</token>
-     <token clearId="n53001009015" id="SBL.2Thess.1.9.15.1">ἰσχύος</token>
-     <token clearId="n53001009016" id="SBL.2Thess.1.9.16.1" after=",">αὐτοῦ</token>
-     <token clearId="n53001010001" id="SBL.2Thess.1.10.1.1">ὅταν</token>
-     <token clearId="n53001010002" id="SBL.2Thess.1.10.2.1">ἔλθῃ</token>
-     <token clearId="n53001010003" id="SBL.2Thess.1.10.3.1">ἐνδοξασθῆναι</token>
-     <token clearId="n53001010004" id="SBL.2Thess.1.10.4.1">ἐν</token>
-     <token clearId="n53001010005" id="SBL.2Thess.1.10.5.1">τοῖς</token>
-     <token clearId="n53001010006" id="SBL.2Thess.1.10.6.1">ἁγίοις</token>
-     <token clearId="n53001010007" id="SBL.2Thess.1.10.7.1">αὐτοῦ</token>
-     <token clearId="n53001010008" id="SBL.2Thess.1.10.8.1">καὶ</token>
-     <token clearId="n53001010009" id="SBL.2Thess.1.10.9.1">θαυμασθῆναι</token>
-     <token clearId="n53001010010" id="SBL.2Thess.1.10.10.1">ἐν</token>
-     <token clearId="n53001010011" id="SBL.2Thess.1.10.11.1">πᾶσιν</token>
-     <token clearId="n53001010012" id="SBL.2Thess.1.10.12.1">τοῖς</token>
-     <token clearId="n53001010013" id="SBL.2Thess.1.10.13.1" after=",">πιστεύσασιν</token>
-     <token clearId="n53001010014" id="SBL.2Thess.1.10.14.1">ὅτι</token>
-     <token clearId="n53001010015" id="SBL.2Thess.1.10.15.1">ἐπιστεύθη</token>
-     <token clearId="n53001010016" id="SBL.2Thess.1.10.16.1">τὸ</token>
-     <token clearId="n53001010017" id="SBL.2Thess.1.10.17.1">μαρτύριον</token>
-     <token clearId="n53001010018" id="SBL.2Thess.1.10.18.1">ἡμῶν</token>
-     <token clearId="n53001010019" id="SBL.2Thess.1.10.19.1">ἐφ’</token>
-     <token clearId="n53001010020" id="SBL.2Thess.1.10.20.1" after=",">ὑμᾶς</token>
-     <token clearId="n53001010021" id="SBL.2Thess.1.10.21.1">ἐν</token>
-     <token clearId="n53001010022" id="SBL.2Thess.1.10.22.1">τῇ</token>
-     <token clearId="n53001010023" id="SBL.2Thess.1.10.23.1">ἡμέρᾳ</token>
-     <token clearId="n53001010024" id="SBL.2Thess.1.10.24.1" after=".">ἐκείνῃ</token>
+     <token id="SBL.2Thess.1.5.1" clearId="n53001005001">ἔνδειγμα</token>
+     <token id="SBL.2Thess.1.5.2" clearId="n53001005002">τῆς</token>
+     <token id="SBL.2Thess.1.5.3" clearId="n53001005003">δικαίας</token>
+     <token id="SBL.2Thess.1.5.4" clearId="n53001005004">κρίσεως</token>
+     <token id="SBL.2Thess.1.5.5" clearId="n53001005005">τοῦ</token>
+     <token id="SBL.2Thess.1.5.6" clearId="n53001005006" after=",">θεοῦ</token>
+     <token id="SBL.2Thess.1.5.7" clearId="n53001005007">εἰς</token>
+     <token id="SBL.2Thess.1.5.8" clearId="n53001005008">τὸ</token>
+     <token id="SBL.2Thess.1.5.9" clearId="n53001005009">καταξιωθῆναι</token>
+     <token id="SBL.2Thess.1.5.10" clearId="n53001005010">ὑμᾶς</token>
+     <token id="SBL.2Thess.1.5.11" clearId="n53001005011">τῆς</token>
+     <token id="SBL.2Thess.1.5.12" clearId="n53001005012">βασιλείας</token>
+     <token id="SBL.2Thess.1.5.13" clearId="n53001005013">τοῦ</token>
+     <token id="SBL.2Thess.1.5.14" clearId="n53001005014" after=",">θεοῦ</token>
+     <token id="SBL.2Thess.1.5.15" clearId="n53001005015">ὑπὲρ</token>
+     <token id="SBL.2Thess.1.5.16" clearId="n53001005016">ἧς</token>
+     <token id="SBL.2Thess.1.5.17" clearId="n53001005017">καὶ</token>
+     <token id="SBL.2Thess.1.5.18" clearId="n53001005018" after=",">πάσχετε</token>
+     <token id="SBL.2Thess.1.6.1" clearId="n53001006001">εἴπερ</token>
+     <token id="SBL.2Thess.1.6.2" clearId="n53001006002">δίκαιον</token>
+     <token id="SBL.2Thess.1.6.3" clearId="n53001006003">παρὰ</token>
+     <token id="SBL.2Thess.1.6.4" clearId="n53001006004">θεῷ</token>
+     <token id="SBL.2Thess.1.6.5" clearId="n53001006005">ἀνταποδοῦναι</token>
+     <token id="SBL.2Thess.1.6.6" clearId="n53001006006">τοῖς</token>
+     <token id="SBL.2Thess.1.6.7" clearId="n53001006007">θλίβουσιν</token>
+     <token id="SBL.2Thess.1.6.8" clearId="n53001006008">ὑμᾶς</token>
+     <token id="SBL.2Thess.1.6.9" clearId="n53001006009">θλῖψιν</token>
+     <token id="SBL.2Thess.1.7.1" clearId="n53001007001">καὶ</token>
+     <token id="SBL.2Thess.1.7.2" clearId="n53001007002">ὑμῖν</token>
+     <token id="SBL.2Thess.1.7.3" clearId="n53001007003">τοῖς</token>
+     <token id="SBL.2Thess.1.7.4" clearId="n53001007004">θλιβομένοις</token>
+     <token id="SBL.2Thess.1.7.5" clearId="n53001007005">ἄνεσιν</token>
+     <token id="SBL.2Thess.1.7.6" clearId="n53001007006">μεθ’</token>
+     <token id="SBL.2Thess.1.7.7" clearId="n53001007007">ἡμῶν</token>
+     <token id="SBL.2Thess.1.7.8" clearId="n53001007008">ἐν</token>
+     <token id="SBL.2Thess.1.7.9" clearId="n53001007009">τῇ</token>
+     <token id="SBL.2Thess.1.7.10" clearId="n53001007010">ἀποκαλύψει</token>
+     <token id="SBL.2Thess.1.7.11" clearId="n53001007011">τοῦ</token>
+     <token id="SBL.2Thess.1.7.12" clearId="n53001007012">κυρίου</token>
+     <token id="SBL.2Thess.1.7.13" clearId="n53001007013">Ἰησοῦ</token>
+     <token id="SBL.2Thess.1.7.14" clearId="n53001007014">ἀπ’</token>
+     <token id="SBL.2Thess.1.7.15" clearId="n53001007015">οὐρανοῦ</token>
+     <token id="SBL.2Thess.1.7.16" clearId="n53001007016">μετ’</token>
+     <token id="SBL.2Thess.1.7.17" clearId="n53001007017">ἀγγέλων</token>
+     <token id="SBL.2Thess.1.7.18" clearId="n53001007018">δυνάμεως</token>
+     <token id="SBL.2Thess.1.7.19" clearId="n53001007019">αὐτοῦ</token>
+     <token id="SBL.2Thess.1.8.1" clearId="n53001008001">ἐν</token>
+     <token id="SBL.2Thess.1.8.2" clearId="n53001008002">φλογὶ</token>
+     <token id="SBL.2Thess.1.8.3" clearId="n53001008003" after=",">πυρός</token>
+     <token id="SBL.2Thess.1.8.4" clearId="n53001008004">διδόντος</token>
+     <token id="SBL.2Thess.1.8.5" clearId="n53001008005">ἐκδίκησιν</token>
+     <token id="SBL.2Thess.1.8.6" clearId="n53001008006">τοῖς</token>
+     <token id="SBL.2Thess.1.8.7" clearId="n53001008007">μὴ</token>
+     <token id="SBL.2Thess.1.8.8" clearId="n53001008008">εἰδόσι</token>
+     <token id="SBL.2Thess.1.8.9" clearId="n53001008009">θεὸν</token>
+     <token id="SBL.2Thess.1.8.10" clearId="n53001008010">καὶ</token>
+     <token id="SBL.2Thess.1.8.11" clearId="n53001008011">τοῖς</token>
+     <token id="SBL.2Thess.1.8.12" clearId="n53001008012">μὴ</token>
+     <token id="SBL.2Thess.1.8.13" clearId="n53001008013">ὑπακούουσιν</token>
+     <token id="SBL.2Thess.1.8.14" clearId="n53001008014">τῷ</token>
+     <token id="SBL.2Thess.1.8.15" clearId="n53001008015">εὐαγγελίῳ</token>
+     <token id="SBL.2Thess.1.8.16" clearId="n53001008016">τοῦ</token>
+     <token id="SBL.2Thess.1.8.17" clearId="n53001008017">κυρίου</token>
+     <token id="SBL.2Thess.1.8.18" clearId="n53001008018">ἡμῶν</token>
+     <token id="SBL.2Thess.1.8.19" clearId="n53001008019" after=",">Ἰησοῦ</token>
+     <token id="SBL.2Thess.1.9.1" clearId="n53001009001">οἵτινες</token>
+     <token id="SBL.2Thess.1.9.2" clearId="n53001009002">δίκην</token>
+     <token id="SBL.2Thess.1.9.3" clearId="n53001009003">τίσουσιν</token>
+     <token id="SBL.2Thess.1.9.4" clearId="n53001009004">ὄλεθρον</token>
+     <token id="SBL.2Thess.1.9.5" clearId="n53001009005">αἰώνιον</token>
+     <token id="SBL.2Thess.1.9.6" clearId="n53001009006">ἀπὸ</token>
+     <token id="SBL.2Thess.1.9.7" clearId="n53001009007">προσώπου</token>
+     <token id="SBL.2Thess.1.9.8" clearId="n53001009008">τοῦ</token>
+     <token id="SBL.2Thess.1.9.9" clearId="n53001009009">κυρίου</token>
+     <token id="SBL.2Thess.1.9.10" clearId="n53001009010">καὶ</token>
+     <token id="SBL.2Thess.1.9.11" clearId="n53001009011">ἀπὸ</token>
+     <token id="SBL.2Thess.1.9.12" clearId="n53001009012">τῆς</token>
+     <token id="SBL.2Thess.1.9.13" clearId="n53001009013">δόξης</token>
+     <token id="SBL.2Thess.1.9.14" clearId="n53001009014">τῆς</token>
+     <token id="SBL.2Thess.1.9.15" clearId="n53001009015">ἰσχύος</token>
+     <token id="SBL.2Thess.1.9.16" clearId="n53001009016" after=",">αὐτοῦ</token>
+     <token id="SBL.2Thess.1.10.1" clearId="n53001010001">ὅταν</token>
+     <token id="SBL.2Thess.1.10.2" clearId="n53001010002">ἔλθῃ</token>
+     <token id="SBL.2Thess.1.10.3" clearId="n53001010003">ἐνδοξασθῆναι</token>
+     <token id="SBL.2Thess.1.10.4" clearId="n53001010004">ἐν</token>
+     <token id="SBL.2Thess.1.10.5" clearId="n53001010005">τοῖς</token>
+     <token id="SBL.2Thess.1.10.6" clearId="n53001010006">ἁγίοις</token>
+     <token id="SBL.2Thess.1.10.7" clearId="n53001010007">αὐτοῦ</token>
+     <token id="SBL.2Thess.1.10.8" clearId="n53001010008">καὶ</token>
+     <token id="SBL.2Thess.1.10.9" clearId="n53001010009">θαυμασθῆναι</token>
+     <token id="SBL.2Thess.1.10.10" clearId="n53001010010">ἐν</token>
+     <token id="SBL.2Thess.1.10.11" clearId="n53001010011">πᾶσιν</token>
+     <token id="SBL.2Thess.1.10.12" clearId="n53001010012">τοῖς</token>
+     <token id="SBL.2Thess.1.10.13" clearId="n53001010013" after=",">πιστεύσασιν</token>
+     <token id="SBL.2Thess.1.10.14" clearId="n53001010014">ὅτι</token>
+     <token id="SBL.2Thess.1.10.15" clearId="n53001010015">ἐπιστεύθη</token>
+     <token id="SBL.2Thess.1.10.16" clearId="n53001010016">τὸ</token>
+     <token id="SBL.2Thess.1.10.17" clearId="n53001010017">μαρτύριον</token>
+     <token id="SBL.2Thess.1.10.18" clearId="n53001010018">ἡμῶν</token>
+     <token id="SBL.2Thess.1.10.19" clearId="n53001010019">ἐφ’</token>
+     <token id="SBL.2Thess.1.10.20" clearId="n53001010020" after=",">ὑμᾶς</token>
+     <token id="SBL.2Thess.1.10.21" clearId="n53001010021">ἐν</token>
+     <token id="SBL.2Thess.1.10.22" clearId="n53001010022">τῇ</token>
+     <token id="SBL.2Thess.1.10.23" clearId="n53001010023">ἡμέρᾳ</token>
+     <token id="SBL.2Thess.1.10.24" clearId="n53001010024" after=".">ἐκείνῃ</token>
     </move>
     <move id="m.SBL.2Thess.1.11-12" chStart="1" vStart="11" chEnd="1" vEnd="12">
-     <token clearId="n53001011001" id="SBL.2Thess.1.11.1.1">εἰς</token>
-     <token clearId="n53001011002" id="SBL.2Thess.1.11.2.1">ὃ</token>
-     <token clearId="n53001011003" id="SBL.2Thess.1.11.3.1">καὶ</token>
-     <token clearId="n53001011004" id="SBL.2Thess.1.11.4.1">προσευχόμεθα</token>
-     <token clearId="n53001011005" id="SBL.2Thess.1.11.5.1">πάντοτε</token>
-     <token clearId="n53001011006" id="SBL.2Thess.1.11.6.1">περὶ</token>
-     <token clearId="n53001011007" id="SBL.2Thess.1.11.7.1" after=",">ὑμῶν</token>
-     <token clearId="n53001011008" id="SBL.2Thess.1.11.8.1">ἵνα</token>
-     <token clearId="n53001011009" id="SBL.2Thess.1.11.9.1">ὑμᾶς</token>
-     <token clearId="n53001011010" id="SBL.2Thess.1.11.10.1">ἀξιώσῃ</token>
-     <token clearId="n53001011011" id="SBL.2Thess.1.11.11.1">τῆς</token>
-     <token clearId="n53001011012" id="SBL.2Thess.1.11.12.1">κλήσεως</token>
-     <token clearId="n53001011013" id="SBL.2Thess.1.11.13.1">ὁ</token>
-     <token clearId="n53001011014" id="SBL.2Thess.1.11.14.1">θεὸς</token>
-     <token clearId="n53001011015" id="SBL.2Thess.1.11.15.1">ἡμῶν</token>
-     <token clearId="n53001011016" id="SBL.2Thess.1.11.16.1">καὶ</token>
-     <token clearId="n53001011017" id="SBL.2Thess.1.11.17.1">πληρώσῃ</token>
-     <token clearId="n53001011018" id="SBL.2Thess.1.11.18.1">πᾶσαν</token>
-     <token clearId="n53001011019" id="SBL.2Thess.1.11.19.1">εὐδοκίαν</token>
-     <token clearId="n53001011020" id="SBL.2Thess.1.11.20.1">ἀγαθωσύνης</token>
-     <token clearId="n53001011021" id="SBL.2Thess.1.11.21.1">καὶ</token>
-     <token clearId="n53001011022" id="SBL.2Thess.1.11.22.1">ἔργον</token>
-     <token clearId="n53001011023" id="SBL.2Thess.1.11.23.1">πίστεως</token>
-     <token clearId="n53001011024" id="SBL.2Thess.1.11.24.1">ἐν</token>
-     <token clearId="n53001011025" id="SBL.2Thess.1.11.25.1" after=",">δυνάμει</token>
-     <token clearId="n53001012001" id="SBL.2Thess.1.12.1.1">ὅπως</token>
-     <token clearId="n53001012002" id="SBL.2Thess.1.12.2.1">ἐνδοξασθῇ</token>
-     <token clearId="n53001012003" id="SBL.2Thess.1.12.3.1">τὸ</token>
-     <token clearId="n53001012004" id="SBL.2Thess.1.12.4.1">ὄνομα</token>
-     <token clearId="n53001012005" id="SBL.2Thess.1.12.5.1">τοῦ</token>
-     <token clearId="n53001012006" id="SBL.2Thess.1.12.6.1">κυρίου</token>
-     <token clearId="n53001012007" id="SBL.2Thess.1.12.7.1">ἡμῶν</token>
-     <token clearId="n53001012008" id="SBL.2Thess.1.12.8.1">Ἰησοῦ</token>
-     <token clearId="n53001012009" id="SBL.2Thess.1.12.9.1">ἐν</token>
-     <token clearId="n53001012010" id="SBL.2Thess.1.12.10.1" after=",">ὑμῖν</token>
-     <token clearId="n53001012011" id="SBL.2Thess.1.12.11.1">καὶ</token>
-     <token clearId="n53001012012" id="SBL.2Thess.1.12.12.1">ὑμεῖς</token>
-     <token clearId="n53001012013" id="SBL.2Thess.1.12.13.1">ἐν</token>
-     <token clearId="n53001012014" id="SBL.2Thess.1.12.14.1" after=",">αὐτῷ</token>
-     <token clearId="n53001012015" id="SBL.2Thess.1.12.15.1">κατὰ</token>
-     <token clearId="n53001012016" id="SBL.2Thess.1.12.16.1">τὴν</token>
-     <token clearId="n53001012017" id="SBL.2Thess.1.12.17.1">χάριν</token>
-     <token clearId="n53001012018" id="SBL.2Thess.1.12.18.1">τοῦ</token>
-     <token clearId="n53001012019" id="SBL.2Thess.1.12.19.1">θεοῦ</token>
-     <token clearId="n53001012020" id="SBL.2Thess.1.12.20.1">ἡμῶν</token>
-     <token clearId="n53001012021" id="SBL.2Thess.1.12.21.1">καὶ</token>
-     <token clearId="n53001012022" id="SBL.2Thess.1.12.22.1">κυρίου</token>
-     <token clearId="n53001012023" id="SBL.2Thess.1.12.23.1">Ἰησοῦ</token>
-     <token clearId="n53001012024" id="SBL.2Thess.1.12.24.1" after=".">Χριστοῦ</token>
+     <token id="SBL.2Thess.1.11.1" clearId="n53001011001">εἰς</token>
+     <token id="SBL.2Thess.1.11.2" clearId="n53001011002">ὃ</token>
+     <token id="SBL.2Thess.1.11.3" clearId="n53001011003">καὶ</token>
+     <token id="SBL.2Thess.1.11.4" clearId="n53001011004">προσευχόμεθα</token>
+     <token id="SBL.2Thess.1.11.5" clearId="n53001011005">πάντοτε</token>
+     <token id="SBL.2Thess.1.11.6" clearId="n53001011006">περὶ</token>
+     <token id="SBL.2Thess.1.11.7" clearId="n53001011007" after=",">ὑμῶν</token>
+     <token id="SBL.2Thess.1.11.8" clearId="n53001011008">ἵνα</token>
+     <token id="SBL.2Thess.1.11.9" clearId="n53001011009">ὑμᾶς</token>
+     <token id="SBL.2Thess.1.11.10" clearId="n53001011010">ἀξιώσῃ</token>
+     <token id="SBL.2Thess.1.11.11" clearId="n53001011011">τῆς</token>
+     <token id="SBL.2Thess.1.11.12" clearId="n53001011012">κλήσεως</token>
+     <token id="SBL.2Thess.1.11.13" clearId="n53001011013">ὁ</token>
+     <token id="SBL.2Thess.1.11.14" clearId="n53001011014">θεὸς</token>
+     <token id="SBL.2Thess.1.11.15" clearId="n53001011015">ἡμῶν</token>
+     <token id="SBL.2Thess.1.11.16" clearId="n53001011016">καὶ</token>
+     <token id="SBL.2Thess.1.11.17" clearId="n53001011017">πληρώσῃ</token>
+     <token id="SBL.2Thess.1.11.18" clearId="n53001011018">πᾶσαν</token>
+     <token id="SBL.2Thess.1.11.19" clearId="n53001011019">εὐδοκίαν</token>
+     <token id="SBL.2Thess.1.11.20" clearId="n53001011020">ἀγαθωσύνης</token>
+     <token id="SBL.2Thess.1.11.21" clearId="n53001011021">καὶ</token>
+     <token id="SBL.2Thess.1.11.22" clearId="n53001011022">ἔργον</token>
+     <token id="SBL.2Thess.1.11.23" clearId="n53001011023">πίστεως</token>
+     <token id="SBL.2Thess.1.11.24" clearId="n53001011024">ἐν</token>
+     <token id="SBL.2Thess.1.11.25" clearId="n53001011025" after=",">δυνάμει</token>
+     <token id="SBL.2Thess.1.12.1" clearId="n53001012001">ὅπως</token>
+     <token id="SBL.2Thess.1.12.2" clearId="n53001012002">ἐνδοξασθῇ</token>
+     <token id="SBL.2Thess.1.12.3" clearId="n53001012003">τὸ</token>
+     <token id="SBL.2Thess.1.12.4" clearId="n53001012004">ὄνομα</token>
+     <token id="SBL.2Thess.1.12.5" clearId="n53001012005">τοῦ</token>
+     <token id="SBL.2Thess.1.12.6" clearId="n53001012006">κυρίου</token>
+     <token id="SBL.2Thess.1.12.7" clearId="n53001012007">ἡμῶν</token>
+     <token id="SBL.2Thess.1.12.8" clearId="n53001012008">Ἰησοῦ</token>
+     <token id="SBL.2Thess.1.12.9" clearId="n53001012009">ἐν</token>
+     <token id="SBL.2Thess.1.12.10" clearId="n53001012010" after=",">ὑμῖν</token>
+     <token id="SBL.2Thess.1.12.11" clearId="n53001012011">καὶ</token>
+     <token id="SBL.2Thess.1.12.12" clearId="n53001012012">ὑμεῖς</token>
+     <token id="SBL.2Thess.1.12.13" clearId="n53001012013">ἐν</token>
+     <token id="SBL.2Thess.1.12.14" clearId="n53001012014" after=",">αὐτῷ</token>
+     <token id="SBL.2Thess.1.12.15" clearId="n53001012015">κατὰ</token>
+     <token id="SBL.2Thess.1.12.16" clearId="n53001012016">τὴν</token>
+     <token id="SBL.2Thess.1.12.17" clearId="n53001012017">χάριν</token>
+     <token id="SBL.2Thess.1.12.18" clearId="n53001012018">τοῦ</token>
+     <token id="SBL.2Thess.1.12.19" clearId="n53001012019">θεοῦ</token>
+     <token id="SBL.2Thess.1.12.20" clearId="n53001012020">ἡμῶν</token>
+     <token id="SBL.2Thess.1.12.21" clearId="n53001012021">καὶ</token>
+     <token id="SBL.2Thess.1.12.22" clearId="n53001012022">κυρίου</token>
+     <token id="SBL.2Thess.1.12.23" clearId="n53001012023">Ἰησοῦ</token>
+     <token id="SBL.2Thess.1.12.24" clearId="n53001012024" after=".">Χριστοῦ</token>
     </move>
    </seg>
    <seg id="s.SBL.2Thess.2" title="The Man of Sin and the Mystery of Iniquity">
     <move id="m.SBL.2Thess.2.1-2" chStart="2" vStart="1" chEnd="2" vEnd="2">
-     <token clearId="n53002001001" id="SBL.2Thess.2.1.1.1">Ἐρωτῶμεν</token>
-     <token clearId="n53002001002" id="SBL.2Thess.2.1.2.1">δὲ</token>
-     <token clearId="n53002001003" id="SBL.2Thess.2.1.3.1" after=",">ὑμᾶς</token>
-     <token clearId="n53002001004" id="SBL.2Thess.2.1.4.1" after=",">ἀδελφοί</token>
-     <token clearId="n53002001005" id="SBL.2Thess.2.1.5.1">ὑπὲρ</token>
-     <token clearId="n53002001006" id="SBL.2Thess.2.1.6.1">τῆς</token>
-     <token clearId="n53002001007" id="SBL.2Thess.2.1.7.1">παρουσίας</token>
-     <token clearId="n53002001008" id="SBL.2Thess.2.1.8.1">τοῦ</token>
-     <token clearId="n53002001009" id="SBL.2Thess.2.1.9.1">κυρίου</token>
-     <token clearId="n53002001010" id="SBL.2Thess.2.1.10.1">ἡμῶν</token>
-     <token clearId="n53002001011" id="SBL.2Thess.2.1.11.1">Ἰησοῦ</token>
-     <token clearId="n53002001012" id="SBL.2Thess.2.1.12.1">Χριστοῦ</token>
-     <token clearId="n53002001013" id="SBL.2Thess.2.1.13.1">καὶ</token>
-     <token clearId="n53002001014" id="SBL.2Thess.2.1.14.1">ἡμῶν</token>
-     <token clearId="n53002001015" id="SBL.2Thess.2.1.15.1">ἐπισυναγωγῆς</token>
-     <token clearId="n53002001016" id="SBL.2Thess.2.1.16.1">ἐπ’</token>
-     <token clearId="n53002001017" id="SBL.2Thess.2.1.17.1" after=",">αὐτόν</token>
-     <token clearId="n53002002001" id="SBL.2Thess.2.2.1.1">εἰς</token>
-     <token clearId="n53002002002" id="SBL.2Thess.2.2.2.1">τὸ</token>
-     <token clearId="n53002002003" id="SBL.2Thess.2.2.3.1">μὴ</token>
-     <token clearId="n53002002004" id="SBL.2Thess.2.2.4.1">ταχέως</token>
-     <token clearId="n53002002005" id="SBL.2Thess.2.2.5.1">σαλευθῆναι</token>
-     <token clearId="n53002002006" id="SBL.2Thess.2.2.6.1">ὑμᾶς</token>
-     <token clearId="n53002002007" id="SBL.2Thess.2.2.7.1">ἀπὸ</token>
-     <token clearId="n53002002008" id="SBL.2Thess.2.2.8.1">τοῦ</token>
-     <token clearId="n53002002009" id="SBL.2Thess.2.2.9.1">νοὸς</token>
-     <token clearId="n53002002010" id="SBL.2Thess.2.2.10.1">μηδὲ</token>
-     <token clearId="n53002002011" id="SBL.2Thess.2.2.11.1">θροεῖσθαι</token>
-     <token clearId="n53002002012" id="SBL.2Thess.2.2.12.1">μήτε</token>
-     <token clearId="n53002002013" id="SBL.2Thess.2.2.13.1">διὰ</token>
-     <token clearId="n53002002014" id="SBL.2Thess.2.2.14.1">πνεύματος</token>
-     <token clearId="n53002002015" id="SBL.2Thess.2.2.15.1">μήτε</token>
-     <token clearId="n53002002016" id="SBL.2Thess.2.2.16.1">διὰ</token>
-     <token clearId="n53002002017" id="SBL.2Thess.2.2.17.1">λόγου</token>
-     <token clearId="n53002002018" id="SBL.2Thess.2.2.18.1">μήτε</token>
-     <token clearId="n53002002019" id="SBL.2Thess.2.2.19.1">δι’</token>
-     <token clearId="n53002002020" id="SBL.2Thess.2.2.20.1">ἐπιστολῆς</token>
-     <token clearId="n53002002021" id="SBL.2Thess.2.2.21.1">ὡς</token>
-     <token clearId="n53002002022" id="SBL.2Thess.2.2.22.1">δι’</token>
-     <token clearId="n53002002023" id="SBL.2Thess.2.2.23.1" after=",">ἡμῶν</token>
-     <token clearId="n53002002024" id="SBL.2Thess.2.2.24.1">ὡς</token>
-     <token clearId="n53002002025" id="SBL.2Thess.2.2.25.1">ὅτι</token>
-     <token clearId="n53002002026" id="SBL.2Thess.2.2.26.1">ἐνέστηκεν</token>
-     <token clearId="n53002002027" id="SBL.2Thess.2.2.27.1">ἡ</token>
-     <token clearId="n53002002028" id="SBL.2Thess.2.2.28.1">ἡμέρα</token>
-     <token clearId="n53002002029" id="SBL.2Thess.2.2.29.1">τοῦ</token>
-     <token clearId="n53002002030" id="SBL.2Thess.2.2.30.1" after=".">κυρίου</token>
+     <token id="SBL.2Thess.2.1.1" clearId="n53002001001">Ἐρωτῶμεν</token>
+     <token id="SBL.2Thess.2.1.2" clearId="n53002001002">δὲ</token>
+     <token id="SBL.2Thess.2.1.3" clearId="n53002001003" after=",">ὑμᾶς</token>
+     <token id="SBL.2Thess.2.1.4" clearId="n53002001004" after=",">ἀδελφοί</token>
+     <token id="SBL.2Thess.2.1.5" clearId="n53002001005">ὑπὲρ</token>
+     <token id="SBL.2Thess.2.1.6" clearId="n53002001006">τῆς</token>
+     <token id="SBL.2Thess.2.1.7" clearId="n53002001007">παρουσίας</token>
+     <token id="SBL.2Thess.2.1.8" clearId="n53002001008">τοῦ</token>
+     <token id="SBL.2Thess.2.1.9" clearId="n53002001009">κυρίου</token>
+     <token id="SBL.2Thess.2.1.10" clearId="n53002001010">ἡμῶν</token>
+     <token id="SBL.2Thess.2.1.11" clearId="n53002001011">Ἰησοῦ</token>
+     <token id="SBL.2Thess.2.1.12" clearId="n53002001012">Χριστοῦ</token>
+     <token id="SBL.2Thess.2.1.13" clearId="n53002001013">καὶ</token>
+     <token id="SBL.2Thess.2.1.14" clearId="n53002001014">ἡμῶν</token>
+     <token id="SBL.2Thess.2.1.15" clearId="n53002001015">ἐπισυναγωγῆς</token>
+     <token id="SBL.2Thess.2.1.16" clearId="n53002001016">ἐπ’</token>
+     <token id="SBL.2Thess.2.1.17" clearId="n53002001017" after=",">αὐτόν</token>
+     <token id="SBL.2Thess.2.2.1" clearId="n53002002001">εἰς</token>
+     <token id="SBL.2Thess.2.2.2" clearId="n53002002002">τὸ</token>
+     <token id="SBL.2Thess.2.2.3" clearId="n53002002003">μὴ</token>
+     <token id="SBL.2Thess.2.2.4" clearId="n53002002004">ταχέως</token>
+     <token id="SBL.2Thess.2.2.5" clearId="n53002002005">σαλευθῆναι</token>
+     <token id="SBL.2Thess.2.2.6" clearId="n53002002006">ὑμᾶς</token>
+     <token id="SBL.2Thess.2.2.7" clearId="n53002002007">ἀπὸ</token>
+     <token id="SBL.2Thess.2.2.8" clearId="n53002002008">τοῦ</token>
+     <token id="SBL.2Thess.2.2.9" clearId="n53002002009">νοὸς</token>
+     <token id="SBL.2Thess.2.2.10" clearId="n53002002010">μηδὲ</token>
+     <token id="SBL.2Thess.2.2.11" clearId="n53002002011">θροεῖσθαι</token>
+     <token id="SBL.2Thess.2.2.12" clearId="n53002002012">μήτε</token>
+     <token id="SBL.2Thess.2.2.13" clearId="n53002002013">διὰ</token>
+     <token id="SBL.2Thess.2.2.14" clearId="n53002002014">πνεύματος</token>
+     <token id="SBL.2Thess.2.2.15" clearId="n53002002015">μήτε</token>
+     <token id="SBL.2Thess.2.2.16" clearId="n53002002016">διὰ</token>
+     <token id="SBL.2Thess.2.2.17" clearId="n53002002017">λόγου</token>
+     <token id="SBL.2Thess.2.2.18" clearId="n53002002018">μήτε</token>
+     <token id="SBL.2Thess.2.2.19" clearId="n53002002019">δι’</token>
+     <token id="SBL.2Thess.2.2.20" clearId="n53002002020">ἐπιστολῆς</token>
+     <token id="SBL.2Thess.2.2.21" clearId="n53002002021">ὡς</token>
+     <token id="SBL.2Thess.2.2.22" clearId="n53002002022">δι’</token>
+     <token id="SBL.2Thess.2.2.23" clearId="n53002002023" after=",">ἡμῶν</token>
+     <token id="SBL.2Thess.2.2.24" clearId="n53002002024">ὡς</token>
+     <token id="SBL.2Thess.2.2.25" clearId="n53002002025">ὅτι</token>
+     <token id="SBL.2Thess.2.2.26" clearId="n53002002026">ἐνέστηκεν</token>
+     <token id="SBL.2Thess.2.2.27" clearId="n53002002027">ἡ</token>
+     <token id="SBL.2Thess.2.2.28" clearId="n53002002028">ἡμέρα</token>
+     <token id="SBL.2Thess.2.2.29" clearId="n53002002029">τοῦ</token>
+     <token id="SBL.2Thess.2.2.30" clearId="n53002002030" after=".">κυρίου</token>
     </move>
     <move id="m.SBL.2Thess.2.3-4" chStart="2" vStart="3" chEnd="2" vEnd="4">
-     <token clearId="n53002003001" id="SBL.2Thess.2.3.1.1">μή</token>
-     <token clearId="n53002003002" id="SBL.2Thess.2.3.2.1">τις</token>
-     <token clearId="n53002003003" id="SBL.2Thess.2.3.3.1">ὑμᾶς</token>
-     <token clearId="n53002003004" id="SBL.2Thess.2.3.4.1">ἐξαπατήσῃ</token>
-     <token clearId="n53002003005" id="SBL.2Thess.2.3.5.1">κατὰ</token>
-     <token clearId="n53002003006" id="SBL.2Thess.2.3.6.1">μηδένα</token>
-     <token clearId="n53002003007" id="SBL.2Thess.2.3.7.1" after="·">τρόπον</token>
-     <token clearId="n53002003008" id="SBL.2Thess.2.3.8.1">ὅτι</token>
-     <token clearId="n53002003009" id="SBL.2Thess.2.3.9.1">ἐὰν</token>
-     <token clearId="n53002003010" id="SBL.2Thess.2.3.10.1">μὴ</token>
-     <token clearId="n53002003011" id="SBL.2Thess.2.3.11.1">ἔλθῃ</token>
-     <token clearId="n53002003012" id="SBL.2Thess.2.3.12.1">ἡ</token>
-     <token clearId="n53002003013" id="SBL.2Thess.2.3.13.1">ἀποστασία</token>
-     <token clearId="n53002003014" id="SBL.2Thess.2.3.14.1">πρῶτον</token>
-     <token clearId="n53002003015" id="SBL.2Thess.2.3.15.1">καὶ</token>
-     <token clearId="n53002003016" id="SBL.2Thess.2.3.16.1">ἀποκαλυφθῇ</token>
-     <token clearId="n53002003017" id="SBL.2Thess.2.3.17.1">ὁ</token>
-     <token clearId="n53002003018" id="SBL.2Thess.2.3.18.1">ἄνθρωπος</token>
-     <token clearId="n53002003019" id="SBL.2Thess.2.3.19.1">τῆς</token>
-     <token clearId="n53002003020" id="SBL.2Thess.2.3.20.1" after=",">ἀνομίας</token>
-     <token clearId="n53002003021" id="SBL.2Thess.2.3.21.1">ὁ</token>
-     <token clearId="n53002003022" id="SBL.2Thess.2.3.22.1">υἱὸς</token>
-     <token clearId="n53002003023" id="SBL.2Thess.2.3.23.1">τῆς</token>
-     <token clearId="n53002003024" id="SBL.2Thess.2.3.24.1" after=",">ἀπωλείας</token>
-     <token clearId="n53002004001" id="SBL.2Thess.2.4.1.1">ὁ</token>
-     <token clearId="n53002004002" id="SBL.2Thess.2.4.2.1">ἀντικείμενος</token>
-     <token clearId="n53002004003" id="SBL.2Thess.2.4.3.1">καὶ</token>
-     <token clearId="n53002004004" id="SBL.2Thess.2.4.4.1">ὑπεραιρόμενος</token>
-     <token clearId="n53002004005" id="SBL.2Thess.2.4.5.1">ἐπὶ</token>
-     <token clearId="n53002004006" id="SBL.2Thess.2.4.6.1">πάντα</token>
-     <token clearId="n53002004007" id="SBL.2Thess.2.4.7.1">λεγόμενον</token>
-     <token clearId="n53002004008" id="SBL.2Thess.2.4.8.1">θεὸν</token>
-     <token clearId="n53002004009" id="SBL.2Thess.2.4.9.1">ἢ</token>
-     <token clearId="n53002004010" id="SBL.2Thess.2.4.10.1" after=",">σέβασμα</token>
-     <token clearId="n53002004011" id="SBL.2Thess.2.4.11.1">ὥστε</token>
-     <token clearId="n53002004012" id="SBL.2Thess.2.4.12.1">αὐτὸν</token>
-     <token clearId="n53002004013" id="SBL.2Thess.2.4.13.1">εἰς</token>
-     <token clearId="n53002004014" id="SBL.2Thess.2.4.14.1">τὸν</token>
-     <token clearId="n53002004015" id="SBL.2Thess.2.4.15.1">ναὸν</token>
-     <token clearId="n53002004016" id="SBL.2Thess.2.4.16.1">τοῦ</token>
-     <token clearId="n53002004017" id="SBL.2Thess.2.4.17.1">θεοῦ</token>
-     <token clearId="n53002004018" id="SBL.2Thess.2.4.18.1">καθίσαι</token>
-     <token clearId="n53002004019" id="SBL.2Thess.2.4.19.1">ἀποδεικνύντα</token>
-     <token clearId="n53002004020" id="SBL.2Thess.2.4.20.1">ἑαυτὸν</token>
-     <token clearId="n53002004021" id="SBL.2Thess.2.4.21.1">ὅτι</token>
-     <token clearId="n53002004022" id="SBL.2Thess.2.4.22.1">ἔστιν</token>
-     <token clearId="n53002004023" id="SBL.2Thess.2.4.23.1" after=".">θεός</token>
+     <token id="SBL.2Thess.2.3.1" clearId="n53002003001">μή</token>
+     <token id="SBL.2Thess.2.3.2" clearId="n53002003002">τις</token>
+     <token id="SBL.2Thess.2.3.3" clearId="n53002003003">ὑμᾶς</token>
+     <token id="SBL.2Thess.2.3.4" clearId="n53002003004">ἐξαπατήσῃ</token>
+     <token id="SBL.2Thess.2.3.5" clearId="n53002003005">κατὰ</token>
+     <token id="SBL.2Thess.2.3.6" clearId="n53002003006">μηδένα</token>
+     <token id="SBL.2Thess.2.3.7" clearId="n53002003007" after="·">τρόπον</token>
+     <token id="SBL.2Thess.2.3.8" clearId="n53002003008">ὅτι</token>
+     <token id="SBL.2Thess.2.3.9" clearId="n53002003009">ἐὰν</token>
+     <token id="SBL.2Thess.2.3.10" clearId="n53002003010">μὴ</token>
+     <token id="SBL.2Thess.2.3.11" clearId="n53002003011">ἔλθῃ</token>
+     <token id="SBL.2Thess.2.3.12" clearId="n53002003012">ἡ</token>
+     <token id="SBL.2Thess.2.3.13" clearId="n53002003013">ἀποστασία</token>
+     <token id="SBL.2Thess.2.3.14" clearId="n53002003014">πρῶτον</token>
+     <token id="SBL.2Thess.2.3.15" clearId="n53002003015">καὶ</token>
+     <token id="SBL.2Thess.2.3.16" clearId="n53002003016">ἀποκαλυφθῇ</token>
+     <token id="SBL.2Thess.2.3.17" clearId="n53002003017">ὁ</token>
+     <token id="SBL.2Thess.2.3.18" clearId="n53002003018">ἄνθρωπος</token>
+     <token id="SBL.2Thess.2.3.19" clearId="n53002003019">τῆς</token>
+     <token id="SBL.2Thess.2.3.20" clearId="n53002003020" after=",">ἀνομίας</token>
+     <token id="SBL.2Thess.2.3.21" clearId="n53002003021">ὁ</token>
+     <token id="SBL.2Thess.2.3.22" clearId="n53002003022">υἱὸς</token>
+     <token id="SBL.2Thess.2.3.23" clearId="n53002003023">τῆς</token>
+     <token id="SBL.2Thess.2.3.24" clearId="n53002003024" after=",">ἀπωλείας</token>
+     <token id="SBL.2Thess.2.4.1" clearId="n53002004001">ὁ</token>
+     <token id="SBL.2Thess.2.4.2" clearId="n53002004002">ἀντικείμενος</token>
+     <token id="SBL.2Thess.2.4.3" clearId="n53002004003">καὶ</token>
+     <token id="SBL.2Thess.2.4.4" clearId="n53002004004">ὑπεραιρόμενος</token>
+     <token id="SBL.2Thess.2.4.5" clearId="n53002004005">ἐπὶ</token>
+     <token id="SBL.2Thess.2.4.6" clearId="n53002004006">πάντα</token>
+     <token id="SBL.2Thess.2.4.7" clearId="n53002004007">λεγόμενον</token>
+     <token id="SBL.2Thess.2.4.8" clearId="n53002004008">θεὸν</token>
+     <token id="SBL.2Thess.2.4.9" clearId="n53002004009">ἢ</token>
+     <token id="SBL.2Thess.2.4.10" clearId="n53002004010" after=",">σέβασμα</token>
+     <token id="SBL.2Thess.2.4.11" clearId="n53002004011">ὥστε</token>
+     <token id="SBL.2Thess.2.4.12" clearId="n53002004012">αὐτὸν</token>
+     <token id="SBL.2Thess.2.4.13" clearId="n53002004013">εἰς</token>
+     <token id="SBL.2Thess.2.4.14" clearId="n53002004014">τὸν</token>
+     <token id="SBL.2Thess.2.4.15" clearId="n53002004015">ναὸν</token>
+     <token id="SBL.2Thess.2.4.16" clearId="n53002004016">τοῦ</token>
+     <token id="SBL.2Thess.2.4.17" clearId="n53002004017">θεοῦ</token>
+     <token id="SBL.2Thess.2.4.18" clearId="n53002004018">καθίσαι</token>
+     <token id="SBL.2Thess.2.4.19" clearId="n53002004019">ἀποδεικνύντα</token>
+     <token id="SBL.2Thess.2.4.20" clearId="n53002004020">ἑαυτὸν</token>
+     <token id="SBL.2Thess.2.4.21" clearId="n53002004021">ὅτι</token>
+     <token id="SBL.2Thess.2.4.22" clearId="n53002004022">ἔστιν</token>
+     <token id="SBL.2Thess.2.4.23" clearId="n53002004023" after=".">θεός</token>
     </move>
     <move id="m.SBL.2Thess.2.5" chStart="2" vStart="5" chEnd="2" vEnd="5">
-     <token clearId="n53002005001" id="SBL.2Thess.2.5.1.1">οὐ</token>
-     <token clearId="n53002005002" id="SBL.2Thess.2.5.2.1">μνημονεύετε</token>
-     <token clearId="n53002005003" id="SBL.2Thess.2.5.3.1">ὅτι</token>
-     <token clearId="n53002005004" id="SBL.2Thess.2.5.4.1">ἔτι</token>
-     <token clearId="n53002005005" id="SBL.2Thess.2.5.5.1">ὢν</token>
-     <token clearId="n53002005006" id="SBL.2Thess.2.5.6.1">πρὸς</token>
-     <token clearId="n53002005007" id="SBL.2Thess.2.5.7.1">ὑμᾶς</token>
-     <token clearId="n53002005008" id="SBL.2Thess.2.5.8.1">ταῦτα</token>
-     <token clearId="n53002005009" id="SBL.2Thess.2.5.9.1">ἔλεγον</token>
-     <token clearId="n53002005010" id="SBL.2Thess.2.5.10.1" after=";">ὑμῖν</token>
+     <token id="SBL.2Thess.2.5.1" clearId="n53002005001">οὐ</token>
+     <token id="SBL.2Thess.2.5.2" clearId="n53002005002">μνημονεύετε</token>
+     <token id="SBL.2Thess.2.5.3" clearId="n53002005003">ὅτι</token>
+     <token id="SBL.2Thess.2.5.4" clearId="n53002005004">ἔτι</token>
+     <token id="SBL.2Thess.2.5.5" clearId="n53002005005">ὢν</token>
+     <token id="SBL.2Thess.2.5.6" clearId="n53002005006">πρὸς</token>
+     <token id="SBL.2Thess.2.5.7" clearId="n53002005007">ὑμᾶς</token>
+     <token id="SBL.2Thess.2.5.8" clearId="n53002005008">ταῦτα</token>
+     <token id="SBL.2Thess.2.5.9" clearId="n53002005009">ἔλεγον</token>
+     <token id="SBL.2Thess.2.5.10" clearId="n53002005010" after=";">ὑμῖν</token>
     </move>
     <move id="m.SBL.2Thess.2.6" chStart="2" vStart="6" chEnd="2" vEnd="6">
-     <token clearId="n53002006001" id="SBL.2Thess.2.6.1.1">καὶ</token>
-     <token clearId="n53002006002" id="SBL.2Thess.2.6.2.1">νῦν</token>
-     <token clearId="n53002006003" id="SBL.2Thess.2.6.3.1">τὸ</token>
-     <token clearId="n53002006004" id="SBL.2Thess.2.6.4.1">κατέχον</token>
-     <token clearId="n53002006005" id="SBL.2Thess.2.6.5.1" after=",">οἴδατε</token>
-     <token clearId="n53002006006" id="SBL.2Thess.2.6.6.1">εἰς</token>
-     <token clearId="n53002006007" id="SBL.2Thess.2.6.7.1">τὸ</token>
-     <token clearId="n53002006008" id="SBL.2Thess.2.6.8.1">ἀποκαλυφθῆναι</token>
-     <token clearId="n53002006009" id="SBL.2Thess.2.6.9.1">αὐτὸν</token>
-     <token clearId="n53002006010" id="SBL.2Thess.2.6.10.1">ἐν</token>
-     <token clearId="n53002006011" id="SBL.2Thess.2.6.11.1">τῷ</token>
-     <token clearId="n53002006012" id="SBL.2Thess.2.6.12.1">ἑαυτοῦ</token>
-     <token clearId="n53002006013" id="SBL.2Thess.2.6.13.1" after="·">καιρῷ</token>
+     <token id="SBL.2Thess.2.6.1" clearId="n53002006001">καὶ</token>
+     <token id="SBL.2Thess.2.6.2" clearId="n53002006002">νῦν</token>
+     <token id="SBL.2Thess.2.6.3" clearId="n53002006003">τὸ</token>
+     <token id="SBL.2Thess.2.6.4" clearId="n53002006004">κατέχον</token>
+     <token id="SBL.2Thess.2.6.5" clearId="n53002006005" after=",">οἴδατε</token>
+     <token id="SBL.2Thess.2.6.6" clearId="n53002006006">εἰς</token>
+     <token id="SBL.2Thess.2.6.7" clearId="n53002006007">τὸ</token>
+     <token id="SBL.2Thess.2.6.8" clearId="n53002006008">ἀποκαλυφθῆναι</token>
+     <token id="SBL.2Thess.2.6.9" clearId="n53002006009">αὐτὸν</token>
+     <token id="SBL.2Thess.2.6.10" clearId="n53002006010">ἐν</token>
+     <token id="SBL.2Thess.2.6.11" clearId="n53002006011">τῷ</token>
+     <token id="SBL.2Thess.2.6.12" clearId="n53002006012">ἑαυτοῦ</token>
+     <token id="SBL.2Thess.2.6.13" clearId="n53002006013" after="·">καιρῷ</token>
     </move>
     <move id="m.SBL.2Thess.2.7.1-7" chStart="2" vStart="7" chEnd="2" vEnd="7">
-     <token clearId="n53002007001" id="SBL.2Thess.2.7.1.1">τὸ</token>
-     <token clearId="n53002007002" id="SBL.2Thess.2.7.2.1">γὰρ</token>
-     <token clearId="n53002007003" id="SBL.2Thess.2.7.3.1">μυστήριον</token>
-     <token clearId="n53002007004" id="SBL.2Thess.2.7.4.1">ἤδη</token>
-     <token clearId="n53002007005" id="SBL.2Thess.2.7.5.1">ἐνεργεῖται</token>
-     <token clearId="n53002007006" id="SBL.2Thess.2.7.6.1">τῆς</token>
-     <token clearId="n53002007007" id="SBL.2Thess.2.7.7.1" after="·">ἀνομίας</token>
+     <token id="SBL.2Thess.2.7.1" clearId="n53002007001">τὸ</token>
+     <token id="SBL.2Thess.2.7.2" clearId="n53002007002">γὰρ</token>
+     <token id="SBL.2Thess.2.7.3" clearId="n53002007003">μυστήριον</token>
+     <token id="SBL.2Thess.2.7.4" clearId="n53002007004">ἤδη</token>
+     <token id="SBL.2Thess.2.7.5" clearId="n53002007005">ἐνεργεῖται</token>
+     <token id="SBL.2Thess.2.7.6" clearId="n53002007006">τῆς</token>
+     <token id="SBL.2Thess.2.7.7" clearId="n53002007007" after="·">ἀνομίας</token>
     </move>
     <move id="m.SBL.2Thess.2.7.8-15" chStart="2" vStart="7" chEnd="2" vEnd="7">
-     <token clearId="n53002007008" id="SBL.2Thess.2.7.8.1">μόνον</token>
-     <token clearId="n53002007009" id="SBL.2Thess.2.7.9.1">ὁ</token>
-     <token clearId="n53002007010" id="SBL.2Thess.2.7.10.1">κατέχων</token>
-     <token clearId="n53002007011" id="SBL.2Thess.2.7.11.1">ἄρτι</token>
-     <token clearId="n53002007012" id="SBL.2Thess.2.7.12.1">ἕως</token>
-     <token clearId="n53002007013" id="SBL.2Thess.2.7.13.1">ἐκ</token>
-     <token clearId="n53002007014" id="SBL.2Thess.2.7.14.1">μέσου</token>
-     <token clearId="n53002007015" id="SBL.2Thess.2.7.15.1" after=".">γένηται</token>
+     <token id="SBL.2Thess.2.7.8" clearId="n53002007008">μόνον</token>
+     <token id="SBL.2Thess.2.7.9" clearId="n53002007009">ὁ</token>
+     <token id="SBL.2Thess.2.7.10" clearId="n53002007010">κατέχων</token>
+     <token id="SBL.2Thess.2.7.11" clearId="n53002007011">ἄρτι</token>
+     <token id="SBL.2Thess.2.7.12" clearId="n53002007012">ἕως</token>
+     <token id="SBL.2Thess.2.7.13" clearId="n53002007013">ἐκ</token>
+     <token id="SBL.2Thess.2.7.14" clearId="n53002007014">μέσου</token>
+     <token id="SBL.2Thess.2.7.15" clearId="n53002007015" after=".">γένηται</token>
     </move>
     <move id="m.SBL.2Thess.2.8-10" chStart="2" vStart="8" chEnd="2" vEnd="10">
-     <token clearId="n53002008001" id="SBL.2Thess.2.8.1.1">καὶ</token>
-     <token clearId="n53002008002" id="SBL.2Thess.2.8.2.1">τότε</token>
-     <token clearId="n53002008003" id="SBL.2Thess.2.8.3.1">ἀποκαλυφθήσεται</token>
-     <token clearId="n53002008004" id="SBL.2Thess.2.8.4.1">ὁ</token>
-     <token clearId="n53002008005" id="SBL.2Thess.2.8.5.1" after=",">ἄνομος</token>
-     <token clearId="n53002008006" id="SBL.2Thess.2.8.6.1">ὃν</token>
-     <token clearId="n53002008007" id="SBL.2Thess.2.8.7.1">ὁ</token>
-     <token clearId="n53002008008" id="SBL.2Thess.2.8.8.1">κύριος</token>
-     <token clearId="n53002008009" id="SBL.2Thess.2.8.9.1">Ἰησοῦς</token>
-     <token clearId="n53002008010" id="SBL.2Thess.2.8.10.1">ἀνελεῖ</token>
-     <token clearId="n53002008011" id="SBL.2Thess.2.8.11.1">τῷ</token>
-     <token clearId="n53002008012" id="SBL.2Thess.2.8.12.1">πνεύματι</token>
-     <token clearId="n53002008013" id="SBL.2Thess.2.8.13.1">τοῦ</token>
-     <token clearId="n53002008014" id="SBL.2Thess.2.8.14.1">στόματος</token>
-     <token clearId="n53002008015" id="SBL.2Thess.2.8.15.1">αὐτοῦ</token>
-     <token clearId="n53002008016" id="SBL.2Thess.2.8.16.1">καὶ</token>
-     <token clearId="n53002008017" id="SBL.2Thess.2.8.17.1">καταργήσει</token>
-     <token clearId="n53002008018" id="SBL.2Thess.2.8.18.1">τῇ</token>
-     <token clearId="n53002008019" id="SBL.2Thess.2.8.19.1">ἐπιφανείᾳ</token>
-     <token clearId="n53002008020" id="SBL.2Thess.2.8.20.1">τῆς</token>
-     <token clearId="n53002008021" id="SBL.2Thess.2.8.21.1">παρουσίας</token>
-     <token clearId="n53002008022" id="SBL.2Thess.2.8.22.1" after=",">αὐτοῦ</token>
-     <token clearId="n53002009001" id="SBL.2Thess.2.9.1.1">οὗ</token>
-     <token clearId="n53002009002" id="SBL.2Thess.2.9.2.1">ἐστιν</token>
-     <token clearId="n53002009003" id="SBL.2Thess.2.9.3.1">ἡ</token>
-     <token clearId="n53002009004" id="SBL.2Thess.2.9.4.1">παρουσία</token>
-     <token clearId="n53002009005" id="SBL.2Thess.2.9.5.1">κατ’</token>
-     <token clearId="n53002009006" id="SBL.2Thess.2.9.6.1">ἐνέργειαν</token>
-     <token clearId="n53002009007" id="SBL.2Thess.2.9.7.1">τοῦ</token>
-     <token clearId="n53002009008" id="SBL.2Thess.2.9.8.1">Σατανᾶ</token>
-     <token clearId="n53002009009" id="SBL.2Thess.2.9.9.1">ἐν</token>
-     <token clearId="n53002009010" id="SBL.2Thess.2.9.10.1">πάσῃ</token>
-     <token clearId="n53002009011" id="SBL.2Thess.2.9.11.1">δυνάμει</token>
-     <token clearId="n53002009012" id="SBL.2Thess.2.9.12.1">καὶ</token>
-     <token clearId="n53002009013" id="SBL.2Thess.2.9.13.1">σημείοις</token>
-     <token clearId="n53002009014" id="SBL.2Thess.2.9.14.1">καὶ</token>
-     <token clearId="n53002009015" id="SBL.2Thess.2.9.15.1">τέρασιν</token>
-     <token clearId="n53002009016" id="SBL.2Thess.2.9.16.1">ψεύδους</token>
-     <token clearId="n53002010001" id="SBL.2Thess.2.10.1.1">καὶ</token>
-     <token clearId="n53002010002" id="SBL.2Thess.2.10.2.1">ἐν</token>
-     <token clearId="n53002010003" id="SBL.2Thess.2.10.3.1">πάσῃ</token>
-     <token clearId="n53002010004" id="SBL.2Thess.2.10.4.1">ἀπάτῃ</token>
-     <token clearId="n53002010005" id="SBL.2Thess.2.10.5.1">ἀδικίας</token>
-     <token clearId="n53002010006" id="SBL.2Thess.2.10.6.1">τοῖς</token>
-     <token clearId="n53002010007" id="SBL.2Thess.2.10.7.1" after=",">ἀπολλυμένοις</token>
-     <token clearId="n53002010008" id="SBL.2Thess.2.10.8.1">ἀνθ’</token>
-     <token clearId="n53002010009" id="SBL.2Thess.2.10.9.1">ὧν</token>
-     <token clearId="n53002010010" id="SBL.2Thess.2.10.10.1">τὴν</token>
-     <token clearId="n53002010011" id="SBL.2Thess.2.10.11.1">ἀγάπην</token>
-     <token clearId="n53002010012" id="SBL.2Thess.2.10.12.1">τῆς</token>
-     <token clearId="n53002010013" id="SBL.2Thess.2.10.13.1">ἀληθείας</token>
-     <token clearId="n53002010014" id="SBL.2Thess.2.10.14.1">οὐκ</token>
-     <token clearId="n53002010015" id="SBL.2Thess.2.10.15.1">ἐδέξαντο</token>
-     <token clearId="n53002010016" id="SBL.2Thess.2.10.16.1">εἰς</token>
-     <token clearId="n53002010017" id="SBL.2Thess.2.10.17.1">τὸ</token>
-     <token clearId="n53002010018" id="SBL.2Thess.2.10.18.1">σωθῆναι</token>
-     <token clearId="n53002010019" id="SBL.2Thess.2.10.19.1" after="·">αὐτούς</token>
+     <token id="SBL.2Thess.2.8.1" clearId="n53002008001">καὶ</token>
+     <token id="SBL.2Thess.2.8.2" clearId="n53002008002">τότε</token>
+     <token id="SBL.2Thess.2.8.3" clearId="n53002008003">ἀποκαλυφθήσεται</token>
+     <token id="SBL.2Thess.2.8.4" clearId="n53002008004">ὁ</token>
+     <token id="SBL.2Thess.2.8.5" clearId="n53002008005" after=",">ἄνομος</token>
+     <token id="SBL.2Thess.2.8.6" clearId="n53002008006">ὃν</token>
+     <token id="SBL.2Thess.2.8.7" clearId="n53002008007">ὁ</token>
+     <token id="SBL.2Thess.2.8.8" clearId="n53002008008">κύριος</token>
+     <token id="SBL.2Thess.2.8.9" clearId="n53002008009">Ἰησοῦς</token>
+     <token id="SBL.2Thess.2.8.10" clearId="n53002008010">ἀνελεῖ</token>
+     <token id="SBL.2Thess.2.8.11" clearId="n53002008011">τῷ</token>
+     <token id="SBL.2Thess.2.8.12" clearId="n53002008012">πνεύματι</token>
+     <token id="SBL.2Thess.2.8.13" clearId="n53002008013">τοῦ</token>
+     <token id="SBL.2Thess.2.8.14" clearId="n53002008014">στόματος</token>
+     <token id="SBL.2Thess.2.8.15" clearId="n53002008015">αὐτοῦ</token>
+     <token id="SBL.2Thess.2.8.16" clearId="n53002008016">καὶ</token>
+     <token id="SBL.2Thess.2.8.17" clearId="n53002008017">καταργήσει</token>
+     <token id="SBL.2Thess.2.8.18" clearId="n53002008018">τῇ</token>
+     <token id="SBL.2Thess.2.8.19" clearId="n53002008019">ἐπιφανείᾳ</token>
+     <token id="SBL.2Thess.2.8.20" clearId="n53002008020">τῆς</token>
+     <token id="SBL.2Thess.2.8.21" clearId="n53002008021">παρουσίας</token>
+     <token id="SBL.2Thess.2.8.22" clearId="n53002008022" after=",">αὐτοῦ</token>
+     <token id="SBL.2Thess.2.9.1" clearId="n53002009001">οὗ</token>
+     <token id="SBL.2Thess.2.9.2" clearId="n53002009002">ἐστιν</token>
+     <token id="SBL.2Thess.2.9.3" clearId="n53002009003">ἡ</token>
+     <token id="SBL.2Thess.2.9.4" clearId="n53002009004">παρουσία</token>
+     <token id="SBL.2Thess.2.9.5" clearId="n53002009005">κατ’</token>
+     <token id="SBL.2Thess.2.9.6" clearId="n53002009006">ἐνέργειαν</token>
+     <token id="SBL.2Thess.2.9.7" clearId="n53002009007">τοῦ</token>
+     <token id="SBL.2Thess.2.9.8" clearId="n53002009008">Σατανᾶ</token>
+     <token id="SBL.2Thess.2.9.9" clearId="n53002009009">ἐν</token>
+     <token id="SBL.2Thess.2.9.10" clearId="n53002009010">πάσῃ</token>
+     <token id="SBL.2Thess.2.9.11" clearId="n53002009011">δυνάμει</token>
+     <token id="SBL.2Thess.2.9.12" clearId="n53002009012">καὶ</token>
+     <token id="SBL.2Thess.2.9.13" clearId="n53002009013">σημείοις</token>
+     <token id="SBL.2Thess.2.9.14" clearId="n53002009014">καὶ</token>
+     <token id="SBL.2Thess.2.9.15" clearId="n53002009015">τέρασιν</token>
+     <token id="SBL.2Thess.2.9.16" clearId="n53002009016">ψεύδους</token>
+     <token id="SBL.2Thess.2.10.1" clearId="n53002010001">καὶ</token>
+     <token id="SBL.2Thess.2.10.2" clearId="n53002010002">ἐν</token>
+     <token id="SBL.2Thess.2.10.3" clearId="n53002010003">πάσῃ</token>
+     <token id="SBL.2Thess.2.10.4" clearId="n53002010004">ἀπάτῃ</token>
+     <token id="SBL.2Thess.2.10.5" clearId="n53002010005">ἀδικίας</token>
+     <token id="SBL.2Thess.2.10.6" clearId="n53002010006">τοῖς</token>
+     <token id="SBL.2Thess.2.10.7" clearId="n53002010007" after=",">ἀπολλυμένοις</token>
+     <token id="SBL.2Thess.2.10.8" clearId="n53002010008">ἀνθ’</token>
+     <token id="SBL.2Thess.2.10.9" clearId="n53002010009">ὧν</token>
+     <token id="SBL.2Thess.2.10.10" clearId="n53002010010">τὴν</token>
+     <token id="SBL.2Thess.2.10.11" clearId="n53002010011">ἀγάπην</token>
+     <token id="SBL.2Thess.2.10.12" clearId="n53002010012">τῆς</token>
+     <token id="SBL.2Thess.2.10.13" clearId="n53002010013">ἀληθείας</token>
+     <token id="SBL.2Thess.2.10.14" clearId="n53002010014">οὐκ</token>
+     <token id="SBL.2Thess.2.10.15" clearId="n53002010015">ἐδέξαντο</token>
+     <token id="SBL.2Thess.2.10.16" clearId="n53002010016">εἰς</token>
+     <token id="SBL.2Thess.2.10.17" clearId="n53002010017">τὸ</token>
+     <token id="SBL.2Thess.2.10.18" clearId="n53002010018">σωθῆναι</token>
+     <token id="SBL.2Thess.2.10.19" clearId="n53002010019" after="·">αὐτούς</token>
     </move>
     <move id="m.SBL.2Thess.2.11-12" chStart="2" vStart="11" chEnd="2" vEnd="12">
-     <token clearId="n53002011001" id="SBL.2Thess.2.11.1.1">καὶ</token>
-     <token clearId="n53002011002" id="SBL.2Thess.2.11.2.1">διὰ</token>
-     <token clearId="n53002011003" id="SBL.2Thess.2.11.3.1">τοῦτο</token>
-     <token clearId="n53002011004" id="SBL.2Thess.2.11.4.1">πέμπει</token>
-     <token clearId="n53002011005" id="SBL.2Thess.2.11.5.1">αὐτοῖς</token>
-     <token clearId="n53002011006" id="SBL.2Thess.2.11.6.1">ὁ</token>
-     <token clearId="n53002011007" id="SBL.2Thess.2.11.7.1">θεὸς</token>
-     <token clearId="n53002011008" id="SBL.2Thess.2.11.8.1">ἐνέργειαν</token>
-     <token clearId="n53002011009" id="SBL.2Thess.2.11.9.1">πλάνης</token>
-     <token clearId="n53002011010" id="SBL.2Thess.2.11.10.1">εἰς</token>
-     <token clearId="n53002011011" id="SBL.2Thess.2.11.11.1">τὸ</token>
-     <token clearId="n53002011012" id="SBL.2Thess.2.11.12.1">πιστεῦσαι</token>
-     <token clearId="n53002011013" id="SBL.2Thess.2.11.13.1">αὐτοὺς</token>
-     <token clearId="n53002011014" id="SBL.2Thess.2.11.14.1">τῷ</token>
-     <token clearId="n53002011015" id="SBL.2Thess.2.11.15.1" after=",">ψεύδει</token>
-     <token clearId="n53002012001" id="SBL.2Thess.2.12.1.1">ἵνα</token>
-     <token clearId="n53002012002" id="SBL.2Thess.2.12.2.1">κριθῶσιν</token>
-     <token clearId="n53002012003" id="SBL.2Thess.2.12.3.1">πάντες</token>
-     <token clearId="n53002012004" id="SBL.2Thess.2.12.4.1">οἱ</token>
-     <token clearId="n53002012005" id="SBL.2Thess.2.12.5.1">μὴ</token>
-     <token clearId="n53002012006" id="SBL.2Thess.2.12.6.1">πιστεύσαντες</token>
-     <token clearId="n53002012007" id="SBL.2Thess.2.12.7.1">τῇ</token>
-     <token clearId="n53002012008" id="SBL.2Thess.2.12.8.1">ἀληθείᾳ</token>
-     <token clearId="n53002012009" id="SBL.2Thess.2.12.9.1">ἀλλὰ</token>
-     <token clearId="n53002012010" id="SBL.2Thess.2.12.10.1">εὐδοκήσαντες</token>
-     <token clearId="n53002012011" id="SBL.2Thess.2.12.11.1">τῇ</token>
-     <token clearId="n53002012012" id="SBL.2Thess.2.12.12.1" after=".">ἀδικίᾳ</token>
+     <token id="SBL.2Thess.2.11.1" clearId="n53002011001">καὶ</token>
+     <token id="SBL.2Thess.2.11.2" clearId="n53002011002">διὰ</token>
+     <token id="SBL.2Thess.2.11.3" clearId="n53002011003">τοῦτο</token>
+     <token id="SBL.2Thess.2.11.4" clearId="n53002011004">πέμπει</token>
+     <token id="SBL.2Thess.2.11.5" clearId="n53002011005">αὐτοῖς</token>
+     <token id="SBL.2Thess.2.11.6" clearId="n53002011006">ὁ</token>
+     <token id="SBL.2Thess.2.11.7" clearId="n53002011007">θεὸς</token>
+     <token id="SBL.2Thess.2.11.8" clearId="n53002011008">ἐνέργειαν</token>
+     <token id="SBL.2Thess.2.11.9" clearId="n53002011009">πλάνης</token>
+     <token id="SBL.2Thess.2.11.10" clearId="n53002011010">εἰς</token>
+     <token id="SBL.2Thess.2.11.11" clearId="n53002011011">τὸ</token>
+     <token id="SBL.2Thess.2.11.12" clearId="n53002011012">πιστεῦσαι</token>
+     <token id="SBL.2Thess.2.11.13" clearId="n53002011013">αὐτοὺς</token>
+     <token id="SBL.2Thess.2.11.14" clearId="n53002011014">τῷ</token>
+     <token id="SBL.2Thess.2.11.15" clearId="n53002011015" after=",">ψεύδει</token>
+     <token id="SBL.2Thess.2.12.1" clearId="n53002012001">ἵνα</token>
+     <token id="SBL.2Thess.2.12.2" clearId="n53002012002">κριθῶσιν</token>
+     <token id="SBL.2Thess.2.12.3" clearId="n53002012003">πάντες</token>
+     <token id="SBL.2Thess.2.12.4" clearId="n53002012004">οἱ</token>
+     <token id="SBL.2Thess.2.12.5" clearId="n53002012005">μὴ</token>
+     <token id="SBL.2Thess.2.12.6" clearId="n53002012006">πιστεύσαντες</token>
+     <token id="SBL.2Thess.2.12.7" clearId="n53002012007">τῇ</token>
+     <token id="SBL.2Thess.2.12.8" clearId="n53002012008">ἀληθείᾳ</token>
+     <token id="SBL.2Thess.2.12.9" clearId="n53002012009">ἀλλὰ</token>
+     <token id="SBL.2Thess.2.12.10" clearId="n53002012010">εὐδοκήσαντες</token>
+     <token id="SBL.2Thess.2.12.11" clearId="n53002012011">τῇ</token>
+     <token id="SBL.2Thess.2.12.12" clearId="n53002012012" after=".">ἀδικίᾳ</token>
     </move>
     <move id="m.SBL.2Thess.2.13-14" chStart="2" vStart="13" chEnd="2" vEnd="14">
-     <token clearId="n53002013001" id="SBL.2Thess.2.13.1.1">Ἡμεῖς</token>
-     <token clearId="n53002013002" id="SBL.2Thess.2.13.2.1">δὲ</token>
-     <token clearId="n53002013003" id="SBL.2Thess.2.13.3.1">ὀφείλομεν</token>
-     <token clearId="n53002013004" id="SBL.2Thess.2.13.4.1">εὐχαριστεῖν</token>
-     <token clearId="n53002013005" id="SBL.2Thess.2.13.5.1">τῷ</token>
-     <token clearId="n53002013006" id="SBL.2Thess.2.13.6.1">θεῷ</token>
-     <token clearId="n53002013007" id="SBL.2Thess.2.13.7.1">πάντοτε</token>
-     <token clearId="n53002013008" id="SBL.2Thess.2.13.8.1">περὶ</token>
-     <token clearId="n53002013009" id="SBL.2Thess.2.13.9.1" after=",">ὑμῶν</token>
-     <token clearId="n53002013010" id="SBL.2Thess.2.13.10.1">ἀδελφοὶ</token>
-     <token clearId="n53002013011" id="SBL.2Thess.2.13.11.1">ἠγαπημένοι</token>
-     <token clearId="n53002013012" id="SBL.2Thess.2.13.12.1">ὑπὸ</token>
-     <token clearId="n53002013013" id="SBL.2Thess.2.13.13.1" after=",">κυρίου</token>
-     <token clearId="n53002013014" id="SBL.2Thess.2.13.14.1">ὅτι</token>
-     <token clearId="n53002013015" id="SBL.2Thess.2.13.15.1">εἵλατο</token>
-     <token clearId="n53002013016" id="SBL.2Thess.2.13.16.1">ὑμᾶς</token>
-     <token clearId="n53002013017" id="SBL.2Thess.2.13.17.1">ὁ</token>
-     <token clearId="n53002013018" id="SBL.2Thess.2.13.18.1">θεὸς</token>
-     <token clearId="n53002013019" id="SBL.2Thess.2.13.19.1">ἀπαρχὴν</token>
-     <token clearId="n53002013020" id="SBL.2Thess.2.13.20.1">εἰς</token>
-     <token clearId="n53002013021" id="SBL.2Thess.2.13.21.1">σωτηρίαν</token>
-     <token clearId="n53002013022" id="SBL.2Thess.2.13.22.1">ἐν</token>
-     <token clearId="n53002013023" id="SBL.2Thess.2.13.23.1">ἁγιασμῷ</token>
-     <token clearId="n53002013024" id="SBL.2Thess.2.13.24.1">πνεύματος</token>
-     <token clearId="n53002013025" id="SBL.2Thess.2.13.25.1">καὶ</token>
-     <token clearId="n53002013026" id="SBL.2Thess.2.13.26.1">πίστει</token>
-     <token clearId="n53002013027" id="SBL.2Thess.2.13.27.1" after=",">ἀληθείας</token>
-     <token clearId="n53002014001" id="SBL.2Thess.2.14.1.1">εἰς</token>
-     <token clearId="n53002014002" id="SBL.2Thess.2.14.2.1">ὃ</token>
-     <token clearId="n53002014003" id="SBL.2Thess.2.14.3.1">ἐκάλεσεν</token>
-     <token clearId="n53002014004" id="SBL.2Thess.2.14.4.1">ὑμᾶς</token>
-     <token clearId="n53002014005" id="SBL.2Thess.2.14.5.1">διὰ</token>
-     <token clearId="n53002014006" id="SBL.2Thess.2.14.6.1">τοῦ</token>
-     <token clearId="n53002014007" id="SBL.2Thess.2.14.7.1">εὐαγγελίου</token>
-     <token clearId="n53002014008" id="SBL.2Thess.2.14.8.1" after=",">ἡμῶν</token>
-     <token clearId="n53002014009" id="SBL.2Thess.2.14.9.1">εἰς</token>
-     <token clearId="n53002014010" id="SBL.2Thess.2.14.10.1">περιποίησιν</token>
-     <token clearId="n53002014011" id="SBL.2Thess.2.14.11.1">δόξης</token>
-     <token clearId="n53002014012" id="SBL.2Thess.2.14.12.1">τοῦ</token>
-     <token clearId="n53002014013" id="SBL.2Thess.2.14.13.1">κυρίου</token>
-     <token clearId="n53002014014" id="SBL.2Thess.2.14.14.1">ἡμῶν</token>
-     <token clearId="n53002014015" id="SBL.2Thess.2.14.15.1">Ἰησοῦ</token>
-     <token clearId="n53002014016" id="SBL.2Thess.2.14.16.1" after=".">Χριστοῦ</token>
+     <token id="SBL.2Thess.2.13.1" clearId="n53002013001">Ἡμεῖς</token>
+     <token id="SBL.2Thess.2.13.2" clearId="n53002013002">δὲ</token>
+     <token id="SBL.2Thess.2.13.3" clearId="n53002013003">ὀφείλομεν</token>
+     <token id="SBL.2Thess.2.13.4" clearId="n53002013004">εὐχαριστεῖν</token>
+     <token id="SBL.2Thess.2.13.5" clearId="n53002013005">τῷ</token>
+     <token id="SBL.2Thess.2.13.6" clearId="n53002013006">θεῷ</token>
+     <token id="SBL.2Thess.2.13.7" clearId="n53002013007">πάντοτε</token>
+     <token id="SBL.2Thess.2.13.8" clearId="n53002013008">περὶ</token>
+     <token id="SBL.2Thess.2.13.9" clearId="n53002013009" after=",">ὑμῶν</token>
+     <token id="SBL.2Thess.2.13.10" clearId="n53002013010">ἀδελφοὶ</token>
+     <token id="SBL.2Thess.2.13.11" clearId="n53002013011">ἠγαπημένοι</token>
+     <token id="SBL.2Thess.2.13.12" clearId="n53002013012">ὑπὸ</token>
+     <token id="SBL.2Thess.2.13.13" clearId="n53002013013" after=",">κυρίου</token>
+     <token id="SBL.2Thess.2.13.14" clearId="n53002013014">ὅτι</token>
+     <token id="SBL.2Thess.2.13.15" clearId="n53002013015">εἵλατο</token>
+     <token id="SBL.2Thess.2.13.16" clearId="n53002013016">ὑμᾶς</token>
+     <token id="SBL.2Thess.2.13.17" clearId="n53002013017">ὁ</token>
+     <token id="SBL.2Thess.2.13.18" clearId="n53002013018">θεὸς</token>
+     <token id="SBL.2Thess.2.13.19" clearId="n53002013019">ἀπαρχὴν</token>
+     <token id="SBL.2Thess.2.13.20" clearId="n53002013020">εἰς</token>
+     <token id="SBL.2Thess.2.13.21" clearId="n53002013021">σωτηρίαν</token>
+     <token id="SBL.2Thess.2.13.22" clearId="n53002013022">ἐν</token>
+     <token id="SBL.2Thess.2.13.23" clearId="n53002013023">ἁγιασμῷ</token>
+     <token id="SBL.2Thess.2.13.24" clearId="n53002013024">πνεύματος</token>
+     <token id="SBL.2Thess.2.13.25" clearId="n53002013025">καὶ</token>
+     <token id="SBL.2Thess.2.13.26" clearId="n53002013026">πίστει</token>
+     <token id="SBL.2Thess.2.13.27" clearId="n53002013027" after=",">ἀληθείας</token>
+     <token id="SBL.2Thess.2.14.1" clearId="n53002014001">εἰς</token>
+     <token id="SBL.2Thess.2.14.2" clearId="n53002014002">ὃ</token>
+     <token id="SBL.2Thess.2.14.3" clearId="n53002014003">ἐκάλεσεν</token>
+     <token id="SBL.2Thess.2.14.4" clearId="n53002014004">ὑμᾶς</token>
+     <token id="SBL.2Thess.2.14.5" clearId="n53002014005">διὰ</token>
+     <token id="SBL.2Thess.2.14.6" clearId="n53002014006">τοῦ</token>
+     <token id="SBL.2Thess.2.14.7" clearId="n53002014007">εὐαγγελίου</token>
+     <token id="SBL.2Thess.2.14.8" clearId="n53002014008" after=",">ἡμῶν</token>
+     <token id="SBL.2Thess.2.14.9" clearId="n53002014009">εἰς</token>
+     <token id="SBL.2Thess.2.14.10" clearId="n53002014010">περιποίησιν</token>
+     <token id="SBL.2Thess.2.14.11" clearId="n53002014011">δόξης</token>
+     <token id="SBL.2Thess.2.14.12" clearId="n53002014012">τοῦ</token>
+     <token id="SBL.2Thess.2.14.13" clearId="n53002014013">κυρίου</token>
+     <token id="SBL.2Thess.2.14.14" clearId="n53002014014">ἡμῶν</token>
+     <token id="SBL.2Thess.2.14.15" clearId="n53002014015">Ἰησοῦ</token>
+     <token id="SBL.2Thess.2.14.16" clearId="n53002014016" after=".">Χριστοῦ</token>
     </move>
     <move id="m.SBL.2Thess.2.15" chStart="2" vStart="15" chEnd="2" vEnd="15">
-     <token clearId="n53002015001" id="SBL.2Thess.2.15.1.1">ἄρα</token>
-     <token clearId="n53002015002" id="SBL.2Thess.2.15.2.1" after=",">οὖν</token>
-     <token clearId="n53002015003" id="SBL.2Thess.2.15.3.1" after=",">ἀδελφοί</token>
-     <token clearId="n53002015004" id="SBL.2Thess.2.15.4.1" after=",">στήκετε</token>
-     <token clearId="n53002015005" id="SBL.2Thess.2.15.5.1">καὶ</token>
-     <token clearId="n53002015006" id="SBL.2Thess.2.15.6.1">κρατεῖτε</token>
-     <token clearId="n53002015007" id="SBL.2Thess.2.15.7.1">τὰς</token>
-     <token clearId="n53002015008" id="SBL.2Thess.2.15.8.1">παραδόσεις</token>
-     <token clearId="n53002015009" id="SBL.2Thess.2.15.9.1">ἃς</token>
-     <token clearId="n53002015010" id="SBL.2Thess.2.15.10.1">ἐδιδάχθητε</token>
-     <token clearId="n53002015011" id="SBL.2Thess.2.15.11.1">εἴτε</token>
-     <token clearId="n53002015012" id="SBL.2Thess.2.15.12.1">διὰ</token>
-     <token clearId="n53002015013" id="SBL.2Thess.2.15.13.1">λόγου</token>
-     <token clearId="n53002015014" id="SBL.2Thess.2.15.14.1">εἴτε</token>
-     <token clearId="n53002015015" id="SBL.2Thess.2.15.15.1">δι’</token>
-     <token clearId="n53002015016" id="SBL.2Thess.2.15.16.1">ἐπιστολῆς</token>
-     <token clearId="n53002015017" id="SBL.2Thess.2.15.17.1" after=".">ἡμῶν</token>
+     <token id="SBL.2Thess.2.15.1" clearId="n53002015001">ἄρα</token>
+     <token id="SBL.2Thess.2.15.2" clearId="n53002015002" after=",">οὖν</token>
+     <token id="SBL.2Thess.2.15.3" clearId="n53002015003" after=",">ἀδελφοί</token>
+     <token id="SBL.2Thess.2.15.4" clearId="n53002015004" after=",">στήκετε</token>
+     <token id="SBL.2Thess.2.15.5" clearId="n53002015005">καὶ</token>
+     <token id="SBL.2Thess.2.15.6" clearId="n53002015006">κρατεῖτε</token>
+     <token id="SBL.2Thess.2.15.7" clearId="n53002015007">τὰς</token>
+     <token id="SBL.2Thess.2.15.8" clearId="n53002015008">παραδόσεις</token>
+     <token id="SBL.2Thess.2.15.9" clearId="n53002015009">ἃς</token>
+     <token id="SBL.2Thess.2.15.10" clearId="n53002015010">ἐδιδάχθητε</token>
+     <token id="SBL.2Thess.2.15.11" clearId="n53002015011">εἴτε</token>
+     <token id="SBL.2Thess.2.15.12" clearId="n53002015012">διὰ</token>
+     <token id="SBL.2Thess.2.15.13" clearId="n53002015013">λόγου</token>
+     <token id="SBL.2Thess.2.15.14" clearId="n53002015014">εἴτε</token>
+     <token id="SBL.2Thess.2.15.15" clearId="n53002015015">δι’</token>
+     <token id="SBL.2Thess.2.15.16" clearId="n53002015016">ἐπιστολῆς</token>
+     <token id="SBL.2Thess.2.15.17" clearId="n53002015017" after=".">ἡμῶν</token>
     </move>
     <move id="m.SBL.2Thess.2.16.1-17.4" chStart="2" vStart="16" chEnd="2" vEnd="17">
-     <token clearId="n53002016001" id="SBL.2Thess.2.16.1.1">Αὐτὸς</token>
-     <token clearId="n53002016002" id="SBL.2Thess.2.16.2.1">δὲ</token>
-     <token clearId="n53002016003" id="SBL.2Thess.2.16.3.1">ὁ</token>
-     <token clearId="n53002016004" id="SBL.2Thess.2.16.4.1">κύριος</token>
-     <token clearId="n53002016005" id="SBL.2Thess.2.16.5.1">ἡμῶν</token>
-     <token clearId="n53002016006" id="SBL.2Thess.2.16.6.1">Ἰησοῦς</token>
-     <token clearId="n53002016007" id="SBL.2Thess.2.16.7.1">Χριστὸς</token>
-     <token clearId="n53002016008" id="SBL.2Thess.2.16.8.1">καὶ</token>
-     <token clearId="n53002016009" id="SBL.2Thess.2.16.9.1">θεὸς</token>
-     <token clearId="n53002016010" id="SBL.2Thess.2.16.10.1">ὁ</token>
-     <token clearId="n53002016011" id="SBL.2Thess.2.16.11.1">πατὴρ</token>
-     <token clearId="n53002016012" id="SBL.2Thess.2.16.12.1" after=",">ἡμῶν</token>
-     <token clearId="n53002016013" id="SBL.2Thess.2.16.13.1">ὁ</token>
-     <token clearId="n53002016014" id="SBL.2Thess.2.16.14.1">ἀγαπήσας</token>
-     <token clearId="n53002016015" id="SBL.2Thess.2.16.15.1">ἡμᾶς</token>
-     <token clearId="n53002016016" id="SBL.2Thess.2.16.16.1">καὶ</token>
-     <token clearId="n53002016017" id="SBL.2Thess.2.16.17.1">δοὺς</token>
-     <token clearId="n53002016018" id="SBL.2Thess.2.16.18.1">παράκλησιν</token>
-     <token clearId="n53002016019" id="SBL.2Thess.2.16.19.1">αἰωνίαν</token>
-     <token clearId="n53002016020" id="SBL.2Thess.2.16.20.1">καὶ</token>
-     <token clearId="n53002016021" id="SBL.2Thess.2.16.21.1">ἐλπίδα</token>
-     <token clearId="n53002016022" id="SBL.2Thess.2.16.22.1">ἀγαθὴν</token>
-     <token clearId="n53002016023" id="SBL.2Thess.2.16.23.1">ἐν</token>
-     <token clearId="n53002016024" id="SBL.2Thess.2.16.24.1" after=",">χάριτι</token>
-     <token clearId="n53002017001" id="SBL.2Thess.2.17.1.1">παρακαλέσαι</token>
-     <token clearId="n53002017002" id="SBL.2Thess.2.17.2.1">ὑμῶν</token>
-     <token clearId="n53002017003" id="SBL.2Thess.2.17.3.1">τὰς</token>
-     <token clearId="n53002017004" id="SBL.2Thess.2.17.4.1">καρδίας</token>
+     <token id="SBL.2Thess.2.16.1" clearId="n53002016001">Αὐτὸς</token>
+     <token id="SBL.2Thess.2.16.2" clearId="n53002016002">δὲ</token>
+     <token id="SBL.2Thess.2.16.3" clearId="n53002016003">ὁ</token>
+     <token id="SBL.2Thess.2.16.4" clearId="n53002016004">κύριος</token>
+     <token id="SBL.2Thess.2.16.5" clearId="n53002016005">ἡμῶν</token>
+     <token id="SBL.2Thess.2.16.6" clearId="n53002016006">Ἰησοῦς</token>
+     <token id="SBL.2Thess.2.16.7" clearId="n53002016007">Χριστὸς</token>
+     <token id="SBL.2Thess.2.16.8" clearId="n53002016008">καὶ</token>
+     <token id="SBL.2Thess.2.16.9" clearId="n53002016009">θεὸς</token>
+     <token id="SBL.2Thess.2.16.10" clearId="n53002016010">ὁ</token>
+     <token id="SBL.2Thess.2.16.11" clearId="n53002016011">πατὴρ</token>
+     <token id="SBL.2Thess.2.16.12" clearId="n53002016012" after=",">ἡμῶν</token>
+     <token id="SBL.2Thess.2.16.13" clearId="n53002016013">ὁ</token>
+     <token id="SBL.2Thess.2.16.14" clearId="n53002016014">ἀγαπήσας</token>
+     <token id="SBL.2Thess.2.16.15" clearId="n53002016015">ἡμᾶς</token>
+     <token id="SBL.2Thess.2.16.16" clearId="n53002016016">καὶ</token>
+     <token id="SBL.2Thess.2.16.17" clearId="n53002016017">δοὺς</token>
+     <token id="SBL.2Thess.2.16.18" clearId="n53002016018">παράκλησιν</token>
+     <token id="SBL.2Thess.2.16.19" clearId="n53002016019">αἰωνίαν</token>
+     <token id="SBL.2Thess.2.16.20" clearId="n53002016020">καὶ</token>
+     <token id="SBL.2Thess.2.16.21" clearId="n53002016021">ἐλπίδα</token>
+     <token id="SBL.2Thess.2.16.22" clearId="n53002016022">ἀγαθὴν</token>
+     <token id="SBL.2Thess.2.16.23" clearId="n53002016023">ἐν</token>
+     <token id="SBL.2Thess.2.16.24" clearId="n53002016024" after=",">χάριτι</token>
+     <token id="SBL.2Thess.2.17.1" clearId="n53002017001">παρακαλέσαι</token>
+     <token id="SBL.2Thess.2.17.2" clearId="n53002017002">ὑμῶν</token>
+     <token id="SBL.2Thess.2.17.3" clearId="n53002017003">τὰς</token>
+     <token id="SBL.2Thess.2.17.4" clearId="n53002017004">καρδίας</token>
     </move>
     <move id="m.SBL.2Thess.2.17.5-12" chStart="2" vStart="17" chEnd="2" vEnd="17">
-     <token clearId="n53002017005" id="SBL.2Thess.2.17.5.1">καὶ</token>
-     <token clearId="n53002017006" id="SBL.2Thess.2.17.6.1">στηρίξαι</token>
-     <token clearId="n53002017007" id="SBL.2Thess.2.17.7.1">ἐν</token>
-     <token clearId="n53002017008" id="SBL.2Thess.2.17.8.1">παντὶ</token>
-     <token clearId="n53002017009" id="SBL.2Thess.2.17.9.1">ἔργῳ</token>
-     <token clearId="n53002017010" id="SBL.2Thess.2.17.10.1">καὶ</token>
-     <token clearId="n53002017011" id="SBL.2Thess.2.17.11.1">λόγῳ</token>
-     <token clearId="n53002017012" id="SBL.2Thess.2.17.12.1" after=".">ἀγαθῷ</token>
+     <token id="SBL.2Thess.2.17.5" clearId="n53002017005">καὶ</token>
+     <token id="SBL.2Thess.2.17.6" clearId="n53002017006">στηρίξαι</token>
+     <token id="SBL.2Thess.2.17.7" clearId="n53002017007">ἐν</token>
+     <token id="SBL.2Thess.2.17.8" clearId="n53002017008">παντὶ</token>
+     <token id="SBL.2Thess.2.17.9" clearId="n53002017009">ἔργῳ</token>
+     <token id="SBL.2Thess.2.17.10" clearId="n53002017010">καὶ</token>
+     <token id="SBL.2Thess.2.17.11" clearId="n53002017011">λόγῳ</token>
+     <token id="SBL.2Thess.2.17.12" clearId="n53002017012" after=".">ἀγαθῷ</token>
     </move>
    </seg>
    <seg id="s.SBL.2Thess.3" title="Concluding Exhortations and Greeting">
     <move id="m.SBL.2Thess.3.1.1-2.9" chStart="3" vStart="1" chEnd="3" vEnd="2">
-     <token clearId="n53003001001" id="SBL.2Thess.3.1.1.1">Τὸ</token>
-     <token clearId="n53003001002" id="SBL.2Thess.3.1.2.1">λοιπὸν</token>
-     <token clearId="n53003001003" id="SBL.2Thess.3.1.3.1" after=",">προσεύχεσθε</token>
-     <token clearId="n53003001004" id="SBL.2Thess.3.1.4.1" after=",">ἀδελφοί</token>
-     <token clearId="n53003001005" id="SBL.2Thess.3.1.5.1">περὶ</token>
-     <token clearId="n53003001006" id="SBL.2Thess.3.1.6.1" after=",">ἡμῶν</token>
-     <token clearId="n53003001007" id="SBL.2Thess.3.1.7.1">ἵνα</token>
-     <token clearId="n53003001008" id="SBL.2Thess.3.1.8.1">ὁ</token>
-     <token clearId="n53003001009" id="SBL.2Thess.3.1.9.1">λόγος</token>
-     <token clearId="n53003001010" id="SBL.2Thess.3.1.10.1">τοῦ</token>
-     <token clearId="n53003001011" id="SBL.2Thess.3.1.11.1">κυρίου</token>
-     <token clearId="n53003001012" id="SBL.2Thess.3.1.12.1">τρέχῃ</token>
-     <token clearId="n53003001013" id="SBL.2Thess.3.1.13.1">καὶ</token>
-     <token clearId="n53003001014" id="SBL.2Thess.3.1.14.1">δοξάζηται</token>
-     <token clearId="n53003001015" id="SBL.2Thess.3.1.15.1">καθὼς</token>
-     <token clearId="n53003001016" id="SBL.2Thess.3.1.16.1">καὶ</token>
-     <token clearId="n53003001017" id="SBL.2Thess.3.1.17.1">πρὸς</token>
-     <token clearId="n53003001018" id="SBL.2Thess.3.1.18.1" after=",">ὑμᾶς</token>
-     <token clearId="n53003002001" id="SBL.2Thess.3.2.1.1">καὶ</token>
-     <token clearId="n53003002002" id="SBL.2Thess.3.2.2.1">ἵνα</token>
-     <token clearId="n53003002003" id="SBL.2Thess.3.2.3.1">ῥυσθῶμεν</token>
-     <token clearId="n53003002004" id="SBL.2Thess.3.2.4.1">ἀπὸ</token>
-     <token clearId="n53003002005" id="SBL.2Thess.3.2.5.1">τῶν</token>
-     <token clearId="n53003002006" id="SBL.2Thess.3.2.6.1">ἀτόπων</token>
-     <token clearId="n53003002007" id="SBL.2Thess.3.2.7.1">καὶ</token>
-     <token clearId="n53003002008" id="SBL.2Thess.3.2.8.1">πονηρῶν</token>
-     <token clearId="n53003002009" id="SBL.2Thess.3.2.9.1" after=",">ἀνθρώπων</token>
+     <token id="SBL.2Thess.3.1.1" clearId="n53003001001">Τὸ</token>
+     <token id="SBL.2Thess.3.1.2" clearId="n53003001002">λοιπὸν</token>
+     <token id="SBL.2Thess.3.1.3" clearId="n53003001003" after=",">προσεύχεσθε</token>
+     <token id="SBL.2Thess.3.1.4" clearId="n53003001004" after=",">ἀδελφοί</token>
+     <token id="SBL.2Thess.3.1.5" clearId="n53003001005">περὶ</token>
+     <token id="SBL.2Thess.3.1.6" clearId="n53003001006" after=",">ἡμῶν</token>
+     <token id="SBL.2Thess.3.1.7" clearId="n53003001007">ἵνα</token>
+     <token id="SBL.2Thess.3.1.8" clearId="n53003001008">ὁ</token>
+     <token id="SBL.2Thess.3.1.9" clearId="n53003001009">λόγος</token>
+     <token id="SBL.2Thess.3.1.10" clearId="n53003001010">τοῦ</token>
+     <token id="SBL.2Thess.3.1.11" clearId="n53003001011">κυρίου</token>
+     <token id="SBL.2Thess.3.1.12" clearId="n53003001012">τρέχῃ</token>
+     <token id="SBL.2Thess.3.1.13" clearId="n53003001013">καὶ</token>
+     <token id="SBL.2Thess.3.1.14" clearId="n53003001014">δοξάζηται</token>
+     <token id="SBL.2Thess.3.1.15" clearId="n53003001015">καθὼς</token>
+     <token id="SBL.2Thess.3.1.16" clearId="n53003001016">καὶ</token>
+     <token id="SBL.2Thess.3.1.17" clearId="n53003001017">πρὸς</token>
+     <token id="SBL.2Thess.3.1.18" clearId="n53003001018" after=",">ὑμᾶς</token>
+     <token id="SBL.2Thess.3.2.1" clearId="n53003002001">καὶ</token>
+     <token id="SBL.2Thess.3.2.2" clearId="n53003002002">ἵνα</token>
+     <token id="SBL.2Thess.3.2.3" clearId="n53003002003">ῥυσθῶμεν</token>
+     <token id="SBL.2Thess.3.2.4" clearId="n53003002004">ἀπὸ</token>
+     <token id="SBL.2Thess.3.2.5" clearId="n53003002005">τῶν</token>
+     <token id="SBL.2Thess.3.2.6" clearId="n53003002006">ἀτόπων</token>
+     <token id="SBL.2Thess.3.2.7" clearId="n53003002007">καὶ</token>
+     <token id="SBL.2Thess.3.2.8" clearId="n53003002008">πονηρῶν</token>
+     <token id="SBL.2Thess.3.2.9" clearId="n53003002009" after=",">ἀνθρώπων</token>
     </move>
     <move id="m.SBL.2Thess.3.2.10-14" chStart="3" vStart="2" chEnd="3" vEnd="2">
-     <token clearId="n53003002010" id="SBL.2Thess.3.2.10.1">οὐ</token>
-     <token clearId="n53003002011" id="SBL.2Thess.3.2.11.1">γὰρ</token>
-     <token clearId="n53003002012" id="SBL.2Thess.3.2.12.1">πάντων</token>
-     <token clearId="n53003002013" id="SBL.2Thess.3.2.13.1">ἡ</token>
-     <token clearId="n53003002014" id="SBL.2Thess.3.2.14.1" after=".">πίστις</token>
+     <token id="SBL.2Thess.3.2.10" clearId="n53003002010">οὐ</token>
+     <token id="SBL.2Thess.3.2.11" clearId="n53003002011">γὰρ</token>
+     <token id="SBL.2Thess.3.2.12" clearId="n53003002012">πάντων</token>
+     <token id="SBL.2Thess.3.2.13" clearId="n53003002013">ἡ</token>
+     <token id="SBL.2Thess.3.2.14" clearId="n53003002014" after=".">πίστις</token>
     </move>
     <move id="m.SBL.2Thess.3.3" chStart="3" vStart="3" chEnd="3" vEnd="3">
-     <token clearId="n53003003001" id="SBL.2Thess.3.3.1.1">πιστὸς</token>
-     <token clearId="n53003003002" id="SBL.2Thess.3.3.2.1">δέ</token>
-     <token clearId="n53003003003" id="SBL.2Thess.3.3.3.1">ἐστιν</token>
-     <token clearId="n53003003004" id="SBL.2Thess.3.3.4.1">ὁ</token>
-     <token clearId="n53003003005" id="SBL.2Thess.3.3.5.1" after=",">κύριος</token>
-     <token clearId="n53003003006" id="SBL.2Thess.3.3.6.1">ὃς</token>
-     <token clearId="n53003003007" id="SBL.2Thess.3.3.7.1">στηρίξει</token>
-     <token clearId="n53003003008" id="SBL.2Thess.3.3.8.1">ὑμᾶς</token>
-     <token clearId="n53003003009" id="SBL.2Thess.3.3.9.1">καὶ</token>
-     <token clearId="n53003003010" id="SBL.2Thess.3.3.10.1">φυλάξει</token>
-     <token clearId="n53003003011" id="SBL.2Thess.3.3.11.1">ἀπὸ</token>
-     <token clearId="n53003003012" id="SBL.2Thess.3.3.12.1">τοῦ</token>
-     <token clearId="n53003003013" id="SBL.2Thess.3.3.13.1" after=".">πονηροῦ</token>
+     <token id="SBL.2Thess.3.3.1" clearId="n53003003001">πιστὸς</token>
+     <token id="SBL.2Thess.3.3.2" clearId="n53003003002">δέ</token>
+     <token id="SBL.2Thess.3.3.3" clearId="n53003003003">ἐστιν</token>
+     <token id="SBL.2Thess.3.3.4" clearId="n53003003004">ὁ</token>
+     <token id="SBL.2Thess.3.3.5" clearId="n53003003005" after=",">κύριος</token>
+     <token id="SBL.2Thess.3.3.6" clearId="n53003003006">ὃς</token>
+     <token id="SBL.2Thess.3.3.7" clearId="n53003003007">στηρίξει</token>
+     <token id="SBL.2Thess.3.3.8" clearId="n53003003008">ὑμᾶς</token>
+     <token id="SBL.2Thess.3.3.9" clearId="n53003003009">καὶ</token>
+     <token id="SBL.2Thess.3.3.10" clearId="n53003003010">φυλάξει</token>
+     <token id="SBL.2Thess.3.3.11" clearId="n53003003011">ἀπὸ</token>
+     <token id="SBL.2Thess.3.3.12" clearId="n53003003012">τοῦ</token>
+     <token id="SBL.2Thess.3.3.13" clearId="n53003003013" after=".">πονηροῦ</token>
     </move>
     <move id="m.SBL.2Thess.3.4" chStart="3" vStart="4" chEnd="3" vEnd="4">
-     <token clearId="n53003004001" id="SBL.2Thess.3.4.1.1">πεποίθαμεν</token>
-     <token clearId="n53003004002" id="SBL.2Thess.3.4.2.1">δὲ</token>
-     <token clearId="n53003004003" id="SBL.2Thess.3.4.3.1">ἐν</token>
-     <token clearId="n53003004004" id="SBL.2Thess.3.4.4.1">κυρίῳ</token>
-     <token clearId="n53003004005" id="SBL.2Thess.3.4.5.1">ἐφ’</token>
-     <token clearId="n53003004006" id="SBL.2Thess.3.4.6.1" after=",">ὑμᾶς</token>
-     <token clearId="n53003004007" id="SBL.2Thess.3.4.7.1">ὅτι</token>
-     <token clearId="n53003004008" id="SBL.2Thess.3.4.8.1">ἃ</token>
-     <token clearId="n53003004009" id="SBL.2Thess.3.4.9.1">παραγγέλλομεν</token>
-     <token clearId="n53003004010" id="SBL.2Thess.3.4.10.1">καὶ</token>
-     <token clearId="n53003004011" id="SBL.2Thess.3.4.11.1">ποιεῖτε</token>
-     <token clearId="n53003004012" id="SBL.2Thess.3.4.12.1">καὶ</token>
-     <token clearId="n53003004013" id="SBL.2Thess.3.4.13.1" after=".">ποιήσετε</token>
+     <token id="SBL.2Thess.3.4.1" clearId="n53003004001">πεποίθαμεν</token>
+     <token id="SBL.2Thess.3.4.2" clearId="n53003004002">δὲ</token>
+     <token id="SBL.2Thess.3.4.3" clearId="n53003004003">ἐν</token>
+     <token id="SBL.2Thess.3.4.4" clearId="n53003004004">κυρίῳ</token>
+     <token id="SBL.2Thess.3.4.5" clearId="n53003004005">ἐφ’</token>
+     <token id="SBL.2Thess.3.4.6" clearId="n53003004006" after=",">ὑμᾶς</token>
+     <token id="SBL.2Thess.3.4.7" clearId="n53003004007">ὅτι</token>
+     <token id="SBL.2Thess.3.4.8" clearId="n53003004008">ἃ</token>
+     <token id="SBL.2Thess.3.4.9" clearId="n53003004009">παραγγέλλομεν</token>
+     <token id="SBL.2Thess.3.4.10" clearId="n53003004010">καὶ</token>
+     <token id="SBL.2Thess.3.4.11" clearId="n53003004011">ποιεῖτε</token>
+     <token id="SBL.2Thess.3.4.12" clearId="n53003004012">καὶ</token>
+     <token id="SBL.2Thess.3.4.13" clearId="n53003004013" after=".">ποιήσετε</token>
     </move>
     <move id="m.SBL.2Thess.3.5" chStart="3" vStart="5" chEnd="3" vEnd="5">
-     <token clearId="n53003005001" id="SBL.2Thess.3.5.1.1">ὁ</token>
-     <token clearId="n53003005002" id="SBL.2Thess.3.5.2.1">δὲ</token>
-     <token clearId="n53003005003" id="SBL.2Thess.3.5.3.1">κύριος</token>
-     <token clearId="n53003005004" id="SBL.2Thess.3.5.4.1">κατευθύναι</token>
-     <token clearId="n53003005005" id="SBL.2Thess.3.5.5.1">ὑμῶν</token>
-     <token clearId="n53003005006" id="SBL.2Thess.3.5.6.1">τὰς</token>
-     <token clearId="n53003005007" id="SBL.2Thess.3.5.7.1">καρδίας</token>
-     <token clearId="n53003005008" id="SBL.2Thess.3.5.8.1">εἰς</token>
-     <token clearId="n53003005009" id="SBL.2Thess.3.5.9.1">τὴν</token>
-     <token clearId="n53003005010" id="SBL.2Thess.3.5.10.1">ἀγάπην</token>
-     <token clearId="n53003005011" id="SBL.2Thess.3.5.11.1">τοῦ</token>
-     <token clearId="n53003005012" id="SBL.2Thess.3.5.12.1">θεοῦ</token>
-     <token clearId="n53003005013" id="SBL.2Thess.3.5.13.1">καὶ</token>
-     <token clearId="n53003005014" id="SBL.2Thess.3.5.14.1">εἰς</token>
-     <token clearId="n53003005015" id="SBL.2Thess.3.5.15.1">τὴν</token>
-     <token clearId="n53003005016" id="SBL.2Thess.3.5.16.1">ὑπομονὴν</token>
-     <token clearId="n53003005017" id="SBL.2Thess.3.5.17.1">τοῦ</token>
-     <token clearId="n53003005018" id="SBL.2Thess.3.5.18.1" after=".">Χριστοῦ</token>
+     <token id="SBL.2Thess.3.5.1" clearId="n53003005001">ὁ</token>
+     <token id="SBL.2Thess.3.5.2" clearId="n53003005002">δὲ</token>
+     <token id="SBL.2Thess.3.5.3" clearId="n53003005003">κύριος</token>
+     <token id="SBL.2Thess.3.5.4" clearId="n53003005004">κατευθύναι</token>
+     <token id="SBL.2Thess.3.5.5" clearId="n53003005005">ὑμῶν</token>
+     <token id="SBL.2Thess.3.5.6" clearId="n53003005006">τὰς</token>
+     <token id="SBL.2Thess.3.5.7" clearId="n53003005007">καρδίας</token>
+     <token id="SBL.2Thess.3.5.8" clearId="n53003005008">εἰς</token>
+     <token id="SBL.2Thess.3.5.9" clearId="n53003005009">τὴν</token>
+     <token id="SBL.2Thess.3.5.10" clearId="n53003005010">ἀγάπην</token>
+     <token id="SBL.2Thess.3.5.11" clearId="n53003005011">τοῦ</token>
+     <token id="SBL.2Thess.3.5.12" clearId="n53003005012">θεοῦ</token>
+     <token id="SBL.2Thess.3.5.13" clearId="n53003005013">καὶ</token>
+     <token id="SBL.2Thess.3.5.14" clearId="n53003005014">εἰς</token>
+     <token id="SBL.2Thess.3.5.15" clearId="n53003005015">τὴν</token>
+     <token id="SBL.2Thess.3.5.16" clearId="n53003005016">ὑπομονὴν</token>
+     <token id="SBL.2Thess.3.5.17" clearId="n53003005017">τοῦ</token>
+     <token id="SBL.2Thess.3.5.18" clearId="n53003005018" after=".">Χριστοῦ</token>
     </move>
     <move id="m.SBL.2Thess.3.6" chStart="3" vStart="6" chEnd="3" vEnd="6">
-     <token clearId="n53003006001" id="SBL.2Thess.3.6.1.1">Παραγγέλλομεν</token>
-     <token clearId="n53003006002" id="SBL.2Thess.3.6.2.1">δὲ</token>
-     <token clearId="n53003006003" id="SBL.2Thess.3.6.3.1" after=",">ὑμῖν</token>
-     <token clearId="n53003006004" id="SBL.2Thess.3.6.4.1" after=",">ἀδελφοί</token>
-     <token clearId="n53003006005" id="SBL.2Thess.3.6.5.1">ἐν</token>
-     <token clearId="n53003006006" id="SBL.2Thess.3.6.6.1">ὀνόματι</token>
-     <token clearId="n53003006007" id="SBL.2Thess.3.6.7.1">τοῦ</token>
-     <token clearId="n53003006008" id="SBL.2Thess.3.6.8.1">κυρίου</token>
-     <token clearId="n53003006009" id="SBL.2Thess.3.6.9.1">ἡμῶν</token>
-     <token clearId="n53003006010" id="SBL.2Thess.3.6.10.1">Ἰησοῦ</token>
-     <token clearId="n53003006011" id="SBL.2Thess.3.6.11.1">Χριστοῦ</token>
-     <token clearId="n53003006012" id="SBL.2Thess.3.6.12.1">στέλλεσθαι</token>
-     <token clearId="n53003006013" id="SBL.2Thess.3.6.13.1">ὑμᾶς</token>
-     <token clearId="n53003006014" id="SBL.2Thess.3.6.14.1">ἀπὸ</token>
-     <token clearId="n53003006015" id="SBL.2Thess.3.6.15.1">παντὸς</token>
-     <token clearId="n53003006016" id="SBL.2Thess.3.6.16.1">ἀδελφοῦ</token>
-     <token clearId="n53003006017" id="SBL.2Thess.3.6.17.1">ἀτάκτως</token>
-     <token clearId="n53003006018" id="SBL.2Thess.3.6.18.1">περιπατοῦντος</token>
-     <token clearId="n53003006019" id="SBL.2Thess.3.6.19.1">καὶ</token>
-     <token clearId="n53003006020" id="SBL.2Thess.3.6.20.1">μὴ</token>
-     <token clearId="n53003006021" id="SBL.2Thess.3.6.21.1">κατὰ</token>
-     <token clearId="n53003006022" id="SBL.2Thess.3.6.22.1">τὴν</token>
-     <token clearId="n53003006023" id="SBL.2Thess.3.6.23.1">παράδοσιν</token>
-     <token clearId="n53003006024" id="SBL.2Thess.3.6.24.1">ἣν</token>
-     <token clearId="n53003006025" id="SBL.2Thess.3.6.25.1">παρελάβοσαν</token>
-     <token clearId="n53003006026" id="SBL.2Thess.3.6.26.1">παρ’</token>
-     <token clearId="n53003006027" id="SBL.2Thess.3.6.27.1" after=".">ἡμῶν</token>
+     <token id="SBL.2Thess.3.6.1" clearId="n53003006001">Παραγγέλλομεν</token>
+     <token id="SBL.2Thess.3.6.2" clearId="n53003006002">δὲ</token>
+     <token id="SBL.2Thess.3.6.3" clearId="n53003006003" after=",">ὑμῖν</token>
+     <token id="SBL.2Thess.3.6.4" clearId="n53003006004" after=",">ἀδελφοί</token>
+     <token id="SBL.2Thess.3.6.5" clearId="n53003006005">ἐν</token>
+     <token id="SBL.2Thess.3.6.6" clearId="n53003006006">ὀνόματι</token>
+     <token id="SBL.2Thess.3.6.7" clearId="n53003006007">τοῦ</token>
+     <token id="SBL.2Thess.3.6.8" clearId="n53003006008">κυρίου</token>
+     <token id="SBL.2Thess.3.6.9" clearId="n53003006009">ἡμῶν</token>
+     <token id="SBL.2Thess.3.6.10" clearId="n53003006010">Ἰησοῦ</token>
+     <token id="SBL.2Thess.3.6.11" clearId="n53003006011">Χριστοῦ</token>
+     <token id="SBL.2Thess.3.6.12" clearId="n53003006012">στέλλεσθαι</token>
+     <token id="SBL.2Thess.3.6.13" clearId="n53003006013">ὑμᾶς</token>
+     <token id="SBL.2Thess.3.6.14" clearId="n53003006014">ἀπὸ</token>
+     <token id="SBL.2Thess.3.6.15" clearId="n53003006015">παντὸς</token>
+     <token id="SBL.2Thess.3.6.16" clearId="n53003006016">ἀδελφοῦ</token>
+     <token id="SBL.2Thess.3.6.17" clearId="n53003006017">ἀτάκτως</token>
+     <token id="SBL.2Thess.3.6.18" clearId="n53003006018">περιπατοῦντος</token>
+     <token id="SBL.2Thess.3.6.19" clearId="n53003006019">καὶ</token>
+     <token id="SBL.2Thess.3.6.20" clearId="n53003006020">μὴ</token>
+     <token id="SBL.2Thess.3.6.21" clearId="n53003006021">κατὰ</token>
+     <token id="SBL.2Thess.3.6.22" clearId="n53003006022">τὴν</token>
+     <token id="SBL.2Thess.3.6.23" clearId="n53003006023">παράδοσιν</token>
+     <token id="SBL.2Thess.3.6.24" clearId="n53003006024">ἣν</token>
+     <token id="SBL.2Thess.3.6.25" clearId="n53003006025">παρελάβοσαν</token>
+     <token id="SBL.2Thess.3.6.26" clearId="n53003006026">παρ’</token>
+     <token id="SBL.2Thess.3.6.27" clearId="n53003006027" after=".">ἡμῶν</token>
     </move>
     <move id="m.SBL.2Thess.3.7-8" chStart="3" vStart="7" chEnd="3" vEnd="8">
-     <token clearId="n53003007001" id="SBL.2Thess.3.7.1.1">αὐτοὶ</token>
-     <token clearId="n53003007002" id="SBL.2Thess.3.7.2.1">γὰρ</token>
-     <token clearId="n53003007003" id="SBL.2Thess.3.7.3.1">οἴδατε</token>
-     <token clearId="n53003007004" id="SBL.2Thess.3.7.4.1">πῶς</token>
-     <token clearId="n53003007005" id="SBL.2Thess.3.7.5.1">δεῖ</token>
-     <token clearId="n53003007006" id="SBL.2Thess.3.7.6.1">μιμεῖσθαι</token>
-     <token clearId="n53003007007" id="SBL.2Thess.3.7.7.1" after=",">ἡμᾶς</token>
-     <token clearId="n53003007008" id="SBL.2Thess.3.7.8.1">ὅτι</token>
-     <token clearId="n53003007009" id="SBL.2Thess.3.7.9.1">οὐκ</token>
-     <token clearId="n53003007010" id="SBL.2Thess.3.7.10.1">ἠτακτήσαμεν</token>
-     <token clearId="n53003007011" id="SBL.2Thess.3.7.11.1">ἐν</token>
-     <token clearId="n53003007012" id="SBL.2Thess.3.7.12.1">ὑμῖν</token>
-     <token clearId="n53003008001" id="SBL.2Thess.3.8.1.1">οὐδὲ</token>
-     <token clearId="n53003008002" id="SBL.2Thess.3.8.2.1">δωρεὰν</token>
-     <token clearId="n53003008003" id="SBL.2Thess.3.8.3.1">ἄρτον</token>
-     <token clearId="n53003008004" id="SBL.2Thess.3.8.4.1">ἐφάγομεν</token>
-     <token clearId="n53003008005" id="SBL.2Thess.3.8.5.1">παρά</token>
-     <token clearId="n53003008006" id="SBL.2Thess.3.8.6.1" after=",">τινος</token>
-     <token clearId="n53003008007" id="SBL.2Thess.3.8.7.1">ἀλλ’</token>
-     <token clearId="n53003008008" id="SBL.2Thess.3.8.8.1">ἐν</token>
-     <token clearId="n53003008009" id="SBL.2Thess.3.8.9.1">κόπῳ</token>
-     <token clearId="n53003008010" id="SBL.2Thess.3.8.10.1">καὶ</token>
-     <token clearId="n53003008011" id="SBL.2Thess.3.8.11.1">μόχθῳ</token>
-     <token clearId="n53003008012" id="SBL.2Thess.3.8.12.1">νυκτὸς</token>
-     <token clearId="n53003008013" id="SBL.2Thess.3.8.13.1">καὶ</token>
-     <token clearId="n53003008014" id="SBL.2Thess.3.8.14.1">ἡμέρας</token>
-     <token clearId="n53003008015" id="SBL.2Thess.3.8.15.1">ἐργαζόμενοι</token>
-     <token clearId="n53003008016" id="SBL.2Thess.3.8.16.1">πρὸς</token>
-     <token clearId="n53003008017" id="SBL.2Thess.3.8.17.1">τὸ</token>
-     <token clearId="n53003008018" id="SBL.2Thess.3.8.18.1">μὴ</token>
-     <token clearId="n53003008019" id="SBL.2Thess.3.8.19.1">ἐπιβαρῆσαί</token>
-     <token clearId="n53003008020" id="SBL.2Thess.3.8.20.1">τινα</token>
-     <token clearId="n53003008021" id="SBL.2Thess.3.8.21.1" after="·">ὑμῶν</token>
+     <token id="SBL.2Thess.3.7.1" clearId="n53003007001">αὐτοὶ</token>
+     <token id="SBL.2Thess.3.7.2" clearId="n53003007002">γὰρ</token>
+     <token id="SBL.2Thess.3.7.3" clearId="n53003007003">οἴδατε</token>
+     <token id="SBL.2Thess.3.7.4" clearId="n53003007004">πῶς</token>
+     <token id="SBL.2Thess.3.7.5" clearId="n53003007005">δεῖ</token>
+     <token id="SBL.2Thess.3.7.6" clearId="n53003007006">μιμεῖσθαι</token>
+     <token id="SBL.2Thess.3.7.7" clearId="n53003007007" after=",">ἡμᾶς</token>
+     <token id="SBL.2Thess.3.7.8" clearId="n53003007008">ὅτι</token>
+     <token id="SBL.2Thess.3.7.9" clearId="n53003007009">οὐκ</token>
+     <token id="SBL.2Thess.3.7.10" clearId="n53003007010">ἠτακτήσαμεν</token>
+     <token id="SBL.2Thess.3.7.11" clearId="n53003007011">ἐν</token>
+     <token id="SBL.2Thess.3.7.12" clearId="n53003007012">ὑμῖν</token>
+     <token id="SBL.2Thess.3.8.1" clearId="n53003008001">οὐδὲ</token>
+     <token id="SBL.2Thess.3.8.2" clearId="n53003008002">δωρεὰν</token>
+     <token id="SBL.2Thess.3.8.3" clearId="n53003008003">ἄρτον</token>
+     <token id="SBL.2Thess.3.8.4" clearId="n53003008004">ἐφάγομεν</token>
+     <token id="SBL.2Thess.3.8.5" clearId="n53003008005">παρά</token>
+     <token id="SBL.2Thess.3.8.6" clearId="n53003008006" after=",">τινος</token>
+     <token id="SBL.2Thess.3.8.7" clearId="n53003008007">ἀλλ’</token>
+     <token id="SBL.2Thess.3.8.8" clearId="n53003008008">ἐν</token>
+     <token id="SBL.2Thess.3.8.9" clearId="n53003008009">κόπῳ</token>
+     <token id="SBL.2Thess.3.8.10" clearId="n53003008010">καὶ</token>
+     <token id="SBL.2Thess.3.8.11" clearId="n53003008011">μόχθῳ</token>
+     <token id="SBL.2Thess.3.8.12" clearId="n53003008012">νυκτὸς</token>
+     <token id="SBL.2Thess.3.8.13" clearId="n53003008013">καὶ</token>
+     <token id="SBL.2Thess.3.8.14" clearId="n53003008014">ἡμέρας</token>
+     <token id="SBL.2Thess.3.8.15" clearId="n53003008015">ἐργαζόμενοι</token>
+     <token id="SBL.2Thess.3.8.16" clearId="n53003008016">πρὸς</token>
+     <token id="SBL.2Thess.3.8.17" clearId="n53003008017">τὸ</token>
+     <token id="SBL.2Thess.3.8.18" clearId="n53003008018">μὴ</token>
+     <token id="SBL.2Thess.3.8.19" clearId="n53003008019">ἐπιβαρῆσαί</token>
+     <token id="SBL.2Thess.3.8.20" clearId="n53003008020">τινα</token>
+     <token id="SBL.2Thess.3.8.21" clearId="n53003008021" after="·">ὑμῶν</token>
     </move>
     <move id="m.SBL.2Thess.3.9-9" chStart="3" vStart="9" chEnd="3" vEnd="9">
-     <token clearId="n53003009001" id="SBL.2Thess.3.9.1.1">οὐχ</token>
-     <token clearId="n53003009002" id="SBL.2Thess.3.9.2.1">ὅτι</token>
-     <token clearId="n53003009003" id="SBL.2Thess.3.9.3.1">οὐκ</token>
-     <token clearId="n53003009004" id="SBL.2Thess.3.9.4.1">ἔχομεν</token>
-     <token clearId="n53003009005" id="SBL.2Thess.3.9.5.1" after=",">ἐξουσίαν</token>
-     <token clearId="n53003009006" id="SBL.2Thess.3.9.6.1">ἀλλ’</token>
-     <token clearId="n53003009007" id="SBL.2Thess.3.9.7.1">ἵνα</token>
-     <token clearId="n53003009008" id="SBL.2Thess.3.9.8.1">ἑαυτοὺς</token>
-     <token clearId="n53003009009" id="SBL.2Thess.3.9.9.1">τύπον</token>
-     <token clearId="n53003009010" id="SBL.2Thess.3.9.10.1">δῶμεν</token>
-     <token clearId="n53003009011" id="SBL.2Thess.3.9.11.1">ὑμῖν</token>
-     <token clearId="n53003009012" id="SBL.2Thess.3.9.12.1">εἰς</token>
-     <token clearId="n53003009013" id="SBL.2Thess.3.9.13.1">τὸ</token>
-     <token clearId="n53003009014" id="SBL.2Thess.3.9.14.1">μιμεῖσθαι</token>
-     <token clearId="n53003009015" id="SBL.2Thess.3.9.15.1" after=".">ἡμᾶς</token>
+     <token id="SBL.2Thess.3.9.1" clearId="n53003009001">οὐχ</token>
+     <token id="SBL.2Thess.3.9.2" clearId="n53003009002">ὅτι</token>
+     <token id="SBL.2Thess.3.9.3" clearId="n53003009003">οὐκ</token>
+     <token id="SBL.2Thess.3.9.4" clearId="n53003009004">ἔχομεν</token>
+     <token id="SBL.2Thess.3.9.5" clearId="n53003009005" after=",">ἐξουσίαν</token>
+     <token id="SBL.2Thess.3.9.6" clearId="n53003009006">ἀλλ’</token>
+     <token id="SBL.2Thess.3.9.7" clearId="n53003009007">ἵνα</token>
+     <token id="SBL.2Thess.3.9.8" clearId="n53003009008">ἑαυτοὺς</token>
+     <token id="SBL.2Thess.3.9.9" clearId="n53003009009">τύπον</token>
+     <token id="SBL.2Thess.3.9.10" clearId="n53003009010">δῶμεν</token>
+     <token id="SBL.2Thess.3.9.11" clearId="n53003009011">ὑμῖν</token>
+     <token id="SBL.2Thess.3.9.12" clearId="n53003009012">εἰς</token>
+     <token id="SBL.2Thess.3.9.13" clearId="n53003009013">τὸ</token>
+     <token id="SBL.2Thess.3.9.14" clearId="n53003009014">μιμεῖσθαι</token>
+     <token id="SBL.2Thess.3.9.15" clearId="n53003009015" after=".">ἡμᾶς</token>
     </move>
     <move id="m.SBL.2Thess.3.10" chStart="3" vStart="10" chEnd="3" vEnd="10">
-     <token clearId="n53003010001" id="SBL.2Thess.3.10.1.1">καὶ</token>
-     <token clearId="n53003010002" id="SBL.2Thess.3.10.2.1">γὰρ</token>
-     <token clearId="n53003010003" id="SBL.2Thess.3.10.3.1">ὅτε</token>
-     <token clearId="n53003010004" id="SBL.2Thess.3.10.4.1">ἦμεν</token>
-     <token clearId="n53003010005" id="SBL.2Thess.3.10.5.1">πρὸς</token>
-     <token clearId="n53003010006" id="SBL.2Thess.3.10.6.1" after=",">ὑμᾶς</token>
-     <token clearId="n53003010007" id="SBL.2Thess.3.10.7.1">τοῦτο</token>
-     <token clearId="n53003010008" id="SBL.2Thess.3.10.8.1">παρηγγέλλομεν</token>
-     <token clearId="n53003010009" id="SBL.2Thess.3.10.9.1" after=",">ὑμῖν</token>
-     <token clearId="n53003010010" id="SBL.2Thess.3.10.10.1">ὅτι</token>
-     <token clearId="n53003010011" id="SBL.2Thess.3.10.11.1">εἴ</token>
-     <token clearId="n53003010012" id="SBL.2Thess.3.10.12.1">τις</token>
-     <token clearId="n53003010013" id="SBL.2Thess.3.10.13.1">οὐ</token>
-     <token clearId="n53003010014" id="SBL.2Thess.3.10.14.1">θέλει</token>
-     <token clearId="n53003010015" id="SBL.2Thess.3.10.15.1">ἐργάζεσθαι</token>
-     <token clearId="n53003010016" id="SBL.2Thess.3.10.16.1">μηδὲ</token>
-     <token clearId="n53003010017" id="SBL.2Thess.3.10.17.1" after=".">ἐσθιέτω</token>
+     <token id="SBL.2Thess.3.10.1" clearId="n53003010001">καὶ</token>
+     <token id="SBL.2Thess.3.10.2" clearId="n53003010002">γὰρ</token>
+     <token id="SBL.2Thess.3.10.3" clearId="n53003010003">ὅτε</token>
+     <token id="SBL.2Thess.3.10.4" clearId="n53003010004">ἦμεν</token>
+     <token id="SBL.2Thess.3.10.5" clearId="n53003010005">πρὸς</token>
+     <token id="SBL.2Thess.3.10.6" clearId="n53003010006" after=",">ὑμᾶς</token>
+     <token id="SBL.2Thess.3.10.7" clearId="n53003010007">τοῦτο</token>
+     <token id="SBL.2Thess.3.10.8" clearId="n53003010008">παρηγγέλλομεν</token>
+     <token id="SBL.2Thess.3.10.9" clearId="n53003010009" after=",">ὑμῖν</token>
+     <token id="SBL.2Thess.3.10.10" clearId="n53003010010">ὅτι</token>
+     <token id="SBL.2Thess.3.10.11" clearId="n53003010011">εἴ</token>
+     <token id="SBL.2Thess.3.10.12" clearId="n53003010012">τις</token>
+     <token id="SBL.2Thess.3.10.13" clearId="n53003010013">οὐ</token>
+     <token id="SBL.2Thess.3.10.14" clearId="n53003010014">θέλει</token>
+     <token id="SBL.2Thess.3.10.15" clearId="n53003010015">ἐργάζεσθαι</token>
+     <token id="SBL.2Thess.3.10.16" clearId="n53003010016">μηδὲ</token>
+     <token id="SBL.2Thess.3.10.17" clearId="n53003010017" after=".">ἐσθιέτω</token>
     </move>
     <move id="m.SBL.2Thess.3.11" chStart="3" vStart="11" chEnd="3" vEnd="11">
-     <token clearId="n53003011001" id="SBL.2Thess.3.11.1.1">ἀκούομεν</token>
-     <token clearId="n53003011002" id="SBL.2Thess.3.11.2.1">γάρ</token>
-     <token clearId="n53003011003" id="SBL.2Thess.3.11.3.1">τινας</token>
-     <token clearId="n53003011004" id="SBL.2Thess.3.11.4.1">περιπατοῦντας</token>
-     <token clearId="n53003011005" id="SBL.2Thess.3.11.5.1">ἐν</token>
-     <token clearId="n53003011006" id="SBL.2Thess.3.11.6.1">ὑμῖν</token>
-     <token clearId="n53003011007" id="SBL.2Thess.3.11.7.1" after=",">ἀτάκτως</token>
-     <token clearId="n53003011008" id="SBL.2Thess.3.11.8.1">μηδὲν</token>
-     <token clearId="n53003011009" id="SBL.2Thess.3.11.9.1">ἐργαζομένους</token>
-     <token clearId="n53003011010" id="SBL.2Thess.3.11.10.1">ἀλλὰ</token>
-     <token clearId="n53003011011" id="SBL.2Thess.3.11.11.1" after="·">περιεργαζομένους</token>
+     <token id="SBL.2Thess.3.11.1" clearId="n53003011001">ἀκούομεν</token>
+     <token id="SBL.2Thess.3.11.2" clearId="n53003011002">γάρ</token>
+     <token id="SBL.2Thess.3.11.3" clearId="n53003011003">τινας</token>
+     <token id="SBL.2Thess.3.11.4" clearId="n53003011004">περιπατοῦντας</token>
+     <token id="SBL.2Thess.3.11.5" clearId="n53003011005">ἐν</token>
+     <token id="SBL.2Thess.3.11.6" clearId="n53003011006">ὑμῖν</token>
+     <token id="SBL.2Thess.3.11.7" clearId="n53003011007" after=",">ἀτάκτως</token>
+     <token id="SBL.2Thess.3.11.8" clearId="n53003011008">μηδὲν</token>
+     <token id="SBL.2Thess.3.11.9" clearId="n53003011009">ἐργαζομένους</token>
+     <token id="SBL.2Thess.3.11.10" clearId="n53003011010">ἀλλὰ</token>
+     <token id="SBL.2Thess.3.11.11" clearId="n53003011011" after="·">περιεργαζομένους</token>
     </move>
     <move id="m.SBL.2Thess.3.12" chStart="3" vStart="12" chEnd="3" vEnd="12">
-     <token clearId="n53003012001" id="SBL.2Thess.3.12.1.1">τοῖς</token>
-     <token clearId="n53003012002" id="SBL.2Thess.3.12.2.1">δὲ</token>
-     <token clearId="n53003012003" id="SBL.2Thess.3.12.3.1">τοιούτοις</token>
-     <token clearId="n53003012004" id="SBL.2Thess.3.12.4.1">παραγγέλλομεν</token>
-     <token clearId="n53003012005" id="SBL.2Thess.3.12.5.1">καὶ</token>
-     <token clearId="n53003012006" id="SBL.2Thess.3.12.6.1">παρακαλοῦμεν</token>
-     <token clearId="n53003012007" id="SBL.2Thess.3.12.7.1">ἐν</token>
-     <token clearId="n53003012008" id="SBL.2Thess.3.12.8.1">κυρίῳ</token>
-     <token clearId="n53003012009" id="SBL.2Thess.3.12.9.1">Ἰησοῦ</token>
-     <token clearId="n53003012010" id="SBL.2Thess.3.12.10.1">Χριστῷ</token>
-     <token clearId="n53003012011" id="SBL.2Thess.3.12.11.1">ἵνα</token>
-     <token clearId="n53003012012" id="SBL.2Thess.3.12.12.1">μετὰ</token>
-     <token clearId="n53003012013" id="SBL.2Thess.3.12.13.1">ἡσυχίας</token>
-     <token clearId="n53003012014" id="SBL.2Thess.3.12.14.1">ἐργαζόμενοι</token>
-     <token clearId="n53003012015" id="SBL.2Thess.3.12.15.1">τὸν</token>
-     <token clearId="n53003012016" id="SBL.2Thess.3.12.16.1">ἑαυτῶν</token>
-     <token clearId="n53003012017" id="SBL.2Thess.3.12.17.1">ἄρτον</token>
-     <token clearId="n53003012018" id="SBL.2Thess.3.12.18.1" after=".">ἐσθίωσιν</token>
+     <token id="SBL.2Thess.3.12.1" clearId="n53003012001">τοῖς</token>
+     <token id="SBL.2Thess.3.12.2" clearId="n53003012002">δὲ</token>
+     <token id="SBL.2Thess.3.12.3" clearId="n53003012003">τοιούτοις</token>
+     <token id="SBL.2Thess.3.12.4" clearId="n53003012004">παραγγέλλομεν</token>
+     <token id="SBL.2Thess.3.12.5" clearId="n53003012005">καὶ</token>
+     <token id="SBL.2Thess.3.12.6" clearId="n53003012006">παρακαλοῦμεν</token>
+     <token id="SBL.2Thess.3.12.7" clearId="n53003012007">ἐν</token>
+     <token id="SBL.2Thess.3.12.8" clearId="n53003012008">κυρίῳ</token>
+     <token id="SBL.2Thess.3.12.9" clearId="n53003012009">Ἰησοῦ</token>
+     <token id="SBL.2Thess.3.12.10" clearId="n53003012010">Χριστῷ</token>
+     <token id="SBL.2Thess.3.12.11" clearId="n53003012011">ἵνα</token>
+     <token id="SBL.2Thess.3.12.12" clearId="n53003012012">μετὰ</token>
+     <token id="SBL.2Thess.3.12.13" clearId="n53003012013">ἡσυχίας</token>
+     <token id="SBL.2Thess.3.12.14" clearId="n53003012014">ἐργαζόμενοι</token>
+     <token id="SBL.2Thess.3.12.15" clearId="n53003012015">τὸν</token>
+     <token id="SBL.2Thess.3.12.16" clearId="n53003012016">ἑαυτῶν</token>
+     <token id="SBL.2Thess.3.12.17" clearId="n53003012017">ἄρτον</token>
+     <token id="SBL.2Thess.3.12.18" clearId="n53003012018" after=".">ἐσθίωσιν</token>
     </move>
     <move id="m.SBL.2Thess.3.13" chStart="3" vStart="13" chEnd="3" vEnd="13">
-     <token clearId="n53003013001" id="SBL.2Thess.3.13.1.1">ὑμεῖς</token>
-     <token clearId="n53003013002" id="SBL.2Thess.3.13.2.1" after=",">δέ</token>
-     <token clearId="n53003013003" id="SBL.2Thess.3.13.3.1" after=",">ἀδελφοί</token>
-     <token clearId="n53003013004" id="SBL.2Thess.3.13.4.1">μὴ</token>
-     <token clearId="n53003013005" id="SBL.2Thess.3.13.5.1">ἐγκακήσητε</token>
-     <token clearId="n53003013006" id="SBL.2Thess.3.13.6.1" after=".">καλοποιοῦντες</token>
+     <token id="SBL.2Thess.3.13.1" clearId="n53003013001">ὑμεῖς</token>
+     <token id="SBL.2Thess.3.13.2" clearId="n53003013002" after=",">δέ</token>
+     <token id="SBL.2Thess.3.13.3" clearId="n53003013003" after=",">ἀδελφοί</token>
+     <token id="SBL.2Thess.3.13.4" clearId="n53003013004">μὴ</token>
+     <token id="SBL.2Thess.3.13.5" clearId="n53003013005">ἐγκακήσητε</token>
+     <token id="SBL.2Thess.3.13.6" clearId="n53003013006" after=".">καλοποιοῦντες</token>
     </move>
     <move id="m.SBL.2Thess.3.14" chStart="3" vStart="14" chEnd="3" vEnd="14">
-     <token clearId="n53003014001" id="SBL.2Thess.3.14.1.1">Εἰ</token>
-     <token clearId="n53003014002" id="SBL.2Thess.3.14.2.1">δέ</token>
-     <token clearId="n53003014003" id="SBL.2Thess.3.14.3.1">τις</token>
-     <token clearId="n53003014004" id="SBL.2Thess.3.14.4.1">οὐχ</token>
-     <token clearId="n53003014005" id="SBL.2Thess.3.14.5.1">ὑπακούει</token>
-     <token clearId="n53003014006" id="SBL.2Thess.3.14.6.1">τῷ</token>
-     <token clearId="n53003014007" id="SBL.2Thess.3.14.7.1">λόγῳ</token>
-     <token clearId="n53003014008" id="SBL.2Thess.3.14.8.1">ἡμῶν</token>
-     <token clearId="n53003014009" id="SBL.2Thess.3.14.9.1">διὰ</token>
-     <token clearId="n53003014010" id="SBL.2Thess.3.14.10.1">τῆς</token>
-     <token clearId="n53003014011" id="SBL.2Thess.3.14.11.1" after=",">ἐπιστολῆς</token>
-     <token clearId="n53003014012" id="SBL.2Thess.3.14.12.1">τοῦτον</token>
-     <token clearId="n53003014013" id="SBL.2Thess.3.14.13.1" after=",">σημειοῦσθε</token>
-     <token clearId="n53003014014" id="SBL.2Thess.3.14.14.1">μὴ</token>
-     <token clearId="n53003014015" id="SBL.2Thess.3.14.15.1">συναναμίγνυσθαι</token>
-     <token clearId="n53003014016" id="SBL.2Thess.3.14.16.1" after=",">αὐτῷ</token>
-     <token clearId="n53003014017" id="SBL.2Thess.3.14.17.1">ἵνα</token>
-     <token clearId="n53003014018" id="SBL.2Thess.3.14.18.1" after="·">ἐντραπῇ</token>
+     <token id="SBL.2Thess.3.14.1" clearId="n53003014001">Εἰ</token>
+     <token id="SBL.2Thess.3.14.2" clearId="n53003014002">δέ</token>
+     <token id="SBL.2Thess.3.14.3" clearId="n53003014003">τις</token>
+     <token id="SBL.2Thess.3.14.4" clearId="n53003014004">οὐχ</token>
+     <token id="SBL.2Thess.3.14.5" clearId="n53003014005">ὑπακούει</token>
+     <token id="SBL.2Thess.3.14.6" clearId="n53003014006">τῷ</token>
+     <token id="SBL.2Thess.3.14.7" clearId="n53003014007">λόγῳ</token>
+     <token id="SBL.2Thess.3.14.8" clearId="n53003014008">ἡμῶν</token>
+     <token id="SBL.2Thess.3.14.9" clearId="n53003014009">διὰ</token>
+     <token id="SBL.2Thess.3.14.10" clearId="n53003014010">τῆς</token>
+     <token id="SBL.2Thess.3.14.11" clearId="n53003014011" after=",">ἐπιστολῆς</token>
+     <token id="SBL.2Thess.3.14.12" clearId="n53003014012">τοῦτον</token>
+     <token id="SBL.2Thess.3.14.13" clearId="n53003014013" after=",">σημειοῦσθε</token>
+     <token id="SBL.2Thess.3.14.14" clearId="n53003014014">μὴ</token>
+     <token id="SBL.2Thess.3.14.15" clearId="n53003014015">συναναμίγνυσθαι</token>
+     <token id="SBL.2Thess.3.14.16" clearId="n53003014016" after=",">αὐτῷ</token>
+     <token id="SBL.2Thess.3.14.17" clearId="n53003014017">ἵνα</token>
+     <token id="SBL.2Thess.3.14.18" clearId="n53003014018" after="·">ἐντραπῇ</token>
     </move>
     <move id="m.SBL.2Thess.3.15.1-5" chStart="3" vStart="15" chEnd="3" vEnd="15">
-     <token clearId="n53003015001" id="SBL.2Thess.3.15.1.1">καὶ</token>
-     <token clearId="n53003015002" id="SBL.2Thess.3.15.2.1">μὴ</token>
-     <token clearId="n53003015003" id="SBL.2Thess.3.15.3.1">ὡς</token>
-     <token clearId="n53003015004" id="SBL.2Thess.3.15.4.1">ἐχθρὸν</token>
-     <token clearId="n53003015005" id="SBL.2Thess.3.15.5.1" after=",">ἡγεῖσθε</token>
+     <token id="SBL.2Thess.3.15.1" clearId="n53003015001">καὶ</token>
+     <token id="SBL.2Thess.3.15.2" clearId="n53003015002">μὴ</token>
+     <token id="SBL.2Thess.3.15.3" clearId="n53003015003">ὡς</token>
+     <token id="SBL.2Thess.3.15.4" clearId="n53003015004">ἐχθρὸν</token>
+     <token id="SBL.2Thess.3.15.5" clearId="n53003015005" after=",">ἡγεῖσθε</token>
     </move>
     <move id="m.SBL.2Thess.3.15.6-9" chStart="3" vStart="15" chEnd="3" vEnd="15">
-     <token clearId="n53003015006" id="SBL.2Thess.3.15.6.1">ἀλλὰ</token>
-     <token clearId="n53003015007" id="SBL.2Thess.3.15.7.1">νουθετεῖτε</token>
-     <token clearId="n53003015008" id="SBL.2Thess.3.15.8.1">ὡς</token>
-     <token clearId="n53003015009" id="SBL.2Thess.3.15.9.1" after=".">ἀδελφόν</token>
+     <token id="SBL.2Thess.3.15.6" clearId="n53003015006">ἀλλὰ</token>
+     <token id="SBL.2Thess.3.15.7" clearId="n53003015007">νουθετεῖτε</token>
+     <token id="SBL.2Thess.3.15.8" clearId="n53003015008">ὡς</token>
+     <token id="SBL.2Thess.3.15.9" clearId="n53003015009" after=".">ἀδελφόν</token>
     </move>
     <move id="m.SBL.2Thess.3.16.1-15" chStart="3" vStart="16" chEnd="3" vEnd="16">
-     <token clearId="n53003016001" id="SBL.2Thess.3.16.1.1">Αὐτὸς</token>
-     <token clearId="n53003016002" id="SBL.2Thess.3.16.2.1">δὲ</token>
-     <token clearId="n53003016003" id="SBL.2Thess.3.16.3.1">ὁ</token>
-     <token clearId="n53003016004" id="SBL.2Thess.3.16.4.1">κύριος</token>
-     <token clearId="n53003016005" id="SBL.2Thess.3.16.5.1">τῆς</token>
-     <token clearId="n53003016006" id="SBL.2Thess.3.16.6.1">εἰρήνης</token>
-     <token clearId="n53003016007" id="SBL.2Thess.3.16.7.1">δῴη</token>
-     <token clearId="n53003016008" id="SBL.2Thess.3.16.8.1">ὑμῖν</token>
-     <token clearId="n53003016009" id="SBL.2Thess.3.16.9.1">τὴν</token>
-     <token clearId="n53003016010" id="SBL.2Thess.3.16.10.1">εἰρήνην</token>
-     <token clearId="n53003016011" id="SBL.2Thess.3.16.11.1">διὰ</token>
-     <token clearId="n53003016012" id="SBL.2Thess.3.16.12.1">παντὸς</token>
-     <token clearId="n53003016013" id="SBL.2Thess.3.16.13.1">ἐν</token>
-     <token clearId="n53003016014" id="SBL.2Thess.3.16.14.1">παντὶ</token>
-     <token clearId="n53003016015" id="SBL.2Thess.3.16.15.1" after=".">τρόπῳ</token>
+     <token id="SBL.2Thess.3.16.1" clearId="n53003016001">Αὐτὸς</token>
+     <token id="SBL.2Thess.3.16.2" clearId="n53003016002">δὲ</token>
+     <token id="SBL.2Thess.3.16.3" clearId="n53003016003">ὁ</token>
+     <token id="SBL.2Thess.3.16.4" clearId="n53003016004">κύριος</token>
+     <token id="SBL.2Thess.3.16.5" clearId="n53003016005">τῆς</token>
+     <token id="SBL.2Thess.3.16.6" clearId="n53003016006">εἰρήνης</token>
+     <token id="SBL.2Thess.3.16.7" clearId="n53003016007">δῴη</token>
+     <token id="SBL.2Thess.3.16.8" clearId="n53003016008">ὑμῖν</token>
+     <token id="SBL.2Thess.3.16.9" clearId="n53003016009">τὴν</token>
+     <token id="SBL.2Thess.3.16.10" clearId="n53003016010">εἰρήνην</token>
+     <token id="SBL.2Thess.3.16.11" clearId="n53003016011">διὰ</token>
+     <token id="SBL.2Thess.3.16.12" clearId="n53003016012">παντὸς</token>
+     <token id="SBL.2Thess.3.16.13" clearId="n53003016013">ἐν</token>
+     <token id="SBL.2Thess.3.16.14" clearId="n53003016014">παντὶ</token>
+     <token id="SBL.2Thess.3.16.15" clearId="n53003016015" after=".">τρόπῳ</token>
     </move>
     <move id="m.SBL.2Thess.3.16.16-20" chStart="3" vStart="16" chEnd="3" vEnd="16">
-     <token clearId="n53003016016" id="SBL.2Thess.3.16.16.1">ὁ</token>
-     <token clearId="n53003016017" id="SBL.2Thess.3.16.17.1">κύριος</token>
-     <token clearId="n53003016018" id="SBL.2Thess.3.16.18.1">μετὰ</token>
-     <token clearId="n53003016019" id="SBL.2Thess.3.16.19.1">πάντων</token>
-     <token clearId="n53003016020" id="SBL.2Thess.3.16.20.1" after=".">ὑμῶν</token>
+     <token id="SBL.2Thess.3.16.16" clearId="n53003016016">ὁ</token>
+     <token id="SBL.2Thess.3.16.17" clearId="n53003016017">κύριος</token>
+     <token id="SBL.2Thess.3.16.18" clearId="n53003016018">μετὰ</token>
+     <token id="SBL.2Thess.3.16.19" clearId="n53003016019">πάντων</token>
+     <token id="SBL.2Thess.3.16.20" clearId="n53003016020" after=".">ὑμῶν</token>
     </move>
     <move id="m.SBL.2Thess.3.17.1-12" chStart="3" vStart="17" chEnd="3" vEnd="17">
-     <token clearId="n53003017001" id="SBL.2Thess.3.17.1.1">Ὁ</token>
-     <token clearId="n53003017002" id="SBL.2Thess.3.17.2.1">ἀσπασμὸς</token>
-     <token clearId="n53003017003" id="SBL.2Thess.3.17.3.1">τῇ</token>
-     <token clearId="n53003017004" id="SBL.2Thess.3.17.4.1">ἐμῇ</token>
-     <token clearId="n53003017005" id="SBL.2Thess.3.17.5.1">χειρὶ</token>
-     <token clearId="n53003017006" id="SBL.2Thess.3.17.6.1" after=",">Παύλου</token>
-     <token clearId="n53003017007" id="SBL.2Thess.3.17.7.1">ὅ</token>
-     <token clearId="n53003017008" id="SBL.2Thess.3.17.8.1">ἐστιν</token>
-     <token clearId="n53003017009" id="SBL.2Thess.3.17.9.1">σημεῖον</token>
-     <token clearId="n53003017010" id="SBL.2Thess.3.17.10.1">ἐν</token>
-     <token clearId="n53003017011" id="SBL.2Thess.3.17.11.1">πάσῃ</token>
-     <token clearId="n53003017012" id="SBL.2Thess.3.17.12.1" after="·">ἐπιστολῇ</token>
+     <token id="SBL.2Thess.3.17.1" clearId="n53003017001">Ὁ</token>
+     <token id="SBL.2Thess.3.17.2" clearId="n53003017002">ἀσπασμὸς</token>
+     <token id="SBL.2Thess.3.17.3" clearId="n53003017003">τῇ</token>
+     <token id="SBL.2Thess.3.17.4" clearId="n53003017004">ἐμῇ</token>
+     <token id="SBL.2Thess.3.17.5" clearId="n53003017005">χειρὶ</token>
+     <token id="SBL.2Thess.3.17.6" clearId="n53003017006" after=",">Παύλου</token>
+     <token id="SBL.2Thess.3.17.7" clearId="n53003017007">ὅ</token>
+     <token id="SBL.2Thess.3.17.8" clearId="n53003017008">ἐστιν</token>
+     <token id="SBL.2Thess.3.17.9" clearId="n53003017009">σημεῖον</token>
+     <token id="SBL.2Thess.3.17.10" clearId="n53003017010">ἐν</token>
+     <token id="SBL.2Thess.3.17.11" clearId="n53003017011">πάσῃ</token>
+     <token id="SBL.2Thess.3.17.12" clearId="n53003017012" after="·">ἐπιστολῇ</token>
     </move>
     <move id="m.SBL.2Thess.3.17.13-14" chStart="3" vStart="17" chEnd="3" vEnd="17">
-     <token clearId="n53003017013" id="SBL.2Thess.3.17.13.1">οὕτως</token>
-     <token clearId="n53003017014" id="SBL.2Thess.3.17.14.1" after=".">γράφω</token>
+     <token id="SBL.2Thess.3.17.13" clearId="n53003017013">οὕτως</token>
+     <token id="SBL.2Thess.3.17.14" clearId="n53003017014" after=".">γράφω</token>
     </move>
     <move id="m.SBL.2Thess.3.18" chStart="3" vStart="18" chEnd="3" vEnd="18">
-     <token clearId="n53003018001" id="SBL.2Thess.3.18.1.1">ἡ</token>
-     <token clearId="n53003018002" id="SBL.2Thess.3.18.2.1">χάρις</token>
-     <token clearId="n53003018003" id="SBL.2Thess.3.18.3.1">τοῦ</token>
-     <token clearId="n53003018004" id="SBL.2Thess.3.18.4.1">κυρίου</token>
-     <token clearId="n53003018005" id="SBL.2Thess.3.18.5.1">ἡμῶν</token>
-     <token clearId="n53003018006" id="SBL.2Thess.3.18.6.1">Ἰησοῦ</token>
-     <token clearId="n53003018007" id="SBL.2Thess.3.18.7.1">Χριστοῦ</token>
-     <token clearId="n53003018008" id="SBL.2Thess.3.18.8.1">μετὰ</token>
-     <token clearId="n53003018009" id="SBL.2Thess.3.18.9.1">πάντων</token>
-     <token clearId="n53003018010" id="SBL.2Thess.3.18.10.1" after=".">ὑμῶν</token>
+     <token id="SBL.2Thess.3.18.1" clearId="n53003018001">ἡ</token>
+     <token id="SBL.2Thess.3.18.2" clearId="n53003018002">χάρις</token>
+     <token id="SBL.2Thess.3.18.3" clearId="n53003018003">τοῦ</token>
+     <token id="SBL.2Thess.3.18.4" clearId="n53003018004">κυρίου</token>
+     <token id="SBL.2Thess.3.18.5" clearId="n53003018005">ἡμῶν</token>
+     <token id="SBL.2Thess.3.18.6" clearId="n53003018006">Ἰησοῦ</token>
+     <token id="SBL.2Thess.3.18.7" clearId="n53003018007">Χριστοῦ</token>
+     <token id="SBL.2Thess.3.18.8" clearId="n53003018008">μετὰ</token>
+     <token id="SBL.2Thess.3.18.9" clearId="n53003018009">πάντων</token>
+     <token id="SBL.2Thess.3.18.10" clearId="n53003018010" after=".">ὑμῶν</token>
     </move>
    </seg>
   </turn>

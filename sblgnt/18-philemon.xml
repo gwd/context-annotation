@@ -9,7 +9,7 @@
     <editor>Ryder A. Wishart</editor>
    </titleStmt>
    <editionStmt>
-    <edition>1.00</edition>
+    <edition>1.1</edition>
    </editionStmt>
    <publicationStmt>
     <authority>www.opentext.org</authority>
@@ -24,7 +24,7 @@
     <p>The SBL Greek New Testament (SBLGNT) is a critically edited edition of the Greek New Testament produced by the Society of Biblical Literature and Logos Bible Software, made available under a [CC-BY License] (https://creativecommons.org/licenses/by/4.0/). Available at https://github.com/LogosBible/SBLGNT.</p>
     <p>Contextual speaking turns were derived by Christopher D. Land using projection data in the original [OpenText annotation](https://github.com/OpenText-org/GNT_annotation_v1.0) together with the capitalization of the SBLGNT edition. Manual error correction was then carried out by Christopher D. Land and Doosuk Kim.</p>
     <p>Turn segments were derived by Ryder A. Wishart by modifying the pericope headings of Robinson and Pierpont's Greek New Testament, which is in the public domain. Differences can be identified by comparing this data to the start and end tokens compiled by [James Tauber](https://github.com/jtauber/vocabulary-tools/blob/master/gnt_data/pericopes.txt).</p>
-    <p>Move segments were derived by Christopher D. Land from syntax markup copyright 2014-2017 by the Global Bible Initiative, made available under under a [CC-BY-SA License] (http://creativecommons.org/licenses/by-sa/3.0/). Available at https://github.com/biblicalhumanities/greek-new-testament/tree/master/syntax-trees/sblgnt.</p>
+    <p>Move segments were derived by Christopher D. Land by modifying syntax markup copyright 2014-2017 by the Global Bible Initiative, made available under under a [CC-BY-SA License] (http://creativecommons.org/licenses/by-sa/3.0/). Available at https://github.com/biblicalhumanities/greek-new-testament/tree/master/syntax-trees/sblgnt.</p>
    </sourceDesc>
   </fileDesc>
  </header>
@@ -32,386 +32,386 @@
   <turn depth="1" id="t.SBL.Phlm" chStart="1" vStart="1" chEnd="1" vEnd="25">
    <seg id="s.SBL.Phlm.1.1-3" title="Address and Salutation">
     <move id="m.SBL.Phlm.1.1-2" chStart="1" vStart="1" chEnd="1" vEnd="2">
-     <token clearId="n57001001001" id="SBL.Phlm.1.1.1.1">Παῦλος</token>
-     <token clearId="n57001001002" id="SBL.Phlm.1.1.2.1">δέσμιος</token>
-     <token clearId="n57001001003" id="SBL.Phlm.1.1.3.1">Χριστοῦ</token>
-     <token clearId="n57001001004" id="SBL.Phlm.1.1.4.1">Ἰησοῦ</token>
-     <token clearId="n57001001005" id="SBL.Phlm.1.1.5.1">καὶ</token>
-     <token clearId="n57001001006" id="SBL.Phlm.1.1.6.1">Τιμόθεος</token>
-     <token clearId="n57001001007" id="SBL.Phlm.1.1.7.1">ὁ</token>
-     <token clearId="n57001001008" id="SBL.Phlm.1.1.8.1">ἀδελφὸς</token>
-     <token clearId="n57001001009" id="SBL.Phlm.1.1.9.1">Φιλήμονι</token>
-     <token clearId="n57001001010" id="SBL.Phlm.1.1.10.1">τῷ</token>
-     <token clearId="n57001001011" id="SBL.Phlm.1.1.11.1">ἀγαπητῷ</token>
-     <token clearId="n57001001012" id="SBL.Phlm.1.1.12.1">καὶ</token>
-     <token clearId="n57001001013" id="SBL.Phlm.1.1.13.1">συνεργῷ</token>
-     <token clearId="n57001001014" id="SBL.Phlm.1.1.14.1">ἡμῶν</token>
-     <token clearId="n57001002001" id="SBL.Phlm.1.2.1.1">καὶ</token>
-     <token clearId="n57001002002" id="SBL.Phlm.1.2.2.1">Ἀπφίᾳ</token>
-     <token clearId="n57001002003" id="SBL.Phlm.1.2.3.1">τῇ</token>
-     <token clearId="n57001002004" id="SBL.Phlm.1.2.4.1">ἀδελφῇ</token>
-     <token clearId="n57001002005" id="SBL.Phlm.1.2.5.1">καὶ</token>
-     <token clearId="n57001002006" id="SBL.Phlm.1.2.6.1">Ἀρχίππῳ</token>
-     <token clearId="n57001002007" id="SBL.Phlm.1.2.7.1">τῷ</token>
-     <token clearId="n57001002008" id="SBL.Phlm.1.2.8.1">συστρατιώτῃ</token>
-     <token clearId="n57001002009" id="SBL.Phlm.1.2.9.1">ἡμῶν</token>
-     <token clearId="n57001002010" id="SBL.Phlm.1.2.10.1">καὶ</token>
-     <token clearId="n57001002011" id="SBL.Phlm.1.2.11.1">τῇ</token>
-     <token clearId="n57001002012" id="SBL.Phlm.1.2.12.1">κατ’</token>
-     <token clearId="n57001002013" id="SBL.Phlm.1.2.13.1">οἶκόν</token>
-     <token clearId="n57001002014" id="SBL.Phlm.1.2.14.1">σου</token>
-     <token clearId="n57001002015" id="SBL.Phlm.1.2.15.1" after="·">ἐκκλησίᾳ</token>
+     <token id="SBL.Phlm.1.1.1" clearId="n57001001001">Παῦλος</token>
+     <token id="SBL.Phlm.1.1.2" clearId="n57001001002">δέσμιος</token>
+     <token id="SBL.Phlm.1.1.3" clearId="n57001001003">Χριστοῦ</token>
+     <token id="SBL.Phlm.1.1.4" clearId="n57001001004">Ἰησοῦ</token>
+     <token id="SBL.Phlm.1.1.5" clearId="n57001001005">καὶ</token>
+     <token id="SBL.Phlm.1.1.6" clearId="n57001001006">Τιμόθεος</token>
+     <token id="SBL.Phlm.1.1.7" clearId="n57001001007">ὁ</token>
+     <token id="SBL.Phlm.1.1.8" clearId="n57001001008">ἀδελφὸς</token>
+     <token id="SBL.Phlm.1.1.9" clearId="n57001001009">Φιλήμονι</token>
+     <token id="SBL.Phlm.1.1.10" clearId="n57001001010">τῷ</token>
+     <token id="SBL.Phlm.1.1.11" clearId="n57001001011">ἀγαπητῷ</token>
+     <token id="SBL.Phlm.1.1.12" clearId="n57001001012">καὶ</token>
+     <token id="SBL.Phlm.1.1.13" clearId="n57001001013">συνεργῷ</token>
+     <token id="SBL.Phlm.1.1.14" clearId="n57001001014">ἡμῶν</token>
+     <token id="SBL.Phlm.1.2.1" clearId="n57001002001">καὶ</token>
+     <token id="SBL.Phlm.1.2.2" clearId="n57001002002">Ἀπφίᾳ</token>
+     <token id="SBL.Phlm.1.2.3" clearId="n57001002003">τῇ</token>
+     <token id="SBL.Phlm.1.2.4" clearId="n57001002004">ἀδελφῇ</token>
+     <token id="SBL.Phlm.1.2.5" clearId="n57001002005">καὶ</token>
+     <token id="SBL.Phlm.1.2.6" clearId="n57001002006">Ἀρχίππῳ</token>
+     <token id="SBL.Phlm.1.2.7" clearId="n57001002007">τῷ</token>
+     <token id="SBL.Phlm.1.2.8" clearId="n57001002008">συστρατιώτῃ</token>
+     <token id="SBL.Phlm.1.2.9" clearId="n57001002009">ἡμῶν</token>
+     <token id="SBL.Phlm.1.2.10" clearId="n57001002010">καὶ</token>
+     <token id="SBL.Phlm.1.2.11" clearId="n57001002011">τῇ</token>
+     <token id="SBL.Phlm.1.2.12" clearId="n57001002012">κατ’</token>
+     <token id="SBL.Phlm.1.2.13" clearId="n57001002013">οἶκόν</token>
+     <token id="SBL.Phlm.1.2.14" clearId="n57001002014">σου</token>
+     <token id="SBL.Phlm.1.2.15" clearId="n57001002015" after="·">ἐκκλησίᾳ</token>
     </move>
     <move id="m.SBL.Phlm.1.3" chStart="1" vStart="3" chEnd="1" vEnd="3">
-     <token clearId="n57001003001" id="SBL.Phlm.1.3.1.1">χάρις</token>
-     <token clearId="n57001003002" id="SBL.Phlm.1.3.2.1">ὑμῖν</token>
-     <token clearId="n57001003003" id="SBL.Phlm.1.3.3.1">καὶ</token>
-     <token clearId="n57001003004" id="SBL.Phlm.1.3.4.1">εἰρήνη</token>
-     <token clearId="n57001003005" id="SBL.Phlm.1.3.5.1">ἀπὸ</token>
-     <token clearId="n57001003006" id="SBL.Phlm.1.3.6.1">θεοῦ</token>
-     <token clearId="n57001003007" id="SBL.Phlm.1.3.7.1">πατρὸς</token>
-     <token clearId="n57001003008" id="SBL.Phlm.1.3.8.1">ἡμῶν</token>
-     <token clearId="n57001003009" id="SBL.Phlm.1.3.9.1">καὶ</token>
-     <token clearId="n57001003010" id="SBL.Phlm.1.3.10.1">κυρίου</token>
-     <token clearId="n57001003011" id="SBL.Phlm.1.3.11.1">Ἰησοῦ</token>
-     <token clearId="n57001003012" id="SBL.Phlm.1.3.12.1" after=".">Χριστοῦ</token>
+     <token id="SBL.Phlm.1.3.1" clearId="n57001003001">χάρις</token>
+     <token id="SBL.Phlm.1.3.2" clearId="n57001003002">ὑμῖν</token>
+     <token id="SBL.Phlm.1.3.3" clearId="n57001003003">καὶ</token>
+     <token id="SBL.Phlm.1.3.4" clearId="n57001003004">εἰρήνη</token>
+     <token id="SBL.Phlm.1.3.5" clearId="n57001003005">ἀπὸ</token>
+     <token id="SBL.Phlm.1.3.6" clearId="n57001003006">θεοῦ</token>
+     <token id="SBL.Phlm.1.3.7" clearId="n57001003007">πατρὸς</token>
+     <token id="SBL.Phlm.1.3.8" clearId="n57001003008">ἡμῶν</token>
+     <token id="SBL.Phlm.1.3.9" clearId="n57001003009">καὶ</token>
+     <token id="SBL.Phlm.1.3.10" clearId="n57001003010">κυρίου</token>
+     <token id="SBL.Phlm.1.3.11" clearId="n57001003011">Ἰησοῦ</token>
+     <token id="SBL.Phlm.1.3.12" clearId="n57001003012" after=".">Χριστοῦ</token>
     </move>
    </seg>
    <seg id="s.SBL.Phlm.1.4-7" title="Paul's Thankfulness and Sympathy on Account of Philemon's Christian State">
     <move id="m.SBL.Phlm.1.4-6" chStart="1" vStart="4" chEnd="1" vEnd="6">
-     <token clearId="n57001004001" id="SBL.Phlm.1.4.1.1">Εὐχαριστῶ</token>
-     <token clearId="n57001004002" id="SBL.Phlm.1.4.2.1">τῷ</token>
-     <token clearId="n57001004003" id="SBL.Phlm.1.4.3.1">θεῷ</token>
-     <token clearId="n57001004004" id="SBL.Phlm.1.4.4.1">μου</token>
-     <token clearId="n57001004005" id="SBL.Phlm.1.4.5.1">πάντοτε</token>
-     <token clearId="n57001004006" id="SBL.Phlm.1.4.6.1">μνείαν</token>
-     <token clearId="n57001004007" id="SBL.Phlm.1.4.7.1">σου</token>
-     <token clearId="n57001004008" id="SBL.Phlm.1.4.8.1">ποιούμενος</token>
-     <token clearId="n57001004009" id="SBL.Phlm.1.4.9.1">ἐπὶ</token>
-     <token clearId="n57001004010" id="SBL.Phlm.1.4.10.1">τῶν</token>
-     <token clearId="n57001004011" id="SBL.Phlm.1.4.11.1">προσευχῶν</token>
-     <token clearId="n57001004012" id="SBL.Phlm.1.4.12.1" after=",">μου</token>
-     <token clearId="n57001005001" id="SBL.Phlm.1.5.1.1">ἀκούων</token>
-     <token clearId="n57001005002" id="SBL.Phlm.1.5.2.1">σου</token>
-     <token clearId="n57001005003" id="SBL.Phlm.1.5.3.1">τὴν</token>
-     <token clearId="n57001005004" id="SBL.Phlm.1.5.4.1">ἀγάπην</token>
-     <token clearId="n57001005005" id="SBL.Phlm.1.5.5.1">καὶ</token>
-     <token clearId="n57001005006" id="SBL.Phlm.1.5.6.1">τὴν</token>
-     <token clearId="n57001005007" id="SBL.Phlm.1.5.7.1">πίστιν</token>
-     <token clearId="n57001005008" id="SBL.Phlm.1.5.8.1">ἣν</token>
-     <token clearId="n57001005009" id="SBL.Phlm.1.5.9.1">ἔχεις</token>
-     <token clearId="n57001005010" id="SBL.Phlm.1.5.10.1">πρὸς</token>
-     <token clearId="n57001005011" id="SBL.Phlm.1.5.11.1">τὸν</token>
-     <token clearId="n57001005012" id="SBL.Phlm.1.5.12.1">κύριον</token>
-     <token clearId="n57001005013" id="SBL.Phlm.1.5.13.1">Ἰησοῦν</token>
-     <token clearId="n57001005014" id="SBL.Phlm.1.5.14.1">καὶ</token>
-     <token clearId="n57001005015" id="SBL.Phlm.1.5.15.1">εἰς</token>
-     <token clearId="n57001005016" id="SBL.Phlm.1.5.16.1">πάντας</token>
-     <token clearId="n57001005017" id="SBL.Phlm.1.5.17.1">τοὺς</token>
-     <token clearId="n57001005018" id="SBL.Phlm.1.5.18.1" after=",">ἁγίους</token>
-     <token clearId="n57001006001" id="SBL.Phlm.1.6.1.1">ὅπως</token>
-     <token clearId="n57001006002" id="SBL.Phlm.1.6.2.1">ἡ</token>
-     <token clearId="n57001006003" id="SBL.Phlm.1.6.3.1">κοινωνία</token>
-     <token clearId="n57001006004" id="SBL.Phlm.1.6.4.1">τῆς</token>
-     <token clearId="n57001006005" id="SBL.Phlm.1.6.5.1">πίστεώς</token>
-     <token clearId="n57001006006" id="SBL.Phlm.1.6.6.1">σου</token>
-     <token clearId="n57001006007" id="SBL.Phlm.1.6.7.1">ἐνεργὴς</token>
-     <token clearId="n57001006008" id="SBL.Phlm.1.6.8.1">γένηται</token>
-     <token clearId="n57001006009" id="SBL.Phlm.1.6.9.1">ἐν</token>
-     <token clearId="n57001006010" id="SBL.Phlm.1.6.10.1">ἐπιγνώσει</token>
-     <token clearId="n57001006011" id="SBL.Phlm.1.6.11.1">παντὸς</token>
-     <token clearId="n57001006012" id="SBL.Phlm.1.6.12.1">ἀγαθοῦ</token>
-     <token clearId="n57001006013" id="SBL.Phlm.1.6.13.1">τοῦ</token>
-     <token clearId="n57001006014" id="SBL.Phlm.1.6.14.1">ἐν</token>
-     <token clearId="n57001006015" id="SBL.Phlm.1.6.15.1">ἡμῖν</token>
-     <token clearId="n57001006016" id="SBL.Phlm.1.6.16.1">εἰς</token>
-     <token clearId="n57001006017" id="SBL.Phlm.1.6.17.1" after="·">Χριστόν</token>
+     <token id="SBL.Phlm.1.4.1" clearId="n57001004001">Εὐχαριστῶ</token>
+     <token id="SBL.Phlm.1.4.2" clearId="n57001004002">τῷ</token>
+     <token id="SBL.Phlm.1.4.3" clearId="n57001004003">θεῷ</token>
+     <token id="SBL.Phlm.1.4.4" clearId="n57001004004">μου</token>
+     <token id="SBL.Phlm.1.4.5" clearId="n57001004005">πάντοτε</token>
+     <token id="SBL.Phlm.1.4.6" clearId="n57001004006">μνείαν</token>
+     <token id="SBL.Phlm.1.4.7" clearId="n57001004007">σου</token>
+     <token id="SBL.Phlm.1.4.8" clearId="n57001004008">ποιούμενος</token>
+     <token id="SBL.Phlm.1.4.9" clearId="n57001004009">ἐπὶ</token>
+     <token id="SBL.Phlm.1.4.10" clearId="n57001004010">τῶν</token>
+     <token id="SBL.Phlm.1.4.11" clearId="n57001004011">προσευχῶν</token>
+     <token id="SBL.Phlm.1.4.12" clearId="n57001004012" after=",">μου</token>
+     <token id="SBL.Phlm.1.5.1" clearId="n57001005001">ἀκούων</token>
+     <token id="SBL.Phlm.1.5.2" clearId="n57001005002">σου</token>
+     <token id="SBL.Phlm.1.5.3" clearId="n57001005003">τὴν</token>
+     <token id="SBL.Phlm.1.5.4" clearId="n57001005004">ἀγάπην</token>
+     <token id="SBL.Phlm.1.5.5" clearId="n57001005005">καὶ</token>
+     <token id="SBL.Phlm.1.5.6" clearId="n57001005006">τὴν</token>
+     <token id="SBL.Phlm.1.5.7" clearId="n57001005007">πίστιν</token>
+     <token id="SBL.Phlm.1.5.8" clearId="n57001005008">ἣν</token>
+     <token id="SBL.Phlm.1.5.9" clearId="n57001005009">ἔχεις</token>
+     <token id="SBL.Phlm.1.5.10" clearId="n57001005010">πρὸς</token>
+     <token id="SBL.Phlm.1.5.11" clearId="n57001005011">τὸν</token>
+     <token id="SBL.Phlm.1.5.12" clearId="n57001005012">κύριον</token>
+     <token id="SBL.Phlm.1.5.13" clearId="n57001005013">Ἰησοῦν</token>
+     <token id="SBL.Phlm.1.5.14" clearId="n57001005014">καὶ</token>
+     <token id="SBL.Phlm.1.5.15" clearId="n57001005015">εἰς</token>
+     <token id="SBL.Phlm.1.5.16" clearId="n57001005016">πάντας</token>
+     <token id="SBL.Phlm.1.5.17" clearId="n57001005017">τοὺς</token>
+     <token id="SBL.Phlm.1.5.18" clearId="n57001005018" after=",">ἁγίους</token>
+     <token id="SBL.Phlm.1.6.1" clearId="n57001006001">ὅπως</token>
+     <token id="SBL.Phlm.1.6.2" clearId="n57001006002">ἡ</token>
+     <token id="SBL.Phlm.1.6.3" clearId="n57001006003">κοινωνία</token>
+     <token id="SBL.Phlm.1.6.4" clearId="n57001006004">τῆς</token>
+     <token id="SBL.Phlm.1.6.5" clearId="n57001006005">πίστεώς</token>
+     <token id="SBL.Phlm.1.6.6" clearId="n57001006006">σου</token>
+     <token id="SBL.Phlm.1.6.7" clearId="n57001006007">ἐνεργὴς</token>
+     <token id="SBL.Phlm.1.6.8" clearId="n57001006008">γένηται</token>
+     <token id="SBL.Phlm.1.6.9" clearId="n57001006009">ἐν</token>
+     <token id="SBL.Phlm.1.6.10" clearId="n57001006010">ἐπιγνώσει</token>
+     <token id="SBL.Phlm.1.6.11" clearId="n57001006011">παντὸς</token>
+     <token id="SBL.Phlm.1.6.12" clearId="n57001006012">ἀγαθοῦ</token>
+     <token id="SBL.Phlm.1.6.13" clearId="n57001006013">τοῦ</token>
+     <token id="SBL.Phlm.1.6.14" clearId="n57001006014">ἐν</token>
+     <token id="SBL.Phlm.1.6.15" clearId="n57001006015">ἡμῖν</token>
+     <token id="SBL.Phlm.1.6.16" clearId="n57001006016">εἰς</token>
+     <token id="SBL.Phlm.1.6.17" clearId="n57001006017" after="·">Χριστόν</token>
     </move>
     <move id="m.SBL.Phlm.1.7" chStart="1" vStart="7" chEnd="1" vEnd="7">
-     <token clearId="n57001007001" id="SBL.Phlm.1.7.1.1">χαρὰν</token>
-     <token clearId="n57001007002" id="SBL.Phlm.1.7.2.1">γὰρ</token>
-     <token clearId="n57001007003" id="SBL.Phlm.1.7.3.1">πολλὴν</token>
-     <token clearId="n57001007004" id="SBL.Phlm.1.7.4.1">ἔσχον</token>
-     <token clearId="n57001007005" id="SBL.Phlm.1.7.5.1">καὶ</token>
-     <token clearId="n57001007006" id="SBL.Phlm.1.7.6.1">παράκλησιν</token>
-     <token clearId="n57001007007" id="SBL.Phlm.1.7.7.1">ἐπὶ</token>
-     <token clearId="n57001007008" id="SBL.Phlm.1.7.8.1">τῇ</token>
-     <token clearId="n57001007009" id="SBL.Phlm.1.7.9.1">ἀγάπῃ</token>
-     <token clearId="n57001007010" id="SBL.Phlm.1.7.10.1" after=",">σου</token>
-     <token clearId="n57001007011" id="SBL.Phlm.1.7.11.1">ὅτι</token>
-     <token clearId="n57001007012" id="SBL.Phlm.1.7.12.1">τὰ</token>
-     <token clearId="n57001007013" id="SBL.Phlm.1.7.13.1">σπλάγχνα</token>
-     <token clearId="n57001007014" id="SBL.Phlm.1.7.14.1">τῶν</token>
-     <token clearId="n57001007015" id="SBL.Phlm.1.7.15.1">ἁγίων</token>
-     <token clearId="n57001007016" id="SBL.Phlm.1.7.16.1">ἀναπέπαυται</token>
-     <token clearId="n57001007017" id="SBL.Phlm.1.7.17.1">διὰ</token>
-     <token clearId="n57001007018" id="SBL.Phlm.1.7.18.1" after=",">σοῦ</token>
-     <token clearId="n57001007019" id="SBL.Phlm.1.7.19.1" after=".">ἀδελφέ</token>
+     <token id="SBL.Phlm.1.7.1" clearId="n57001007001">χαρὰν</token>
+     <token id="SBL.Phlm.1.7.2" clearId="n57001007002">γὰρ</token>
+     <token id="SBL.Phlm.1.7.3" clearId="n57001007003">πολλὴν</token>
+     <token id="SBL.Phlm.1.7.4" clearId="n57001007004">ἔσχον</token>
+     <token id="SBL.Phlm.1.7.5" clearId="n57001007005">καὶ</token>
+     <token id="SBL.Phlm.1.7.6" clearId="n57001007006">παράκλησιν</token>
+     <token id="SBL.Phlm.1.7.7" clearId="n57001007007">ἐπὶ</token>
+     <token id="SBL.Phlm.1.7.8" clearId="n57001007008">τῇ</token>
+     <token id="SBL.Phlm.1.7.9" clearId="n57001007009">ἀγάπῃ</token>
+     <token id="SBL.Phlm.1.7.10" clearId="n57001007010" after=",">σου</token>
+     <token id="SBL.Phlm.1.7.11" clearId="n57001007011">ὅτι</token>
+     <token id="SBL.Phlm.1.7.12" clearId="n57001007012">τὰ</token>
+     <token id="SBL.Phlm.1.7.13" clearId="n57001007013">σπλάγχνα</token>
+     <token id="SBL.Phlm.1.7.14" clearId="n57001007014">τῶν</token>
+     <token id="SBL.Phlm.1.7.15" clearId="n57001007015">ἁγίων</token>
+     <token id="SBL.Phlm.1.7.16" clearId="n57001007016">ἀναπέπαυται</token>
+     <token id="SBL.Phlm.1.7.17" clearId="n57001007017">διὰ</token>
+     <token id="SBL.Phlm.1.7.18" clearId="n57001007018" after=",">σοῦ</token>
+     <token id="SBL.Phlm.1.7.19" clearId="n57001007019" after=".">ἀδελφέ</token>
     </move>
    </seg>
    <seg id="s.SBL.Phlm.1.8-14" title="Paul's Intercession for Onesimus">
     <move id="m.SBL.Phlm.1.8-9" chStart="1" vStart="8" chEnd="1" vEnd="9">
-     <token clearId="n57001008001" id="SBL.Phlm.1.8.1.1" after=",">Διό</token>
-     <token clearId="n57001008002" id="SBL.Phlm.1.8.2.1">πολλὴν</token>
-     <token clearId="n57001008003" id="SBL.Phlm.1.8.3.1">ἐν</token>
-     <token clearId="n57001008004" id="SBL.Phlm.1.8.4.1">Χριστῷ</token>
-     <token clearId="n57001008005" id="SBL.Phlm.1.8.5.1">παρρησίαν</token>
-     <token clearId="n57001008006" id="SBL.Phlm.1.8.6.1">ἔχων</token>
-     <token clearId="n57001008007" id="SBL.Phlm.1.8.7.1">ἐπιτάσσειν</token>
-     <token clearId="n57001008008" id="SBL.Phlm.1.8.8.1">σοι</token>
-     <token clearId="n57001008009" id="SBL.Phlm.1.8.9.1">τὸ</token>
-     <token clearId="n57001008010" id="SBL.Phlm.1.8.10.1" after=",">ἀνῆκον</token>
-     <token clearId="n57001009001" id="SBL.Phlm.1.9.1.1">διὰ</token>
-     <token clearId="n57001009002" id="SBL.Phlm.1.9.2.1">τὴν</token>
-     <token clearId="n57001009003" id="SBL.Phlm.1.9.3.1">ἀγάπην</token>
-     <token clearId="n57001009004" id="SBL.Phlm.1.9.4.1">μᾶλλον</token>
-     <token clearId="n57001009005" id="SBL.Phlm.1.9.5.1" after=",">παρακαλῶ</token>
-     <token clearId="n57001009006" id="SBL.Phlm.1.9.6.1">τοιοῦτος</token>
-     <token clearId="n57001009007" id="SBL.Phlm.1.9.7.1">ὢν</token>
-     <token clearId="n57001009008" id="SBL.Phlm.1.9.8.1">ὡς</token>
-     <token clearId="n57001009009" id="SBL.Phlm.1.9.9.1">Παῦλος</token>
-     <token clearId="n57001009010" id="SBL.Phlm.1.9.10.1">πρεσβύτης</token>
-     <token clearId="n57001009011" id="SBL.Phlm.1.9.11.1">νυνὶ</token>
-     <token clearId="n57001009012" id="SBL.Phlm.1.9.12.1">δὲ</token>
-     <token clearId="n57001009013" id="SBL.Phlm.1.9.13.1">καὶ</token>
-     <token clearId="n57001009014" id="SBL.Phlm.1.9.14.1">δέσμιος</token>
-     <token clearId="n57001009015" id="SBL.Phlm.1.9.15.1">Χριστοῦ</token>
-     <token clearId="n57001009016" id="SBL.Phlm.1.9.16.1" after="—">Ἰησοῦ</token>
+     <token id="SBL.Phlm.1.8.1" clearId="n57001008001" after=",">Διό</token>
+     <token id="SBL.Phlm.1.8.2" clearId="n57001008002">πολλὴν</token>
+     <token id="SBL.Phlm.1.8.3" clearId="n57001008003">ἐν</token>
+     <token id="SBL.Phlm.1.8.4" clearId="n57001008004">Χριστῷ</token>
+     <token id="SBL.Phlm.1.8.5" clearId="n57001008005">παρρησίαν</token>
+     <token id="SBL.Phlm.1.8.6" clearId="n57001008006">ἔχων</token>
+     <token id="SBL.Phlm.1.8.7" clearId="n57001008007">ἐπιτάσσειν</token>
+     <token id="SBL.Phlm.1.8.8" clearId="n57001008008">σοι</token>
+     <token id="SBL.Phlm.1.8.9" clearId="n57001008009">τὸ</token>
+     <token id="SBL.Phlm.1.8.10" clearId="n57001008010" after=",">ἀνῆκον</token>
+     <token id="SBL.Phlm.1.9.1" clearId="n57001009001">διὰ</token>
+     <token id="SBL.Phlm.1.9.2" clearId="n57001009002">τὴν</token>
+     <token id="SBL.Phlm.1.9.3" clearId="n57001009003">ἀγάπην</token>
+     <token id="SBL.Phlm.1.9.4" clearId="n57001009004">μᾶλλον</token>
+     <token id="SBL.Phlm.1.9.5" clearId="n57001009005" after=",">παρακαλῶ</token>
+     <token id="SBL.Phlm.1.9.6" clearId="n57001009006">τοιοῦτος</token>
+     <token id="SBL.Phlm.1.9.7" clearId="n57001009007">ὢν</token>
+     <token id="SBL.Phlm.1.9.8" clearId="n57001009008">ὡς</token>
+     <token id="SBL.Phlm.1.9.9" clearId="n57001009009">Παῦλος</token>
+     <token id="SBL.Phlm.1.9.10" clearId="n57001009010">πρεσβύτης</token>
+     <token id="SBL.Phlm.1.9.11" clearId="n57001009011">νυνὶ</token>
+     <token id="SBL.Phlm.1.9.12" clearId="n57001009012">δὲ</token>
+     <token id="SBL.Phlm.1.9.13" clearId="n57001009013">καὶ</token>
+     <token id="SBL.Phlm.1.9.14" clearId="n57001009014">δέσμιος</token>
+     <token id="SBL.Phlm.1.9.15" clearId="n57001009015">Χριστοῦ</token>
+     <token id="SBL.Phlm.1.9.16" clearId="n57001009016" after="—">Ἰησοῦ</token>
     </move>
     <move id="m.SBL.Phlm.1.10-13" chStart="1" vStart="10" chEnd="1" vEnd="13">
-     <token clearId="n57001010001" id="SBL.Phlm.1.10.1.1">παρακαλῶ</token>
-     <token clearId="n57001010002" id="SBL.Phlm.1.10.2.1">σε</token>
-     <token clearId="n57001010003" id="SBL.Phlm.1.10.3.1">περὶ</token>
-     <token clearId="n57001010004" id="SBL.Phlm.1.10.4.1">τοῦ</token>
-     <token clearId="n57001010005" id="SBL.Phlm.1.10.5.1">ἐμοῦ</token>
-     <token clearId="n57001010006" id="SBL.Phlm.1.10.6.1" after=",">τέκνου</token>
-     <token clearId="n57001010007" id="SBL.Phlm.1.10.7.1">ὃν</token>
-     <token clearId="n57001010008" id="SBL.Phlm.1.10.8.1">ἐγέννησα</token>
-     <token clearId="n57001010009" id="SBL.Phlm.1.10.9.1">ἐν</token>
-     <token clearId="n57001010010" id="SBL.Phlm.1.10.10.1">τοῖς</token>
-     <token clearId="n57001010011" id="SBL.Phlm.1.10.11.1">δεσμοῖς</token>
-     <token clearId="n57001010012" id="SBL.Phlm.1.10.12.1" after=",">Ὀνήσιμον</token>
-     <token clearId="n57001011001" id="SBL.Phlm.1.11.1.1">τόν</token>
-     <token clearId="n57001011002" id="SBL.Phlm.1.11.2.1">ποτέ</token>
-     <token clearId="n57001011003" id="SBL.Phlm.1.11.3.1">σοι</token>
-     <token clearId="n57001011004" id="SBL.Phlm.1.11.4.1">ἄχρηστον</token>
-     <token clearId="n57001011005" id="SBL.Phlm.1.11.5.1">νυνὶ</token>
-     <token clearId="n57001011006" id="SBL.Phlm.1.11.6.1">δὲ</token>
-     <token clearId="n57001011007" id="SBL.Phlm.1.11.7.1">σοὶ</token>
-     <token clearId="n57001011008" id="SBL.Phlm.1.11.8.1">καὶ</token>
-     <token clearId="n57001011009" id="SBL.Phlm.1.11.9.1">ἐμοὶ</token>
-     <token clearId="n57001011010" id="SBL.Phlm.1.11.10.1" after=",">εὔχρηστον</token>
-     <token clearId="n57001012001" id="SBL.Phlm.1.12.1.1">ὃν</token>
-     <token clearId="n57001012002" id="SBL.Phlm.1.12.2.1">ἀνέπεμψά</token>
-     <token clearId="n57001012003" id="SBL.Phlm.1.12.3.1">σοι</token>
-     <token clearId="n57001012004" id="SBL.Phlm.1.12.4.1" after=",">αὐτόν</token>
-     <token clearId="n57001012005" id="SBL.Phlm.1.12.5.1">τοῦτ’</token>
-     <token clearId="n57001012006" id="SBL.Phlm.1.12.6.1">ἔστιν</token>
-     <token clearId="n57001012007" id="SBL.Phlm.1.12.7.1">τὰ</token>
-     <token clearId="n57001012008" id="SBL.Phlm.1.12.8.1">ἐμὰ</token>
-     <token clearId="n57001012009" id="SBL.Phlm.1.12.9.1" after="·">σπλάγχνα</token>
-     <token clearId="n57001013001" id="SBL.Phlm.1.13.1.1">ὃν</token>
-     <token clearId="n57001013002" id="SBL.Phlm.1.13.2.1">ἐγὼ</token>
-     <token clearId="n57001013003" id="SBL.Phlm.1.13.3.1">ἐβουλόμην</token>
-     <token clearId="n57001013004" id="SBL.Phlm.1.13.4.1">πρὸς</token>
-     <token clearId="n57001013005" id="SBL.Phlm.1.13.5.1">ἐμαυτὸν</token>
-     <token clearId="n57001013006" id="SBL.Phlm.1.13.6.1" after=",">κατέχειν</token>
-     <token clearId="n57001013007" id="SBL.Phlm.1.13.7.1">ἵνα</token>
-     <token clearId="n57001013008" id="SBL.Phlm.1.13.8.1">ὑπὲρ</token>
-     <token clearId="n57001013009" id="SBL.Phlm.1.13.9.1">σοῦ</token>
-     <token clearId="n57001013010" id="SBL.Phlm.1.13.10.1">μοι</token>
-     <token clearId="n57001013011" id="SBL.Phlm.1.13.11.1">διακονῇ</token>
-     <token clearId="n57001013012" id="SBL.Phlm.1.13.12.1">ἐν</token>
-     <token clearId="n57001013013" id="SBL.Phlm.1.13.13.1">τοῖς</token>
-     <token clearId="n57001013014" id="SBL.Phlm.1.13.14.1">δεσμοῖς</token>
-     <token clearId="n57001013015" id="SBL.Phlm.1.13.15.1">τοῦ</token>
-     <token clearId="n57001013016" id="SBL.Phlm.1.13.16.1" after=",">εὐαγγελίου</token>
+     <token id="SBL.Phlm.1.10.1" clearId="n57001010001">παρακαλῶ</token>
+     <token id="SBL.Phlm.1.10.2" clearId="n57001010002">σε</token>
+     <token id="SBL.Phlm.1.10.3" clearId="n57001010003">περὶ</token>
+     <token id="SBL.Phlm.1.10.4" clearId="n57001010004">τοῦ</token>
+     <token id="SBL.Phlm.1.10.5" clearId="n57001010005">ἐμοῦ</token>
+     <token id="SBL.Phlm.1.10.6" clearId="n57001010006" after=",">τέκνου</token>
+     <token id="SBL.Phlm.1.10.7" clearId="n57001010007">ὃν</token>
+     <token id="SBL.Phlm.1.10.8" clearId="n57001010008">ἐγέννησα</token>
+     <token id="SBL.Phlm.1.10.9" clearId="n57001010009">ἐν</token>
+     <token id="SBL.Phlm.1.10.10" clearId="n57001010010">τοῖς</token>
+     <token id="SBL.Phlm.1.10.11" clearId="n57001010011">δεσμοῖς</token>
+     <token id="SBL.Phlm.1.10.12" clearId="n57001010012" after=",">Ὀνήσιμον</token>
+     <token id="SBL.Phlm.1.11.1" clearId="n57001011001">τόν</token>
+     <token id="SBL.Phlm.1.11.2" clearId="n57001011002">ποτέ</token>
+     <token id="SBL.Phlm.1.11.3" clearId="n57001011003">σοι</token>
+     <token id="SBL.Phlm.1.11.4" clearId="n57001011004">ἄχρηστον</token>
+     <token id="SBL.Phlm.1.11.5" clearId="n57001011005">νυνὶ</token>
+     <token id="SBL.Phlm.1.11.6" clearId="n57001011006">δὲ</token>
+     <token id="SBL.Phlm.1.11.7" clearId="n57001011007">σοὶ</token>
+     <token id="SBL.Phlm.1.11.8" clearId="n57001011008">καὶ</token>
+     <token id="SBL.Phlm.1.11.9" clearId="n57001011009">ἐμοὶ</token>
+     <token id="SBL.Phlm.1.11.10" clearId="n57001011010" after=",">εὔχρηστον</token>
+     <token id="SBL.Phlm.1.12.1" clearId="n57001012001">ὃν</token>
+     <token id="SBL.Phlm.1.12.2" clearId="n57001012002">ἀνέπεμψά</token>
+     <token id="SBL.Phlm.1.12.3" clearId="n57001012003">σοι</token>
+     <token id="SBL.Phlm.1.12.4" clearId="n57001012004" after=",">αὐτόν</token>
+     <token id="SBL.Phlm.1.12.5" clearId="n57001012005">τοῦτ’</token>
+     <token id="SBL.Phlm.1.12.6" clearId="n57001012006">ἔστιν</token>
+     <token id="SBL.Phlm.1.12.7" clearId="n57001012007">τὰ</token>
+     <token id="SBL.Phlm.1.12.8" clearId="n57001012008">ἐμὰ</token>
+     <token id="SBL.Phlm.1.12.9" clearId="n57001012009" after="·">σπλάγχνα</token>
+     <token id="SBL.Phlm.1.13.1" clearId="n57001013001">ὃν</token>
+     <token id="SBL.Phlm.1.13.2" clearId="n57001013002">ἐγὼ</token>
+     <token id="SBL.Phlm.1.13.3" clearId="n57001013003">ἐβουλόμην</token>
+     <token id="SBL.Phlm.1.13.4" clearId="n57001013004">πρὸς</token>
+     <token id="SBL.Phlm.1.13.5" clearId="n57001013005">ἐμαυτὸν</token>
+     <token id="SBL.Phlm.1.13.6" clearId="n57001013006" after=",">κατέχειν</token>
+     <token id="SBL.Phlm.1.13.7" clearId="n57001013007">ἵνα</token>
+     <token id="SBL.Phlm.1.13.8" clearId="n57001013008">ὑπὲρ</token>
+     <token id="SBL.Phlm.1.13.9" clearId="n57001013009">σοῦ</token>
+     <token id="SBL.Phlm.1.13.10" clearId="n57001013010">μοι</token>
+     <token id="SBL.Phlm.1.13.11" clearId="n57001013011">διακονῇ</token>
+     <token id="SBL.Phlm.1.13.12" clearId="n57001013012">ἐν</token>
+     <token id="SBL.Phlm.1.13.13" clearId="n57001013013">τοῖς</token>
+     <token id="SBL.Phlm.1.13.14" clearId="n57001013014">δεσμοῖς</token>
+     <token id="SBL.Phlm.1.13.15" clearId="n57001013015">τοῦ</token>
+     <token id="SBL.Phlm.1.13.16" clearId="n57001013016" after=",">εὐαγγελίου</token>
     </move>
     <move id="m.SBL.Phlm.1.14" chStart="1" vStart="14" chEnd="1" vEnd="14">
-     <token clearId="n57001014001" id="SBL.Phlm.1.14.1.1">χωρὶς</token>
-     <token clearId="n57001014002" id="SBL.Phlm.1.14.2.1">δὲ</token>
-     <token clearId="n57001014003" id="SBL.Phlm.1.14.3.1">τῆς</token>
-     <token clearId="n57001014004" id="SBL.Phlm.1.14.4.1">σῆς</token>
-     <token clearId="n57001014005" id="SBL.Phlm.1.14.5.1">γνώμης</token>
-     <token clearId="n57001014006" id="SBL.Phlm.1.14.6.1">οὐδὲν</token>
-     <token clearId="n57001014007" id="SBL.Phlm.1.14.7.1">ἠθέλησα</token>
-     <token clearId="n57001014008" id="SBL.Phlm.1.14.8.1" after=",">ποιῆσαι</token>
-     <token clearId="n57001014009" id="SBL.Phlm.1.14.9.1">ἵνα</token>
-     <token clearId="n57001014010" id="SBL.Phlm.1.14.10.1">μὴ</token>
-     <token clearId="n57001014011" id="SBL.Phlm.1.14.11.1">ὡς</token>
-     <token clearId="n57001014012" id="SBL.Phlm.1.14.12.1">κατὰ</token>
-     <token clearId="n57001014013" id="SBL.Phlm.1.14.13.1">ἀνάγκην</token>
-     <token clearId="n57001014014" id="SBL.Phlm.1.14.14.1">τὸ</token>
-     <token clearId="n57001014015" id="SBL.Phlm.1.14.15.1">ἀγαθόν</token>
-     <token clearId="n57001014016" id="SBL.Phlm.1.14.16.1">σου</token>
-     <token clearId="n57001014017" id="SBL.Phlm.1.14.17.1">ᾖ</token>
-     <token clearId="n57001014018" id="SBL.Phlm.1.14.18.1">ἀλλὰ</token>
-     <token clearId="n57001014019" id="SBL.Phlm.1.14.19.1">κατὰ</token>
-     <token clearId="n57001014020" id="SBL.Phlm.1.14.20.1" after="·">ἑκούσιον</token>
+     <token id="SBL.Phlm.1.14.1" clearId="n57001014001">χωρὶς</token>
+     <token id="SBL.Phlm.1.14.2" clearId="n57001014002">δὲ</token>
+     <token id="SBL.Phlm.1.14.3" clearId="n57001014003">τῆς</token>
+     <token id="SBL.Phlm.1.14.4" clearId="n57001014004">σῆς</token>
+     <token id="SBL.Phlm.1.14.5" clearId="n57001014005">γνώμης</token>
+     <token id="SBL.Phlm.1.14.6" clearId="n57001014006">οὐδὲν</token>
+     <token id="SBL.Phlm.1.14.7" clearId="n57001014007">ἠθέλησα</token>
+     <token id="SBL.Phlm.1.14.8" clearId="n57001014008" after=",">ποιῆσαι</token>
+     <token id="SBL.Phlm.1.14.9" clearId="n57001014009">ἵνα</token>
+     <token id="SBL.Phlm.1.14.10" clearId="n57001014010">μὴ</token>
+     <token id="SBL.Phlm.1.14.11" clearId="n57001014011">ὡς</token>
+     <token id="SBL.Phlm.1.14.12" clearId="n57001014012">κατὰ</token>
+     <token id="SBL.Phlm.1.14.13" clearId="n57001014013">ἀνάγκην</token>
+     <token id="SBL.Phlm.1.14.14" clearId="n57001014014">τὸ</token>
+     <token id="SBL.Phlm.1.14.15" clearId="n57001014015">ἀγαθόν</token>
+     <token id="SBL.Phlm.1.14.16" clearId="n57001014016">σου</token>
+     <token id="SBL.Phlm.1.14.17" clearId="n57001014017">ᾖ</token>
+     <token id="SBL.Phlm.1.14.18" clearId="n57001014018">ἀλλὰ</token>
+     <token id="SBL.Phlm.1.14.19" clearId="n57001014019">κατὰ</token>
+     <token id="SBL.Phlm.1.14.20" clearId="n57001014020" after="·">ἑκούσιον</token>
     </move>
    </seg>
    <seg id="s.SBL.Phlm.1.15-20" title="Another Point Urged by the Apostle">
     <move id="m.SBL.Phlm.1.15-16" chStart="1" vStart="15" chEnd="1" vEnd="16">
-     <token clearId="n57001015001" id="SBL.Phlm.1.15.1.1">τάχα</token>
-     <token clearId="n57001015002" id="SBL.Phlm.1.15.2.1">γὰρ</token>
-     <token clearId="n57001015003" id="SBL.Phlm.1.15.3.1">διὰ</token>
-     <token clearId="n57001015004" id="SBL.Phlm.1.15.4.1">τοῦτο</token>
-     <token clearId="n57001015005" id="SBL.Phlm.1.15.5.1">ἐχωρίσθη</token>
-     <token clearId="n57001015006" id="SBL.Phlm.1.15.6.1">πρὸς</token>
-     <token clearId="n57001015007" id="SBL.Phlm.1.15.7.1">ὥραν</token>
-     <token clearId="n57001015008" id="SBL.Phlm.1.15.8.1">ἵνα</token>
-     <token clearId="n57001015009" id="SBL.Phlm.1.15.9.1">αἰώνιον</token>
-     <token clearId="n57001015010" id="SBL.Phlm.1.15.10.1">αὐτὸν</token>
-     <token clearId="n57001015011" id="SBL.Phlm.1.15.11.1" after=",">ἀπέχῃς</token>
-     <token clearId="n57001016001" id="SBL.Phlm.1.16.1.1">οὐκέτι</token>
-     <token clearId="n57001016002" id="SBL.Phlm.1.16.2.1">ὡς</token>
-     <token clearId="n57001016003" id="SBL.Phlm.1.16.3.1">δοῦλον</token>
-     <token clearId="n57001016004" id="SBL.Phlm.1.16.4.1">ἀλλὰ</token>
-     <token clearId="n57001016005" id="SBL.Phlm.1.16.5.1">ὑπὲρ</token>
-     <token clearId="n57001016006" id="SBL.Phlm.1.16.6.1" after=",">δοῦλον</token>
-     <token clearId="n57001016007" id="SBL.Phlm.1.16.7.1">ἀδελφὸν</token>
-     <token clearId="n57001016008" id="SBL.Phlm.1.16.8.1" after=",">ἀγαπητόν</token>
-     <token clearId="n57001016009" id="SBL.Phlm.1.16.9.1">μάλιστα</token>
-     <token clearId="n57001016010" id="SBL.Phlm.1.16.10.1" after=",">ἐμοί</token>
-     <token clearId="n57001016011" id="SBL.Phlm.1.16.11.1">πόσῳ</token>
-     <token clearId="n57001016012" id="SBL.Phlm.1.16.12.1">δὲ</token>
-     <token clearId="n57001016013" id="SBL.Phlm.1.16.13.1">μᾶλλον</token>
-     <token clearId="n57001016014" id="SBL.Phlm.1.16.14.1">σοὶ</token>
-     <token clearId="n57001016015" id="SBL.Phlm.1.16.15.1">καὶ</token>
-     <token clearId="n57001016016" id="SBL.Phlm.1.16.16.1">ἐν</token>
-     <token clearId="n57001016017" id="SBL.Phlm.1.16.17.1">σαρκὶ</token>
-     <token clearId="n57001016018" id="SBL.Phlm.1.16.18.1">καὶ</token>
-     <token clearId="n57001016019" id="SBL.Phlm.1.16.19.1">ἐν</token>
-     <token clearId="n57001016020" id="SBL.Phlm.1.16.20.1" after=".">κυρίῳ</token>
+     <token id="SBL.Phlm.1.15.1" clearId="n57001015001">τάχα</token>
+     <token id="SBL.Phlm.1.15.2" clearId="n57001015002">γὰρ</token>
+     <token id="SBL.Phlm.1.15.3" clearId="n57001015003">διὰ</token>
+     <token id="SBL.Phlm.1.15.4" clearId="n57001015004">τοῦτο</token>
+     <token id="SBL.Phlm.1.15.5" clearId="n57001015005">ἐχωρίσθη</token>
+     <token id="SBL.Phlm.1.15.6" clearId="n57001015006">πρὸς</token>
+     <token id="SBL.Phlm.1.15.7" clearId="n57001015007">ὥραν</token>
+     <token id="SBL.Phlm.1.15.8" clearId="n57001015008">ἵνα</token>
+     <token id="SBL.Phlm.1.15.9" clearId="n57001015009">αἰώνιον</token>
+     <token id="SBL.Phlm.1.15.10" clearId="n57001015010">αὐτὸν</token>
+     <token id="SBL.Phlm.1.15.11" clearId="n57001015011" after=",">ἀπέχῃς</token>
+     <token id="SBL.Phlm.1.16.1" clearId="n57001016001">οὐκέτι</token>
+     <token id="SBL.Phlm.1.16.2" clearId="n57001016002">ὡς</token>
+     <token id="SBL.Phlm.1.16.3" clearId="n57001016003">δοῦλον</token>
+     <token id="SBL.Phlm.1.16.4" clearId="n57001016004">ἀλλὰ</token>
+     <token id="SBL.Phlm.1.16.5" clearId="n57001016005">ὑπὲρ</token>
+     <token id="SBL.Phlm.1.16.6" clearId="n57001016006" after=",">δοῦλον</token>
+     <token id="SBL.Phlm.1.16.7" clearId="n57001016007">ἀδελφὸν</token>
+     <token id="SBL.Phlm.1.16.8" clearId="n57001016008" after=",">ἀγαπητόν</token>
+     <token id="SBL.Phlm.1.16.9" clearId="n57001016009">μάλιστα</token>
+     <token id="SBL.Phlm.1.16.10" clearId="n57001016010" after=",">ἐμοί</token>
+     <token id="SBL.Phlm.1.16.11" clearId="n57001016011">πόσῳ</token>
+     <token id="SBL.Phlm.1.16.12" clearId="n57001016012">δὲ</token>
+     <token id="SBL.Phlm.1.16.13" clearId="n57001016013">μᾶλλον</token>
+     <token id="SBL.Phlm.1.16.14" clearId="n57001016014">σοὶ</token>
+     <token id="SBL.Phlm.1.16.15" clearId="n57001016015">καὶ</token>
+     <token id="SBL.Phlm.1.16.16" clearId="n57001016016">ἐν</token>
+     <token id="SBL.Phlm.1.16.17" clearId="n57001016017">σαρκὶ</token>
+     <token id="SBL.Phlm.1.16.18" clearId="n57001016018">καὶ</token>
+     <token id="SBL.Phlm.1.16.19" clearId="n57001016019">ἐν</token>
+     <token id="SBL.Phlm.1.16.20" clearId="n57001016020" after=".">κυρίῳ</token>
     </move>
     <move id="m.SBL.Phlm.1.17" chStart="1" vStart="17" chEnd="1" vEnd="17">
-     <token clearId="n57001017001" id="SBL.Phlm.1.17.1.1">Εἰ</token>
-     <token clearId="n57001017002" id="SBL.Phlm.1.17.2.1">οὖν</token>
-     <token clearId="n57001017003" id="SBL.Phlm.1.17.3.1">με</token>
-     <token clearId="n57001017004" id="SBL.Phlm.1.17.4.1">ἔχεις</token>
-     <token clearId="n57001017005" id="SBL.Phlm.1.17.5.1" after=",">κοινωνόν</token>
-     <token clearId="n57001017006" id="SBL.Phlm.1.17.6.1">προσλαβοῦ</token>
-     <token clearId="n57001017007" id="SBL.Phlm.1.17.7.1">αὐτὸν</token>
-     <token clearId="n57001017008" id="SBL.Phlm.1.17.8.1">ὡς</token>
-     <token clearId="n57001017009" id="SBL.Phlm.1.17.9.1" after=".">ἐμέ</token>
+     <token id="SBL.Phlm.1.17.1" clearId="n57001017001">Εἰ</token>
+     <token id="SBL.Phlm.1.17.2" clearId="n57001017002">οὖν</token>
+     <token id="SBL.Phlm.1.17.3" clearId="n57001017003">με</token>
+     <token id="SBL.Phlm.1.17.4" clearId="n57001017004">ἔχεις</token>
+     <token id="SBL.Phlm.1.17.5" clearId="n57001017005" after=",">κοινωνόν</token>
+     <token id="SBL.Phlm.1.17.6" clearId="n57001017006">προσλαβοῦ</token>
+     <token id="SBL.Phlm.1.17.7" clearId="n57001017007">αὐτὸν</token>
+     <token id="SBL.Phlm.1.17.8" clearId="n57001017008">ὡς</token>
+     <token id="SBL.Phlm.1.17.9" clearId="n57001017009" after=".">ἐμέ</token>
     </move>
     <move id="m.SBL.Phlm.1.18" chStart="1" vStart="18" chEnd="1" vEnd="18">
-     <token clearId="n57001018001" id="SBL.Phlm.1.18.1.1">εἰ</token>
-     <token clearId="n57001018002" id="SBL.Phlm.1.18.2.1">δέ</token>
-     <token clearId="n57001018003" id="SBL.Phlm.1.18.3.1">τι</token>
-     <token clearId="n57001018004" id="SBL.Phlm.1.18.4.1">ἠδίκησέν</token>
-     <token clearId="n57001018005" id="SBL.Phlm.1.18.5.1">σε</token>
-     <token clearId="n57001018006" id="SBL.Phlm.1.18.6.1">ἢ</token>
-     <token clearId="n57001018007" id="SBL.Phlm.1.18.7.1" after=",">ὀφείλει</token>
-     <token clearId="n57001018008" id="SBL.Phlm.1.18.8.1">τοῦτο</token>
-     <token clearId="n57001018009" id="SBL.Phlm.1.18.9.1">ἐμοὶ</token>
-     <token clearId="n57001018010" id="SBL.Phlm.1.18.10.1" after="·">ἐλλόγα</token>
+     <token id="SBL.Phlm.1.18.1" clearId="n57001018001">εἰ</token>
+     <token id="SBL.Phlm.1.18.2" clearId="n57001018002">δέ</token>
+     <token id="SBL.Phlm.1.18.3" clearId="n57001018003">τι</token>
+     <token id="SBL.Phlm.1.18.4" clearId="n57001018004">ἠδίκησέν</token>
+     <token id="SBL.Phlm.1.18.5" clearId="n57001018005">σε</token>
+     <token id="SBL.Phlm.1.18.6" clearId="n57001018006">ἢ</token>
+     <token id="SBL.Phlm.1.18.7" clearId="n57001018007" after=",">ὀφείλει</token>
+     <token id="SBL.Phlm.1.18.8" clearId="n57001018008">τοῦτο</token>
+     <token id="SBL.Phlm.1.18.9" clearId="n57001018009">ἐμοὶ</token>
+     <token id="SBL.Phlm.1.18.10" clearId="n57001018010" after="·">ἐλλόγα</token>
     </move>
     <move id="m.SBL.Phlm.1.19" chStart="1" vStart="19" chEnd="1" vEnd="19">
-     <token clearId="n57001019001" id="SBL.Phlm.1.19.1.1">ἐγὼ</token>
-     <token clearId="n57001019002" id="SBL.Phlm.1.19.2.1">Παῦλος</token>
-     <token clearId="n57001019003" id="SBL.Phlm.1.19.3.1">ἔγραψα</token>
-     <token clearId="n57001019004" id="SBL.Phlm.1.19.4.1">τῇ</token>
-     <token clearId="n57001019005" id="SBL.Phlm.1.19.5.1">ἐμῇ</token>
-     <token clearId="n57001019006" id="SBL.Phlm.1.19.6.1" after=",">χειρί</token>
-     <token clearId="n57001019007" id="SBL.Phlm.1.19.7.1">ἐγὼ</token>
-     <token clearId="n57001019008" id="SBL.Phlm.1.19.8.1" after="·">ἀποτίσω</token>
-     <token clearId="n57001019009" id="SBL.Phlm.1.19.9.1">ἵνα</token>
-     <token clearId="n57001019010" id="SBL.Phlm.1.19.10.1">μὴ</token>
-     <token clearId="n57001019011" id="SBL.Phlm.1.19.11.1">λέγω</token>
-     <token clearId="n57001019012" id="SBL.Phlm.1.19.12.1">σοι</token>
-     <token clearId="n57001019013" id="SBL.Phlm.1.19.13.1">ὅτι</token>
+     <token id="SBL.Phlm.1.19.1" clearId="n57001019001">ἐγὼ</token>
+     <token id="SBL.Phlm.1.19.2" clearId="n57001019002">Παῦλος</token>
+     <token id="SBL.Phlm.1.19.3" clearId="n57001019003">ἔγραψα</token>
+     <token id="SBL.Phlm.1.19.4" clearId="n57001019004">τῇ</token>
+     <token id="SBL.Phlm.1.19.5" clearId="n57001019005">ἐμῇ</token>
+     <token id="SBL.Phlm.1.19.6" clearId="n57001019006" after=",">χειρί</token>
+     <token id="SBL.Phlm.1.19.7" clearId="n57001019007">ἐγὼ</token>
+     <token id="SBL.Phlm.1.19.8" clearId="n57001019008" after="·">ἀποτίσω</token>
+     <token id="SBL.Phlm.1.19.9" clearId="n57001019009">ἵνα</token>
+     <token id="SBL.Phlm.1.19.10" clearId="n57001019010">μὴ</token>
+     <token id="SBL.Phlm.1.19.11" clearId="n57001019011">λέγω</token>
+     <token id="SBL.Phlm.1.19.12" clearId="n57001019012">σοι</token>
+     <token id="SBL.Phlm.1.19.13" clearId="n57001019013">ὅτι</token>
      <turn depth="2" id="t.SBL.Phlm.1.19.14-17" chStart="1" vStart="19" chEnd="1" vEnd="19">
       <move id="m.SBL.Phlm.1.19.14-17" chStart="1" vStart="19" chEnd="1" vEnd="19">
-       <token clearId="n57001019014" id="SBL.Phlm.1.19.14.1">καὶ</token>
-       <token clearId="n57001019015" id="SBL.Phlm.1.19.15.1">σεαυτόν</token>
-       <token clearId="n57001019016" id="SBL.Phlm.1.19.16.1">μοι</token>
-       <token clearId="n57001019017" id="SBL.Phlm.1.19.17.1" after=".">προσοφείλεις</token>
+       <token id="SBL.Phlm.1.19.14" clearId="n57001019014">καὶ</token>
+       <token id="SBL.Phlm.1.19.15" clearId="n57001019015">σεαυτόν</token>
+       <token id="SBL.Phlm.1.19.16" clearId="n57001019016">μοι</token>
+       <token id="SBL.Phlm.1.19.17" clearId="n57001019017" after=".">προσοφείλεις</token>
       </move>
      </turn>
     </move>
     <move id="m.SBL.Phlm.1.20.1-7" chStart="1" vStart="20" chEnd="1" vEnd="20">
-     <token clearId="n57001020001" id="SBL.Phlm.1.20.1.1" after=",">ναί</token>
-     <token clearId="n57001020002" id="SBL.Phlm.1.20.2.1" after=",">ἀδελφέ</token>
-     <token clearId="n57001020003" id="SBL.Phlm.1.20.3.1">ἐγώ</token>
-     <token clearId="n57001020004" id="SBL.Phlm.1.20.4.1">σου</token>
-     <token clearId="n57001020005" id="SBL.Phlm.1.20.5.1">ὀναίμην</token>
-     <token clearId="n57001020006" id="SBL.Phlm.1.20.6.1">ἐν</token>
-     <token clearId="n57001020007" id="SBL.Phlm.1.20.7.1" after="·">κυρίῳ</token>
+     <token id="SBL.Phlm.1.20.1" clearId="n57001020001" after=",">ναί</token>
+     <token id="SBL.Phlm.1.20.2" clearId="n57001020002" after=",">ἀδελφέ</token>
+     <token id="SBL.Phlm.1.20.3" clearId="n57001020003">ἐγώ</token>
+     <token id="SBL.Phlm.1.20.4" clearId="n57001020004">σου</token>
+     <token id="SBL.Phlm.1.20.5" clearId="n57001020005">ὀναίμην</token>
+     <token id="SBL.Phlm.1.20.6" clearId="n57001020006">ἐν</token>
+     <token id="SBL.Phlm.1.20.7" clearId="n57001020007" after="·">κυρίῳ</token>
     </move>
     <move id="m.SBL.Phlm.1.20.8-13" chStart="1" vStart="20" chEnd="1" vEnd="20">
-     <token clearId="n57001020008" id="SBL.Phlm.1.20.8.1">ἀνάπαυσόν</token>
-     <token clearId="n57001020009" id="SBL.Phlm.1.20.9.1">μου</token>
-     <token clearId="n57001020010" id="SBL.Phlm.1.20.10.1">τὰ</token>
-     <token clearId="n57001020011" id="SBL.Phlm.1.20.11.1">σπλάγχνα</token>
-     <token clearId="n57001020012" id="SBL.Phlm.1.20.12.1">ἐν</token>
-     <token clearId="n57001020013" id="SBL.Phlm.1.20.13.1" after=".">Χριστῷ</token>
+     <token id="SBL.Phlm.1.20.8" clearId="n57001020008">ἀνάπαυσόν</token>
+     <token id="SBL.Phlm.1.20.9" clearId="n57001020009">μου</token>
+     <token id="SBL.Phlm.1.20.10" clearId="n57001020010">τὰ</token>
+     <token id="SBL.Phlm.1.20.11" clearId="n57001020011">σπλάγχνα</token>
+     <token id="SBL.Phlm.1.20.12" clearId="n57001020012">ἐν</token>
+     <token id="SBL.Phlm.1.20.13" clearId="n57001020013" after=".">Χριστῷ</token>
     </move>
    </seg>
    <seg id="s.SBL.Phlm.1.21-25" title="Concluding Remarks and Greeting">
     <move id="m.SBL.Phlm.1.21" chStart="1" vStart="21" chEnd="1" vEnd="21">
-     <token clearId="n57001021001" id="SBL.Phlm.1.21.1.1">πεποιθὼς</token>
-     <token clearId="n57001021002" id="SBL.Phlm.1.21.2.1">τῇ</token>
-     <token clearId="n57001021003" id="SBL.Phlm.1.21.3.1">ὑπακοῇ</token>
-     <token clearId="n57001021004" id="SBL.Phlm.1.21.4.1">σου</token>
-     <token clearId="n57001021005" id="SBL.Phlm.1.21.5.1">ἔγραψά</token>
-     <token clearId="n57001021006" id="SBL.Phlm.1.21.6.1" after=",">σοι</token>
-     <token clearId="n57001021007" id="SBL.Phlm.1.21.7.1">εἰδὼς</token>
-     <token clearId="n57001021008" id="SBL.Phlm.1.21.8.1">ὅτι</token>
-     <token clearId="n57001021009" id="SBL.Phlm.1.21.9.1">καὶ</token>
-     <token clearId="n57001021010" id="SBL.Phlm.1.21.10.1">ὑπὲρ</token>
-     <token clearId="n57001021011" id="SBL.Phlm.1.21.11.1">ἃ</token>
-     <token clearId="n57001021012" id="SBL.Phlm.1.21.12.1">λέγω</token>
-     <token clearId="n57001021013" id="SBL.Phlm.1.21.13.1" after=".">ποιήσεις</token>
+     <token id="SBL.Phlm.1.21.1" clearId="n57001021001">πεποιθὼς</token>
+     <token id="SBL.Phlm.1.21.2" clearId="n57001021002">τῇ</token>
+     <token id="SBL.Phlm.1.21.3" clearId="n57001021003">ὑπακοῇ</token>
+     <token id="SBL.Phlm.1.21.4" clearId="n57001021004">σου</token>
+     <token id="SBL.Phlm.1.21.5" clearId="n57001021005">ἔγραψά</token>
+     <token id="SBL.Phlm.1.21.6" clearId="n57001021006" after=",">σοι</token>
+     <token id="SBL.Phlm.1.21.7" clearId="n57001021007">εἰδὼς</token>
+     <token id="SBL.Phlm.1.21.8" clearId="n57001021008">ὅτι</token>
+     <token id="SBL.Phlm.1.21.9" clearId="n57001021009">καὶ</token>
+     <token id="SBL.Phlm.1.21.10" clearId="n57001021010">ὑπὲρ</token>
+     <token id="SBL.Phlm.1.21.11" clearId="n57001021011">ἃ</token>
+     <token id="SBL.Phlm.1.21.12" clearId="n57001021012">λέγω</token>
+     <token id="SBL.Phlm.1.21.13" clearId="n57001021013" after=".">ποιήσεις</token>
     </move>
     <move id="m.SBL.Phlm.1.22.1-6" chStart="1" vStart="22" chEnd="1" vEnd="22">
-     <token clearId="n57001022001" id="SBL.Phlm.1.22.1.1">ἅμα</token>
-     <token clearId="n57001022002" id="SBL.Phlm.1.22.2.1">δὲ</token>
-     <token clearId="n57001022003" id="SBL.Phlm.1.22.3.1">καὶ</token>
-     <token clearId="n57001022004" id="SBL.Phlm.1.22.4.1">ἑτοίμαζέ</token>
-     <token clearId="n57001022005" id="SBL.Phlm.1.22.5.1">μοι</token>
-     <token clearId="n57001022006" id="SBL.Phlm.1.22.6.1" after=",">ξενίαν</token>
+     <token id="SBL.Phlm.1.22.1" clearId="n57001022001">ἅμα</token>
+     <token id="SBL.Phlm.1.22.2" clearId="n57001022002">δὲ</token>
+     <token id="SBL.Phlm.1.22.3" clearId="n57001022003">καὶ</token>
+     <token id="SBL.Phlm.1.22.4" clearId="n57001022004">ἑτοίμαζέ</token>
+     <token id="SBL.Phlm.1.22.5" clearId="n57001022005">μοι</token>
+     <token id="SBL.Phlm.1.22.6" clearId="n57001022006" after=",">ξενίαν</token>
     </move>
     <move id="m.SBL.Phlm.1.22.7-15" chStart="1" vStart="22" chEnd="1" vEnd="22">
-     <token clearId="n57001022007" id="SBL.Phlm.1.22.7.1">ἐλπίζω</token>
-     <token clearId="n57001022008" id="SBL.Phlm.1.22.8.1">γὰρ</token>
-     <token clearId="n57001022009" id="SBL.Phlm.1.22.9.1">ὅτι</token>
-     <token clearId="n57001022010" id="SBL.Phlm.1.22.10.1">διὰ</token>
-     <token clearId="n57001022011" id="SBL.Phlm.1.22.11.1">τῶν</token>
-     <token clearId="n57001022012" id="SBL.Phlm.1.22.12.1">προσευχῶν</token>
-     <token clearId="n57001022013" id="SBL.Phlm.1.22.13.1">ὑμῶν</token>
-     <token clearId="n57001022014" id="SBL.Phlm.1.22.14.1">χαρισθήσομαι</token>
-     <token clearId="n57001022015" id="SBL.Phlm.1.22.15.1" after=".">ὑμῖν</token>
+     <token id="SBL.Phlm.1.22.7" clearId="n57001022007">ἐλπίζω</token>
+     <token id="SBL.Phlm.1.22.8" clearId="n57001022008">γὰρ</token>
+     <token id="SBL.Phlm.1.22.9" clearId="n57001022009">ὅτι</token>
+     <token id="SBL.Phlm.1.22.10" clearId="n57001022010">διὰ</token>
+     <token id="SBL.Phlm.1.22.11" clearId="n57001022011">τῶν</token>
+     <token id="SBL.Phlm.1.22.12" clearId="n57001022012">προσευχῶν</token>
+     <token id="SBL.Phlm.1.22.13" clearId="n57001022013">ὑμῶν</token>
+     <token id="SBL.Phlm.1.22.14" clearId="n57001022014">χαρισθήσομαι</token>
+     <token id="SBL.Phlm.1.22.15" clearId="n57001022015" after=".">ὑμῖν</token>
     </move>
     <move id="m.SBL.Phlm.1.23-24" chStart="1" vStart="23" chEnd="1" vEnd="24">
-     <token clearId="n57001023001" id="SBL.Phlm.1.23.1.1">Ἀσπάζεταί</token>
-     <token clearId="n57001023002" id="SBL.Phlm.1.23.2.1">σε</token>
-     <token clearId="n57001023003" id="SBL.Phlm.1.23.3.1">Ἐπαφρᾶς</token>
-     <token clearId="n57001023004" id="SBL.Phlm.1.23.4.1">ὁ</token>
-     <token clearId="n57001023005" id="SBL.Phlm.1.23.5.1">συναιχμάλωτός</token>
-     <token clearId="n57001023006" id="SBL.Phlm.1.23.6.1">μου</token>
-     <token clearId="n57001023007" id="SBL.Phlm.1.23.7.1">ἐν</token>
-     <token clearId="n57001023008" id="SBL.Phlm.1.23.8.1">Χριστῷ</token>
-     <token clearId="n57001023009" id="SBL.Phlm.1.23.9.1" after=",">Ἰησοῦ</token>
-     <token clearId="n57001024001" id="SBL.Phlm.1.24.1.1" after=",">Μᾶρκος</token>
-     <token clearId="n57001024002" id="SBL.Phlm.1.24.2.1" after=",">Ἀρίσταρχος</token>
-     <token clearId="n57001024003" id="SBL.Phlm.1.24.3.1" after=",">Δημᾶς</token>
-     <token clearId="n57001024004" id="SBL.Phlm.1.24.4.1" after=",">Λουκᾶς</token>
-     <token clearId="n57001024005" id="SBL.Phlm.1.24.5.1">οἱ</token>
-     <token clearId="n57001024006" id="SBL.Phlm.1.24.6.1">συνεργοί</token>
-     <token clearId="n57001024007" id="SBL.Phlm.1.24.7.1" after=".">μου</token>
+     <token id="SBL.Phlm.1.23.1" clearId="n57001023001">Ἀσπάζεταί</token>
+     <token id="SBL.Phlm.1.23.2" clearId="n57001023002">σε</token>
+     <token id="SBL.Phlm.1.23.3" clearId="n57001023003">Ἐπαφρᾶς</token>
+     <token id="SBL.Phlm.1.23.4" clearId="n57001023004">ὁ</token>
+     <token id="SBL.Phlm.1.23.5" clearId="n57001023005">συναιχμάλωτός</token>
+     <token id="SBL.Phlm.1.23.6" clearId="n57001023006">μου</token>
+     <token id="SBL.Phlm.1.23.7" clearId="n57001023007">ἐν</token>
+     <token id="SBL.Phlm.1.23.8" clearId="n57001023008">Χριστῷ</token>
+     <token id="SBL.Phlm.1.23.9" clearId="n57001023009" after=",">Ἰησοῦ</token>
+     <token id="SBL.Phlm.1.24.1" clearId="n57001024001" after=",">Μᾶρκος</token>
+     <token id="SBL.Phlm.1.24.2" clearId="n57001024002" after=",">Ἀρίσταρχος</token>
+     <token id="SBL.Phlm.1.24.3" clearId="n57001024003" after=",">Δημᾶς</token>
+     <token id="SBL.Phlm.1.24.4" clearId="n57001024004" after=",">Λουκᾶς</token>
+     <token id="SBL.Phlm.1.24.5" clearId="n57001024005">οἱ</token>
+     <token id="SBL.Phlm.1.24.6" clearId="n57001024006">συνεργοί</token>
+     <token id="SBL.Phlm.1.24.7" clearId="n57001024007" after=".">μου</token>
     </move>
     <move id="m.SBL.Phlm.1.25" chStart="1" vStart="25" chEnd="1" vEnd="25">
-     <token clearId="n57001025001" id="SBL.Phlm.1.25.1.1">Ἡ</token>
-     <token clearId="n57001025002" id="SBL.Phlm.1.25.2.1">χάρις</token>
-     <token clearId="n57001025003" id="SBL.Phlm.1.25.3.1">τοῦ</token>
-     <token clearId="n57001025004" id="SBL.Phlm.1.25.4.1">κυρίου</token>
-     <token clearId="n57001025005" id="SBL.Phlm.1.25.5.1">Ἰησοῦ</token>
-     <token clearId="n57001025006" id="SBL.Phlm.1.25.6.1">Χριστοῦ</token>
-     <token clearId="n57001025007" id="SBL.Phlm.1.25.7.1">μετὰ</token>
-     <token clearId="n57001025008" id="SBL.Phlm.1.25.8.1">τοῦ</token>
-     <token clearId="n57001025009" id="SBL.Phlm.1.25.9.1">πνεύματος</token>
-     <token clearId="n57001025010" id="SBL.Phlm.1.25.10.1" after=".">ὑμῶν</token>
+     <token id="SBL.Phlm.1.25.1" clearId="n57001025001">Ἡ</token>
+     <token id="SBL.Phlm.1.25.2" clearId="n57001025002">χάρις</token>
+     <token id="SBL.Phlm.1.25.3" clearId="n57001025003">τοῦ</token>
+     <token id="SBL.Phlm.1.25.4" clearId="n57001025004">κυρίου</token>
+     <token id="SBL.Phlm.1.25.5" clearId="n57001025005">Ἰησοῦ</token>
+     <token id="SBL.Phlm.1.25.6" clearId="n57001025006">Χριστοῦ</token>
+     <token id="SBL.Phlm.1.25.7" clearId="n57001025007">μετὰ</token>
+     <token id="SBL.Phlm.1.25.8" clearId="n57001025008">τοῦ</token>
+     <token id="SBL.Phlm.1.25.9" clearId="n57001025009">πνεύματος</token>
+     <token id="SBL.Phlm.1.25.10" clearId="n57001025010" after=".">ὑμῶν</token>
     </move>
    </seg>
   </turn>
