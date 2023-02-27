@@ -78,7 +78,7 @@ move::before {
  * Wordings *
  ************/
 
-e {
+token {
   flex-direction: row;
   justify-content: center;
   display: inline-flex;
@@ -87,10 +87,10 @@ e {
   white-space: nowrap;
 }
 
-e::before {
+token::before {
   content: attr(before);
 }
 
-e::after {
+token::after {
   content: attr(after);
 }
