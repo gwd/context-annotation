@@ -4187,7 +4187,7 @@
      <token id="SBL.Luke.5.1.19" clearId="n42005001019">παρὰ</token>
      <token id="SBL.Luke.5.1.20" clearId="n42005001020">τὴν</token>
      <token id="SBL.Luke.5.1.21" clearId="n42005001021">λίμνην</token>
-     <token id="SBL.Luke.5.1.22" clearId="n42005001022" after=",">Γεννησαρὲτ</token>
+     <token id="SBL.Luke.5.1.22" clearId="n42005001022" after=",">Γεννησαρέτ</token>
     </move>
     <move id="m.SBL.Luke.5.2.1-8" chStart="5" vStart="2" chEnd="5" vEnd="2">
      <token id="SBL.Luke.5.2.1" clearId="n42005002001">καὶ</token>
