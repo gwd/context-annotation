@@ -11144,7 +11144,7 @@
       <move id="m.SBL.Matt.15.14.3-6" chStart="15" vStart="14" chEnd="15" vEnd="14">
        <token id="SBL.Matt.15.14.3" clearId="n40015014003">τυφλοί</token>
        <token id="SBL.Matt.15.14.4" clearId="n40015014004">εἰσιν</token>
-       <token id="SBL.Matt.15.14.5" clearId="n40015014005">ὁδηγοί</token>
+       <token id="SBL.Matt.15.14.5" clearId="n40015014005">ὁδηγοὶ</token>
        <token id="SBL.Matt.15.14.6" clearId="n40015014006" after="·">τυφλῶν</token>
       </move>
       <move id="m.SBL.Matt.15.14.7-15" chStart="15" vStart="14" chEnd="15" vEnd="14">
