@@ -566,7 +566,7 @@
      <token id="SBL.Luke.1.27.7" clearId="n42001027007">Ἰωσὴφ</token>
      <token id="SBL.Luke.1.27.8" clearId="n42001027008">ἐξ</token>
      <token id="SBL.Luke.1.27.9" clearId="n42001027009">οἴκου</token>
-     <token id="SBL.Luke.1.27.10" clearId="n42001027010" after=",">Δαυὶδ</token>
+     <token id="SBL.Luke.1.27.10" clearId="n42001027010" after=",">Δαυίδ</token>
     </move>
     <move id="m.SBL.Luke.1.27.11-16" chStart="1" vStart="27" chEnd="1" vEnd="27">
      <token id="SBL.Luke.1.27.11" clearId="n42001027011">καὶ</token>
