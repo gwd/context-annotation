@@ -2435,7 +2435,7 @@
      <token id="SBL.Luke.2.51.5" clearId="n42002051005">καὶ</token>
      <token id="SBL.Luke.2.51.6" clearId="n42002051006">ἦλθεν</token>
      <token id="SBL.Luke.2.51.7" clearId="n42002051007">εἰς</token>
-     <token id="SBL.Luke.2.51.8" clearId="n42002051008" after=",">Ναζαρὲθ</token>
+     <token id="SBL.Luke.2.51.8" clearId="n42002051008" after=",">Ναζαρέθ</token>
     </move>
     <move id="m.SBL.Luke.2.51.9-12" chStart="2" vStart="51" chEnd="2" vEnd="51">
      <token id="SBL.Luke.2.51.9" clearId="n42002051009">καὶ</token>
