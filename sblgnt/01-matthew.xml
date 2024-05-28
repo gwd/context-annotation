@@ -11170,7 +11170,7 @@
      <token id="SBL.Matt.15.15.7" clearId="n40015015007">Φράσον</token>
      <token id="SBL.Matt.15.15.8" clearId="n40015015008">ἡμῖν</token>
      <token id="SBL.Matt.15.15.9" clearId="n40015015009">τὴν</token>
-     <token id="SBL.Matt.15.15.10" clearId="n40015015010">παραβολήν</token>
+     <token id="SBL.Matt.15.15.10" clearId="n40015015010">παραβολὴν</token>
      <token id="SBL.Matt.15.15.11" clearId="n40015015011" after=".">ταύτην</token>
     </move>
     <move id="m.SBL.Matt.15.16-20" chStart="15" vStart="16" chEnd="15" vEnd="20">
