@@ -7962,7 +7962,7 @@
      <token id="SBL.Luke.8.20.12" clearId="n42008020012">ἔξω</token>
      <token id="SBL.Luke.8.20.13" clearId="n42008020013">ἰδεῖν</token>
      <token id="SBL.Luke.8.20.14" clearId="n42008020014">σε</token>
-     <token id="SBL.Luke.8.20.15" clearId="n42008020015" after=".">θέλοντές</token>
+     <token id="SBL.Luke.8.20.15" clearId="n42008020015" after=".">θέλοντες</token>
     </move>
     <move id="m.SBL.Luke.8.21" chStart="8" vStart="21" chEnd="8" vEnd="21">
      <token id="SBL.Luke.8.21.1" clearId="n42008021001">ὁ</token>
