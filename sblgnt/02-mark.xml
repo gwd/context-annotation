@@ -5843,7 +5843,7 @@
       </move>
       <move id="m.SBL.Mark.7.27.9-21" chStart="7" vStart="27" chEnd="7" vEnd="27">
        <token id="SBL.Mark.7.27.9" clearId="n41007027009">οὐ</token>
-       <token id="SBL.Mark.7.27.10" clearId="n41007027010">γάρ</token>
+       <token id="SBL.Mark.7.27.10" clearId="n41007027010">γὰρ</token>
        <token id="SBL.Mark.7.27.11" clearId="n41007027011">καλόν</token>
        <token id="SBL.Mark.7.27.12" clearId="n41007027012">ἐστιν</token>
        <token id="SBL.Mark.7.27.13" clearId="n41007027013">λαβεῖν</token>
